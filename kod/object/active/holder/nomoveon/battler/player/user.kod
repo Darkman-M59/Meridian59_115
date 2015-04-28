@@ -110,7 +110,6 @@ resources:
 
    user_no_respond = "~IAufgrund deines Zustands kann dir dieser Nutzer möglicherweise nicht antworten."
 
-
    user_said_str_morphed = "~n%s%s sagt, \"%q~n\""
    user_yelled_str_morphed = "~n%s%s ruft, \"%q~n\""
    user_emote_str_morphed = "~n%s%s %q"
@@ -176,15 +175,12 @@ resources:
    user_offer_not_here = "Du versuchst deine Waren %s%s anzubieten, aber %s ist nicht mehr hier."
 
    user_couldnt_carry_offer = "%s%s kann nicht alle deine angebotenen Gegenstände tragen."
-
    user_cant_carry_offer = "Du kannst nicht alle Gegenstände tragen, die dir %s%s angeboten hat."
-
 
    user_not_have_number = "Du kannst nicht so viele %s ablegen."
    user_cant_deal_number = "Du kannst mit %i Gegenständen nichts anfangen."
    user_cant_attack_non_battler = "Du kannst %s%s nicht angreifen."
    user_no_say_guild = "Du kannst keine Nachricht an Deine Gilde senden, da Du keiner Gilde angehörst."
-
 
    user_no_guild_logged_on = "Außer Dir ist niemand Deiner Gilde eingewählt."
    user_someone_logon = "### %s ist gerade in Meridian angekommen."
@@ -193,51 +189,28 @@ resources:
    user_guildmate_logoff = "~IDein Gildenmitglied %s hat sich gerade verabschiedet."
 
    user_safety_on = "### Deine 'Sicherheit' ist ~B~gaktiviert:~n Du kannst keine Unschuldigen angreifen."
-
    user_safety_off = "### Deine 'Sicherheit' ist ~B~rdeaktiviert:~n Du kannst jeden Spieler angreifen."
-
-
 
    user_cant_go = "Du kannst zu keinem Ort gehen."
    user_cant_go_wav_rsc = cant_go_anywhere_louder.wav
    user_blocked_send = "%s ignoriert Deine Mitteilungen."
 
    user_cant_suicide = "Du kannst Dich nicht selbst töten - das Leben ist einfach zu schön. Du musst die Führerschaft Deiner Gilde abgeben, bevor Du Dich umbringen kannst."
-
-
-
-
    user_cant_suicide_justicar = "Es ist unwürdig für einen derart hohen Beamten, sich selbst das Leben zu nehmen!"
-
-
    user_cant_suicide_yet = "Es sieht so aus, als ob Du nicht in der Lage wärst, Dir das Leben zu nehmen. Du fühlst, dass Dein Leben gerade erst begonnen hat."
-
-
-
    user_cant_suicide_token = "Du kannst Dich nicht umbringen, da Du ein heiliger Wächter eines Artefakts bist!"
-
-
-
    user_cant_suicide_OOG = "Die Seele schwer von Schuldgefühlen, kannst du den Gedanken nicht ertragen, Dich umzubringen!"
-
-
 
    user_no_seller = "Du kannst hier nichts kaufen."
 
    user_no_guild = "Du gehörst keiner Gilde an."
    user_no_guild_broke = "Kehre zurück, sobald Du genug Geld besitzt, um eine Gilde zu gründen."
-
    user_no_guildhall_broke = "Kehre zurück, sobald Du genug Geld besitzt, um die Zahlung für die Gildenhalle zu tätigen."
 
-
    user_duplicate_guildname = "Es existiert bereits eine Gilde mit diesem Namen - bitte wähle einen anderen Namen."
-
    user_duplicate_guild_username = "Deine Gilde kann nicht den Namen eines Spielers tragen. Wähle einen anderen Namen."
 
-
-
    user_couldnt_replace = "Du konntest nicht zu Deinem Ausgangsort zurückkehren."
-
 
    user_logon = "Willkommen in der Welt von Meridian 59! (Tippe \"hilfe\" um eine Anleitung aufzurufen)."
 
@@ -261,7 +234,6 @@ resources:
 
    user_wave_welcome = welcome.wav
    user_wave_killed = killed.wav
-
    user_midi_killed = killed.mp3
 
    user_interface_module = merintr.dll
@@ -286,7 +258,6 @@ resources:
    user_wait_for_news_posting = "Du musst einen Moment warten, bevor Du wieder Nachrichten absenden kannst."
 
    user_news_squelched = "Dir wurden die Neuigkeitsprivilegien entzogen."
-
 
    user_guild_rsc = "Gilde"
    user_guildofficer_rsc = "Gildenoffizier"

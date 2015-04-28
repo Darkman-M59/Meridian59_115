@@ -20,13 +20,10 @@ resources:
 
    NodeAttack_initial_attack_rsc = "~IDu hast das ungute Gefühl, dass eine der magischen Quellen attackiert wird."
 
-
    NodeAttack_location_attack_rsc = "~BDie magische Quelle in %s wird attackiert!"
    NodeAttack_attack_sound_rsc = ndanger.wav
    NodeAttack_killed_rsc = "Ein Xeochicatl Angriff"
    NodeAttack_room_message_rsc = "~IDas Gebiet erbebt brutal, als sich mehrere Xeochicatl aus dem Boden erheben und die magische Quelle attackieren!"
-
-
 
    NodeAttack_success_rsc = "~BDer Xeochicatl zieht sich aus %s zurück. Die magische Quelle wurde gerettet!"
 
@@ -38,25 +35,9 @@ resources:
 
    NodeAttack_severed_rsc = "~IDein Kopf scheint vor Schmerz zu zerspringen, als eine Verbindung zu einer Deiner angezapften, magischen Quellen verloren geht!"
 
-
-
    NodeAttack_loss_mail_rsc = "Betreff: Verbindungsverlust zu einer magischen Quelle\nIch berichte schweren Herzens, dass die Xeochicatl die magische Quelle in %s angegriffen und ausgesaugt haben. Unsere Armee war nicht in der Lage, die Attacke abzuwehren, und die magische Quelle ist nun für uns verloren. Aus diesem Grund wirst Du - ebenso wie viele andere - für einige Zeit nicht fähig sein, magische Energie aus dieser Quelle zu beziehen.\n\nIch hoffe, dass wir in Zukunft aus den Fehlern der Vergangenheit lernen, um diese Angriffe erfolgreich zurückzuschlagen. Wir müssen von nun an stets in Alarmbereitschaft bleiben."
 
-
-
-
-
-
-
    NodeAttack_severed_mail_rsc = "Betreff: Verlust einer Verbindung zu einer Deiner magischen Quellen\nSchweren Herzens muss ich berichten, dass die Xeochicatl die magische Quelle in %s angegriffen und ausgesaugt haben. Unglücklicherweise hat das brutale Aussaugen der magischen Quellen unsere Verbindung mit ihr unterbrochen. Unsere Armee war nicht in der Lage, die Attacke abzuwehren, und die magische Quelle ist für uns verloren. Aus Diesem Grund wirst Du Dich - ebenso wie viele andere - erneut mit der magischen Quelle verbinden müssen, sobald sie sich wieder vom Angriff erholt hat.\n\nIch hoffe, dass wir in Zukunft aus den Fehlern der Vergangenheit lernen und solcherlei Angriffe erfolgreich abwehren können. Wir müssen von nun an stets in Alarmbereitschaft bleiben."
-
-
-
-
-
-
-
-
 
    NodeAttack_keeper = "Alzahakar"
 

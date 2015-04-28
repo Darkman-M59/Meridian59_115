@@ -152,7 +152,6 @@ resources:
 
    no_use_jig = "Du kannst das nicht tragen - Es würde deinen Rhythmus stören!"
 
-
 classvars:
 
    % This variable is passed down to client for render flags for room

@@ -39,15 +39,7 @@ resources:
    WarEvent_team_delta_name = "Team Delta"
 
    WarEvent_start_message = "~B~rEs wurde der Krieg erklärt!\n~kDu kannst dich einer Seite anschließen, indem du einen der Kriegsanhänger benutzt, die Du in deinem Inventory findest. Der Anhänger, den du benutzt, wird dich für eine Seite des Kampfes kenntlich machen. Jede Seite kann an der Farbe des Hemdes oder der Robe identifiziert werden; neutrale Charakter sind grau gekleidet.\nJeder Punkt, den Deine Seite durch den Tod eines nicht-neutralen Anhängers einer anderen Seite erzielt, wird aufgezeichnet. Die Ergebnisse dieses Kampfes werden am Ende des Krieges bekanntgegeben. Viel Glück!"
-
-
-
-
-
-
-
    WarEvent_end_message = "~B~rDer Krieg ist zuende!  ~kKeine Tötungen werden mehr zu den Punkten gezählt."
-
    WarEvent_got_kill_rsc = "~B~bEin Gegner liegt darnieder. Du hast einen Punkt für Deine Seite erzielt!"
 
    WarEvent_join_rsc = "Du hast Dich angeschlossen: %s"

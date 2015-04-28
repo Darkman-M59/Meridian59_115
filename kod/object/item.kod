@@ -26,8 +26,6 @@ resources:
    
    item_try_use_cursed_rsc = "Du merkst, wie Deine Willenskraft schwindet, als Du den Gegenstand aufhebst! Willenlos legst Du den Gegenstand an!"
 
-
-
    item_broken_battle = "%s zerbricht in der Hitze des Gefechts!"
    item_broken_battle_plural = "%s zerbrechen in der Hitze des Gefechts!"
    item_broken_battle_clothing = "%s zerfällt in nutzlose Stücke!"
@@ -35,15 +33,13 @@ resources:
 
    itematt_generic = " Auf den ersten Blick scheint alles normal zu sein, aber da ist irgendetwas merkwürdig, was Du jedoch nicht benennen kannst."
 
-
-
    nakedleftarm_male = blg.bgf
    nakedrightarm_male = brg.bgf
    nakedleftarm_female = blh.bgf
    nakedrightarm_female = brh.bgf
 
    item_condition_exc = " ist in makellosem Zustand."
-   item_condition_exc_mended = " ist in sehr gutem Zustand, wurde aber bereits ausgebessert."
+   item_condition_exc_mended = " ist in einem exzellenten Zustand, ist aber schon einmal geflickt worden."
 
    item_condition_good = " ist leicht abgetragen."
    item_condition_med = " hat ein paar unscheinbare Risse."

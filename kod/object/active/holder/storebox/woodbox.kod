@@ -21,7 +21,6 @@ resources:
 
    WoodenBox_desc_rsc = "Diese derbe hölzerne Kiste kann eine gute Anzahl von Gegenständen aufnehmen."
 
-
 classvars:
 
    vrName = WoodenBox_name_rsc

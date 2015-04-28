@@ -82,8 +82,6 @@ resources:
 
    default_assign_hint = "Dir wurde eine neue Aufgabe zugewiesen."
    temp_assign_hint_bring_me_item = "Entschuldigung. Ich habe gerade ein paar simple Experimente am Rande der bekannten Magie durchgeführt. Mir fehlt %INDEF_CARGO %CARGO, damit ich meine Forschungen fortsetzen kann. Könntest du mir so etwas freundlicherweise besorgen?"
-
-
    temp_assign_hint_bring_message = "Bitte bring diese Nachricht für mich zu %NPC: %CARGO"
    temp_success_hint_bring_message = "Danke, aber das wusste ich bereits."
    temp_assign_hint_reward_message = "Du kannst %NPC dies von mir sagen, nämlich: %CARGO"
@@ -118,43 +116,28 @@ resources:
 
    duke_join1_trigger = "beitreten"
    duke_join2_assign = "So, Du möchtest gerne beweisen, dass Du mein Vertrauen wert bist? Du kannst damit anfangen, indem Du mir folgendes bringst: %INDEF_CARGO%CARGO."
-
    duke_join2_success = "Ah, gute Arbeit. Dein Dienst an unserer Sache wird nicht unbeachtet bleiben."
    duke_join2_failure = "Betreff: Du darfst unserer Gemeinschaft nicht beitreten, Knappe!\nPah! Du bist nicht vertrauenswürdig genug, um unserer Sache zu dienen!"
 
    duke_standard1_trigger = "Loyalität"
    duke_standard2_assign = "Ah, %NAME, gut Dich zu sehen. Ich erwarte, dass Du von %NPC alle fälligen Steuern kassierst. Sei in spätestens einer Stunde zurück."
-
    duke_standard2_failure = "Betreff: Deine Steuerzahlung\nIch konnte nicht länger warten, ich habe bereits einen anderen Boten geschickt, um die Steuern zu kassieren."
-
    duke_standard2_trigger = "Steuer"
    duke_standard3_assign = "Oh, ja, meine Steuerzahlung an den Herzog... Hier ist sie, %INDEF_CARGO%CARGO."
    duke_standard3_success = "Das hast Du gut gemacht."
    duke_standard3_failure = "Betreff: Widerruf Deiner Mitgliedschaft beim königlichen Hof\nDu hast für versagt. Ich werde nicht so dumm sein und mich in Zukunft wieder auf Deine Dienste verlassen."
 
    princess_join2_assign = "So, Du möchtest gerne beweisen, dass Du mein Vertrauen wert bist? Wärst Du so gütig und bringst ein offizielles Schreiben zu %NPC? Ich wäre äußerst dankbar."
-
-
    princess_standard2_assign = "Ah, %NAME, immer zu treuen Diensten, was? Wärt Ihr so gütig und bringt ein offizielles Schreiben zu %NPC? Ich wäre äußerst dankbar."
-
-
    princess_standard2_success = "Ein Brief von Ihrer Hoheit?! Exzellent. Danke sehr, %NAME."
    princess_standard2_failure = "Betreff: Widerruf Deiner Mitgliedschaft beim königlichen Hof\nIhr habt versagt. Ich werde nicht noch einmal so einfältig sein und mich auf Eure Dienste verlassen."
 
    rebel_join2_assign = "Du möchtest unseren Kampf für Freiheit unterstützen? Ich kann Dir nicht vertrauen, Du könntest ein Spion meiner Feinde sein. Beweise Deinen Wert und bringe mir %INDEF_CARGO%CARGO."
-
    rebel_join2_success = "Ausgezeichnete Arbeit! Dies wird unsere Truppen im Felde ausrüsten. Betrachte Dich als einen Kämpfer für Freiheit in diesem Land."
-
    rebel_join2_failure = "Betreff: Dein mangelnder Einsatz.\nDein Mangel an Einsatz bestätigt meine Ängste, dass Du ein Spion für die anderen schwächlichen Anführer bist. Belästige mich nicht wieder mit Deinen falschen Versprechungen, für wahre Freiheit zu kämpfen."
-
-
    rebel_standard2_assign = "Ah, %NAME, mein treuer Freiheitskämpfer. Meine Truppen benötigen mehr Ausrüstung. Das kostet uns sehr viel, und ich genieße nicht den Luxus großer Schätze wie die anderen Anführer. Bringe mir %INDEF_CARGO%CARGO und ich werde Deine Loyalität nicht vergessen."
-
-
    rebel_standard2_success = "Ah, ausgezeichnet. Ich werde dies ganz bestimmt gut verwenden können."
    rebel_standard2_failure = "Betreff: Du bist kein echter Rebell\nDu hast versagt, als ich Dich am meisten brauchte. Verkrieche Dich zu einem der anderen Thornanwärter, denn ich habe keine Verwendung mehr für jemanden wie Dich."
-
-
 
    disciple_trigger = "Anhänger"
    disciple_learn_success = "~ISo, Du möchtest also bei mir studieren?~I"
@@ -163,417 +146,208 @@ resources:
    disciple_failure = "Wie es scheint, brauchst Du noch mehr Erfahrung, bevor ich Dich als Schüler akzeptieren kann. Du solltest es demnächst mal wieder versuchen."
 
    kraanandisciple_assign = "~B~bDu hast zwei Stunden Zeit. %MONSTER muss getötet werden. Geh sofort los. Kehre zurück, wenn du das erledigt hast."
-
    kraanandisciple_success = "~B~bDu hast gut gearbeitet. Du bist ein würdiger Anhänger. Vielleicht kannst Du den Stein um Kraanans Seele aufbrechen. Such mich auf, wenn Du mehr über seine Lehre und seine Zauber wissen willst."
-
    kraanandisciple_failure = "Betreff: Deine Bündnistreue\nEs mangelt mir an Zutrauen in deine Fähigkeit, Kraanan zu dienen. Wir brauchen jene mit Berufung, Zielrichtung und Geschick. Kehre nur zurück, wenn Du Dir diese Eigenschaften erarbeitet hast."
 
-
-
    shalilledisciple_trigger = "Ihr und Euresgleichen, empfanget die Reinheit welches uns leitet in unserer Not und unserer Trauer. Ich verzeihe euch und euren Jüngern. Euer Leben ist dem Krieg gewidmet doch niemand anderes als die Gütige selbst wird euch nach eurem Tode richten."
-
-
    shalilledisciple_assign = "~bDu möchtest mehr lernen über das sanfte, heilende Wesen unserer guten Herrin. Du musst den Machenschaften von %NPC trotzen und Deine Absicht verkünden, jenen die Erbarmungslosigkeit und Brutalität zu vergeben. Heile sie, wenn Du kannst. Sage: \"%CARGO\"\nKehre danach zu mir zurück und berichte, dass du getan hast worum ich dich gebeten habe."
-
-
    shalilledisciple_success = "~bGesegnet sei dieser Tag. Heute wurde eine weitere Seele geboren, die sich mit dem Licht Sha-Lills erfüllen wird. Suche mich auf, wenn Du bereit bist, mehr über die Kunde der Gesegneten Mutter und ihren Zauber zu erfahren. Du bist dessen würdig."
-
-
    shalilledisciple_failure = "Betreff: Halt mir die Treue, Kind von Sha-Lill\nVersagen ist ein Teil des Lebens. Suche in Deinem Herzen und finde den Makel. Kehre zu mir zurück und wir werden dann  unsere Reise entlang der Straße der Harmonie von vorn antreten."
 
-
-
    farendisciple_trigger = "Ihr habt das Land mit Eurem Verhalten geschändet. Das Land schenkt Leben, doch Ihr behandelt es wie einen zu erobernden Feind. Ihr seid Narren, alle, wenn ihr weiterhin diesen frevelhaften Pfad beschreitet. Umarmt die Natur und behandelt sie nicht wie einen vergessenen Liebhaber. Überdenkt euer Handeln. Folgt dem Wort Farens. Lebt für die Natur und fordert sie nicht heraus."
-
-
-
    farendisciple_assign = "~B~gDu erbittest den Segen für das Land durch unseren Herrn Faren. Du musst beweisen, dass Du seinen Segen wert bist. Bring diese Nachricht zu %NPC: \"%CARGO\"\nKehre danach schnell zurück, um mir über den Erfolg zu berichten. Faren wird dich dann vielleicht mit Macht begünstigen."
-
-
    farendisciple_success = "~B~gDer Blick Farens liegt auf Dir. Du hast es gut gemacht. Komm zu mir, wenn du mehr über seinen Weg und seine Zauber erfahren möchtest. "
-
    farendisciple_failure = "Betreff: Entfache Dein Feuer, Kind\nFaren sieht jene nicht, die nicht das Feuer des Verlangens in sich tragen. Du solltest zurückkehren, wenn Du es in Dir gefunden hast, nicht früher."
 
-
-
    qordisciple_trigger = "Alles sollte in Dunkelheit gehüllt sein. Dann würde unsere Meisterin unter den Menschen im Schutz eines lichtlosen Himmels und eines blutigen Mondes wandeln. "
-
    qordisciple_assign = "~rDu möchtest umgeben sein von der unsterblichen Umarmung unserer Schutzpatronin. Dein Urteil ist scharfsinnig, doch was ist mit Deiner Loyalität? Um sie mir zu beweisen, solltest Du bei %NPC auf die Meisterin Qor zu sprechen kommen, und zwar mit diesen Worten: %CARGO\nKehre danach zurück, und wir werden die Schönheit der Fäulnis genießen."
-
-
-
    qordisciple_success = "~rDu hast meine Wünsche erfüllt. Du bist nicht nur weise, sondern auch hartnäckig. Komm zu mir, wenn Du mehr über Qors Zauber und Macht erfahren möchtest."
-
    qordisciple_failure = "Betreff: Du bist unwürdig, Qor zu dienen\nDu schwache, mitleiderregende Seele! Ich hatte gleich so einen Verdacht. Ich bin froh, dass ich Dir nichts von echtem Wert gegeben habe, sonst wäre es jetzt bestimmt verloren. Falls Du hierher zurückkehrst, werde ich Dir vielleicht eine neue Chance geben, Dich der Eliteklasse anzuschließen."
-
-
-
 
    scimitarlearn_trigger = "Schüler"
    scimitarlearn_assign_2 = "Du bist also ein Krieger? Ha! Für mich siehst du nicht sehr nach einem Krieger aus. Ehe ich also meine Zeit damit verbringe, Dich mit den vortrefflichen Eigenschaften des Säbels vertraut zu machen, musst Du Dich erst einmal als würdig erweisen. %INDEF_MONSTER%MONSTER wäre für Dich der passende Gegner, den Du vernichten sollst. Dann kehre zu mir zurück. "
-
-
    scimitarlearn_failure_2 = "Betreff: Lerne den Umgang mit dem Säbel\nMisserfolg gehören zum Lernen dazu. Misserfolg ist für einen Krieger wichtig. Man hat es versucht und das ist entscheidend, doch nun glaube bloß nicht, dass ich Dir irgend etwas beibringe. Jetzt muss ich an meine Arbeit zurück."
-
-
    scimitarlearn_assign_3 = "Das hat lange genug gedauert. Ich mag es überhaupt nicht, wenn man mich so lange warten läßt. Wegen dieser Extrazeit habe ich beschlossen, dass Du noch eine Bestie besiegen mußt, diesmal ist es %INDEF_MONSTER%MONSTER. Verschwende aber nicht wieder so viele Schläge mit dieser... Waffe. Geh jetzt."
-
-
    scimitarlearn_failure_3 = "Betreff: Lerne den Umgang mit dem Säbel\nTja, vielleicht habe ich von jemandem mit nur wenig Erfahrung einfach zu viel gefordert. Ich habe keine Zeit, um Dir die Grundlagen über Waffen im allgemeinen beizubringen. Komm' zurück, wenn hinter Deinem Gürtel etwas mehr Erfahrung steckt."
-
-
    scimitarlearn_assign_4 = "Du schon wieder! Ich dachte, die Unterwelt hätte dich überwältigt. Was hatte ich doch gleich von Dir gewollt? Oh ja, Du solltest so ein Biest erledigen; %INDEF_MONSTER%MONSTER lebt aber noch. Geh fort und tu es, dann werde ich Dich ausbilden. Keine Diskussion! Geh jetzt oder wir werden beide alt und sterben, ehe Du etwas über Seine Majestät, den Säbel erfährst. Deine neue Aufgabe, erlege: %MONSTER."
-
-
-
    scimitarlearn_success_4 = "Endlich. Das Allererste, was ich Dir beibringen muß, ist, ein bißchen zackiger zu werden. Komm her zu mir und wir werden mit dem Unterricht anfangen, wie man die großartigste Waffe im ganzen Land am sinnvollsten verwendet: den Säbel."
-
    scimitarlearn_failure_4 = "Betreff: Lerne den Umgang mit dem Säbel\nDurch Deinen Mangel an Geschicklichkeit und durch Deine grenzenlose Faulheit hast Du Dir die Chance verbaut, mit mir zu trainieren. Es ist eine Schande, Du warst so nah dran. Vielleicht hast Du zu lange am Rockzipfel Deiner Mutter gehangen. Übung, Novize, das ist es, was Du brauchst."
-
-
 
    fadelearn_trigger = "Schüler"
    fadelearn_assign_2 = "Ich bin froh, dass Ihr hier seid; ich möchte ein Geschäft vorschlagen. Ich bin über eine Formel gestolpert, durch die das Wachstum bestimmter Pflanzen beschleunigt wird, aber sie ist diesem Schurken %NPC in die Hände gefallen. Wenn Ihr möchtet, werde ich Euch die kleinen Zaubertricks beibringen, die ich kenne, doch Ihr müsst für mich diese Formel wieder auftreiben. Lasst Euch nicht täuschen, %NPC wünscht sich nichts mehr, als aus purem Eigennutz meine Ernte zu erschweren."
-
-
-
    fadelearn_trigger_2 = "Formel"
    fadelearn_failure_2 = "Betreff: Deine Pflanzen, Aufzucht und Pflege\nDie Pflanzen werden jetzt erst frühestens in einem Monat erntereif sein. Ihr habt völlig versagt und dem Land ein wertvolles Gegenmittel vorenthalten; mögen die Pocken Euch heimsuchen."
-
-
    fadelearn_assign_3 = "Ich besitze die Formel, von der Du sprichst. Doch ich zögere noch, sie Dir zu überlassen; weil ich glaube, dass Koldors Motive nicht so nobel sind, wie er vorgibt. Falls Du mir beweisen kannst, dass es Dir um der Sache willen ernst ist und %MONSTER Dir zum Opfer fällt, liegt es in Deinem Ermessen und ich werde mich Deiner Entscheidung unterwerfen. Nun beeile Dich, sonst wird Koldors hübsche Gifternte noch verzögert!"
-
-
-
    fadelearn_failure_3 = "Betreff: Du hast eine gute Wahl getroffen\nWie ich sehe, bist Du meiner Einschätzung Koldor betreffend gefolgt. Ich dachte mir, dass Dich Deine Aufgabe lange genug aufhält, um über die Sache nachzudenken. Da wir Koldors verfrühte Ernte jetzt verhindert haben, können wir uns jetzt ruhig zurücklehnen, weil wir wissen, dass kein neues Gift das Land verseucht, wenigstens im Moment nicht."
-
-
-
    fadelearn_assign_4 = "Also gut, hier ist die Formel. Ich bin nicht gerade begeistert davon, sie Dir zu geben. Ich glaube, dass damit ein wichtiger Ablauf der Ereignisse gestört wird. Aber damit hast Du nicht wirklich etwas zu tun. Du möchtest nur Deinen Zauberspruch erfahren und dann bist Du fort. Ja, ich finde, das solltest Du tun."
-
-
    fadelearn_success_4 = "Ah, endlich. Ihr habt nicht nur Euch selbst einen großen Dienst erwiesen, sondern auch dem gesamten Reich. Diese Pflanzen könnten den Verlauf der Geschichte verändern. Sie sind ein Gegenmittel für eine schreckliche Krankheit, die sich gerade über das ganze Land verbreitet. Kommt zu mir, wenn Ihr lernen wollt."
-
-
    fadelearn_failure_4 = "Betreff: Deine Pflanzen, Aufzucht und Pflege\nEure Tändelei hat nicht nur Euch selbst die Möglichkeit verbaut, an meiner Zauberkunst teilzuhaben, sondern auch dem ganzen Reich die Chance genommen, sich gegen eine neue Krankheit zu schützen, die sich langsam ausbreitet. Ich hoffe nur, dass Ihr Euch nicht selbst ansteckt. Das wäre wohl ausgleichende Gerechtigkeit, was? Nun stört mich nicht länger, Kindskopf."
-
-
-
 
    dementlearn_trigger = "Schüler"
    dementlearn_assign_2 = "Ich kann Dir das wenige in den magischen Dingen beibringen, das ich weiß, aber ich möchte, dass Du mir dafür einen Gefallen erweist. Ich benötige dringend , dass die Lieferung von: %CARGO, %NPC erreicht. Aber ich bin zu ängstlich um die Sache selbst zu erledigen. Weißt Du, %NPC ist erst kürzlich von einer unheiligen Kraft umgeben, die sich wie es scheint, von menschlicher Energie zu ernähren. Ich weiß nicht mehr, als dass %NPCs Gegenwart vielleicht einige schreckliche Wirkung auf Dich haben kann. Also mach das Treffen kurz Dir geschieht möglicherweise nichts. "
-
-
-
-
-
    dementlearn_success_2 = "Ich danke Dir, %NAME. %CARGO hilft hoffentlich dabei, die Macht zu vertreiben, vor der ich Dich gewarnt habe. Nun geh, wenn Du nicht auch befallen werden willst."
-
    dementlearn_failure_2 = "Betreff Lieferung: %CARGO\nIch verstehe Deine Sorge und Angst, Dich %NPC zu nähern. Trotz alledem hast Du versagt und unsere Abmachung ist daher Null und Nichtig."
-
-
    dementlearn_success_3 = "Aha, Du bist zurück und hast den Gang erledigt, %NAME. Das hast Du gut gemacht. Ich hoffe, Du hast nicht zu sehr unter dem Kontakt mit %SOURCE_NPC leiden müssen. Wie ich hörte, zeigen sich die Wirkungen nur vorübergehend. Außerdem hast Du Dich als würdig erwiesen, von mir unterrichtet zu werden. Komm zurück und ich bringe Dir den \"Verblödungs\"-Zauber bei."
-
-
-
    dementlearn_failure_3 = "Betreff: Verblödungs-Zauber\nDa ich so lange nichts von dir gehört habe, nehme ich an, dass Du nicht länger daran interessiert bist zu lernen. Komm später wieder, wenn Du Deine Meinung geändert hast."
 
-
-
    guildshield_intro = "Ich hörte, dass %QBNPC jemanden sucht, der an einer Bergwerksexpedition teilnimmt, und dass dieses Angebot besonders für Deine Gildenmitglieder von Interesse sein könnte. Vielleicht möchtest Du jemanden hinschicken, um dort nachzufragen."
-
-
    guildshield_initial_trigger = "Bergwerksexpedition"
    guildshield_assign = "Jawohl, jemanden, der mir gern diesen Gefallen tut. Du hast garantiert gehört, dass die Orkminen wieder geöffnet wurden. Nun, diese Orks bauen ein Eisenerz mit wesentlich besserer Qualität ab, als wir aus den Jasper-Minen herausholen können. Ich möchte gerne etwas mehr davon in die Finger kriegen, ehe die Prinzessin oder der Herzog oder wer sonst die Finger am Hebel hat die Höhlen wieder schließt. Bring mit etwas Erz und ich werde Dir aus dem Rest, den ich jetzt hier noch habe, ein Wappen fertigen."
-
-
-
-
    guildshield_success = "Oh, daraus werde ich ein paar anständige Waffen und Rüstungen herstellen können! Danke bestens, %NAME. Während Du fort warst, habe ich Dir einen Schild mit dem Wappen und den Farben Deiner Gilde entworfen. Trage es mit Stolz, denn Du hast heute Gutes für Deine Gilde getan."
-
-
    guildshield_failure = "Betreff: Erz von den Ork-Minen\nAch, gräme Dich nicht wegen des Erzes; ich habe bereits andere, verlässlichere Abmachungen getroffen."
-
 
    lutequest_trigger_1 = "Instrument"
    lutequest_assign_2 = "Natürlich wirst Du zum Spielen ein Instrument brauchen. Ich werde Dir sogar dabei helfen, eines zu beschaffen. Du musst nur zu %NPC gehen, und sagen \"%CARGO\"."
-
    lutequest_trigger_2a = "Parrin schickt mich"
    lutequest_trigger_2b = "Ich benötige ein Instrument"
    lutequest_trigger_2c = "Parrin sagte mir, ich solle Dich wegen einer Laute aufsuchen"
    lutequest_trigger_2d = "Könnte ich die Laute bekommen, die Du für Parrin aufbewahrst"
    lutequest_trigger_2e = "Parrin sagt, Du hättest eine Laute für ihn"
    lutequest_failure_2 = "Betreff: Deine Laute\nEs ist zu spät, %NPC hat die Laute bereits jemand anders gegeben. Wenn es Dir wirklich ernst damit ist, das Lautespielen zu erlernen, komm später wieder. Vielleicht weiß ich dann, wo wir eine andere herbekommen."
-
-
    lutequest_assign_3 = "Du wirst bei Parrin lernen?! Viel Glück! Ach, übrigens, Parrin schuldet mir einen Gefallen. Wenn Du etwas für mich tust, werde ich Dir die Laute geben. Hier, %CARGO muss schnellstens zu %NPC gebracht werden. Die Sache muss innerhalb von zwanzig Minuten zugestellt werden, sonst gebe ich Dir das Instrument nicht. Komm wieder, wenn Du es erledigt hast."
-
-
-
    lutequest_success_3 = "Ah, %NAME, ich warte schon ganz ungeduldig, dass mir %CARGO gebracht wird! Danke für die zügige Ablieferung."
-
    lutequest_failure_3 = "Betreff: Du hast den Termin verpasst\nDu hast zuviel Zeit vertrödelt, um zu %NPC zu gelangen. Jetzt geh mir bloß nicht wegen der Laute auf die Nerven. Nächstes Mal muss ich mir einen schnelleren Boten suchen."
-
-
    lutequest_success_4 = "Ich danke Dir, hier hast Du die Laute. Und erlerne das Lautenspiel gut, versprochen?"
    lutequest_failure_4 = "Betreff: Du hast die Laute nicht abgeholt!\n%NPC hat mir mitgeteilt, dass Du zurückkommen solltest um Deine Laute mitzunehmen. Ich denke %NPC hat bereits einen anderen Interessenten gefunden, dem er die Laute statt dessen geben wird. Tut mir leid, dass Du den ganzen Ärger hattest, aber nochmals danke, dass Du den Botengang gemacht hast."
-
-
-
 
    truthquest_trigger_1 = "Schüler"
    truthquest_trigger_2 = "singt"
    truthquest_assign_2 = "Bist du ehrlich bereit, die Magie aus Jalas Liedern zu studieren? Wenn ja, musst Du erst Deine Hingabe an die Kunst beweisen. Ich würde gern Deine Stimme überprüfen lassen. Gehe zu %NPC und ~Ising~I ein Lied. Ein Lied Deiner Wahl. Komm anschließend zurück und laß mich wissen, wie es war."
-
-
    truthquest_success_2 = "Meine Güte, das ist ja schrecklich. Hat Parrin Euch geschickt? Bittet ihn, Eure Stimme auszubilden, %NAME"
-
    truthquest_failure_2 = "Betreff: Dein Vorsingen \nWenn Du Dich nicht traust, ein einfaches Lied zu singen, wirst Du es gewiss niemals zum guten Bänkelsänger bringen. Ich fürchte, ich kann Dir die Jalazauber jetzt nicht beibringen.\n\n-Parrin Aragone"
-
-
    truthquest_failure_3 = "Betreff: Dein Vorsingen \nWo warst Du denn? Ich konnte nicht mehr länger auf Dich warten. Leider habe ich inzwischen andere Studenten aufgenommen. Vielleicht werde ich Dich zu einem anderen Zeitpunkt ausbilden.\n\n-Parrin Aragone"
-
-
    truthquest_trigger_4 = "schlecht"
    truthquest_assign_4 = "Ach, Du bist zurück. Was haben sie von Deinem Lied gehalten? War es gut oder schlecht?"
    truthquest_success_4 = "Tja, also, dann werden wir daran arbeiten. Und jetzt öffne Deine Seele für Jalas Natur; ich werde Deine Stimme ausbilden, wenn Du es möchtest."
-
    truthquest_failure_4 = "Betreff: Dein Vorsingen \nDu musst viel ehrlicher dir selbst gegenüber werden, was Deine Eignung betrifft, wenn ich dir die Wege von Jala aufzeigen soll."
-
-
    truthquest_trigger_5 = "gut"
    truthquest_success_5 = "Das wäre wirklich bemerkenswert für einen Grünschnabelbarden wie Dich. Bist Du Dir selbst gegenüber wirklich vollkommen ehrlich, %NAME?"
-
 
    bonepriestessquest_trigger_1 = "Riija"
    bonepriestessquest_assign_2 = "Wak-wak! Kopp von Höhlenscheff! Wak wak wa-ak!"
    bonepriestessquest_success_2 = "Chp chp chp chp chp chp chp!"
    bonepriestessquest_failure_2 = "Betreff: Ik ik ak\nWak wak Riija nich ak! Chp Chp kp ip!"
 
-
    madscientistquest_trigger_1 = "Kohuzotz"
    madscientistquest_assign_2 = "Ich brenne darauf, mit meinen Haustierchen zu experimentieren. Wenn Du mir ein lebendes Exemplar bringst, könnte ich Dir etwas Interessantes dafür als Gegenleistung geben."
-
    madscientistquest_success_2 = "Exzellent. Gute Arbeit, mein Lehrling."
    madscientistquest_failure_2 = "Betreff: Der Kohuzotz\nDu hast so ewig lange gebraucht, um mir ein Exemplar zu bringen, dass ich mir inzwischen eines auf anderem Weg besorgt habe. Ich werde jetzt ein Weilchen mit meinem frischen Geschöpf beschäftigt sein, also belästige mich bloß nicht mit noch einem."
 
-
-
    tradingpost_trigger_1 = "Inventar"
    tradingpost_assign_2 = "Ich suche Leute, die mir dabei helfen, meine Bestände aufzufüllen. Falls Du bereit wärst, mir etwas zu besorgen, kann ich dafür sorgen, dass der Weg sich lohnt. Es ist %INDEF_CARGO%CARGO. "
-
    tradingpost_success_2 = "Super. Hier, das brauche ich nicht."
    tradingpost_failure_2 = "Betreff Lieferung: %CARGO\nMach Dir nichts draus, ich habe einen anderen Lieferanten gefunden."
 
-
    bowmaker_trigger_1 = "Pfeile"
    bowmaker_assign_2 = "Ich verwende spezielle Materialien, um daraus meine besten Pfeile herzustellen. Die Schwanzfedern des avarischen Zauberers haben den Ruf, dass sie dem Pfeil, an dem sie befestigt werden, magische Eigenschaften verleihen. Geh, versuch einen Avar zu finden, der eine Schwanzfeder gegen etwas tauscht, das er wertvoll findet."
-
-
    bowmaker_success_2 = "Nyuk nyuk uk ak a-ak!"
    bowmaker_failure_2 = "Betreff: Avar-Feder\nWie sollte es anders sein, Du konntest keine Avarenfeder für mich auftreiben. Tja, was solls. Ich werde mich anderweitig umschauen."
-
    bowmaker_success_3 = "Danke. Hier, nimm dieses Stückchen Metall als Belohnung."
    bowmaker_assign_4 = "Ich verwende spezielle Materialien, um daraus meine besten Pfeile herzustellen. Die Schwanzfedern des avarischen Zauberers haben den Ruf, dass sie dem Pfeil, an dem sie befestigt werden, magische Eigenschaften verleihen. Geh nun und erlege avarische Schamanen, bis einer mit einer brauchbaren, unbeschädigten Schwanzfeder dabei ist."
-
-
    bowmaker_failure_4 = "Betreff: Avar-Feder\nNa klar, Du konntest keine Avarfeder für mich auftreiben. Wie ich hörte, sind die Schamanen der Avaren bemerkenswerte Gegner. Wenn Du magst, komm später wieder - vielleicht brauche ich noch mehr."
-
-
 
    chickensoupquest_trigger_2 = "Hühnersuppe"
    chickensoupquest_assign_2 = "Mir geht es nicht so gut. Ich vermute, Du kannst jetzt nicht zur Witwe Qesinos gehen und sie um eine Terrine ihrer Spezial-Hühnersuppe bitten, oder? Ich wäre Dir so dankbar."
-
    chickensoupquest_failure_2 = "Betreff: Hühnersuppe\nOh, nun... Ich schätze, Du hast Wichtigeres zu tun, als mir zu helfen. Ist schon in Ordnung, ich werde schon über meine Erkältung hinweg kommen."
-
-
    chickensoupquest_assign_3 = "Oh, selbstverständlich doch! Hier ist eine Terrine meiner Spezialsuppe für %NPC. Und gute Besserung."
-
    chickensoupquest_success_3 = "Besten Dank, ich fühle mich allein vom Wohlgeruch dieser schmackhaften Suppe besser! Hier, %PRIZE soll das Zeichen meiner Anerkennung sein."
-
    chickensoupquest_failure_3 = "Betreff: %NPCs Erkältung\nDu hast diese Terrine mit Suppe allein gegessen, was? Du solltest Dich schämen, %NAME! %NPC ist immer noch krank, armes Ding."
-
-
 
    stunteddwarf_trigger = "Verkümmerter Zwerg"
    stunteddwarf_assign_2 = "Heißer Tag, was. Wäre bestimmt ein großartiger Tag für einen verkümmerten Zwerg."
    stunteddwarf_assign_3 = "Ach, ein Getränk aus alten Überlieferungen. Eigentlich ging das Rezept dafür im Laufe der Zeit verloren, doch wie ich hörte, weiß %NPC vielleicht etwas darüber."
-
    stunteddwarf_trigger_4 = "Mythos"
    stunteddwarf_assign_4 = "Verkümmerter Zwerg? Ha! Das ist doch nur ein Mythos, Du musst auf jeden Fall erwähnen, dass ich das gesagt habe!"
    stunteddwarf_success_4 = "Ach, mmh. Falls du jemals irgend jemanden den verkümmerten Zwerg erwähnen hörst, musst Du unbedingt alles herausfinden, was Du kannst."
-
    stunteddwarf_assign_6 = "So, Du brauchst eine Bauanleitung für einen Gartenzwerg, was? Ich sag Dir mal was. Beweise mir, dass Du Draufgänger genug bist, um einen zu trinken, und ich werde Dir das Rezept geben. Los, bring einen Kriipa für mich um die Ecke."
-
    stunteddwarf_success_6 = "Gut gemacht, %NAME. Hier ist das Rezept."
    stunteddwarf_failure_6 = "Betreff:: Verkümmerter Zwerg\nWie ich sehe, hast Du Dir den verkümmerten Zwerg klugerweise aus dem Kopf geschlagen. Es ist schließlich auch kein Getränk für Hasenfüße oder Weicheier."
-
-
    stunteddwarf_success_7 = "Meine Anerkennung! Du musst ja ziemlich hartnäckig sein, %NAME. Dafür sollte ich Dir etwas genauso Seltenes geben."
 
-
    hypochondriac_assign_2 = "Gottseidank bist Du hier! Ich glaube, ich sterbe! Ich habe %CARGO! Geh zu %NPC und laß dir ein Medikament dagegen geben!"
-
    hypochondriac_trigger_2a = "Paragolisysie"
    hypochondriac_trigger_2b = "Miriatetosie"
    hypochondriac_trigger_2c = "Pelagalosilie"
    hypochondriac_trigger_2d = "die schwere Pilzkrankheit"
    hypochondriac_failure_2 = "Betreff: %CARGO\nIch bin so froh, dass jemand anders vorbeikam und mich von diesem Leiden befreit hat! Du hättest mich sicherlich liegenlassen, bis ich langsam und qualvoll den Tod gefunden hätte."
-
-
    hypochondriac_trigger_3 = "Sacchaqua"
    hypochondriac_assign_3 = "Oh, er stirbt, was? Naja, warum gehst Du nicht einfach zu %NPC und sagst, dass Frisconar einen neuen Sacchaqua-Trank braucht."
-
    hypochondriac_failure_3 = "Betreff: Frisconars endlose Leiden\nSchätze, du hast den alten Frisconar aufgegeben. Ich werfe dir nichts vor, ich habe für sein Getue auch kein Verständnis."
-
-
    hypochondriac_assign_4 = "Wie amüsant. Glaubst du etwa, dass ein qualifizierter Apotheker wie Frisconar nicht weiß, dass das nichts weiter als Zuckerwasser ist? Nun, bring es ihm."
-
    hypochondriac_success_4 = "Oh, den Göttern sei dank! Ich ... ich habe schon Sterne gesehen! Das Licht am Ende des Tunnels! Ich lebe! Hier, %PRIZE, das ist deine Belohnung - Ich schulde dir was, weil du mein Leben gerettet hast!"
-
    hypochondriac_failure_4 = "Betreff: Ich armer Tropf!\nWo bist du blos geblieben?! Ich bin erledigt, das ist sicher. Während ich dies hier schreibe, trübt sich mein Blick, bis ich kaum noch das Papier vor mir sehe. Mein Atem geht stossweise und bereitet mir unsägliche Schmerzen. Meine Suche nach einem Heilmittel für meine Krankheit muss fortgesetzt werden, doch du hast versagt. Ich sollte meine abgezehrten und zittrigen Hoffnungen auf jemand anders setzen und hoffen, dass er mich nicht wie du in Stich lässt. Lebewohl, vielleicht für immer."
 
-
-
-
-
    qoroffering_assign_2 = "~r%NAME, huldigst du unserer Meisterin des Blutigen Mondes und wirst du von dir selbst geben, auf dass deine Meisterin stärker werde?"
-
    qoroffering_trigger_2 = "Ja"
    qoroffering_assign_3 = "~rDann preise sie mit mir. Gemeinsam werden wir uns unseren eigenen Lebenssaft entziehen, damit ein Symbol der Macht unserer Meisterin geboren wird. Nur selten stehen die Sterne so günstig für das Ritual der Finsternis, das wir vollziehen werden, also lass sie uns schnell praktizieren. Sprich mit mir diese Worte: %CARGO"
-
-
    qoroffering_trigger_3 = "Beim Licht eines blutigen Mondes, rufe ich Euch, Qor, Meisterin der Dunkelheit"
    qoroffering_failure_3 = "Betreff: Narr!\nDas Zeitfenster hat sich vorbeibewegt und wir hatten beide darunter zu leiden, weil Du gezögert hast. Das begonnene, aber nicht vollendet und hat uns einen Teil unserer Macht entzogen. Ich bin über dich erzürnt, Wurm."
-
-
    qoroffering_assign_4 = "~r%CARGO!"
    qoroffering_success_5 = "~rAh, dies ist ein großer Tag für Qor! Geh nun, trage die Macht unserer Meisterin in in die weite Welt!"
 
-
    shalilleoffering_assign_2 = "~b%NAME, geläutert von unserer Herrin des Silberlichts, willst Du von Dir etwas abgeben, damit Deine Göttin gestärkt wird?"
-
    shalilleoffering_trigger_2 = "Ja"
    shalilleoffering_assign_3 = "~bDann bete mit mir. Wir werden gemeinsam mit unserem eigenen Lebenssaft ein Symbol der Reinheit unserer Herrin erschaffen. Selten genug stehen die Sterne so günstig für die heilige Zeremonie, die wir vollziehen werden, also lass sie uns schnell praktizieren. Sprich mit mir diese Worte: %CARGO"
-
-
    shalilleoffering_trigger_3 = "Beim Licht der strahlenden Sonne, wir flehen Dich an, Sha-Lill, schenke uns die Wiedergeburt"
    shalilleoffering_failure_3 = "Betreff: Schade\nAm heutigen Tage sind wir nicht hoch genug aufgestiegen, doch wir haben schon den Himmel berührt und das muss genug sein. Am heutigen Tage bleiben wir schwach und stehen mit leeren Händen da, aber zur rechten Zeit wird Sha-Lill uns erheben, mein Schützling."
-
-
    shalilleoffering_assign_4 = "~b%CARGO!"
    shalilleoffering_success_5 = "~bPreise Sha-Lill! Geh jetzt, trage das Symbol der Reinheit unserer Herrin hinaus in die Welt!"
 
-
    farenoffering_assign_2 = "~B~g%NAME, Kind unseres Herrn der Wildnis, willst Du von Dir etwas abgeben, damit Deine Mutter stärker wird?"
-
    farenoffering_trigger_2 = "Ja"
    farenoffering_assign_3 = "~B~gDann bete mit mir. Wir werden gemeinsam mit unserem eigenen Lebenssaft ein Symbol der Naturkraft bilden. Selten standen die Sterne so günstig für das Ritual, das wir vollziehen werden, also lass sie uns schnell praktizieren. Sprich mit mir diese Worte: %CARGO"
-
-
    farenoffering_trigger_3 = "Bei der Erde, den Winden, den Meeren und dem Feuer im Innern, ich rufe Dich, Faren, Herr der Wildnis"
    farenoffering_failure_3 = "Betreff: Die Sterne standen schlecht\nIch habe mich bei der Konstellation verschiedener Kräfte verrechnet; die Zeit war noch nicht reif für die Manifestation von Farens Macht. Vielleicht ein andermal, wenn die Himmelsuhr wieder die richtige Zeit anzeigt."
-
-
    farenoffering_assign_4 = "~B~g%CARGO!"
    farenoffering_success_5 = "~B~gSiehe, die Wildheit der Natur offenbart sich! Nun gehe los und trage die Macht unseres Herrn hinaus in die Welt!"
 
-
    kraananoffering_assign_2 = "~B~b%NAME, heldenhafte Kämpfernatur der Faust, willst Du von Dir etwas abgeben, damit Dein Herr gestärkt werden mag?"
-
    kraananoffering_trigger_2 = "Ja"
    kraananoffering_assign_3 = "~B~bDann bete mit mir. Wir werden gemeinsam mit unserem eigenen Lebenssaft ein Symbol der Macht unseres Herrn schmieden. Selten stehen die Sterne so günstig für die altüberlieferte Zeremonie, die wir vollziehen werden, also lass sie uns schnell praktizieren. Sprich mit mir diese Worte: %CARGO"
-
-
    kraananoffering_trigger_3 = "Bei dem Funken, der entspringt, wenn Stahl auf Stahl schlägt, rufe ich Dich herbei, Kraanan, die Faust"
    kraananoffering_failure_3 = "Betreff: Du musst stärker werden!\nDas Zeitfenster hat sich vorbeibewegt und wir hatten beide darunter zu leiden, weil Du gezögert hast. Das begonnene, aber unvollendete Ritual hat uns einen Teil unserer Macht entzogen. Du warst schwächer als ich angenommen hatte. Stähle Deinen Geist, auf dass wir an einem anderen Tage erfolgreich sein werden."
-
-
-
    kraananoffering_assign_4 = "~B~b%CARGO!"
    kraananoffering_success_5 = "~B~bAh, heute ist ein großer Tag für Kraanan! Geh jetzt, trage die Kraft unseres Herrn hinaus in die weite Welt!"
-
 
    riijaoffering_assign_2 = "%NAME, der Herr der Narren wünscht Dich zu stärken. Möchtest Du ihn mit mir besprechen?"
    riijaoffering_trigger_2 = "Ja"
    riijaoffering_assign_3 = "Dann sprich diese Worte mit mir: %CARGO. Fühle, wie Deine Macht mit jedem ausgesprochenen Wort größer wird."
    riijaoffering_trigger_3 = "Du sprichst weise Worte durch mich, mein Herr Riija"
    riijaoffering_failure_3 = "Betreff: Narr!\nJener, der am Rande einer Klippe steht und doch unbeirrt weitergeht, ist sowohl Gott als auch Narr. Geht weiter, Diener des Scheinbaren."
-
-
    riijaoffering_assign_4 = "%CARGO!"
    riijaoffering_success_5 = "Siehe da, die doppelseitige Gnade des Riija. Trage sie weit in die Welt hinaus und ernte das Chaos, das sie sät! Denk immer an diese uralten weisen Worte: Morgens wird es immer weh tun."
 
-
    sporeburstlearn_assign_2 = "%NAME, %LORDLADY, es ist ~Iwirklich~I eine Freude, Dich zu sehen. Ich habe Deinen Fortschritt beim Studium des Obskuren mit großem Interesse verfolgt; ich begegnete nur wenige Male jemandem, der meiner Lehre so würdig war. Du weißt vielleicht von meinen Forschungen auf dem Gebiet der Zauberei. Nun, endlich konnte ich einen vollkommen neuen Zauber ausarbeiten, zusammengefügt aus den Energiefeldern, die das religiöse Gesindel Faren und Qor nennen würde. Ich werde Dir meine neue Zauberformel beibringen, wenn Du für mich eine kleine Aufgabe erledigst: Objekt meines Interesses ist %INDEF_CARGO%CARGO, ich brauche davon, um die mystischen Eigenschaften untersuchen zu können."
-
-
-
-
-
    sporeburstlearn_assign_2_h = "%NAME, %LORDLADY, es ist ~Iwirklich~I eine Freude, Dich zu sehen. Ich habe Deinen Fortschritt beim Studium des Obskuren mit großem Interesse verfolgt; ich begegnete nur wenige Male jemandem, der meiner Lehre so würdig war. Du weißt vielleicht von meinen Forschungen auf dem Gebiet der Zauberei. Nun, endlich konnte ich einen vollkommen neuen Zauber ausarbeiten. Ich will Dir meine neue Zauberformel beibringen, wenn Du für mich eine kleine Aufgabe erledigst: Objekt meines Interesses ist %INDEF_CARGO%CARGO, ich brauche davon, um die mystischen Eigenschaften untersuchen zu können."
-
-
-
-
-
    sporeburstlearn_failure_2 = "Betreff: Schwacher Narr!\nIch hatte Dich falsch eingeschätzt, %NAME. Ich glaubte, Du seiest fähig zu großartigen Dingen, Höhepunkten der Macht, die schon die Geisterbeschwörer des Altertums einst nicht erreichten. Wie ich jetzt feststellen muß, habe ich mich geirrt."
-
-
    sporeburstlearn_success_2 = "Du bist wahrhaftig ein würdiger Zögling, %NAME. Ah, %INDEF_CARGO%CARGO! Kannst Du die Magie ~Ispüren~I, die schubweise davon ausgeht? Die darin eingeschlossene Macht liegt weit über der belanglosen religiösen Bedeutung, die diese Priesterinnen mit ihnen verbinden. Das ist der Stoff aus dem das Universum erschaffen wurde! ..."
-
-
-
    sporeburstlearn_assign_3 = "Ach ja, der Spruch, der Zauberspruch. Sporenwolke! Mir fehlt noch %INDEF_CARGO%CARGO und dann werde ich ihn Dir erklären und mehr noch - kürzlich habe ich noch einen anderen faszinierenden Zauber entdeckt."
-
    sporeburstlearn_assign_3_h = "Ach ja, der Spruch, der Zauberspruch. Waffe verfluchen! Bring mir schnell %INDEF_CARGO%CARGO und ich werde Dich lehren."
-
    sporeburstlearn_success_3 = "Es ist schon viele Monde her, seit %INDEF_CARGO%CARGO zuletzt meine Lippen berührte. Hättest Du nicht auch gern einen Schluck? Ist ~Isehr~I erfrischend. Tja, dann komm zurück, wenn Du den Zauber Sporenentladung erlernen möchtest und wir werden einen kleinen Toast ausbringen - ~IAuf die einfältigen Massen, die ihre willenlosen Körper aus Blut und Knochen anbieten, damit sie von schweigenden Steinen oder herumhüpfenden trügerischen Marionettengöttern verschlungen werden.~I"
-
-
-
    sporeburstlearn_success_3_h = "Es ist schon viele Monde her, seit %INDEF_CARGO%CARGO zuletzt meine Lippen berührte. Hättest Du nicht auch ein wenig davon ab? Es ist ~Isehr~I erfrischend. Nun, komm zurück, wenn Du den Waffen verluchen Zauber lernen möchtest und wir werden einen kleinen Toast ausbringen - ~IAuf die einfältigen Massen, die ihre willenlosen Körper aus Blut und Knochen anbieten, damit sie von schweigenden Steinen oder herumhüpfenden trügerischen Marionettengöttern verschlungen werden.~I"
 
-
-
-
    polishquest_assign = "Entschuldigung. Ich habe mich mit der Veredelung von Juwelen auseinandergesetzt und ich wüßte gerne, ob Du vielleicht irgendwelche ungeschliffenen Steine besitzt. Wenn ja, würde ich sie gerne polieren und Dir dann einen fertigen zurückgeben"
-
    polishquest_success = "Oh, danke. Erlaube mir, Dich zu belohnen."
    polishquest_failure = "Betreff: Edelsteine polieren\nMach Dir keine Gedanken wegen der ungeschliffenen Steine, ich habe von jemand anderem welche bekommen. Danke trotzdem."
 
-
    priestessinsignia_trigger = "Abzeichen"
    priestessinsignia_assign_2 = "~IWie ich sehe, besitzt Du einen nicht gekennzeichneten Schild. Ich bin mehr als bereit dazu, meine Insignien tapferen Zauberern anzubieten, vorausgesetzt, sie geben mir ihr Zehntes ab.~I"
-
    priestessinsignia_trigger_2 = "Zehntes"
    priestessinsignia_assign_3 = "~IIch hörte von einem Tor, das sich in eine andere Welt auftut. Ich bin sehr interessiert an magischen Reagenzien aus diesem Land - vielleicht bewirkt ihr Eintreffen, dass die Magie der guten Zauberer wie Du und ich gestärkt werden kann. Zieh los, %CARGO wartet darauf, für mich gefunden zu werden.~I"
-
-
    priestessinsignia_success_3 = "~IExzellent. Die Ewigen danken für Dein Wohlwollen.~I"
    priestessinsignia_failure_3 = "Betreff: Abzeichen\nIch hatte einen besseren Eindruck von Dir. Nun gut. Ich werde nach einem geeigneteren Kreuzritter Ausschau halten."
 
-
    monkinsignia_trigger = "Abzeichen"
    monkinsignia_assign_2 = "~gIch ~rsehe, ~bDu hast ~reinen ~gnicht ~bgekennzeichneten ~kSchild. ~rIch bin mehr ~bals ~gbereit ~bdazu, ~gmeine ~bInsignien ~reinem tapferen ~gB~be~kt~br~rü~kg~ge~br ~kanzubieten,~r vorausgesetzt, man bietet ~b~Bmir~B~r den Zehnten dafür.~k"
-
    monkinsignia_trigger_2 = "Zehnten"
    monkinsignia_assign_3 = "~IIch hörte von einem ~gTor ~k, das sich in eine andere Welt auftut. ~bIch ~kbin sehr interessiert an magischen ~rReagenzien ~kaus diesem Land - vielleicht bewirkt ~gihr Eintreffen, ~kdaß die Magie ~kder guten Zauberer wie Du und ich ~rgestärkt~g wird . ~rGeh - %CARGO ~b liegt schon irgendwo für mich bereit."
-
-
    monkinsignia_success_3 = "~B~bEx~rzell~gent. ~kDer Betrüger ~rdankt~k Dir für Dein Wohlwollen.~B"
    monkinsignia_failure_3 = "Betreff: Abzeichen\nIch hatte wirklich Besseres von Dir erwartet. Nun gut. Ich werde nach einem geeigneteren Narren Ausschau halten."
 
-
    factioninsignia_trigger = "Abzeichen"
    factioninsignia_assign_2 = "Wie ich sehe, trägst Du zwar ein Schild mit Farben, aber ohne Insignien. Wenn Du Dir vielleicht meine erarbeiten möchtest, hätte ich einen Auftrag für Dich."
-
    factioninsignia_trigger_2 = "Auftrag"
    factioninsignia_assign_3 = "Inmitten dieses politischen Chaos solidarisieren sich verschiedene Subjekte in aller Öffentlichkeit gegen mich. Glücklicherweise habe ich vor Ort meine Spione, die diese Umtriebe im Auge behalten. Wie verlautet, hat %NPC sich mit %CARGO beraten, und ich bin natürlich ganz neugierig darauf, worüber da gesprochen wurde. Tu mir einen Gefallen, erwähne den Namen dieser Person doch mal gegenüber unserem Freund %NPC und wiederhole mir Wort für Wort, was Dir gesagt wurde."
-
-
-
-
    factioninsignia_trigger_3a = "Esseldi"
    factioninsignia_trigger_3b = "Drex"
    factioninsignia_trigger_3c = "Bei Naq"
@@ -583,8 +357,6 @@ resources:
    factioninsignia_trigger_3g = "Priesterin Xiana"
    factioninsignia_trigger_3h = "Jonas d'Accor"
    factioninsignia_failure_3 = "Betreff: Abzeichen Auftrag\nMeine Enttäuschung sitzt tief. Ich hatte gedacht, dass Du ganz bestimmt verlässlicher wärest als diese gemeinen Schläger und unberechenbaren Schweinehunde aus meinem Spionagering. Offenbar stehst Du rangmäßig noch viel tiefer."
-
-
    factioninsignia_assign_4 = "%CARGO."
    factioninsignia_trigger_4a = "Äh... ich weiß wirklich nicht, wovon Du sprichst"
    factioninsignia_trigger_4b = "Eine herausragende Persönlichkeit unserer Stadt. Sehr lang her, seit wir uns das letzte mal unterhalten haben"
@@ -593,854 +365,319 @@ resources:
    factioninsignia_trigger_4e = "Dieser Idiot hat mir letzte Woche bei einem Zoxila-Spiel alles abgenommen, was ich besaß "
    factioninsignia_trigger_4f = "Wer? Der Name hört sich nicht geläufig an"
    factioninsignia_success_4 = "Hmmm, faszinierend. Ich muss meine Spione weiter in ihre Kristallkugeln schauen lassen, doch deine Information brachte die Erkenntnis, die ich gebraucht habe. Hier, bitte nimm meine Insignien als Zeichen meiner Wertschätzung an."
-
    factioninsignia_failure_4 = "Betreff: Abzeichen Auftrag\nIch fürchte, Du bist bei der kleinen Prüfung durchgefallen, die Dein Lehnsherr und ich uns ausgedacht hatten. Wie wir erwartet hatten, ist deine Loyalität fragwürdig."
 
-
-
    mysterymonster_assign_2 = "Würdet Ihr etwas für mich tun? Ich werde Euch auch entlohnen. Ich habe Probleme mit Insekten, ja, wirklich."
-
    mysterymonster_trigger_2 = "Insekt"
    mysterymonster_assign_3 = "Fürwahr, irgendein großes Insekt hatte sich eine Zeitlang in meinem Lagerraum eingenistet. Ich schaffte es dann, es zu vertreiben. Ich hatte ein kleines Feuer gemacht und den Qualm hineingeblasen. Als sich der Rauch verzogen hatte, durchsuchte ich meine dort in Sicherheit gebrachte Sammlung von Schnittmustern und eines fehlte!"
-
-
    mysterymonster_trigger_3 = "Schnittmuster"
    mysterymonster_assign_4 = "Ich ~Imuß~I das Schnittmuster zurück haben und ich wette, es hängt am Rückenpanzer dieses Insektes fest. Könntet Ihr es für mich zurückholen? Zu allem Unglück konnte ich bei all dem Qualm nicht richtig sehen, was für eine Sorte Käfer es war, als er wegrannte. Doch er kann noch nicht besonders weit weg sein."
-
-
    mysterymonster_success_4 = "Du bist ein Engel, Kind! Hier, dieses Gewand ist nach einem meiner anderen Spezialschnittmuster gefertigt. Es hat wahrhaftig eine sehr altertümliche Machart. Trage es in Ehren."
-
    mysterymonster_failure_4 = "Betreff: Fehlendes Schnittmuster\nIch habe eine Kopie des verschwundenen Schnittmusters gefunden. Macht Euch also keine Gedanken mehr um das verlorene. Ich danke Euch trotzdem, dass Ihr es versucht habt."
 
-
-
    moxalscam1_assign_2 = "Oh, Spezi und Glücksritter! Ich glaube, ich habe für uns das perfekte Sprungbrett ins Glück gefunden! Es kann nicht schief gehen! Bestimmt möchtest Du mehr über diese glänzende Gelegenheit erfahren!"
-
    moxalscam1_trigger_2 = "Gelegenheit"
    moxalscam1_assign_3 = "Ganz einfach! Bring diesen Brief zu %NPC. Ehe Du es merkst, fängt der Rubel an zu rollen!"
-
    moxalscam1_failure_3 = "Betreff: Mein launischer Partner!\nIch vermute, Dir ist es nicht ernst genug mit dem Geld... Das ist sehr schade. Komm' zurück, wenn Du wirklich tief im Herzen sicher bist, dass es Zeit ist, reich zu werden!"
-
-
    moxalscam1_assign_4 = "Hmmm... Hiernach erwartet man von uns, dass wir den Brief an jemand anderen weitergeben sollen und dann werden wir reich. OK, warum bringst Du ihn nicht zu %NPC?"
-
    moxalscam1_failure_4 = "Betreff: Wo ist mein Geld?!?!\nDu hast mir Schillinge versprochen, Mengen davon! Wo sind sie? Du hast sie für Dich behalten, stimmts? Ich werde Deinen Vertrauensbruch nicht vergessen... Pass auf Dich auf, Langfinger."
-
-
    moxalscam1_success_5 = "Hmmm... Anscheinend glaubt diese Person, ich sei ein kompletter Idiot. Irgendwie bin ich überrascht, dass DU darauf reingefallen bist. Nun gut, da Du Dich wegen des ganzen Ärgers aufgerieben hast, möchte ich Dir eine Kleinigkeit geben. Hier."
-
-
-
    moxalscam2_assign_2 = "Anfang letzter Woche hatte ich einen großartigen Einfall und ich versuche seitdem, %NPC zu überzeugen, mir bei der Finanzierung zu helfen. Schau, wenn Du %NPC überreden kannst, werde ich die Einnahmen zwischen Euch beiden mehr als gerecht aufteilen."
-
    moxalscam2_failure = "Betreff: Mein launischer Partner!\nNun, beruhige Dich wieder! Du musstest mir nicht helfen, aber Du hast gesagt, dass Du es willst... Ich meine, niemand hat Dich dafür in die Zange genommen, oder? Also, komm' wieder, wenn Dir Dein Gefühl sagt, dass die Zeit gekommen ist, um ernsthaft ein paar Schillinge zu verdienen."
-
-
    moxalscam2_assign_3 = "Oh, Riija, laß mich raten. Moxal schickt Dich. Jawohl, sag ihm NOCH MAL, dass ich nicht interessiert bin."
-
    moxalscam2_trigger_3 = "Nicht interessiert"
    moxalscam2_assign_4 = "Nun mal sachte. Vermutlich hast Du Dich nicht genügend angestrengt. Versuch's nochmal und denk dran, %NPC an den zehnfachen - nein, HUNDERTFACHEN - Ertrag zu erinnern."
-
    moxalscam2_assign_5 = "VERFLIXT, WAS IST MIT EUCH LEUTEN LOS? Schau, Moxal ist entweder ein blauäugiger Narr oder ein vortrefflicher Dieb. Ich habe noch nicht herausgefunden, was, aber nur ein kompletter Idiot würde ihm Geld geben. Sag ihm, ich bin NICHT INTERESSIERT."
-
-
    moxalscam2_success_5 = "*-seufz-* Na gut, ich denke, %SOURCE_NPC hat wohl nicht das nötige Stehvermögen für sowas. Ich glaube nicht, dass DU 100.000 Schillinge besitzt, die in eine einigermaßen riskante Unternehmung investiert werden können?"
-
 
    letter_trigger = "Bote benötigt"
    council_letter_assign = "Warum? Ja, ich benötige jemanden. Nimm diesen Brief und Bringe ihn so schnell als möglich zu dem Ratsmitglied %NPC. Er wird Deinen Dienst bezahlen."
-
    council_letter_success = "Ich habe diesen Brief erwartet. Danke, %NAME. Hier ist Dein Geld."
    council_letter_failure = "Betreff: Der Brief, den ich Dir anvertraut habe\n%NPC erhielt meinen Brief nicht rechtzeitig. In Zukunft muss ich mir einen anderen Boten suchen."
 
-
    chess_assign_2 = "Ich spiele Schach mit einem Freund. Wärest Du bereit, meinem Gegner meinen nächsten Zug zu überbringen?"
-
    chess_trigger = "Ja"
    chess_assign_3 = "Wunderbar! Bitte teile %NPC mit, dass mein nächster Zug %CARGO ist."
    chess_assign_4 = "Ein interessantes Manöver, aber einfach zu kontern. Sage %NPC, dass mein Zug %CARGO lautet."
    chess_success_4 = "Ganz gerissen! Darüber muss ich erstmal ein wenig nachdenken, ehe ich erwidere. Danke für Deine Hilfe, unser Spiel durchzuführen, hier hast Du eine Kleinigkeit für Deine Mühe."
-
    chess_failure = "Betreff: Mein Schachzug\nMach Dir keinen Kopf über die Ablieferung meines Zuges; ich habe bereits einen anderen Kurier gefunden."
-
-
    chess_checkmate_assign_5 = "Ha! %NPC ist genau in meine Falle getappt! Sag, dass mein nächster Zug %CARGO lautet. Oh, und erwähne auch, dass ich damit ein 'schachmatt' erreicht habe."
-
    chess_checkmate_success_5 = "Oh. Ja, ich hätte das merken müssen. Ach, nun gut. Danke, dass Du uns als Bote unterstützt hast. Gemäß meiner Absprache mit %SOURCE_NPC muss ich die Kosten für den Kurier für das Spiel übernehmen. Bitte nimm dies als Entschädigung für Deine Mühen."
 
-
-
    love_letter_1_assign = "Ja, in der Tat, dieser %INDEF_CARGO%CARGO hier ist für meinen Liebling %NPC. Bitte überbringe es ihr und versichere sie meiner Liebe. Sag ihr, dass ich sie vermisse, machst Du das? Und dass ich mich nach dem Augenblick sehne, wenn wir uns wiedersehen. Nun geh schnell, sonst denkt sie noch, dass meine Liebe zu ihr nur flüchtig und launenhaft ist."
-
-
    love_letter_1_success = "Ah, noch ein Brief von %SOURCE_NPC. Wie wunderbar. Bitte nehmt dies für Eure Bemühungen."
-
    love_letter_failure = "Betreff: Du hast meinen Brief nicht abgegeben!\nDank Eurer Nachlässigkeit muss mein Liebling %NPC glauben, dass ich keine Lust mehr habe. In Zukunft werde ich mich um einen verlässlicheren Boten bemühen!"
-
-
-
+ 
    love_letter_2_assign = "Ja, tatsächlich habe ich gerade ein Sendschreiben, das zugestellt werden muß. Wenn Ihr diesen Brief hier zu %NPC bringt, wäre ich sehr dankbar."
-
    love_letter_2_success = "Ah, ein Brief von meiner hübschen %SOURCE_NPC! Es wird mir warm ums Herz zu hören, dass sie an mich denkt. Bitte nehmt dies als Zeichen meiner Dankbarkeit."
 
-
    necroguild_assign_2 = "Ich wünsche mir, auf Deine Ebene der Existenz zurückzukehren, mein dunkles Kind. Wirst Du mir helfen, wieder aufzuerstehen?"
-
    necroguild_trigger_2 = "Ja"
    necroguild_assign_3 = "Hervorragend. Meine Seele dürstet nach dem Blut der Unschuldigen. Bringe mir das, damit ich Meridian erneut beherrschen kann!"
-
    necroguild_failure_3 = "Betreff: Du hast versagt.\nDu hast vor mir versagt. Ich werde mir jemand anderen suchen, der mich zurück in diese Welt bringt."
-
    necroguild_success_3 = "Ah! LEBEN!! Ich mit meinen dunklen Orden der Nekromanten bin wiedergeboren! Für Deine treuen Dienste an mir erhebe ich Dich zu dem Meister des Ordens."
-
-      
+     
    aphrodesiac_assign_2 = "Ja, ich brauche dringend einen Kurier. Ich möchte das vertraulich behandelt wissen. Ich habe ... äh ... Probleme mit ... gut äh, Männerprobleme. Mir wurde erzählt, dass %NPC ein mächtiges Mittel besitzt. Bitte beeile Dich und frage dort nach."
-
-
    aphrodesiac_failure_2 = "Betreff: Dein Gefallen\nIch denke, Du hast mich betrogen. Ich werde mir einen anderen suchen, der meinen Auftrag erfüllt."
-
    aphrodesiac_trigger_2 = "Mittel"
    aphrodesiac_assign_3 = "Ja, ich weiß ein starkes Mittel: Das Ei einer Spinnenkönigin. Besorg mir eines und ich werde ein Gebräu daraus machen."
-
    aphrodesiac_failure_3 = "Betreff: Das Spinnenei\nIch nehme an, Du konntest kein Spinnenei auftreiben. Nun gut, ich werde selbst eines finden und das Gebräu überbringen. Mach Dir keine Gedanken mehr darüber."
-
-
    aphrodesiac_assign_4 = "Eine gute Probe! Bringe diesen Trank %NPC. Ich bin sicher, sie wird mit den Ergebnissen sehr zufrieden sein."
-
    aphrodesiac_failure_4 = "Betreff: Die Flasche mit dem Mittel\nIch denke Du hast Dich entschieden, die Flasche selbst zu benutzen. Möge sie Dir gut genutzt haben."
-
    aphrodesiac_success_4 = "Du bist mein Retter, %NAME. Segen über Dich. Hier, ein Geschenk als Zeichen meines Dankes."
 
    necrowarning_assign_2 = "Ja, ich brauche einen Boten. Es sieht so aus, als hätten wir eine neue Kraft im Land oder besser eine sehr alte, voll der Dunkelheit. Möglicherweise bekommen die Narren in den Tempel nun, was sie für ihre Arroganz verdienen. Wie können sie wirklich denken, dass ihre Götter die einzigen Götter sind? Hoffentlich hilft dieser Brief, das Unvermeidbare zu beschleunigen. Bringe ihn zu %NPC und komm zu mir zurück für Deine ... Belohnung. Versage und Du wirst leiden."
-
-
-
-
    necrowarning_success_2 = "Du warst das Werkzeug einer unvernünftigen Person. Ich habe das von ihm erwartet, aber es gibt keine Entschuldigung für Deine Verderbtheit. Kannst Du nicht einen besseren Geldgeber für Deine Begeisterung finden? Mmh, möglicherweise nicht."
-
    necrowarning_failure_2 = "Betreff: Mein Brief\nSo, Du willst also ein Spiel mit mir treiben? Deine Unverschämtheit ist entweder ein Akt eines Narren oder der eines Feiglings. Wie dem auch sei, Du solltest hoffen, dass wir uns nicht wieder begegnen. Bitte nimm diesen Fluch als ein Zeichen meines Mißfallens."
-
-
    necrowarning_success_3 = "Ich denke, Du bist zurückgekommen, um Dir Deine Belohnung abzuholen. In Wahrheit ist Deine Belohnung das Wissen um die überbrachte Botschaft. Aber... Ich verstehe die materiellen Wünsche von Leuten wie Dir. Hier also die Belohnung."
 
-
-
    barrestock_assign_2 = "Ja, ich habe fast keine Vorräte mehr. %NPC weiß, was ich brauche, und es ist bereits bezahlt. Frage einfach %HIMHER_NPC nach der Lieferung und beeile Dich!"
-
    barrestock_trigger_2 = "Lieferung"
    barrestock_failure_2 = "Betreff: Meine Lieferung an Vorräten\nDenke nicht mehr an die Lieferung. Ich werde einen anderen Kurier finden."
-
    barrestock_assign_3 = "Ah ja, die Lieferung ist fertig zum Versenden. Beeile Dich mit diesen %INDEF_CARGO%CARGO und liefere es %NPC. Unterstehe Dich, unehrlich zu sein, oder ich muss Dich dem Justiziar als gesetzlos melden."
-
    barrestock_assign_3_h = "Ah ja, die Lieferung ist fertig zum Versenden. Beeile Dich mit diesen %INDEF_CARGO%CARGO und liefere es %NPC. Unterstehe Dich, unehrlich zu sein, oder ich muss Dich dem Justiziar als gesetzlos melden."
-
    barrestock_success_3 = "Vielen Dank, %NAME, Du hast mir heute einen großen Gefallen getan. Nimm dieses kleine Geschenk als Zeichen meines Dankes."
-
    barrestock_failure_3 = "Betreff: Dieb!\nIch habe dem Justiziar den Diebstahl von %CARGO gemeldet und seitdem wirst Du als Gesetzloser angesehen."
-
    barrestock_failure_3_h = "Betreff: Dieb!\nIch habe einem befreundeten Zauberer berichtet, dass Du %CARGO gestohlen hast, und er hat mir garantiert, dass Du für Deine Unehrlichkeit bezahlen wirst."
 
-
    catering_assign_2 = "Vielleicht kannst Du mir helfen. Ich habe eine kleine private Feier und mein Laufbursche ist krank geworden. Wirst Du mir helfen, das Essen zu liefern? %NPC organisiert das Essen und weiß, wohin es geliefert werden muß. Frage einfach %HIMHER_NPC nach der Lieferung. Du wirst großzügig belohnt, wenn Du die Lieferung ausgeführt hast. Bitte beeile Dich."
-
-
-
    catering_failure_2 = "Betreff: Catering\nIch habe jemand anderen gefunden, der das erledigt."
-
    catering_trigger_2 = "Lieferung"
    catering_assign_3 = "Ja, die Party! Ich war schon verunsichert, ob jemals jemand deswegen kommen würde. Hier ist das Essen, %INDEF_CARGO%CARGO. Bitte bringe es zu %NPC, wo die Partyvorbereitungen erledigt werden%HIMHER_NPC. Bitte verliere nichts von dem Essen, da dieses Geschäft sehr wichtig für mich ist. Sollte die Lieferung %NPC niemals erreichen, bin ich gezwungen, Dich beim Justiziar wegen Diebstahls zu melden. Ich bin mir aber sicher, dass das nicht nötig sein wird..."
-
-
-
    catering_assign_3_h = "Ja, die Party! Ich war schon verunsichert, ob jemals jemand deswegen kommen würde. Hier ist das Essen, %INDEF_CARGO%CARGO. Bitte bringe es zu %NPC, wo die Partyvorbereitungen erledigt werden%HIMHER_NPC. Bitte verliere nichts von dem Essen, da dieses Geschäft sehr wichtig für mich ist. Sollte die Lieferung %NPC niemals erreichen, bin ich gezwungen, mit einem befreundeten Zauberer sprechen zu müssen. Selbst wenn ich sicher bin, dass es nicht nötig ist."
-
-
-
    catering_failure_3 = "Betreff: Du hast das Essen für die Party gestohlen!\nIch habe Dich beim Justiziar wegen des Diebstahls gemeldet und Du bist fortan als Gesetzloser bekannt."
-
    catering_failure_3_h = "Betreff: Du hast das Essen für die Party gestohlen!\nIch habe mit einem befreundeten Zauberer gesprochen und er hat mir garantiert, dass Du für Deine Unehrlichkeit bezahlen wirst."
-
    catering_success_3 = "Ah, was für eine Auswahl! Mir läuft das Wasser im Munde zusammen. Hier ist Dein Entgeld. Danke für die schnelle Erledigung."
 
    apothecary_assign_2 = "Bitte bringe %INDEF_CARGO%CARGO zu %NPC. Ein Diebstahl dieser Gegenstände führt dazu, dass Du zum Gesetzlosen erklärt wirst. Ich habe bereits mit %NPC gesprochen und vereinbart, dass er Dich für Deine Mühe entlohnt. Du hast einen meridianischen Tag, um die Sachen abzuliefern."
-
-
-
    apothecary_assign_2_h = "Bitte bringe %INDEF_CARGO%CARGO zu %NPC. Der Diebstahl jeder dieser Gegenstände wird zu großem Unglück führen. Ich habe bereits mit %NPC gesprochen und vereinbart, dass er Dich für Deine Mühe entlohnt. Du hast einen meridianischen Tag, um die Sachen abzuliefern."
-
-
-
    apothecary_success_2 = "Danke für die pünkliche Lieferung. Das Geschäft boomt zur Zeit! Ich frage mich warum? Oh, richtig, hier ist Deine Bezahlung. Komm vielleicht später nochmal vorbei, wenn Du daran interessiert bist, diesen Auftrag nochmal zu erledigen. Du hast der Beziehung zwischen mir und %SOURCE_NPC geholfen."
-
-
    apothecary_failure_2 = "Betreff: Dieb!\nDein Diebstahl von %INDEF_CARGO%CARGO hat Dich zum Gesetzlosen gemacht."
-
    apothecary_failure_2_h = "Betreff: Dieb!\nNachdem Du %INDEF_CARGO%CARGO gestohlen hast, bin ich gezwungen, Dich mit einem Fluch zu belegen. Ertrage ihn tapfer."
 
-
    ore_assign_2 = "%NPC hat kein Erz mehr. Bitte nimm dieses Erz und überbringe es schnellstmöglich! Es wäre unklug, mich betrügen zu wollen. Diebe werden angezeigt und enden als Gesetzlose. Beeile Dich. %NPC wird Dich für Deine Mühe bezahlen. "
-
-
    ore_assign_2_h = "%NPC hat kein Erz mehr. Bitte nimm dieses Erz und überbringe es schnellstmöglich! Es wäre unklug, mich zu betrügen. Der Diebstahl wird für uns beide in großem Unglück enden. Beeile Dich. %NPC wird Dich für Deine Mühe bezahlen. "
-
-
    ore_success_2 = "Danke für das Erz. Hier Deine Belohnung. Vielleicht können wir später nochmals ins Geschäft kommen."
    ore_failure_2 = "Betreff: Dieb!\nDein Erzdiebstahl wurde gemeldet und Du wurdest zum Gesetzlosen erklärt. Wende Dich an die zuständige Autorität, um das zu klären."
-
-
    ore_failure_2_h = "Betreff: Dieb!\nEs wurde berichtet, dass Du das Erz gestohlen hast. Ich habe mit einem befreundeten Zauberer gesprochen und er hat garantiert, dass Du für Deine Unehrlichkeit bezahlen wirst."
 
-
-      
-
    vaulttax_assign_2 = "Ja, ich brauche einen Boten. %NPC bekommt eine sichere prozentuale Beteiligung meiner Geschäftseinnahmen. Bitte nimm diesen zehnten Teil %INDEF_CARGO%CARGO und liefere das ab. Ich bin zu beschäftigt, um das zu erledigen. Sei gewarnt! Diebstahl wird von mir sofort gemeldet und Du wirst zum Gesetzlosen. Möglicherweise sogar noch schlimmer, denn wie ich gehört habe, hat sich %NPC nun mit einem Zauberer verbündet. Ich habe arrangiert, dass %NPC Dich für Deine Mühe bezahlen wird. "
-
-
-
    vaulttax_assign_2_h = "Ja, ich brauche einen Boten. %NPC bekommt eine sichere prozentuale Beteiligung meiner Geschäftseinnahmen. Bitte nimm diesen zehnten Teil %INDEF_CARGO%CARGO und liefere das ab. Ich bin zu beschäftigt, um das zu erledigen. Sei Dir sicher, dass jeder Diebstahl gemeldet wird und ich davon höre werde.hat sich %NPC nun mit einem Zauberer verbündet. Ich habe arrangiert, dass %NPC Dich für Deine Mühe bezahlen wird. "
-
-
-
    vaulttax_success_2 = "Ahh, sehr gut, %SOURCE_NPC liefert diese Woche pünktlich. Danke für Deine Schnelligkeit und Ehrlichkeit. %SOURCE_NPC sollte Dich häufiger beauftragen."
-
    vaulttax_failure_2 = "Betreff: Dieb!\nDein Diebstahl von %CARGO hat Dich wegen %NPC zum Gesetzlosen gemacht."
-
    vaulttax_failure_2_h = "Betreff: Dieb!\nIch habe mit einem befreundeten Zauberer gesprochen und er hat mir garantiert, dass Du für Deine Unehrlichkeit bezahlen wirst."
 
-
    merchanttax_assign_2 = "Würdest Du meine Steuern zu %NPC bringen? Ich bin diesmal wirklich spät dran und brauche Dich um diese %INDEF_CARGO%CARGO zu %NPC zu bringen. Solltest Du stehlen, wirst Du schneller als Du denkst zum Gesetzlosen erklärt - also denke nicht einmal an so etwas. Ich habe veranlasst, dass du für diesen Dienst bezahlt wirst."
-
-
    merchanttax_assign_2_h = "Würdest Du meine Steuern zu %NPC bringen? Ich bin diesmal wirklich spät dran und brauche Dich um diese %INDEF_CARGO%CARGO zu %NPC zu bringen. Solltest Du stehlen, wirst Du schneller als Du denkst zum Gesetzlosen erklärt - also denke nicht einmal an so etwas. Ich habe veranlasst, dass du für diesen Dienst bezahlt wirst."
-
-
    merchanttax_success_2 = "Ah, ich habe mich schon gewundert, wann %SOURCE_NPC mir einen Besuch abstatten würde. Hier Deine Bezahlung für ... für Deinen schnellen Dienst."
-
    merchanttax_failure_2 = "Betreff: Dieb!\nDein Diebstahl von %CARGO hat Dich wegen %NPC zum Gesetzlosen gemacht."
 
-
    latetax_assign_2 = "Eine dringende Angelegenheit hat meine Aufmerksamkeit erweckt. Vertraute Besitzer und Geschäftsinhaber in der Gemeinschaft haben ihre Pflichten vernachlässigt und ihre Steuern nicht bezahlt. Würdest Du bitte diesen Brief umgehend zu %NPC bringen. Sei gewarnt, dieser Brief ist Eigentum des Reichs und sollte er nicht in einer gewissen Zeit überbracht werden, wirst Du zum Gesetzlosen erklärt. Hier etwas für Deine Mühe. Und nun beeile Dich."
-
-
-
-
    latetax_assign_2_h = "Eine dringende Angelegenheit hat meine Aufmerksamkeit erweckt. Vertraute Besitzer und Geschäftsinhaber in der Gemeinschaft haben ihre Pflichten vernachlässigt und ihre Steuern nicht bezahlt. Würdest Du bitte diesen Brief umgehend zu %NPC bringen. Sei gewarnt, dieser Brief ist Eigentum des Reichs und sollte er nicht in einer gewissen Zeit überbracht werden, wirst Du zum Gesetzlosen erklärt. Hier etwas für Deine Mühe. Hier ist etwas gegen deine Probleme. Und jetzt beeile dich."
-
-
-
-
    latetax_success_2 = "Was ist das? Weißt Du, es ist seltsam, wie streng %SOURCE_NPC beim Steuereintreiben geworden ist. Ich vermute, da steckt mehr dahinter, als es scheint. Ich habe einen Verdacht, aber das geht Dich nichts an."
-
-
    latetax_failure_2 = "Betreff: Du bist nun ein Gesetzloser\nDu bist zum Gesetzlosen erklärt worden, weil Du %NPC den Steuerbrief nicht überbracht hast."
-
    latetax_failure_2_h = "Betreff: Dafür wirst Du nun bezahlen, Dieb!\nIch habe mit einem befreundeten Zauberer gesprochen und er hat mir garantiert, dass Du für Deine Unehrlichkeit bezahlen wirst."
 
-
    kocweapon_assign_2 = "Ich brauche eine verbürgte Lieferung zum Festland. Es ist eine Regierungsangelegenheit, deshalb würde eine nicht durchgeführte Zustellung in einem Gesetzlosenstatus enden. Bist Du bereit, diese Bedingungen anzunehmen?"
-
    kocweapon_assign_2_h = "Ich brauche eine verbürgte Lieferung zum Festland. Es ist eine Regierungsangelegenheit, deshalb würde eine versäumte Übergabe böse enden würde. Bist du bereit, diese Bedingungen zu akzeptieren?"
-
    kocweapon_failure_2 = "Betreff: Ich sollte mir einen anderen Kurier suchen\nIch verstehe Deinen Widerwillen, Dich auf solch eine lange Reise zu begeben. Trotzdem Danke."
-
    kocweapon_assign_3 = "%NPC fragte mich nach meinen Diensten für %HIMHER_NPC, um die Splittertruppen zu versorgen. Unglücklicherweise habe ich niemanden, der diese Ladung zu %HIMHER_NPC bringt. Hier sind die %INDEF_CARGO%CARGO für die Lieferung; Ich bin mir sicher, dass %NPC Dich für deine Mühe belohnen wird. Denke daran, dass Du gesetzlich verpflichtet bist diese Lieferung zu überbringen. Ein Versagen würde Dich zum Gesetzlosen machen. Aus irgendeinem Grunde vertraue ich Dir jedoch."
-
-
-
-
    kocweapon_assign_3_h = "%NPC fragte mich nach meinen Diensten für %HIMHER_NPC, um die Splittertruppen zu versorgen. Unglücklicherweise habe ich niemanden, der diese Ladung zu %HIMHER_NPC bringt. Hier sind die %INDEF_CARGO%CARGO für die Lieferung; Ich bin mir sicher, dass %NPC Dich für deine Mühe belohnen wird. Denke daran, dass Du gesetzlich verpflichtet bist diese Lieferung zu überbringen. eine versäumte Übergabe wird böse enden."
-
-
-
-
    kocweapon_failure_3 = "Betreff: Dieb!\nDer Diebstahl der Sachen von %NPC hat Dich zum Gesetzlosen gemacht."
-
    kocweapon_failure_3_h = "Betreff: Dieb!\nDas Unglück, das Du durch Deine böse Tat verursacht hast, möge Dir folgen, wo immer Du hingehst."
-
    kocweapon_success_3 = "Danke Dir. Das ist die erste Lieferung von vielen. Möge es eine gute Handelsbeziehungen für die kommenden Jahre pflegen. Hier, bitte nimm %INDEF_CARGO%CARGO."
 
-
    kocale_assign_2 = "Ich brauche eine garantierte Lieferung zu der Insel. Eine unterlassene Lieferung macht Dich zum Gesetzlosen. Bist Du bereit, diese Bedingungen zu akzeptieren?"
-
    kocale_assign_2_h = "Ich brauche eine garantierte Lieferung zu der Insel. Eine unterlassene Lieferung macht Dich zum Gesetzlosen. Bist Du bereit, diese Bedingungen zu akzeptieren?"
-
    kocale_failure_2 = "Betreff: Ich sollte mir einen anderen Kurier suchen\nIch verstehe Deinen Widerwillen, Dich auf solch eine lange Reise zu begeben. Trotzdem Danke."
-
    kocale_assign_3 = "%NPC in Kocatan hat Bedarf an unserer Ware für seine Kunden auf der anderen Seite. Bitte bringe diese %INDEF_CARGO%CARGO zu %NPC. Ich habe arrangiert, dass %NPC Dich für die Reise bezahlen wird. Stehle nicht meine Waren! Das wird Dich nicht nur zum Gesetzlosen machen - ich habe auch einen Freund, einen Zauberer, der sehr gut im Verfluchen ist. Aber laß uns nicht über solche Dinge sprechen ...Das kann der Anfang von etwas sein, das für alle sehr profitabel ist, mein Freund!"
-
-
-
-
    kocale_assign_3_h = "%NPC in Kocatan hat Bedarf an unserer Ware für seine Kunden auf der anderen Seite. Bitte bringe diese %INDEF_CARGO%CARGO zu %NPC. Ich habe arrangiert, dass %NPC Dich für die Reise bezahlen wird. Beklaue mich nicht;  Ich habe einen Freund, einen Zauberer, der sehr gut im Verfluchen ist. Aber laß uns nicht über solche Dinge sprechen ...Das kann der Anfang von etwas sein, das für alle sehr profitabel ist, mein Freund!"
-
-
-
-
    kocale_failure_3 = "Betreff: Dieb!\nDein Diebstahl hat Dich durch das Urteil des Herzogs zum Gesetzlosen gemacht."
-
    kocale_failure_3_h = "Betreff: Dieb!\nDas Unglück, das Du durch Deine böse Tat verursacht hast, möge Dir folgen, wo immer Du hingehst."
-
    kocale_success_3 = "Ich sehe, dass %SOURCE_NPC sein Wort gehalten hat. Das ist sehr gut. Ich bin mir sicher, dass das der Anfang einer für alle zufriedigendstellenden Beziehung ist. Hier ist ein Zeichen meiner Wertschätzung."
 
-
-
    necrowarning2_assign_2 = "Ich habe Neuigkeiten von großer Dringlichkeit. Meine Reisen haben mich zu vielen Orten gebracht und ich habe viele fremdartige Dinge gesehen. Doch keine so gefährlichen wie diese verdorbenen Nekromanten. Bitte bring diesen Brief schnell zu %NPC. Ich glaube, dass diese Kreaturen eine Bedrohung für ganz Meridian darstellen. Sie kommen von einer Kraft, die älter als unsere Götter ist, auch wenn diese Gewalten in irgendeiner Art verknüpft sein könnten."
-
-
-
-
    necrowarning2_success_2 = "Du bringst mir das Geschwätz einer einfältigen Seele mit einem mitleiderregenden Gehirnzustand? Ich habe momentan wichtigere Dinge zu tun. Verlasse mich, ich habe Dir nichts zu sagen."
-
    necrowarning2_failure_2 = "Betreff: Mein Brief\n\nDu hast vor Deinen Freunden und dem Volk von Meridian für die Jahre, die kommen werden, versagt. Sie sind verdammt zu einem Leben in bösartiger Verdorbenheit und Du hast Dich entschlossen, ihnen nicht einmal eine Warnung zukommen zu lassen? Deine Verfehlung wird Leben kosten. Ich hoffe, Du kannst damit leben."
-
-
-
    necrowarning2_success_3 = "Sie hört nicht, aber das ist gleichgültig. Sie wurde gewarnt. Dank an Dich, mutige Seele. Nimm das als materielle Belohnung für Deinen Dienst an den Bewohner von Meridian."
-
 
    warletter_trigger1 = "Bote benötigt"
    warletter_assign = "Ah ja! Ich habe gerade diesen Brief an %NPC geschrieben. Bitte liefere ihn aus. Ich schlage vor, dass Du einen Leibwächter anheuerst. Ich bin sicher, dass die Belohnung für Dich und einen Wächter reichen wird."
-
-
    warletter_success = "Oh, Danke! Ich habe keinen Brief von %SOURCE_NPC erwartet, aber ich nehme ihn gerne.Bitte nimm dies als Zeichen meiner Wertschätzung."
-
    warletter_failure = "Betreff: Mein Brief?\nIch habe aus verlässlicher Quelle gehört, dass Du es nicht nur versäumt hast, meinen Brief zu überbringen, sondern dass Du ihn geöffnet und gelesen hast! Wie konntest Du! Nächstes Mal werde ich Dich dem Richter melden."
 
-
-
-
    identify_trigger = "Bote benötigt"
+
    potion_identify_assign_1 = "Tatsächlich! Ich habe vor kurzem diesen Zaubertrank erhalten! Ich habe versucht, ihn mit Hilfe von Magie zu identifizieren, aber er scheint meinen Bemühungen zu widerstehen. Könntest Du ihn zu %NPC bringen und %HIMHER_NPC fragen, ob sie ihn identifizieren können? Komm' zurück, falls Du weisst, was es ist, und ich werde dich dafür belohnen."
-
-
-
    potion_identify_assign_2 = "Hmm, ein sehr interessantes Exemplar. Lass mich nur ein paar Tropfen für die Analyse entnehmen... Ah ja, es scheint ein %CARGO zu sein. Lass mich ein Etikett darauf machen, damit %NPC weiß, was es ist."
-
-
-
    potion_identify_success = "Sehr gut, ich bin sicher, dass ich eine gute Verwendung für ein %CARGO finden werde. Hier, bitte nimm das in Zahlung."
-
    potion_identify_failure_1 = "Betreff: Der merkwürdige Trank\nHast Du Dich verlaufen? Mach Dir nichts draus. Das passiert Leuten, die neu in dieser Gegend sind, öfters. Der Zaubertrank war vermutlich gar nicht so wichtig. Vielleicht hab ich andere Aufgaben für Dich, wenn Du in Zukunft mal wieder hier vorbeikommst. Pass' auf Dich auf!"
-
-
-
    potion_identify_failure_2 = "Betreff: Der merkwürdige Trank\nHast Du Dich verlaufen? Mach Dir nicht draus. Das passiert Leuten, die neu in dieser Gegend sind, öfters. %NPC hat mich angesprochen und mir gesagt, dass der Zaubertrank sowieso nicht wichtig war. Schmeiss' dieses %CARGO einfach weg, nachdem sein Verfallsdatum schon lange abgelaufen ist."
 
-
-
-
    wand_identify_assign_1 = "Doch, jetzt wo Du es sagst. Ich hab vor Tagen einen solchen Zauberstab  gefunden, aber ich komme nicht darauf, was es mit ihm auf sich hat - scheinbar kann er Magie abwehren. Würde es Dir etwas ausmachen, ihn zu %NPC zu bringen, damit %HIMHER_NPC ihn für mich identifziert?  Ich wäre Dir sehr zu Dank verpflichtet."
-
-
-
    wand_identify_assign_2 = "Einen Zauberstab, was? Mhhh, zeig mal her ... aha! Siehst du die Runen hier ... da, am Griff ... Es muss %CARGO sein. Lass mich die Überstzung als Beschriftung auf dem Zauberstab anbringen, damit %NPC weiß, worum es sich handelt."
-
-
-
    wand_identify_success = "Wunderbar!  Ein %CARGO würde sicher ganz gelegen kommen. Ich werde Dir etwas für Deine Bemühungen geben."
-
    wand_identify_failure_1 = "Betreff: Der merkwürdige Stab\nZu diesem Zauberstab fällt mir ein, dass er ein ziemlich nutzloser Gegenstand ist. Bemühe Dich nicht, ihn zu identifizieren, ich bin sicher, dass es das nicht wert ist. Ich habe bestimmt andere Aufgaben für Dich zu erledigen, wenn Du in Zukunft mal wieder vorbeikommst. Bis später!"
-
-
-
    wand_identify_failure_2 = "Betreff: Der merkwürdige Stab\n%NPC hat mir gesagt, dass dieser Zauberstab sowieso nicht wichtig war. Mach Dir keine Sorgen über die Rückgabe. Wenn ich Du wäre, würde ich ihn eigentlich wegwerfen. Obwohl ich sagen könnte, was es war, hat es nicht so ausgesehen, als ob es gut funktionieren würde."
-
-
-
 
    jala_necklace_trigger = "Halskette"
    jala_necklace_assign_1 = "Ein Halsband Jalas? Ich habe von solchen feinen Dingen gehört, aber ich habe selbst leider keines. Gerüchte besagen, dass %NPC vor kurzem mit so einem angegeben hat. Vielleicht solltest du %HIMHER_NPC über das Halsband befragen?"
-
-
    jala_necklace_assign_2 = "Oh, JA! Ich bin froh, dich zu sehen, Freund. Schau, ich habe die beste Idee der Welt! Du singst doch, nicht wahr? Warum gehst du nicht und fragst %NPC ob %HIMHER_NPC sich nicht über etwas ~IUnterhaltung~I freuen würde? Ich werde als dein Agent agieren, und wir können den Gewinn fair teilen. Oh, und ich gebe dir auch dieses Halsband, das du willst."
-
-
-
    jala_necklace_trigger_2 = "Unterhaltung"
    jala_necklace_assign_3 = "Du singst hier? HA! Es gibt KEINEN Weg, dasss ich diesem Idiot Moxal traue. Geh und sprich mit %NPC und frage %HIMHER_NPC über diesen ~IVorschlag~I von Moxal."
-
-
    jala_necklace_trigger_3 = "Vorschlag"
    jala_necklace_assign_4 = "Warum hat %NPC dich hergeschickt? Geh und sage %HIMHER_NPC, dass er endlich aufhören soll, so dumm zu sein und dich ~Isingen~I zu lassen."
-
    jala_necklace_trigger_4 = "singen"
    jala_necklace_assign_5 = "Fein. Geh, hol' dein %CARGO und spiel ein Lied, dann gib %CARGO mir."
-
    jala_necklace_assign_6 = "Exzellent! Nach dieser Vorführung werden die Leute mir gutes Geld für die Laute eines solch berümhten Barden zahlen. Geh und erzähle %NPC, dass du dich wacker geschlagen hast."
-
-
    jala_necklace_success = "Du hast es geschafft? Die Bezahlung war geringer als ich erwartet hatte, also muss ich alles einbehalten um meine Kosten zu decken. Aber, hier ist das Halsband was ich dir versprochen habe. Komm bald zurück!"
-
-
    jala_necklace_failure_1 = "Du bist wohl verlorengegangen, hm? Weisst du nicht, dass %NPC auf dem Eiland lebt?"
-
    jala_necklace_failure_2 = "Ohje! Du bist nicht rechtzeitig für die Aufführung erschienen! %NPC teilte mir mit, dass eine andere Veranstaltung arrangierd wurde."
-
    jala_necklace_failure_3 = "Ich wusste es, das war wieder eine von Moxals Maschen. Lass dich nicht noch einmal auf ihn ein, mein Freund!"
-
    jala_necklace_failure_4 = "Hast du die Nerven verloren? Du musst %NPC das nächste Mal die Stirn bieten!"
-
    jala_necklace_failure_5 = "Nicht interessiert? Fein, ich werde jemand anders finden, er es ist."
-
    jala_necklace_failure_6 = "Du hast Moxal nicht aufgesucht? Ich habe gehört, wie er darüber lachte, was für einen Trottel er doch gefunden hat. Sei darauf vorbereitet, dass er dich wieder ausnutzt!"
 
-
-
    faction_soldier_trigger = "Soldat"
+
    duke_faction_soldier_assign_1 = "Ja, vielleicht kannst du es wirklich. Beweise deine Loyalität und ermorde %INDEF_MONSTER%MONSTER. Du kannst normalerweise welche finden, die Flaggenmasten bewachen. Komm danach hierher zurück, um von deinen Taten zu erzählen."
-
-
    duke_faction_soldier_assign_2 = "Exzellent. Zeige mir nun deine Missachtung für meine Gegner indem du %INDEF_MONSTER%MONSTER umbringst. Komm zu mir zurück wenn du diese Tat vollbracht hast."
-
-
    duke_faction_soldier_success = "Gut gemacht, mein Soldat. Willkommen in den Rängen der Elite. Bringe meinen Einfluss und meine Macht zu denen dieses Landes!"
-
-
    duke_faction_soldier_failure = "Du hast die Nerven verloren? Wie kannst du daran denken, auf dem Schlachtfeld zu überleben, wenn du das Töten nicht erträgst?"
 
-
-
    princess_faction_soldier_assign_1 = "Ich benötige Verbündete. Bitte, zeige deine Loyalität, indem du %INDEF_MONSTER%MONSTER bekämpfst. Du solltest einen finden, der einen Flaggenmast in der Nähe bewacht. Komm zurück und lass mich wissen, wenn du das erledigt hast."
-
-
    princess_faction_soldier_assign_2 = "Ich bin froh über deine Rückehr. Bitte kämpfe gegen %INDEF_MONSTER%MONSTER. Berichte mir, wenn du damit Erfolg hattest und ich werde dich zum Soldat machen."
-
-
    princess_faction_soldier_success = "Es ist gut, dass wir auf dich als Verbündeten zählen können. Nimm dies als Symbol deiner Verpflichtung zum Kampf."
-
    princess_faction_soldier_failure = "Ja, dieser Krieg ist hässlich und furchtbar, und es ist keine Schande, dich von der grässlichen Ausgabe abzuwenden, die dir auferlegt wurde. Dennoch brauche ich Soldaten, die das königliche Recht auf den Thron auf dem Schlachtfeld verteidigen. Suche mich wieder auf, wenn du genug Nerven hast, unseren Gegner zu bekämpfen."
 
-
-
-
    rebel_faction_soldier_assign_1 = "Ich glaube an dich. Geh und erledige %INDEF_MONSTER%MONSTER nahe einem Flaggenmast, erstatte mir danach Bericht über deinen Kampf, dann reden wir über deine Zukunft als Soldat."
-
-
    rebel_faction_soldier_assign_2 = "Ja, ich habe Geschichten über deinen Kampf gehört. Nun geh besiege %INDEF_MONSTER%MONSTER, und du sollst dich uns als Gleicher anschließen wenn du das erledigt hast."
-
-
    rebel_faction_soldier_success = "Ich wusste, du bist ein geeigneter Soldat. Jetzt schließt du dich uns an im Kampf für Freiheit und gegen Tyrannei!"
-
    rebel_faction_soldier_failure = "Ich bin von dir enttäuscht. Ich habe mehr von einem loyalen Anhänger erwartet. Solltest du gewillt sein, gegen die Unterstützer der Tyrannei zu kämpfen: Du weisst, wo du mich findest."
-
-
 
    murder_trigger = "Mörder"
    murder_say = "%CARGO"
    murder_princess_assign = "Genau wie die übrigen Leute in meinem schönen Land bin ich neugierig, zu erfahren, wer den ehemaligen Herzog getötet hat. Obwohl er und ich oft Rivalen waren, hat es mich traurig gemacht, ihn so gewaltsam sterben zu sehen. Wenn Du willst, kannst Du meine Suche unterstützen, indem Du %NPC nach jeglicher Information über den Mörder fragt und mir die Antwort übermittelst."
-
-
-
-
-
    murder_princess_success = "Ich weiß nicht, ob wir den Gerüchten glauben können. Ich danke Dir für Deine Hilfe; je mehr wir nachforschen, desto näher werden wir der Wahrheit kommen. Bitte nimm dies als Zeichen meiner Wertschätzung."
-
-
-
    murder_jonas_assign = "Nachdem anscheinend nicht ausführlich nach dem Mörder des ehemaligen Herzogs gesucht wird, habe ich es selbst übernommen, den Mörder zu entlarven. Wer auch immer die Tat begangen hat, dürfte immer noch sehr stark sein und könnte wieder zuschlagen. Frag %NPC nach dem Mörder und teile mir jede nützliche Information mit."
-
-
-
-
    murder_jonas_success = "Hmm, vielleicht ist das die Information, nach der ich gesucht habe. Danke für Deine Hilfe bei dieser Sache. Nimm dies mit meinem Dank."
-
-
-
    murder_duke_assign = "Der Tod meines Onkels bedrückt mich sehr. Tag und Nacht kann ich an nichts anderes denken! Ich muss dafür sorgen, dass jemand für dieses grausame Verbrechen zahlt. Bitte hilf mir bei der Suche, indem Du %NPC nach Informationen über den Mörder fragst. Teile mir unbedingt mit, was %NPC zu sagen hat."
-
-
-
-
-
    murder_duke_success = "Ah, ein weiteres Mosaiksteinchen im komplizierten Fall des Todes meines Onkels. Nimm dies mit meinem Dank und meiner Wertschätzung, mein treuer Gefährte."
-
-
    murder_princess_w_1 = "Wenn Du mich fragst, sieht es aus, als ob die Prinzessin nur sehr wenige bewaffnete Truppen besitzt. Warum läßt sie mobil machen, wenn sie kein Versteck hat?"
-
-
-
    murder_princess_w_2 = "Ich habe ehrlich keine Ahnung. Der Herzog wurde durch eine Waffe und nicht durch einen Zauber getötet, oder?"
-
-
    murder_princess_w_3 = "Die Ermordung des Herzogs ist eine Tragödie. Ich denke, dass niemand frei von Verdacht ist, nicht einmal die schöne Prinzessin. Aber welche Art von Waffe würde sie benutzen?"
-
-
-
    murder_princess_w_4 = "Ich habe gehört, dass die Prinzessin sowohl in Waffenfertigkeit als auch in Magie ausgebildet wurde. Obwohl sie seit Jahren keines von beiden benutzt hat, habe ich gehört, dass sie immer noch ein Profi im Umgang mit dem Schwert ist."
-
-
-
    murder_princess_w_5 = "Oh, ich bezweifle, dass derjenige, der den Herzog getötet hat, die Tat alleine begangen hat. Ich bin sicher, dass jeder, auch die Prinzessin, eine zwielichtige Gestalt angeheuert haben könnte, um kaltblütig zu morden."
-
-
-
    murder_princess_m_1 = "Offensichtlich war der Tod des Herzogs durch Macht motiviert. Es gibt keinen Zweifel, dass irgendjemand mit Einfluß, wie die Prinzessin, ihn aus dem Weg schaffen wollte, um seine eigene Macht zu vergrößern."
-
-
-
    murder_princess_m_2 = "Was außer Geld könnte das Motiv sein? Durch die schockierenden Nachrichten vom Tod des Herzogs können die Leute an der Macht seinen Besitz angreifen und Geld erbeuten. Schau Dir die ganzen Truppen an, die durch das Land ziehen. Die sind nicht billig, weißt Du."
-
-
-
-
    murder_princess_m_3 = "Es ist bedauerlich, aber ich bin sicher, dass die treibende Kraft hinter dem traurigen Ende des Herzogs etwas mit Steuern zu tun hat. Möglicherweise hatte es jemand satt, die hohen Steuern zu zahlen, oder jemand anderes wollte das Steuergeld für sich selbst?"
-
-
-
-
    murder_princess_m_4 = "Die Leute sagen, dass die starke Abneigung des Herzogs gegen die arme Prinzessin in dieser dunklen Nacht eine Rolle gespielt hat. Ich bezweifle, dass dies der Fall ist. Obwohl einen solche Gefühle zu unüberlegten Aktionen treiben können, denke ich nicht, dass die junge Prinzessin ihn angegriffen hat."
-
-
-
-
    murder_princess_m_5 = "Ich fürchte, dass die Konkurrenz zwischen dem Herzog und der Prinzessin in dem Mordkomplott eine große Rolle spielt. Die Prinzessin könnte erkannt haben, dass es leichter sein würde, Unschuld vorzutäuschen, den richtigen Augenblick abzuwarten und dann, wenn der Moment günstig ist, zuzuschlagen."
-
-
-
-
    murder_princess_c_1 = "Nun, ich finde, es ist ein bißchen seltsam, dass der Rat von Meridian sich nachts regelmäßig getroffen hat in der Woche vor dem blutigen Tod des armen Herzogs."
-
-
-
    murder_princess_c_2 = "Nur ein Blinder würde nicht bemerken, dass die Prinzessin auffälligerweise abwesend war in der Nacht des Mordes. Können wir ihren Aussagen trauen?"
-
-
    murder_princess_c_3 = "Ich verdächtige jeden, der ein zu starkes Alibi hat. Wie bei der Prinzessin. Ist es nicht verdächtig, dass fast der ganze Rat schwört, zu dieser Zeit bei einem Treffen gewesen zu sein?"
-
-
-
    murder_princess_c_4 = "Ist es nicht seltsam, dass niemand etwas gehört oder gesehen haben will, obwohl der Herzog so brutal umgebracht wurde? Vielleicht war in dieser Nacht eine fremde Magie tätig."
-
-
-
    murder_princess_c_5 = "Ich denke, ich habe eine Priesterin sagen hören, dass in dieser Nacht merkwürdige magische Kräfte aktiv waren. Ich frage mich, ob die Prinzessin irgendetwas darüber weiß?"
-
-
-
    murder_jonas_w_1 = "Ich habe gehört, dass Jonas nie mehr sein Schwert in der Öffentlichkeit reinigt, wie er es ab und zu vor der Ermordung des Herzogs getan hat. Was will er verbergen?"
-
-
    murder_jonas_w_2 = "Nun, Jonas ist ein Meister verschiedener Waffen, wie er uns oft unter Beweis stellt. Ich bin sicher, dass er ein Meister der Waffe ist, die bei der Ermordung des Herzogs benutzt wurde."
-
-
-
    murder_jonas_w_3 = "Ich habe gehört, wie jemand zu einem meiner Freunde gesagt hat, dass Jonas keine echte Waffe handhaben kann, um sein Leben zu schützen, und dass alle seine Geschichten Lügen seien."
-
-
-
    murder_jonas_w_4 = "Ran'er Zen hat kürzlich gesagt, dass der Mord mit einem Löffel begangen wurde. Hat Jonas nicht erzählt, dass er sich mit einem Löffel verteidigt hat, als er einmal in einem Gasthof angegriffen wurde?"
-
-
-
    murder_jonas_w_5 = "Jemand hat mir erzählt, dass Hat er den Herzog mit seinem eigenen Schwert getötet?"
-
-
    murder_jonas_m_1 = "Hast Du die Gerüchte darüber gehört, dass Jonas davon spricht, dass der Adel das Volk unterdrückt? Ich finde das wichtig."
-
-
    murder_jonas_m_2 = "Ich habe irgendwo gehört, dass Jonas davon redet, dass er das Volk besser führen könnte als der Herzog. Vielleicht hat er gehofft, den Platz des Herzogs einzunehmen."
-
-
-
    murder_jonas_m_3 = "Hey, hat Jonas nicht sehr großzügig dem Tempel von Kranan der Faust gespendet?  Ich frage mich, ob sein Wohlstand in Gefahr ist."
-
-
    murder_jonas_m_4 = "Jonas hat irgendjemandem erzählt, dass er selbst eine Armee ausheben will. Das könnte teuer werden. Ich frage mich, woher er das Geld bekommen will."
-
-
-
    murder_jonas_m_5 = "Jemand hat erzählt, dass die Prinzessin und Jonas vor kurzem gute Freunde geworden sind. Vielleicht hat sie ihn angeheuert, um den Herzog zu töten? Er versucht immer, seine Kampfqualitäten unter Beweis zu stellen."
-
-
-
    murder_jonas_c_1 = "Ich finde es seltsam, dass man Jonas nie findet, wenn man ihn braucht. Er ist so ein aalglatter Typ, der sich schnell aus dem Staub machen kann."
-
-
-
    murder_jonas_c_2 = "Jonas erklärte, er sei im Kraanan-Tempel gewesen, als der Herzog brutal ermordet wurde, aber Priesterin Quertina sagt, dass sie sich nicht daran erinnert, ob er dort war oder nicht."
-
-
-
    murder_jonas_c_3 = "Ich dachte, ich hätte gehört, dass Jonas Roluk als Mörder beschuldigt wurde. Ist es nicht komisch, dass er versuchen sollte, Roluk Ärger einzuhandeln, vor allem, wenn man ihre gemeinsame Vergangenheit bedenkt?"
-
-
-
    murder_jonas_c_4 = "Ich habe gehört, dass Jonas die Prinzessin so eingeschüchtert hat, dass sie sich gegen den Herzog gewandt hat. Wenn man bedenkt, was er alles zu gewinnen hat, könnte das gut möglich sein."
-
-
    murder_jonas_c_5 = "Ich glaube, ich habe Jonas am Tempel von Kranaan gesehen, ungefähr zu der Zeit, als der Herzog ermordet wurde, aber ich bin mir nicht sicher."
-
-
    murder_miriana_w_1 = "Nun, Reisende erzählten mir, dass sie Miriana in den Wäldern gesehen haben, tanzend und mit einem Messer bewaffnet. Woher hatte sie eine Waffe?"
-
-
    murder_miriana_w_2 = "Irgendwer sagte, dass Miriande einmal eine Spinne in zwei Hälften zerteilte - mit irgend einem mächtigen Zauber. Die Wunde sah eher nach einer Waffenverletzung aus als nach einem typischen magischen Schaden, sagten sie."
-
-
-
    murder_miriana_w_3 = "Ich habe mit angehört, wie jemand erzählt hat, dass er Miriana durch den Wald habe rennen hören, irgendetwas von Faren schreiend und ihre Waffe zurückfordernd. Was könnte das bedeuten?"
-
-
-
    murder_miriana_w_4 = "Jemand hat gesagt, dass Miriana die wahre Macht des Zaubers, der \"Magisches Opfer\" genannt wird, kennt. Ich frage mich, was sie mit all dieser Macht tut?"
-
-
    murder_miriana_w_5 = "Ich habe mal gehört, dass die Waldschrate ihre Lichtblitze auf Miriana geschleudert haben und dass sie sie mit noch größerer Kraft wieder zurückgeworfen hat. Könnte sie diese Macht gegen den Herzog eingesetzt haben?"
-
-
-
-
    murder_miriana_m_1 = "Ich habe mit angehört, wie ein Wächter gesagt hat, dass er mit einer kleinen Gruppe von Wächtern in den Wald gezogen ist, um Miriana zu suchen. Als sie sie gefunden hatten, haben sie versucht, ihr eine Nachricht des Herzogs mitzuteilen, aber sie wurde zornig und ging weg. Hat sie den Herzog gehaßt?"
-
-
-
-
    murder_miriana_m_2 = "Ein Zauberer hat mir einmal erzählt, dass die Prinzessin heimlich Miriana unterstützt, weil sie weiß, wie man sich die Macht der Magie verschafft. Könnten sie gemeinsam den Komplott gegen den Herzog geschmiedet haben?"
-
-
-
    murder_miriana_m_3 = "Ich erinnere mich daran, wie der Herzog sich darüber lustig gemacht hat, dass Miriana Tiere als Freunde hat, weil das die einzigen sind, die sie ertragen können. Danach gab es einen lauten Donnerschlag außerhalb der Mauern des Schlosses. Kann an dieser Geschichte etwas Wahres sein?"
-
-
-
-
-
    murder_miriana_m_4 = "Die Leute sagen, dass Miriana seit Generationen einen Groll gegen die Familie des Herzogs hegt. Kann sie so alt sein?"
-
-
    murder_miriana_m_5 = "Vor einigen Jahren habe ich die Geschichte gehört, dass Miriana einmal den Herzog besucht und ihn vor irgendeiner Gefahr gewarnt hat. Nachdem das Ereignis, das sie vorhergesagt hatte, eingetreten war, klagte sie der Herzog des Mordversuchs an ihm an. Ich frage mich, ob sie jetzt zurückgekehrt ist, um den Job zu beenden?"
-
-
-
-
    murder_miriana_c_1 = "Einer meiner Freunde hat mir erzählt, dass Miriana eines Tages im Wald war und plötzlich ohne Grund schrie: 'Ich habe es getan, meine Gebieterin. Er ist tot.' ich frage mich, ob sie den Herzog gemeint hat?"
-
-
-
    murder_miriana_c_2 = "Ich weiß überhaupt nichts darüber, was in jener Nacht im Schloß des Herzogs passiert ist. Ich war im Wald beim Pilzesammeln, während ich Miriana aus dem Weg gegangen bin."
-
-
-
    murder_miriana_c_3 = "Ich habe in der Nacht, als der Herzog starb, im Wald in der Nähe von Tos eine seltsame Gestalt gesehen. Es war eine kleine Person, etwa so groß wie ein junges Mädchen."
-
-
    murder_miriana_c_4 = "Ich bin vor kurzem in den Wald gegangen, um Kräuter zu suchen, als ich einen Abenteurer mit Miriana sprechen hörte. Als er den Herzog erwähnt hat, wurde sie sehr böse und weigerte sich, ihm die Zaubersprüche zu lehren, die er wollte."
-
-
-
    murder_miriana_c_5 = "Ich habe die Leute behaupten hören, dass Miriana hinter der Ermordung des Herzogs steckt. Ich finde die Vorstellung, dass ein kleines Mädchen hinter einem solchen Mord steckt, lächerlich."
-
-
-
    murder_lich_c_1 = "Nun, ich habe gehört, dass einer der Wirte Bier an den herzöglichen Hof auslieferte, für das große Festmahl. Scheinbar hat sich eine neugierige Frau bei den Gespannen herumgetrieben, als sie die Fässer hineinschafften. Sie hatte einen ganz bleichen Teint und trug ein merkürdig aussehendes Amulett."
-
-
-
-
    murder_lich_c_2 = "Ich habe von einem Handelsreisenden erfahren, dass Blitze und seltsamer Lärm aus den Hügeln von Brax kamen, in der Nacht, als der Herzog starb."
-
-
    murder_lich_c_3 = "Manche Leute vermuten, dass die Königin von Lich den Herzog getötet haben könnte, aber wenn man darüber nachdenkt, hat der Herzog nicht viel getan, womit er der Königin in die Quere hätte kommen können. Wenn er eine Armee nach Brax geschickt hätte, wie es einige Leute wollten, wäre es eine andere Geschichte."
-
-
-
    murder_lich_c_4 = "Also ich weiß absolut nichts über diese Sache. Ich habe meine Mutter besucht; ihr geht es nicht besonders. Aber wenn ich es mir so überlege: Die Nekromanten haben sich auffallend ruhig verhalten die letzte Zeit, zu ruhig für meinen Geschmack."
-
-
-
    murder_lich_c_5 = "Gut, ich kann nicht sicher sein weißt Du, aber ich habe gehört, dass eine große Gruppe von Nekromanten gesehen wurde, die ungefähr eine Woche vor dem Mord durch die Berge nach Tos kam."
-
-
    murder_lich_w_1 = "Eigentlich sollte ich es dir nicht erzählen, aber ich habe einen Freund, bei der Herzogswache und der sagt, dass sie einer großen Enthüllung auf der Spur sind. Der Herzog gar nicht ermordet!  Sondern er hat sich selbst gerichtet bei dem Versuch, ein Amulett der Drei abzunehmen!"
-
-
-
    murder_lich_w_2 = "Ich weiß nichts von einer Waffe, aber die Festhalle war verschlossen - keine Chance, rein oder raus zu kommen. Also wer ihn umbrachte, konnte teleportieren. Und die einzigen Menschen, von denen ich weiß, dass sie so etwas können, sind die Nekromanten."
-
-
-
    murder_lich_w_3 = "Ich habe gehört, dass unmittelbar bevor sie die Leiche fanden, einige der Wachen des Herzogs von gehörnten Skeletten angegriffen wurden!"
-
-
    murder_lich_w_4 = "Ein Freundin von mir arbeitet für die Prinzessin, und sie ist überzeugt, dass der Herzog ein Nekromant geworden war."
-
-
    murder_lich_w_5 = "Ich habe gehört, dass einer der Wachen jemanden gesehen hat, der aussah wie der Herzog, und das Schloss verlassen hat, nach dem der Herzog tot war. Er wollte sich die Sache näher ansehen, aber die Person hat sich einfach in Luft aufgelöst. Übrig blieb nur eine schleimige Pfütze."
-
-
-
    murder_lich_m_1 = "Ich habe gehört, dass der Herzog beim Festmahl eine Großoffensive gegen Brax ankündigen wollte, um die dunkle Königin und die Nekromanten auszulöschen. Vielleicht ist sie ihm zuvorgekommen."
-
-
    murder_lich_m_2 = "Hmmm... es ist ja kein Geheimnis, dass sich die Nekromanten und ihre Königin von nichts auf der Welt davon abbringen lassen würden, uns zu schaden."
-
-
    murder_lich_m_3 = "Naja, eigentlich ging es dem alten Herzog gar nicht schlecht, bis Venya'cyr aufgetaucht ist. Also wenn du mich fragst, sie hatte ihre Finger im Spiel."
-
-
    murder_lich_m_4 = "Ein paar Leute behaupten, dass die Lich Königin den Herzog umgebracht hat, dabei weiß doch jeder, dass sie Brax seit Ewigkeiten nicht verlassen hat."
-
-
    murder_lich_m_5 = "Hat nicht Venya'cyr geschworen, beide, Herzog und Prinzessin zu töten?  Kateriina sollte aufpassen, sie könnte als nächste dran sein!"
-
-
    murder_akardius_c_1 = "Erzähl Herzog Arkadius bloß nichts davon, dass du es von mir hast, aber ich kann mir niemand sonst vorstellen, der Zugang zur Festhalle hatte, oder?"
-
-
    murder_akardius_c_2 = "Alles was ich weiß ist, dass der neue Herzog verdammt schnell reagiert hat, nach dem Tod seines Onkels. Fast so, als wäre alles gaplant gewesen ..."
-
-
    murder_akardius_c_3 = "Jeder der den Ausdruck auf dem Gesicht des armen Jungen gesehen hat, als er vor der Leiche seines Onkels stand, weiß, dass er es nicht gewesen sein kann."
-
-
    murder_akardius_c_4 = "Man sagt sich, dass der Herzog das Festmahl zu Ehren seines Neffen abhielt. Er wollte ihn zurück auf dem Festland willkommen heißen, und ihn zu seinem Erben einsetzen."
-
-
    murder_akardius_c_5 = "Dieser Herzog Arkadius hat irgend ein Geheimnis; hast du dich je gefragt, wo er sich all die Jahre  herumgetrieben hat? Auf der Insel, als Schüler im Riija Tempel, so schaut es aus! Und einem Anhänger des Gottes des Betrugs kann man nicht trauen."
-
-
-
    murder_akardius_w_1 = "Nachdem was ich weiß, wurde der Herzog weder mit einer Waffe noch mit Magie umgebracht, sondern mit Gift. Macht man das nicht so in adeligen Kreisen?"
-
-
    murder_akardius_w_2 = "Man sagt sich, dass sich Arkadius am Tag nach dem Mord am Herzog ein neues Schwert aus der Waffenkammer besorgt hat. Warum wollte er bloß sein Altes nicht mehr tragen..."
-
-
    murder_akardius_w_3 = "Ich habe gehört, dass Herzog Arkadius während seiner Abwesenheit Schüler am Riija Tempel war. Und bestimmt lernst du dort als Fortgeschrittener mehr als einfache Trugbilder. Ist nicht Riija der Gott der Tricks; manche Tricks können tödlich sein."
-
-
-
    murder_akardius_w_4 = "Ich weiß, dass kurz nach dem Mord am Herzog, alle Waffen der Wachen überprüft wurden. Und ich habe gehört, Herzog Arkadius bot sich freiwillig an, als Vorbild für seine Männer."
-
-
    murder_akardius_w_5 = "Man sagt sich, dass Herzog Arkadius ein vollendeter Schwertkämpfer war. Nicht dass viel dazu gehört hätte, seinen Onkel umzulegen. Naja, er war doch ein bißchen, ähm ... kräftig."
-
-
    murder_akardius_m_1 = "Der Volksmund sagt: Suche den, der den größten Nutzen hatte."
-
    murder_akardius_m_2 = "Ich habe gehört, dass Herzog Arkadius gar nicht auf die Insel gehen wollte, aber sein Onkel hat ihn einfach fortgeschickt, als er noch jung war. Vielleicht hat er ihn dafür gehasst."
-
-
    murder_akardius_m_3 = "Ich habe gehört, der Herzog soll Jonas wegen dessen militärischem Geschick gelobt und gesagt haben, er gebe einen guten Erben ab. Vielleicht wurde Arkadius ja eifersüchtig."
-
-
    murder_akardius_m_4 = "Madelia hat mir erzählt, dass sie mit Arkadius auf einem Picknick war, und er danach völlig aufgelöst wegrannte und rief \"Oh, wie konnte ich das Prinzessin Kateriina nur antun?\"  Waren sie vielleicht verliebt?  Der alte Herzog hätte das nie zugelassen!"
-
-
-
    murder_akardius_m_5 = "Jeder weiß doch, dass der Herzog Akardius sowieso zu seinem Erben einsetzen wollte. Warum also sollte er seinem Onkel, der ihm so viel Gutes getan hatte, etwas antun wollen."
-
-
    murder_maleval_c_1 = "Hmm... ich muss immer daran denken, dass Maleval freien Zutritt zu den Gemächern des Herzogs hatte. Keine Ahnung wie Kalior seine Nähe ertrug. Mich graust vor ihm ."
-
-
    murder_maleval_c_2 = "Eine der Wachen des Herzogs erzählte mir, dass Maleval immer in Zimmer auftaucht, die eigentlich verschlossen sein sollten. Vielleicht hat er einen eigenen Schlüsselbund."
-
-
    murder_maleval_c_3 = "Der Bruder der Frau meiner Kusine weiß sicher, dass Maleval  in der Nacht des Mordes am Qor Tempel war ... ähm ... also, nicht dass sie da je hingehen würde. Keiner in meiner Familie hängt Qor an. Niemand!"
-
-
    murder_maleval_c_4 = "Einer der Bediensteten des Herzogs erzählte mir, dass Kalior auf dem Festmahl Arkadius zu seinem neuen Berater ernennen wollte. Das konnte Maleval bestimmt nicht gefallen!"
-
-
    murder_maleval_c_5 = "Ein Freund von mir pflegt die Burggärten und während er die Hecken unter dem Fenster des Herzogs schnitt hörte er Maleval sagen, \"Vorsichtig Kalior. Du willst doch nicht meine Geduld prüfen.\"  Davor hatten sie eine Auseinandersetzung über ein geplante Offensive gegen Brax."
-
-
-
    murder_maleval_w_1 = "Wer weiß es schon? Aber wenn Magie mit im Spiel war, fällt mein erster Verdacht auf Maleval. Er wäre dazu fähig."
-
-
    murder_maleval_w_2 = "Die Tage hörte ich Ran er'Zen sagen, \"Eiskalt, eisgekühlt ... Hat sich Herzöglein gefühlt.\"  Könnte das bedeuten, Kalior wurde mit Eisigem Griff getötet?"
-
-
    murder_maleval_w_3 = "Ich kenn mich zwar nicht aus, aber ich kann mir schon vorstellen, dass man für so ein Vorhaben ziemlich mächtige Magie braucht."
-
-
    murder_maleval_w_4 = "Aus offiziöser Quelle habe ich vernommen, Kalior sei zu Tode geprügelt worden, aber ich hab das keine Sekunde geglaubt. Das war bestimmt Maleval und Schläge sind nicht seine Art."
-
-
    murder_maleval_w_5 = "Ein Freund sagt, der arme Kalior wurde erstickt, aber er konnte sich die Leiche nicht näher ansehen, weil er dauernd niesen musste."
-
-
    murder_maleval_m_1 = "Ich hatte schon immer das Gefühl, dass Maleval die graue Eminenz war. Vielleicht hat ihn seine Marionette gelangweilt."
-
-
    murder_maleval_m_2 = "Maleval scheint den jungen Arakdius wirklich zu mögen. Er wirkt so beschützend. Eigentlich nur verständlich, nachdem was Kalior zugestoßen ist."
-
-
    murder_maleval_m_3 = "Egal was manche sagen, ich glaube Maleval kommt nicht in Betracht. Er hatte Kalior eh in der Hand. Warum ihn also töten? Ein Riija-Schüler ist doch bestimmt schwerer zu kontrollieren!"
-
-
    murder_maleval_m_4 = "Es gibt Gerüchte über den finsteren Zauberer Maleval... Ich denke, die Leute haben nur Angst vor ihm, weil er so rätselhaft ist."
-
-
    murder_maleval_m_5 = "Angenommen, Maleval dachte, Kalior hätte nicht genug Respekt vor Magie. Vielleicht hat er ihm eine kleine Demonstration  vorgeführt."
-
-
    murder_roq_m_1 = "Gibt es da nicht einen professionellen Mörder, der in der Kanalisation von Barloque lebt?  Er scheint der perfekte Verdächtige zu sein. Ich bin überrascht, dass er noch nicht festgenommen worden ist!"
-
    murder_roq_m_2 = "Ich habe in Barloque Gerüchte gehört, dass Truppen in die Kanalisation geschickt werden sollen, um sie zu säubern, aber für mich hört sich das nach Hexenjagd an. Jeder weiß, dass sich Roq vor Jahren zur Ruhe gesetzt hat."
-
    murder_roq_m_3 = "Warum glaubst Du, dass Roq sich in der Kanalisation versteckt?  Ein Gerücht besagt, dass er vor Jahren Königin Katria getötet hat und sich immer noch versteckt hält. Meine Tante pflegt zu sagen, dass es Kalior selbst war, der ihn dazu angestiftet hat, vielleicht wurde also die Gerechtigkeit gewahrt."
-
-
    murder_roq_m_4 = "Es gab eine Zeit, da war Roq ein häufiger Gast aus Schloß Blackstone. Viele Leute haben sogar gedacht, dass er Kalior manipuliert. Ich frage mich, wie er sich gefühlt hat, als er nicht mehr Kaliors vertrauenswürdiger Berater war."
-
-
    murder_roq_m_5 = "Logisch gesprochen scheint der einfachste Weg jemanden zu beseitigen, der einen Meuchelmörder anzuheuern, zu sein. Das ist ja nicht Deine Schuld. Aber ich habe nie einen Mord geplant, also woher soll ich sowas wissen?"
-
-
    murder_roq_w_1 = "Ich habe gehört, dass der Herzog scheinbar durch einen Stich mit einem kleinen Messer zwischen die Schulterblätter getötet wurde."
-
-
    murder_roq_w_2 = "Von dem was ich gehört habe, war die eigentliche Wunde des Herzogs gar nicht so schlimm. Aber sie hat sich in sekundenschnelle entzündet und ihn in Minuten aufgefressen. Kam die Wunde von irgendeiner magisch verfluchten Waffe?"
-
-
    murder_roq_w_3 = "Einer der Wachen des Herzogs sagte, dass Kalior und Akardius ein Meuchelmörderspiel vor dem Festessen planten. Was, wenn jemand den schwarzen Dolch von Akardius vertauschte?"
-
-
    murder_roq_w_4 = "Jemand erzählt mir, dass er Roq am Tag nach dem Mord am Herzog mit nur einem Messer gesehen hat. Hat er nicht normalerweise zwei?"
-
-
    murder_roq_w_5 = "Ein Freund erzählt, dass der Herzog genau vier Mal geschrien hat. Heißt das, dass mehrfach auf ihn eingestochen wurde? "
-
    murder_roq_c_1 = "Ich hörte irgendwen erzählen, dass er kürzlich Roq gesehen hat, als er ein paar neue Waffen gekauft hat. Ich frage mich, wo er das Geld her hat?"
-
-
    murder_roq_c_2 = "Ich habe gehört, wie Leute erzählten, dass Roq den Herzog umgebracht haben soll, weil er eben ein Meuchelmörder ist. Ich denke das ist Unsinn. Und überhaupt, Roq kann es gar nicht gemacht haben, weil ich ein Messer von ihm gekauft habe während der Zeit des Mordes. Wobei, ein Freund erzählte mir, er kaufte eines. Ein kleines."
-
-
-
    murder_roq_c_3 = "Ein Freund sagt, dass er eine schattenhafte Figur durch die verschlungenen Pfade hat laufen sehen in der Nacht des Mordes. Er rief einen lauten Gruß, als es ihm mit rot glühenden Augen ansah und dann verschwand."
-
-
    murder_roq_c_4 = "Jemand erzählte mir, dass er Roq eine beträchtliche Summe in Oberts Obhut gab - erst kurz nach dem Mord. Es war in Kleidung eingewickelt, war aber sehr schwer und machte klimpernde Geräusche."
-
-
             % (Obert, when asked, will say that he must honor the privacy of his customers - but later in
             %  the mystery, players will be given a search warrant and will be able to retrieve the
             %  deposit.)
    murder_roq_c_5 = "Einer der Wächter des Herzogs erzählte mir, dass Roq Burg Schwarzstein an jenem Abend einen frühen Besuch abstattete. Maleval traf ihn auf den Stufen und nach ein paar harschen Worten, endete die Konversation damit, dass der dunkle Zauberer in die Nacht davonstürmte."
-
-
-
             % (any of the guards questioned will refuse to speak about that night)
    murder_random_w_1 = "Ach was! Die ganze Geschichte ist merkwürdig. Die Wahrheit ist, dass der Herzog es nicht erwarten konnte, das Fest zu eröffnen und Akardius zu feige ist zuzugeben, dass sich sein Onkel zu Tode gefressen hat."
-
-
    murder_random_c_1 = "Ich habe gehört, dass Akardius den Körper des Herzogs zu einem Heiler getragen hat - und das obwohl er schon tot war. Ich denke er war wie verrückt um ihn zu retten."
-
-
    murder_random_m_1 = "Nun, es gibt haufenweise Gerüchte über Maleval oder die Prinzessin oder das was Du sagtest. Einige Narren verdächtigen möglicherweise mich. Aber es würde mich nicht überraschen, wenn der Herzog eine heimliche Liebschaft gehabt hätte. Es sieht für mich wie eine Eifersuchtstat aus."
-
-
-
-
 
    questEngine_report_sender = "Das Rätsel"
    questEngine_report_1 = "Betreff: Status der Quest %q\nQuest %q hat %q aktive Instanzen.\n%q sind niemandem zugewiesen.\n%q sind bereits an %q vergeben worden."
-
-
    questEngine_report_2 = ",\n"
 
 classvars:

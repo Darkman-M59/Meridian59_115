@@ -21,8 +21,6 @@ resources:
 
    box_desc_rsc = "Diese Holzkiste bietet gerade genug Raum, um ein paar Gegenstände darin aufzubewahren. Sie ist eines der wenigen Übrigbleibsel ihrer Art."
 
-
-
 classvars:
 
    vrName = box_name_rsc

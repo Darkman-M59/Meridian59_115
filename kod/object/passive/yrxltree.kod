@@ -22,10 +22,6 @@ resources:
    yrxltree_name_rsc = "Der Yrxl-Baum"
    yrxltree_desc_rsc = "Dies ist der letzte von vielen Yrxl-Bäumen, der das gedankenlose Abzapfen des Harzes dieses Baumes wegen seiner magischen Eigenschaften überlebt hat. Es ist ein ungeschriebenes Gesetz, dass dieser Baum in Ruhe gelassen und mit höchstem Respekt behandelt wird."
 
-
-
-
-
    yrxltree_icon_rsc = yrxltree.bgf
 
 classvars:

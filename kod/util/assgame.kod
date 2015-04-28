@@ -42,34 +42,19 @@ resources:
 
    assgame_Mail_reset = "Es scheint, als sei der Mann, den Du als Roq kanntest, ein Hochstapler. Natürlich wurde der falsche Roq gemeuchelt. Ein neues Spiel wird aber schon in Bälde starten.\n\n-- Roq, die dunkle Klinge"
 
-
-
-
-
    assgame_winner = "### %s hat das Spiel der Meuchelmörder gewonnen."
-   assgame_prize = "~BFür den Gewinn des Meuchelmörderspiels wirst du mit %s%s belohnt."
+   assgame_prize = "~BFür den Gewinn des Meuchelmörderspiels wirst Du mit %s%s belohnt."
 
    assgame_go = "~IDein Dolch leuchtet in einem unirdischen Licht auf."
    assgame_urge = "~IEtwas in Dir drängt Dich, Roq aufzusuchen."
 
    assgame_mail_not_enough = "Betreff: Du wurdest verstossen.\n\nDu wurdest aus dem Kreis der Meuchelmörder verstossen, da Du scheinbar nicht genügend Zeit in dieser Welt für solcherlei Dinge übrig hast. \n\n--Roq, die dunkle Klinge"
 
-
-
-
-   assgame_mail_no_kills = "Betreff: Ich erwarte mehr Einsatz.\n\nSchon zwei Tage läuft das Spiel der Meuchelmörder, ohne dass ein Teilnehmer sein Leben lassen mußte. Sollte ein dritter Tag ohne Opfer verstreichen, werde ich das Spiel für unentschieden erklären.\n\n--Roq, die dunkle Klinge"
-
-
-
+   assgame_mail_no_kills = "Betreff: Ich erwarte mehr Einsatz.\n\nSchon zwei Tage läuft das Spiel der Meuchelmörder, ohne dass ein Teilnehmer sein Leben lassen musste. Sollte ein dritter Tag ohne Opfer verstreichen, werde ich das Spiel für unentschieden erklären.\n\n--Roq, die dunkle Klinge"
 
    AssGame_mail_disgrace = "Betreff: Schande auf euer Haupt.\n\nIhr habt kläglich versagt. Weil niemand das Spiel fortführte, habe ich es beendet. Diesmal darf niemand den Titel des Meistermeuchlers tragen.\n\n-- Roq, die dunkle Klinge"
 
-
-
-
    AssGame_mail_winner = "Betreff: Einer hat sich über die anderen erhoben.\n\n%q hat die Herausforderung der dunklen Klingen gewonnen.\n\n-- Roq, die dunkle Klinge"
-
-
    
    Assgame_go_wav = assassin.wav
    AssGame_roq = "Roq, die dunkle Klinge"

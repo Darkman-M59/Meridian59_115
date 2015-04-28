@@ -54,11 +54,9 @@ resources:
 
    system_user_killed_bridge_faith = "### %q stürzte sich von den Riija-Klippen in ein feuchtes Grab."
 
-
    system_user_killed_token = "### %q hat ein Artefakt an %s%q verloren."
    system_user_killed_shield = "### %q wurde vom Fraktionsrivalen %s%q besiegt."
    system_user_killed_guild = "### %q von %s%q wurde von %s%q von %s%q im Gildenkampf abgeschlachtet."
-
       
    guildwar_kill_title1 = " schlachtete "
    guildwar_kill_body1 = "Lasst es bekannt werden, dass "
@@ -212,8 +210,6 @@ resources:
 
    system_gift = "### %s%s! Aus ihrer unendlichen Güte heraus haben die Götter beschlossen, Dir dieses Geschenk zu geben."
 
-
-
    system_mail_template_rsc = "Betreff: %q\n%q\n"
    system_nothing_rsc = ""
    system_automated_rsc = "(Automatisierte Nachricht)"
@@ -231,13 +227,10 @@ resources:
 
    % A resource for use when a hidden admin tells something to a non-admin.
    %  Placed here so we can filter out user names to avoid confusion.
-   system_hidden_admin = "Ein Administrator"
+   system_hidden_admin = "Ein Guide"
 
    % Joke message
    system_joke_message = "~IEin seltsamer Wind weht durch die Lande und tötet alle Monster.~I\n~b~BGratulation!~B~k Alle Monster wurden besiegt!  Du hast Meridian 59 gewonnen.  Hoffentlich hattest du mit diesem ausergewöhnlichen Spiel deinen Spass."
-
-
-
    
 classvars:
 

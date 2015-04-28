@@ -20,17 +20,15 @@ constants:
 resources:
 
    EvilEnt_koc_name_rsc = "teotezmecya"
-   EvilEnt_name_rsc = "Kranker Baum"
+   EvilEnt_name_rsc = "Der verdorbene Waldschrat"
    EvilEnt_icon_rsc = res0003a.bgf
-   EvilEnt_desc_rsc = "Genährt durch die verdorbene Erde in diesem Land, verströhmt dieser lebende Baum das Böse mit seinem von Hass geschwärztem Saft."
-
-
+   EvilEnt_desc_rsc = "Während er aus der verdorbenen Erde der Lande zehrt, sondert dieser verdorbene Waldschrat das Böse aus, seine Säfte schwarz vor Hass."
       
    EvilEnt_leaves_sparse_rsc = res0003c.bgf
 
    EvilEnt_dead_icon_rsc = res0003d.bgf
    EvilEnt_dead_leaves_sparse_rsc = res0003f.bgf
-   EvilEnt_dead_name_rsc = "Überreste des kranken Baums"
+   EvilEnt_dead_name_rsc = "Die toten Überreste eines verdorbenen Waldschrates"
 
    EvilEnt_sound_hit = tr_atkh.wav
    EvilEnt_sound_miss = tr_atkm.wav

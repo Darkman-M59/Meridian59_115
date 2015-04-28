@@ -52,8 +52,6 @@ resources:
 
    admin_need_weapon = "Du musst die gewünschte Waffe in die Hand nehmen, um ihr eine Funktion zuzuweisen (dieser Befehl funktioniert fürs erste nur bei Waffen)."
 
-
-
    admin_made_itematt = "%s hebt %s%s, kurz in einem mystischen Licht aufleuchtend!"
    admin_gone_mortal = "%s scheint verwundbarer."
    admin_gone_immortal = "%s scheint weniger verwundbar."

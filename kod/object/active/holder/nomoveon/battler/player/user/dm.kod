@@ -133,14 +133,7 @@ resources:
 
    dm_guide_help = "Deine Macht ist sehr beschränkt.\n \nDM APPEAL ON/OFF schaltet die Rufe der Sterblichen ein und aus.\nDM GOOD, DM NEUTRAL, DM EVIL stellt Dein Karma auf gut, neutral oder böse ein.\nDM TOTEM ruft das Totem herbei.\nDM RELIC <Nummer/Name> ruft das zugehörige Relikt herbei.\nDM RUMBLE lässt den Raum kurz erbeben.\n"
 
-
-
-
-
    dm_help = "DM APPEAL ON/OFF, DM STEALTH ON/OFF, DM CLEAR ABILITIES, DM CLEAR INVENTORY, DM PK ENABLE, DM PK DISABLE, DM PK LOCK, DM PK UNLOCK, DM GET SPELLS, DM GET SKILLS, DM GET MONEY, DM BOOST STATS, DM GOOD, DM NEUTRAL, DM EVIL, DM TOTEM, DM RELIC <Nummer/Name>, DM MONSTER <Monstername>, DM ITEM <Gegenstandsname>, DM GET <reagents/ food/ armor/ gems/ rings/ weapons/ necklaces/ potions/ sundries>, DM PORTAL (lässt das Portal in der Universität auftauchen und verschwinden)"
-
-
-
 
    dm_dontinterfere = "~B~gDu solltest Dich nicht ins Spiel einmischen."
 

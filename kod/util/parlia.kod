@@ -28,7 +28,7 @@ resources:
    parliament_spell_up = "~ITechniken, erlernt am Hof von %s, verbessern die Effektivität Deiner Zaubersprüche."
    parliament_defense_up = "~I%ss Techniken helfen Dir, Dich besser zu verteidigen."
    parliament_regen_up = "~I%ss Führung hilft Dir dabei, Dich schneller zu erholen."
-   parliament_vigor_up = "~I%ss Führung hilft Dir dabei, Dich schneller zu erholen."
+   parliament_vigor_up = "~IDurch die Leitung von %s bewahrst Du etwas von Deiner Ausdauer."
    
    parliament_price_down = "~IMöglicherweise wären die Preise besser, wenn %s mehr Einfluß hätte."
    parliament_dam_down = "~IMöglicherweise würdest Du mehr Schaden anrichten, wenn %s mehr Einfluß hätte."
@@ -37,7 +37,7 @@ resources:
    parliament_spell_down = "~IMöglicherweise hätten Deine Zaubersprüche mehr Effektivität, wenn %s mehr Einfluß hätte."
    parliament_defense_down = "~IMöglicherweise könntest Du Dich besser verteidigen, wenn %s mehr Einfluß hätte."
    parliament_regen_down = "~IMöglicherweise könntest Du Dich besser erholen, wenn %s mehr Einfluß hätte."
-   parliament_vigor_down = "~IMöglicherweise könntest Du Dich besser erholen, wenn %s mehr Einfluß hätte."
+   parliament_vigor_down = "~IWenn %s etwas begünstigter wäre, würdest Du Deine Ausdauer vielleicht etwas langsamer verbrauchen."
 
    parliament_sell_to_murderer = "Normalerweise verkaufe ich nichts an An Leute ~IDeines~n Typs. Aber da Du im Auftrag von %s handelst, habe ich wohl keine andere Chance."
 
@@ -79,17 +79,6 @@ resources:
    parliament_name = "Gerichtsbericht"
 
    parliament_info_mail = "Report:\n\nGefolgschaft der Prinzessin: %i\nGefolgschaft des Herzogs: %i\nRebellenanhänger: %i\nFraktionslose: %i\nIntriganten gesamt: %i\n\nKraft der Prinzessin: %i\nKraft des Herzogs: %i\nKraft der Rebellen: %i\nKraft der Fraktionslosen: %i\n-----"
-
-
-
-
-
-
-
-
-
-
-
 
 classvars:
 
