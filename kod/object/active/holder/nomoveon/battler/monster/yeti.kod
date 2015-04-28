@@ -23,10 +23,6 @@ resources:
    yeti_icon_rsc = yeti.bgf
    yeti_desc_rsc = "Diese wundersame weiße Kreatur überragt mit ihrer Gestalt alle anderen Wesen. Yetis sind extrem gefährlich, besonders wenn sie in Eishöhlen, ihren Ruheplätzen, angegriffen werden. Nur ein Verrückter würde einen Yeti alleine angreifen."
 
-
-
-
-
    yeti_dead_icon_rsc = yetiX.bgf
    yeti_dead_name_rsc = "Die Leiche des Yetis"
 

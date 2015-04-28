@@ -20,12 +20,6 @@ resources:
    RebelLiege_icon_rsc = wngenera.bgf
    RebelLiege_desc_rsc = "Zeit und Ärger machten Jonas D'Accor zu einem harten Mann. Er steht unerschütterlich an seinem Platz und denkt über die Zukunft des Landes nach. Die Aktionen der anderen Lehnsherren zwangen ihn zu dem Versuch, nach der Krone zu greifen. Er glaubt, dass die anderen Lehnsherren nicht stark genug sind, um zu regieren, auch wenn sie einen rechtmäßigen Anspruch auf den Thron haben. Er organisiert seine Rebellen und hofft, mehr Unterstützung für seinen Griff nach der Krone zu bekommen und Frieden und Ordnung zurückzubringen."
 
-
-
-
-
-
-   
    RebelLiege_token_delivered_rsc = "Die Rückgabe dieses Artefakts wird dem Rat zeigen, dass man meine Macht nicht ignorieren kann. %s"
    RebelLiege_rebel_delivered_rsc = "Du bist in meiner Sache sehr loyal. Ich danke Dir."
    RebelLiege_neutral_delivered_rsc = "Bist Du auch ein Gegner der Tyrannei der gegenwärtigen Thronanwärter? Folge mir."
@@ -34,7 +28,6 @@ resources:
 
    RebelLiege_already_have_spell = "Ich glaube, Du kennst bereits den %s Zauberspruch."
    RebelLiege_no_murderer = "Ich bin ein Diener des Gesetzes, und als solcher ist mein Gewissen nicht, Dir zu helfen. Bitte geh weiter."
-
 
 classvars:
 

@@ -35,7 +35,6 @@ resources:
 
    LivingStatue_desc_rsc = "Diese Statue ist das Abbild eines alten %s."
 
-
    LivingStatue_dead_name_rsc = "Eine zerbröselte lebendige Statue"
 
    LivingStatue_mason = "Baumeisters"

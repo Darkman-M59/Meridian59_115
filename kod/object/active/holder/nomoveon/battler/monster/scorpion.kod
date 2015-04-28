@@ -22,9 +22,6 @@ resources:
    scorpion_icon_rsc = scorp.bgf
    scorpion_desc_rsc = "Hoch ragt der tödliche Stachel des Skorpions in die Luft, und sein harter Panzer schützt ihn bis auf die stärksten Schläge vor allen Attacken."
 
-
-
-
    scorpion_dead_icon_rsc = scorpX.bgf
    scorpion_dead_name_rsc = "Ein toter Skorpion"
 

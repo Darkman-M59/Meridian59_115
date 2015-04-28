@@ -22,17 +22,9 @@ resources:
    lich_pretty_icon_rsc = licha.bgf
    lich_pretty_desc_rsc = "Eine edle Frau von unglaublicher Schönheit. Königin Venya'cyr bewegt sich mit einer kultivierten Eleganz, die in diesem Zeitalter fast nicht mehr gesehen wird. Du kannst Dich nur wundern, wie sie es über all diese Jahrhunderte geschafft hat, ihr Gesicht so jung und schön zu halten."
 
-
-
-
    lich_name_rsc = "Die Königin Venya'cyr"
    lich_icon_rsc = lichb.bgf
    lich_desc_rsc = "Duch einen dunklen Pakt der Jahrhunderte in der Vergangenheit geschlossen wurde, wird Königin Venya'cyrs entsetzlicher Leichnam durch dunkle Magie am Leben erhalten. Reine Kraft geht spürbar von ihren Augen aus, als ein intensiver Blick Dein Herz mit Furcht erfüllt.Die Jahrhunderte haben scheinbar ihren Zoll von ihrer pysikalischen Form gefordert, denn ihre Haut ist ein Haufen verrottendes Fleisch, das von Würmern bevölkert wird."
-
-
-
-
-
       
    lich_dispel = "Die schreckliche Erscheinung des Lichs ist nun enthüllt und für alle sichtbar!"
    lich_respel = "Die schreckliche Erscheinung des Lichs ist wieder mit einer Illusion verdeckt."
@@ -50,22 +42,16 @@ resources:
    lich_death_blow = "Dein letzter Schlag hat die verdorbene Königin Venya'cyr von dieser Ebene der Existenz verbannt!"
    lich_single_killer = "Du hast persönlich die verdorbene Königin Venya'cyr von dieser Ebene der Existenz verbannt!"
    lich_double_killer = "Die verdorbene Lichkönigin wurde dank Dir und Deinen Kameraden von dieser Ebene der Existenz verbannt!"
-
    lich_helper_killer = "Die verdorbene Lichkönigin wurde dank Dir und Deinen Kameraden von dieser Ebene der Existenz verbannt!"
 
    lich_no_truce = "Die verdorbene Gegenwart der Lichkönigin zerstört Deine Waffenruhe, bevor Du sie auch nur zaubern kannst."
    lich_killed_world_saved_0 = "~B"
    lich_killed_world_saved_1 = " hat die dunkle Königin Venya'cyr getötet und Meridian von der bösen Herrschaft der Nekromanten befreit!\nDanke an "
-
-
    lich_comma = ", "
    lich_and = "und "
    lich_killed_world_saved_2 = ". Die guten Bewohner Meridians können nun wieder in Sicherheit leben, wissend, dass "
-
-   lich_killed_world_saved_3 = "mit der untoten Königin vergangen sind."
-
-   lich_killed_world_saved_nolich = "hat den letzen des Ordens der Nekromanten erschlagen und befreit somit Meridian von ihrer Bosheit!\n"
-
+   lich_killed_world_saved_3 = " mit der untoten Königin vergangen sind."
+   lich_killed_world_saved_nolich = " hat den letzen des Ordens der Nekromanten erschlagen und befreit somit Meridian von ihrer Bosheit!\n"
 
    lich_spit = lightnin.bgf
 

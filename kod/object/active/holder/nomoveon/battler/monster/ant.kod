@@ -21,9 +21,6 @@ resources:
    ant_icon_rsc = ant.bgf
    ant_desc_rsc = "Zuschnappende Zangen, noch blutig vom letzten Mahl der Ameise, greifen nach Dir. Obwohl langsam und fast blind, haben Ameisen einen feinen Geruchssinn für Menschenfleisch."
 
-
-
-
    ant_dead_icon_rsc = antX.bgf
    ant_dead_name_rsc = "Die tote Riesenameise"
 

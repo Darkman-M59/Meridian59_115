@@ -38,23 +38,11 @@ resources:
    avarshaman_name_rsc = "Der Avar-Schamane des Stammes der Pi-Piep"
    avarshaman_desc_rsc = "Die ist ein Schamane des Stammes der Pi-Piep. Der Legende nach blenden die Avar-Schamanen sich selbst, um ihr drittes, 'magisches' Auge zum Wachstum zu zwingen. Nur ein Narr wäre willens, diese furchterregenden Krieger herauszufordern."
 
-
-
-
-
    avarshaman_bone_name = "Der Schamane der Knochengruppe"
    avarshaman_bone_desc = "Dies ist ein mächtiger Schamane der  mystischen Knochengruppe. Der Legende nach blenden die Avar-Schamanen sich selbst, um ihr drittes, 'magisches' Auge zum Wachstum zu zwingen. Nur ein Narr wäre willens, diese furchterregenden Krieger herauszufordern."
 
-
-
-
-
    avarshaman_nomagic_name = "Der Avar-Schamane des Stammes der Ki-Ki-Krii"
    avarshaman_nomagic_desc = "Dies ist ein leibeigener Schamane des Stammes der Ki-Ki-Krii. Der Legende nach blenden die Avar-Schamanen sich selbst, um ihr drittes, 'magisches' Auge zum Wachstum zu zwingen. Nur ein Narr wäre willens, diese furchterregenden Krieger herauszufordern."
-
-
-
-
 
    avarshaman_dead_icon_rsc = avshamX.bgf
    avarshaman_dead_name_rsc = "Der tote Avar-Schamane"

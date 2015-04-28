@@ -21,8 +21,6 @@ resources:
    skeleton_icon_rsc = skelbody.bgf
    skeleton_desc_rsc = "Nur wenige Brocken aus fauligem Fleisch haften an dieser Sammlung von Knochen. Das Skelett, normalerweise leblos, ist von dunkler Magie mit Leben erfüllt."
 
-
-
    skeleton_head = skelhed2.bgf
 
    skeleton_dead_icon_rsc = skelX.bgf

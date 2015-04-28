@@ -21,14 +21,10 @@ resources:
    threeCouncilor_icon_rsc = threecon.bgf
    threeCouncilor_desc_rsc = "Ein Veteran der Kriege mit Ukgot. Er beherrscht jede Art des Kampfes. Bekleidet mit einer leichten Rüstung und den formellen militärischen Insignien, sitzt er untätig in seiner Hütte wie ein General, der Friedenszeiten verabscheut. Zylill hat lange bei den Streitkräften des Herzogs gedient und in dieser Zeit die Welt vor den Trollen geschützt. Er hat viele Geschichten zu erzählen."
 
-
-
-
    threecon_true_ideal_rsc = "Es ist beeindruckend, einen anderen zu treffen, der sich so gut auf den Kampf versteht."
    threecon_half_ideal_rsc = "Deine armseligen Fähigkeiten beeindrucken mich wahrlich nicht."
 
    threecon_unwanted_give = "~k%s%s teilt Dir mit, \"Das kann ich nicht brauchen.~n~k\""
-
 
 classvars:
 

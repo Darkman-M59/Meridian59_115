@@ -16,7 +16,6 @@ constants:
 
 resources:
  
-
    EvilTwin_name_rsc = "Böser Zwilling"
 
    EvilTwin_male_icon_rsc = btg.bgf

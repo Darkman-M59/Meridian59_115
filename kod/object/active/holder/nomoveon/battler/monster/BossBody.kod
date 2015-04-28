@@ -21,8 +21,6 @@ resources:
    OrcPitBossBody_icon_rsc = OrcPitbX.bgf
    OrcPitBossBody_desc_rsc = "Dies ist der Körper des Orkhäuptling. Sein Kopf ist fast vollständig abgetrennt."
 
-
-
    OrcPitBossBody_dead_icon_rsc = OrcPitbX.bgf
    OrcPitBossBody_dead_name_rsc = "Der Körper des enthaupteten Orkhäuptlings"
 
@@ -32,8 +30,6 @@ resources:
    OrcPitBossBody_sound_aware = tr_awr.wav
 
    OrcPitBossBody_monster_healing = "Der Körper des Orkhäuptlings zuckt ein wenig, sein fast vollständig durchtrennter Hals gurgelt grotesk, als sich seine Lungen krampfhaft zusammenziehen."
-
-
 
 classvars:
 

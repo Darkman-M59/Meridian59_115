@@ -20,7 +20,6 @@ resources:
    shalpriestess_icon_rsc = shalprst.bgf
    shalpriestess_desc_rsc = "Sauber und formell spricht diese Priesterin voll friedlicher Gelassenheit nur freundliche Worte. Sie wünscht sogar den Anhängern Qors Frieden und betet für ihre Erlösung."
 
-
    shal_forget_potion_sale = "~bDu solltest den %s%s kaufen und trinken; Sha-Lill wird Dich segnen, indem sie alle Spuren von Qor aus Deinen Gedanken vertreibt.~n~k"
 
    priestess_token_delivered_rsc = "~bAhhh. Ich werde dafür sorgen, dass dies ans richtige Ratsmitglied zurückgegeben wird. %s~n~k"
@@ -31,9 +30,7 @@ resources:
 
    shalpriestess_not_ready = "~bDie Schwierigkeiten des göttlichen Hammers können nur von jemanden erfaßt werden, der in den Lehren des Kriegsgottes wohl bewandert ist. Suche weiter, Kind, und kehre zurück, wenn Dein Geist seinem Weg ein wenig weiter gefolgt ist.~n~k"
 
-
    shalillepriestess_teach_song = "Oh, Du folgst Jala? Ich kenne ein wunderschönes Lied, dass die Mächte des Bösen behindert. Ich bringe es denen bei, die es zu lernen vermögen."
-
 
    shalillepriestess_teach = "Die Güte Sha-Lills bietet "
 

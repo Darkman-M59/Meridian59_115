@@ -22,10 +22,6 @@ resources:
    zombie_icon_rsc = zombie.bgf
    zombie_desc_rsc = "Das Böse hat die Toten in Form von Zombies zurück ins Leben gebracht. Verfaultes Fleisch, weiß und schwammig, hängt an weichen Knochen. Seine wäßrigen Augen starren blind ins Leere."
 
-
-
-
-
    zombie_dead_icon_rsc = zombieX.bgf
    zombie_dead_name_rsc = "Ein erledigter Zombie"
 

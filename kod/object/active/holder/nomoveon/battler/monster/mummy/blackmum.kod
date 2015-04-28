@@ -20,10 +20,6 @@ resources:
    blackmummy_name_rsc = "Die Schattenmumie"
    blackmummy_desc_rsc = "Diese üble Kreatur wurde durch schwarze Magie unbekannter Herkunft ins Leben gerufen. Ihr Fleisch ist faulig und weich, und ihre Augen bitten um die erlösende Ruhe von diesem verfluchten Unleben.\n\nDiese Kreatur leidet unter einem ständigen Schatten-Fluch, der ihr große Stärke, aber auch großes Leid gibt."
 
-
-
-
-
    blackmummy_dead_name_rsc = "Eine tote Schattenmumie"
 
 classvars:

@@ -24,13 +24,6 @@ resources:
    DeathSpider_icon_rsc = spidmagc.bgf
    DeathSpider_desc_rsc = "Einstmals dachte man, diese Kreatur sei eine Geschichte, um Kinder zu ängstigen. Die schwarze Spinne soll ein Produkt böser Magie sein, eine unheilige Verschmelzung von Mensch und Insekt. Ihre Herkunft, wie dem auch sei, ist je nach Geschichte verschieden. In manchen ist es das Schicksal einer armen Seele, die die Wege eines bösen Zauberers kreuzte. In anderen erzählt man sich, dass sie ein böser Zauberer ist, der sich für ein langes Leben transformierte. Alle alten Geschichten haben aber eines gemeinsam: Sie warnen Wanderer vor den besonders giftigen Bissen dieser Kreaturen."
 
-
-
-
-
-
-
-
    DeathSpider_dead_icon_rsc = spidmagX.bgf
    DeathSpider_dead_name_rsc = "Eine tote schwarze Spinne"
 

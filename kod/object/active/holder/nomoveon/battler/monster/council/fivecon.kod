@@ -21,19 +21,10 @@ resources:
    fiveCouncilor_icon_rsc = fivecon.bgf
    fiveCouncilor_desc_rsc = "Ein großer Reisender und Forscher, der jetzt den Erscheinungen der sagenumwobenen magischen Quellen hinterherjagt. Esseldi versucht, die prächtigen Hofkleider zu tragen, schafft es jedoch immer wieder, sie bei seinen improvisierten Forschungsreisen zu zerfetzen. Er genießt es, über seine Funde zu reden, ob nun irgendjemand interessiert ist oder nicht."
 
-
-
-
-
    fivecon_true_ideal_rsc = "Ich bin froh zu erkennen, dass du mein Interesse für die sagenumwobenen Quellen teilst."
-
    fivecon_half_ideal_rsc = "Du kannst nicht sehr neugierig sein, da Du nur so wenige magische Gegenstände auf Deinen Reisen in Deinen Besitz gelangt sind."
 
-
    fivecon_unwanted_give = "~k%s%s sagt zu dir, \"Behalte es. Du weißt nie, wann du es einmal gebrauchen könntest.~n~k\""
-
-
-
 
 classvars:
 

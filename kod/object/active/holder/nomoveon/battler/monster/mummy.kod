@@ -21,8 +21,6 @@ resources:
    mummy_icon_rsc = mummy.bgf
    mummy_desc_rsc = "Diese üble Kreatur wurde durch schwarze Magie unbekannter Herkunft ins Leben gerufen.Ihr Fleisch ist faulig und weich, und ihre Augen bitten um Ruhe von diesem verfluchten Unleben."
 
-
-
    mummy_dead_icon_rsc = mummyX.bgf
    mummy_dead_name_rsc = "Eine tote Mumie"
 

@@ -21,9 +21,6 @@ resources:
    spiderbaby_icon_rsc = spdrby.bgf
    spiderbaby_desc_rsc = "Obwohl sie kleiner und schwächer als ihre großen Artgenossen sind, bleiben die Spinnen tödlich. Ihr weicher Bauch ist vom letzten Fressen aufgebläht."
 
-
-
-
    spiderbaby_dead_icon_rsc = spdrbyX.bgf
    spiderbaby_dead_name_rsc = "Eine tote Spinne"
 

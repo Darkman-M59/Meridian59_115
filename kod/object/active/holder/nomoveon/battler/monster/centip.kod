@@ -21,9 +21,6 @@ resources:
    centipede_icon_rsc = centip.bgf
    centipede_desc_rsc = "Glänzende rote Schuppen umhüllen das Exoskelett des riesigen Tausendfüßlers. Instinkt, nicht Intelligenz, leiten diesen Allesfresser."
 
-
-
-
    centipede_dead_icon_rsc = centipX.bgf
    centipede_dead_name_rsc = "Ein toter Tausendfüßler"
 

@@ -27,9 +27,6 @@ resources:
    fungusbeast_icon_rsc = fungbst.bgf
    fungusbeast_desc_rsc = "Diese seltsame Kreatur aus weichem, schwammigen Gewebe bewegt sich langsam und überlegend. Riesige Sporen haften auf ihrem Rücken."
 
-
-
-
    % fungusbeast_head_icon_rsc = fungh.bgf
 
    fungusbeast_spore = spore.bgf

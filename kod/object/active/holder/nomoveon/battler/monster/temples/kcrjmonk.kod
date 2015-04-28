@@ -19,12 +19,9 @@ resources:
    RiijaMonk_icon_rsc = kcrjmonk.bgf
    RiijaMonk_desc_rsc = "Ein paar Fuß über dem Boden schwebend, beobachtet Dich dieses rätselhafte Wesen. Wenn es spricht, knistert die Stimme des Mönchs wie jahrhundertealtes Pergament. Du hast das ungute Gefühl, dass alles nicht so ist, wie es scheint. "
 
-
-
    RiijaMonk_name_rsc2 = "Das gespenstische kleine Mädchen"
    RiijaMonk_icon_rsc2 = kcrjgirl.bgf
    RiijaMonk_desc_rsc2 = "Mit der süßen Stimme eines Kindes und einem ungesunden Aussehen von Unschuld heißt Dich die Priesterin von Riija in ihrem inneren Heiligtum der Unwirklichkeit willkommen."
-
 
    riijamonk_teach = "~I~rRiijas Wahnsinn ~blehrt "
    riijamonk_notworthy = "~IIch sehe ~gkeine Anzeichen, dass ~bdu~g bereit bist zu ~rlernen."

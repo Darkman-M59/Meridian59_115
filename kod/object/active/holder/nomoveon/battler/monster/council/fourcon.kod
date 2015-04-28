@@ -21,10 +21,9 @@ resources:
    fourCouncilor_icon_rsc = fourcon.bgf
    fourCouncilor_desc_rsc = "Ein weiser Arzt, über den das Gerücht geht, er hätte die Heilungsfähigkeiten seines Körpers vervollkommnet. Sein Körper ist alt und verwittert, doch immer noch vollkommen gesund. Er glaubt wahrhaftig daran, dass die Stimme des Volkes bestimmt, wer sie anführt und stellt seinem Bündnispartner frei, zwischen den verschiedenen Parteien zu wechseln."
 
-
-
    fourcon_true_ideal_rsc = "Du besitzt ziemlich viel Lebenskraft. Soviel Training beeindruckt mich."
    fourcon_half_ideal_rsc = "Wie die meisten Leute, die ich treffe, siehst Du ziemlich schwächlich aus. Du kümmerst Dich zuwenig um Deine Lebenskraft."
+
    fourcon_unwanted_give = "~k%s%s sagt zu Dir, \"Ich habe keinen Bedarf an weltlichen Besitztümern.~n~k\""
 
    fourCouncilor_not_ready = "Ah, Du bist nicht kräftig genug, um zu lernen, wie Du Deinen zweiten Atem anwendest!"

@@ -51,7 +51,6 @@ resources:
 
    FactionTroop_desc_rsc = "Dies ist ein Mitglied der örtlichen Miliz."
 
-
    FactionTroop_dead_male_icona_rsc = playerXa.bgf
    FactionTroop_dead_male_iconb_rsc = playerXb.bgf
    FactionTroop_dead_female_icona_rsc = heraXa.bgf
@@ -148,7 +147,6 @@ resources:
    FactionTroop_rightarm_gauntlet_female = brf.bgf
    FactionTroop_leftarm_gauntlet_male = ble.bgf
    FactionTroop_leftarm_gauntlet_female = blf.bgf
-
 
 classvars:
 

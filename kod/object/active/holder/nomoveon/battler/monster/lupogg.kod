@@ -21,10 +21,6 @@ resources:
    lupogg_icon_rsc = lupogg.bgf
    lupogg_desc_rsc = "Dieser schreckliche und seelenlose Wasserbewohner soll Gerüchten zufolge von Natur aus friedlich sein. Beweise gibt es bislang keine. Der Lupogg scheint wütend zu werden, wenn sein Territorium durchschritten wird, und will wohl jeden herausfordern, den er finden kann."
 
-
-
-
-
    lupogg_dead_icon_rsc = lupoggX.bgf
    lupogg_dead_name_rsc = "Ein toter Lupogg"
 

@@ -20,23 +20,15 @@ resources:
    qorpriestess_icon_rsc = qorprst.bgf
    qorpriestess_desc_rsc = "Der perfekte Diener der schändlichen Qor. Die Schatten verdichten sich, wo diese mißgünstige Frau auftaucht. Sie verfügt über eine verschlagene Sinnlichkeit, die sie nutzt, damit Männer und Frauen sich dem dunklen Willen Qors ergeben. Wen sie nicht zu Qor verführen kann, sieht sie lieber tot."
 
-
-
-
-
    Qor_forget_potion_sale = "~I~rDu kannst den %s%s kaufen. Qor wird sich freuen, Dich der Verbote von Sha-Lills Lehren zu berauben.~n~k"
 
    qorpriestess_already_have_spell = "~bSpiel nicht mit mir, %s. Du hast bereits am dem trickreichen Spiel Riijas teilgenommen.~n~k"
 
    qorpriestess_not_ready = "~bQor besiegt diesen trickreichen Gott! Riija stahl Teile für Verblöden und Austausch von der Niederträchtigen. Geh' und unterwerfe dich dem verlassenen Gott der Insel und werde ein Adept der Künste des Trickmeisters. Nur dann kann ich dir wirklich alle Teile der Geheimnisse um Austauschen offenbaren.~n~k"
 
-
-
    qorpriestess_teach_song = "Bist Du einer dieser jaulenden Barden? Ich kann Dir ein Lied beibringen, dass die Magie Deiner Gegner behindert. Auch wenn Deine kleinen Ohren den wahren Klang der Melodie nie ganz hören und genießen werden."
 
-
    qorpriestess_not_powerful = "Komm wieder, wenn Du Dich von Deinem Schutzengel befreit hast und bereit bist, andere zum Ruhme der Niederträchtigen zu töten.~n~k"
-
 
    qorpriestess_teach = "Die Verdorbenheit Qors lehrt Dich "
 

@@ -24,10 +24,6 @@ resources:
    BatteredSkeleton_icon_rsc = skelbody.bgf
    BatteredSkeleton_desc_rsc = "Einige Streifen verfaulten Fleisches hängen an dieser Sammlung von menschlichen Knochen, die von einem zerschlagenen und sichtbar unmenschlichen Schädel gekrönt werden. Zischende Flüssigkeiten tropfen von den Zähnen und hinterlassen kleine Pfützen auf dem Boden darunter.Du schauderst, als Du daran denkst, was für ein dunkles Ritual diese Abnormalität zum Leben erweckt hat."
 
-
-
-
-
    BatteredSkeleton_head = skelhed3.bgf
    BatteredSkeleton_dead_icon_rsc = skelX.bgf
    BatteredSkeleton_dead_name_rsc = "Der Knochenhaufen"

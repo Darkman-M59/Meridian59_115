@@ -20,9 +20,6 @@ resources:
    princess_icon_rsc = princess.bgf
    princess_desc_rsc = "Das Alter machte Prinzessin Kateriina stärker und selbstbewußter, aber es änderte nur wenig an ihrer Naivität. Sie entwickelte eine große Verachtung für den Herzog und alle, die sich in politischen Intrigen engagieren. Politische Intrigen sind unter ihrer Würde, weil sie darauf vertraut, dass man sie akzeptiert, wenn sie weise und gerecht regiert. Die Magie fasziniert sie weiterhin und manchmal träumt sie davon, wegzulaufen, um die geheimnisvollen Künste zu studieren."
 
-
-
-
    princess_token_delivered_rsc = "Ahhh. Ich werde dafür sorgen, dass dies ans richtige Ratsmitglied zurückgegeben wird. Bei meiner Krone, dafür muss er mir eine Gegenleistung erbringen. %s"
    princess_princess_delivered_rsc = "Ihr wart immer ein loyaler Anhänger."
    princess_neutral_delivered_rsc = "Aufgrund Deiner guten Gedanken bitte ich Dich darum, meine Fraktion zu unterstützen. Schreibe Deinen Namen auf diese Rolle hier..."

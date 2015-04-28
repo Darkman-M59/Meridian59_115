@@ -21,9 +21,6 @@ resources:
    redant_icon_rsc = antr.bgf
    redant_desc_rsc = "Der Panzer der roten Ameise ist dick und hart und ihre Klauen sind scharf und tödlich. Sie ist stärker und tödlicher als ihre dunkelhäutigen Verwandten."
 
-
-
-
    redant_dead_icon_rsc = antrX.bgf
    redant_dead_name_rsc = "Eine tote rote Ameise"
 

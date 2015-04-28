@@ -27,14 +27,10 @@ resources:
    brambles_icon_rsc = wothorns.bgf
    brambles_desc_rsc = "Diese Brombeerranken ragen drohend auf, hoffend, Dir die Haut zu zerkratzen, wenn Du vorbeiläufst."
 
-
    Brambles_damage0 = "Du läufst ohne Zwischenfall durch die Brombeerranken."
    Brambles_damage2 = "Als Du durch die Brombeerranken läufst, kratzen sie Dich an einer Stelle, wo Du Dich schlecht kratzen kannst."
-
-
    Brambles_damage3 = "Das ist okay, Du hast dieses Stück Haut eh nicht gebraucht."
    Brambles_damage4 = "Du bist knapp davor, Deine Hosen zu verlieren, als die Brombeerranken danach greifen."
-
    Brambles_damage5 = "Ow ow ow ow ow ow ow..."
 
    Brambles_scratch_snd = frying.wav

@@ -21,12 +21,6 @@ resources:
    GroundWormQueen_icon_rsc = worml.bgf
    GroundWormQueen_desc_rsc = "Der größte Grundwurm ist die Königin, ein furchterregendes Monster. Nach ihrer langen Wachstumsphase brauchen Grundwürmer immer größere Mengen Nahrung, um sich zu ernähren. Die Königinnen sind verrückt vor Verlangen nach Nahrung, um ihren immensen Hunger zu stillen. Gelegentlich legen sie ihre Eier in Leichen, aus denen Grundwurmlarven schlüpfen."
 
-
-
-
-
-
-
    GroundWormQueen_dead_icon_rsc = wormlX.bgf
    GroundWormQueen_dead_name_rsc = "Erschlagene Grundwurmkönigin"
    GroundWormQueen_sound_aware = gwrm2awr.wav

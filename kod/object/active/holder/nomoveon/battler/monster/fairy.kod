@@ -21,9 +21,6 @@ resources:
    good_fairy_icon_rsc = faerie-g.bgf
    good_fairy_desc_rsc = "Als eine der noblen Feenrassen der Wälder sind die Fey Elhai bekannt für ihren Haß auf ihre dunklen Brüder, die Fey Dirhai."
 
-
-
-
    fairy_dead_icon_rsc = faerieXG.bgf
    fairy_dead_name_rsc = "Ein toter Fey"
 	

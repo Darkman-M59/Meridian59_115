@@ -20,8 +20,8 @@ resources:
 
    PrincessTroop_desc_rsc = "Dieser Soldat trägt mit Stolz die Farben der Prinzessin."
 
-
    PrincessTroop_dead_name_rsc = "Ein toter Soldat"
+
    PrincessTroop_sound_aware = trps2awr.wav
    
 classvars:

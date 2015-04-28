@@ -21,8 +21,6 @@ resources:
    oneCouncilor_icon_rsc = onecon.bgf
    oneCouncilor_desc_rsc = "Bekannt als der mächtigste Zauberer des Königreiches, steht Alzahakar stolz vor Dir. Du kannst den Widerstreit der vier verschiedenen Gottheiten in ihm spüren. Als einer der ältesten Freunde von König Zarkos V. berät er die Prinzessin seit ihrer Geburt."
 
-
-
    onecon_true_ideal_rsc = "Ich habe großen Respekt vor Deinen magischen Kenntnissen. Ich bin sehr erfreut, dass Du mir das Artefakt zurückgebracht hast."
    onecon_half_ideal_rsc = "Ich wäre eher beeindruckt, wenn Du mehr Zaubersprüche wüßtest, denn Du besitzt Potential."
 
@@ -30,7 +28,6 @@ resources:
    onecon_already_has = "Du weißt bereits um die verlorenen Geheimnisse von Riija."
 
    onecon_unwanted_give = "~k%s%s sagt zu Dir, \"Was für einen Nutzen könnte schon ein Zauberer meines Kalibers davon haben?~n~k\""
-
 
 classvars:
 

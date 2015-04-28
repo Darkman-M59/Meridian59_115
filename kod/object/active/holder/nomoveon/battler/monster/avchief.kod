@@ -37,22 +37,11 @@ resources:
    avarchief_name_rsc = "Der Avar-Häuptling der Pi-Piep"
    avarchief_desc_rsc = "Bekannt für seine edle Anmut, kontrolliert der Pi-Piep-Stamm sehr wirkungsvoll die Südostküste der Insel. Dieser Clan-Führer ist ob seiner hohen Treffsicherheit mit dem Bogen und seiner tödlichen Peitsche gefürchtet."
 
-
-
-
-
    avarchief_nomagic_name = "Der Avar-Häuptling der Ki-Ki-Krii"
    avarchief_nomagic_desc = "Bekannt für seine brutalen Instinkte, herrscht der Ki-Ki-Krii-Stamm erbarmungslos über die Nordwestküste der Insel. Dieser Clan-Führer ob seiner hohen Treffsicherheit mit dem Bogen und seiner tödlichen Peitsche gefürchtet."
 
-
-
-
-
    avarchief_bone_name = "Der Avar-Häuptling der Knochengruppe"
    avarchief_bone_desc = "Während er sich den alten Lehren der Knochengruppe verschrieben hat, ist dieser Clan-Führer ob seiner hohen Treffsicherheit mit dem Bogen und seiner tödlichen Peitsche gefürchtet."
-
-
-
 
    avarchief_dead_icon_rsc = avchiefX.bgf
    avarchief_dead_name_rsc = "Der tote Avar-Häuptling"

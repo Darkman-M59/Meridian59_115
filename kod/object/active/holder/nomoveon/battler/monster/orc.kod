@@ -21,9 +21,6 @@ resources:
    orc_icon_rsc = orc.bgf
    orc_desc_rsc = "Dieser stinkende Diener Qors ist über und über mit Schmutz bedeckt und überragt jeden Menschen bei weitem. Er fuchtelt wild mit einem Säbel in seiner knorrigen Hand herum."
 
-
-
-
    orc_dead_icon_rsc = orcX.bgf
    orc_dead_name_rsc = "Ein toter Ork"
 
@@ -31,7 +28,6 @@ resources:
    orc_sound_miss = orc_atkm.wav
    orc_sound_death = orc_dth.wav
    orc_sound_aware = orc_awr.wav
-
 
 classvars:
 

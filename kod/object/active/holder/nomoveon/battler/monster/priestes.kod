@@ -23,7 +23,6 @@ resources:
    priestess_icon_rsc = priestes.bgf
    priestess_desc_rsc = "Kein Lebewesen, nur zur Verzierung hier..."
 
-
 classvars:
 
    viIndefinite = ARTICLE_A

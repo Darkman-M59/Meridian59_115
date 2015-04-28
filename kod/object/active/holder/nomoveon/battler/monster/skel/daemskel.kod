@@ -21,9 +21,6 @@ resources:
    DaemonSkeleton_icon_rsc = skelbody.bgf
    DaemonSkeleton_desc_rsc = "Allein der Anblick dieser Abnormalität der Natur ist oft genug, um einen Menschen erstarren zu lassen. Du schauderst, als Du daran denkst, was für ein dunkles Ritual diese Abnormalität zum Leben erweckt hat."
 
-
-
-      
    DaemonSkeleton_head = skelhed4.bgf
    DaemonSkeleton_dead_icon_rsc = skelX.bgf
    DaemonSkeleton_dead_name_rsc = "Der Knochenhaufen"

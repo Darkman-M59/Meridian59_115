@@ -20,7 +20,6 @@ resources:
    troll_icon_rsc = troll.bgf
    troll_desc_rsc = "Der Troll ist ein scheinbar nur aus Muskeln bestehendes Monster, das mächtige Arme und rasiermesserscharfe Klauen besitzt."
 
-
    troll_koc_name_rsc = "humoch"
 
    troll_dead_icon_rsc = trollX.bgf

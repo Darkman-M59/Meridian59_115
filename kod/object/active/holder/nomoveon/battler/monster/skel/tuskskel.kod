@@ -21,9 +21,6 @@ resources:
    TuskedSkeleton_icon_rsc = skelbody.bgf
    TuskedSkeleton_desc_rsc = "Einige Streifen verfaulten Fleisches hängen an dieser Sammlung von menschlichen Knochen, die von einem Schädel gekrönt sind, dem große Stoßzähnen aus dem Mund ragen.Du schauderst, als Du daran denkst, was für ein dunkles Ritual diese Abnormalität zum Leben erweckt hat."
 
-
-
-
    TuskedSkeleton_head = skelhed1.bgf
    TuskedSkeleton_dead_icon_rsc = skelX.bgf
    TuskedSkeleton_dead_name_rsc = "Der Knochenhaufen"

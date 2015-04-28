@@ -16,18 +16,11 @@ constants:
 
 resources:
 
-
    duke_name_rsc = "Herzog Akardius"
    duke_icon_rsc = dukeneph.bgf
    duke_desc_rsc = "Ungeachtet seines Alters von 16 Jahren manövrierte sich Herzog Akardius erfolgreich in eine Position, um Nachfolger seines ermordeten Onkel zu werden. Der junge Herzog strahlt Vertrauen und Kraft aus. Gerüchten zufolge ist er ein überzeugter Anhänger von Riija und sein gewinnendes Lächeln deutet auf den beeinflussenden und täuschenden Aspekt dieses trickreichen Gottes hin. Trotz seiner übertriebenen Zurschaustellung der Trauer um seinen Onkel gibt es einige, die an die Aufrichtigkeit seines Kummers glauben."
 
-
-
-
-
    duke_murder_desc_rsc = "Das Gesicht des jungen Neffen des Herzogs, Akardius, ist von Kummer gezeichnet. Er steht über dem Körper seines Onkels und Tränen rinnen ihm übers Gesicht. Dennoch, ungeachtet seines Schmerzes kannst Du eine stählerne Härte und eine Stärke und Listigkeit erkennen, wie Du sie noch nie bei einem Jungen von 16 Jahren gesehen hast."
-
-
 
    duke_token_delivered_rsc = "Ahhh. Ich werde dafür sorgen, dass dies ans richtige Ratsmitglied zurückgegeben wird. Selbstverständlich wird er mir dann etwas schuldig sein. %s"
    duke_duke_delivered_rsc = "Du bist wahrhaftig ein wertvoller Diener."

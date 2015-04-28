@@ -20,7 +20,6 @@ resources:
 
    RebelTroop_desc_rsc = "Dieser Soldat trägt stolz die Farben der Jasper-Miliz."
 
-
    RebelTroop_dead_name_rsc = "Ein toter Rebellensoldat"
 
    RebelTroop_sound_aware = trps1awr.wav

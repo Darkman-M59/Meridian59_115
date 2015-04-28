@@ -20,7 +20,6 @@ resources:
    SnowRat_icon_rsc = srat.bgf
    SnowRat_desc_rsc = "Dies ist der im Schnee geborene Vetter des Festlandungeziefers. Er ist von Natur aus weniger abstoﬂend, ist jedoch als Gegner viel ernster zu nehmen."
 
-
    SnowRat_koc_name_rsc = "shonapyijoa"
 
    SnowRat_dead_icon_rsc = sratX.bgf

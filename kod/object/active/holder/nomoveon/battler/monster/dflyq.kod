@@ -39,8 +39,6 @@ resources:
    DragonFlyQueen_icon_rsc = dflo.bgf
    DragonFlyQueen_desc_rsc = "Die anderen Drachenfliegen scheinen dieses merkwürdig gefärbte Weibchen zu verehren. Sie sieht zu dir mit Hunger oder Neugier auf, du weißt nicht, welches von beiden es ist."
 
-
-
    DragonFlyQueen_wings_rsc = dflywing.bgf
 
    DragonFlyQueen_dead_icon_rsc = dfloX.bgf

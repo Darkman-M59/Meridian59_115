@@ -26,13 +26,7 @@ resources:
 
    duskrat_desc_rsc = "Die Luft um die Ratte ist dunkel und erfüllt mit Bösem. Der Geruch von Seuchen und Tod liegt auf ihrem stinkendem Atem als sie auf ihr Ziel zuschnellt. Die Herkunft dieser Abscheulichkeit ist unbekannt. Das einzige wirkliche Wissen besteht über das tödliche Gift, welches sie mit ihren Bissen überträgt."
 
-
-
-
-
    duskrat_poisoned_add_rsc = "Als das Gift in deinen Kopf wandert, fühlst du dich etwas leichtsinnig. Der Raum um dich herum beginnt sich zu drehen."
-
-
 
    duskrat_dead_icon_rsc = ratX.bgf
    duskrat_dead_name_rsc = "Eine tote schwarze Ratte"

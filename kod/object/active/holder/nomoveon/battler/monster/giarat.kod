@@ -21,8 +21,6 @@ resources:
    giantrat_icon_rsc = rat.bgf
    giantrat_desc_rsc = "Diese Riesenratte entblößt herausfordernd ihre gelben Zähne. Der Gestank von Fäulnis entströmt ihrem schmutzigen Fell."
 
-
-
    giantrat_dead_icon_rsc = ratX.bgf
    giantrat_dead_name_rsc = "Eine tote Riesenratte"
 

@@ -39,7 +39,6 @@ resources:
 
    reflection_trouble = "Du spürst, dass Dein Spiegelbild Dich in irgendwelche Schwierigkeiten gebracht hat..."
 
-
 classvars:
 
    viIndefinite = ARTICLE_NONE

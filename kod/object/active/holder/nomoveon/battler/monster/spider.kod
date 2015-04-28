@@ -24,7 +24,6 @@ resources:
    spider_icon_rsc = spider.bgf
    spider_desc_rsc = "Diese außergewöhnliche Kreatur schleicht sich getarnt an und schlägt mit tödlicher Präzision zu."
 
-
    spider_dead_icon_rsc = spiderX.bgf
    spider_dead_name_rsc = "Eine tote Riesenspinne"
 

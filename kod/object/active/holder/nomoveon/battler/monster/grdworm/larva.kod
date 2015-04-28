@@ -32,9 +32,6 @@ resources:
    GroundWormLarva_icon_rsc = worms.bgf
    GroundWormLarva_desc_rsc = "Als jüngere Entwicklungsform ist die Larve ein wenig schwächer als andere Grundwürmer. Sie ist bekannt dafür, unsichtbar versteckt im Untergrund zu lauern und plötzlich ihr Opfer anzugreifen."
 
-
-
-
    GroundWormLarva_dead_icon_rsc = wormsX.bgf
    GroundWormLarva_dead_name_rsc = "Erschlagene Grundwurmlarve"
    GroundWormLarva_sound_aware = gwrm3awr.wav

@@ -20,9 +20,6 @@ resources:
    kranpriestess_icon_rsc = kranprst.bgf
    kranpriestess_desc_rsc = "Qertina beurteilt die Stärke derjenigen, die zu ihr kommen, sehr streng. Blut und Höllenfeuer sind die Werkzeuge dieser Priesterin, denn nur die Starken und Guten verdienen es zu leben. Sie ist schnell bei der Hand mit Anschuldigungen und Feststellungen. Obwohl sie mächtige Reden hält, ist es ihr doch zuzutrauen, hinterher mit den Männern einen trinken zu gehen."
 
-
-
-
    Kran_forget_potion_sale = "~B~bIch verkaufe den %s%s, der sehr wirksam ist. Du wirst Dich an keine der schwerfälligen, auf körperlichem Einsatz basierenden Kampffertigkeiten mehr erinnern.~n~k"
    kraananpriestess_teach = "Ich unterrichte Dich in "
 

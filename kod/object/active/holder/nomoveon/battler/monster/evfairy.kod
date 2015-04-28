@@ -22,10 +22,6 @@ resources:
    dark_fairy_icon_rsc = faerie-e.bgf
    dark_fairy_desc_rsc = "Dunkel, boshaft und heimtückisch: Diese Kobolde haben nur ein Ziel - die Wälder von Qulicia in ewige Dunkelheit zu stürzen, um das Tal der Trauer selbst in Besitz zu nehmen. Sie hassen ihre Artgenossen, die Fey Elhai, mit verzehrender Leidenschaft."
 
-
-
-
-
    darkfairy_fireball = feyball.bgf
 
    darkfairy_dead_icon_rsc = faerieXE.bgf

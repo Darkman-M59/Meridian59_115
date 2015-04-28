@@ -21,9 +21,6 @@ resources:
    slime_icon_rsc = amoeba.bgf
    slime_desc_rsc = "Als ein Haufen schwabbelnder Masse kriecht der Schleim vorwärts und hinterläßt eine ekelerregende Spur. Die Reste seines letzten Opfers sind durch die transparenten Innereien zu sehen."
 
-
-
-
    slime_dead_icon_rsc = amoebaX.bgf
    slime_dead_name_rsc = "Nur eine Schleimpfütze"
 

@@ -39,9 +39,6 @@ resources:
    DragonFlyPet_icon_rsc = dflypet.bgf
    DragonFlyPet_desc_rsc = "Diese kleinen Eidechsen sehen außergewöhnlich freundlich aus. Ihre hauchzarten Flügel erlauben es ihnen, sich in die Luft zu schwingen und für einen kurzen Augenblick zu fliegen. Wenn Drachenfliegen in eine Ecke gedrängt werden, weiß man, dass sie darauf mit einem widerlichen Spuckangriff reagieren."
 
-
-
-
    DragonFlyPet_wings_rsc = dflypetw.bgf
 
    DragonFlyPet_dead_icon_rsc = dflypetX.bgf

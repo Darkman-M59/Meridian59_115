@@ -23,11 +23,6 @@ resources:
    ent_icon_rsc = res0003a.bgf
    ent_desc_rsc = "Eine geheimnisvolle Aura liegt über den dunklen Ästen dieses alten Wesens. Ein Geruch von altem Holz und fruchtbarer Erde läßt Deine Nasenflügel zittern. Du fragst Dich, ob er wirklich Blitze schleudern kann, um den Wald zu beschützen."
 
-
-
-
-
-
    ent_leaves_full_rsc = res0003b.bgf
 
    ent_dead_icon_rsc = res0003d.bgf

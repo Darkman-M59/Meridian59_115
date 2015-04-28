@@ -38,9 +38,6 @@ resources:
    GroundWorm_koc_name_rsc = "slithic"
    GroundWorm_desc_rsc = "Der Grundwurm, eine furchterregende und starke Kreatur, ist bekannt dafür, unsichtbar versteckt im Untergrund zu warten, hervorzuspringen und plötzlich sein unglückliches Opfer zu verschlingen."
 
-
-
-
    GroundWorm_dead_icon_rsc = wormmX.bgf
    GroundWorm_dead_name_rsc = "Erschlagener Grundwurm"
 

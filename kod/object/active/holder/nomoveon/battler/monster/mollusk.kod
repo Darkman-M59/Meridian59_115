@@ -49,10 +49,6 @@ resources:
    MolluskMonster_icon_rsc = mollusk.bgf
    MolluskMonster_desc_rsc = "Als ein recht später Ankömmling in diesen Landen ist diese Kreatur eher friedlich. Diese friedliche Kreatur durchstreift die Gegend auf der Suche nach Nahrung. Von Natur aus friedfertig, reagiert sie nur aggressiv, wenn sie selbst angegriffen wird. Aber sei auf der Hut, ihr dicker Panzer und die mächtigen Klauen machen sie zu einem furchterregenden Gegner."
 
-
-
-
-
    MolluskMonster_dead_icon_rsc = molX.bgf
    MolluskMonster_dead_name_rsc = "Der erschlagene Panzermolch"
 

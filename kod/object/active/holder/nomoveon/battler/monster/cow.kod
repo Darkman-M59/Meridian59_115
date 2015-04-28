@@ -24,11 +24,6 @@ resources:
    cow_icon_rsc = cow.bgf
    cow_desc_rsc = "Alchemisten und Bauern bemühten sich, die vollkommene Kuh mit süßer Milch und zartem Fleisch zu züchten. Unglücklicherweise gingen ihre Experimente zu weit und sie schufen schließlich die völlig nutzlose Pygmäenkuh. Enttäuscht angesichts ihrer Niederlage, ließen sie die ganze Herde frei. Die wildlebende Pygmäenkuh ist kaum mehr zu sehen."
 
-
-
-
-
-
    cow_cant_attack = "Du kannst die ~Iarme~I Kuh nicht angreifen!"
    cow_dead_icon_rsc = cowX.bgf
    cow_dead_name_rsc = "Die tote Kuh"

@@ -24,16 +24,7 @@ resources:
    ghost_icon_rsc = ghost.bgf
    ghost_desc_rsc = "Lumpen und verfaultes Fleisch hängen an den Knochen dieser magischen Erscheinung. Es ist der Geist eines früheren Tyrannen Meridians mit dem Namen Far'Nohl, der Leben und Seele an die schwarzen Künste vergab."
 
-
-
-
-
    ghost_normal_desc_rsc = "Als verlorene Seelen voll unendlicher Wut gehören diese schrecklichen Untoten zu den am meisten gefürchteten Geschöpfen, die das Festland von Meridian bevölkern. Die Schmerzen und Qualen, die nötig sind, um einen zu schaffen, bewirken, dass sie nur recht selten auftreten - was ein Segen für die Lebenden ist."
-
-
-
-
-
 
    ghost_eyes_rsc = gheye.bgf
 

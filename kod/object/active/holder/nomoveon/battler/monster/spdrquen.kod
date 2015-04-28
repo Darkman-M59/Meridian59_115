@@ -22,13 +22,10 @@ constants:
 
 resources:
 
-
    spiderqueen_name_rsc = "Die Spinnenkönigin"
    spiderqueen_koc_name_rsc = "kokinich"
    spiderqueen_icon_rsc = spdrqu.bgf
    spiderqueen_desc_rsc = "Der große Eiersack der Spinnenkönigin macht sie langsam und schwerfällig, aber in ihren vielen roten Augen glänzt dunkle Intelligenz. "
-
-
 
    spiderqueen_dead_icon_rsc = spdrquX.bgf
    spiderqueen_dead_name_rsc = "Die Leiche der Spinnenkönigin"
