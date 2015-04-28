@@ -16,17 +16,17 @@ constants:
    
 resources:
 
-   kocatan_may_pass = "You may pass."
-   kocatan_no_alcohol = "No smuggling alcohol to the natives!"
-   kocatan_no_nerudite = \
-      "The avars must not be permitted to get their hands on raw nerudite!"
-   kocatan_no_weapons = \
-      "It is forbidden to carry into the jungle any weapons other than those "
-      "that are necessary to ensure the safety of the traveller."
-   kocatan_no_armor = "You may only carry one suit of armor into the jungle!"
-   kocatan_no_helm = "You may only take one helmet with you out there."
-   kocatan_no_gauntlets = "Only one set of gauntlets permitted."
-   kocatan_no_shields = "You may only take one shield with you into the outland."
+   kocatan_may_pass = "Du darfst passieren."
+   kocatan_no_alcohol = "Kein Alkoholschmuggel zu den Einheimischen!"
+   kocatan_no_nerudite = "Den Avars darf es nicht erlaubt werden, in den Besitz von Roh-Neruditen zu gelangen!"
+
+   kocatan_no_weapons = "Es ist verboten, andere Waffen, als die, die zum Schutz des Reisenden dienen, mit in den Wald zu nehmen."
+
+
+   kocatan_no_armor = "Du darfst nur eine Rüstung mit in den Wald nehmen!"
+   kocatan_no_helm = "Du darfst nur einen Helm mitnehmen."
+   kocatan_no_gauntlets = "Nur ein Paar Panzerhandschuhe ist erlaubt."
+   kocatan_no_shields = "Du darfst nur einen Schild mitnehmen."
 
 messages:
 
@@ -156,3 +156,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

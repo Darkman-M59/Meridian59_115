@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   hold_name_rsc = "hold"
+   hold_name_rsc = "Lähmen"
    hold_icon_rsc = ihold.bgf
-   hold_desc_rsc = \
-      "Surrounds the target with magical energy, causing "
-      "paralysis for several seconds.  "
-      "Requires purple mushrooms to cast."
+   hold_desc_rsc = "Umgibt die Zielperson mit magischer Energie und lähmt sie für einige Sekunden. Der Zauber benötigt Lila Pilze."
+
+
+
    
-   hold_already_enchanted = "%s%s is already held."
-   hold_caster = "%s%s is now held in place by a magical force."
-   hold_on = "A magical tingling pulses through your body.  You are unable to move."
-   hold_off = "The magical hold lifts and you are able to move once more."
+   hold_already_enchanted = "%s%s ist bereits gelähmt."
+   hold_caster = "%s%s wird von einer magischen Kraft festgehalten."
+   hold_on = "Ein magischer Schauer pulsiert durch Deinen Körper. Du bist unfähig, auch nur einen Finger zu rühren."
+   hold_off = "Der Lähmen-Zauber verflüchtigt sich und Du kannst Dich wieder bewegen."
 
 classvars:
 
@@ -303,3 +303,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

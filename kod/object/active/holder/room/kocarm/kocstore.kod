@@ -16,9 +16,9 @@ constants:
 
 resources:
   
-   room_name_kocstore = "The Neglected Arsenal"
+   room_name_kocstore = "Das verlassene Waffenlager"
    room_kocstore = kocstore.roo
-   kocstore_music = song12.mid
+   kocstore_music = song12.mp3
 
 classvars:
 
@@ -106,3 +106,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

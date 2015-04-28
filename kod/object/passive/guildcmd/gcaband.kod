@@ -17,13 +17,13 @@ constants:
 
 resources:
 
-   guildabandon_name_rsc = "abandon guild hall"
+   guildabandon_name_rsc = "Gilde auflösen"
    guildabandon_icon_rsc = light.bgf
-   guildabandon_desc_text_rsc = "Use this command to quit your guild.  You never liked them anyway.  Guildmasters must transfer their title before using this command."
+   guildabandon_desc_text_rsc = "Mit diesem Befehl verlässt Du die Gilde. Du mochtest sie sowieso noch nie. Gildenführer müssen ihren Titel übergeben, bevor sie diesen Befehl ausführen können."
 
-   guildabandon_necro_nak = "~BYou have sworn a blood oath to your dark Queen.  You may not simply abandon "
-      "her fortress."
-   guildabandon_not_while_under_attack = "You can't abandon your guild hall while it is under attack.  Go and defend it!"
+   guildabandon_necro_nak = "~BDu hast Deiner dunklen Königin einen Blutsschwur geleistet. Du kannst nicht einfach ihre Festung aufgeben."
+
+   guildabandon_not_while_under_attack = "Du kannst deine Gildenhalle nicht aufgeben solange sie angegriffen wird. Los verteidige sie!"
 
 classvars:
 
@@ -94,3 +94,4 @@ messages:
   
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

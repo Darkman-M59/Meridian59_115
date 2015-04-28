@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   engrave_name_rsc = "engrave"
+   engrave_name_rsc = "Gravieren"
    engrave_icon_rsc = iillufrm.bgf
-   engrave_desc_rsc = "Adds a message to an item.  A DM only spell, currently.  "
+   engrave_desc_rsc = "Versieht einen Gegenstand mit einer Nachricht. Nur ein DM-Spruch, jedenfalls zur Zeit."
 
-   engrave_already_engraved = "%s%s already has a message engraved onto it."
-   engrave_cant_engrave = "You can't engrave a message on %s%s."
-   engrave_no_message = "With no message to engrave, the spell fizzles into nothing."
+   engrave_already_engraved = "%s%s hat schon eine Nachricht eingraviert."
+   engrave_cant_engrave = "%s%s kann nicht mit einer Nachricht graviert werden."
+   engrave_no_message = "a es keine Nachricht zu gravieren gibt, zischt der Spruch ins Leere."
 
-   engrave_do = "You watch in fascination as the words '%q' write themselves in eldritch script on %s%s."
+   engrave_do = "Faszinierst schaust Du zu, wie die Worte '%q' sich selbst in Elfenschrift auf %s%s schreiben."
 
 classvars:
 
@@ -151,3 +151,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

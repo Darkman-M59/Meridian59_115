@@ -15,15 +15,15 @@ constants:
    include blakston.khd
 
 resources:
-   kick_name_rsc = "kick"
+   kick_name_rsc = "Treten"
    kick_icon_rsc = light.bgf
-   kick_desc_rsc = "This is a damaging but costly combat move."
+   kick_desc_rsc = "Eine schadenverursachende und wertvolle Kampfhandlung."
 
-   kick_player_was_hit = "%s%s kicks you in the unmentionables."
-   kick_player_hit_something = "%sYou kick %s%s hard in the groin."
+   kick_player_was_hit = "%s%s tritt Dir in den Bauch."
+   kick_player_hit_something = "%sDu trittst %s%s hart in den Magen."
 
-   kick_player_killed_something = "%s%s is knocked to the ground by your kick - and doesn't get up."
-   kick_player_was_killed = "%s%s's kick shuffles you off this mortal coil."
+   kick_player_killed_something = "%s%s wurde durch Deinen Tritt niedergestreckt und kann nicht mehr aufstehen."
+   kick_player_was_killed = "%s%s´s Tritt befördert Dich aus dem Land der Lebenden."
 
 classvars:
 
@@ -66,3 +66,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

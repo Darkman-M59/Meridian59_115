@@ -22,28 +22,28 @@ constants:
    
 resources:
 
-   room_name_rsc = "Room"
+   room_name_rsc = "Raum"
 
-   room_door_is_locked = "This door is locked."
+   room_door_is_locked = "Diese Tür ist verschlossen."
    room_sound_locked = doorlck.wav
 
-   room_move_req_no = "You're unable to change rooms."
+   room_move_req_no = "Du kannst den Raum nicht betreten."
 
-   room_no_attack = "You can't fight here."
-   room_no_harmful = \
-      "You cannot cast harmful spells here when someone else is present."
-   room_no_pk_allowed = "You cannot attack another player here."
-   room_guild_combat = "Only those in guilds may attack each other here."
-   room_no_mob_attack = "You cannot attack monsters here."
+   room_no_attack = "Du kannst hier nicht kämpfen."
+   room_no_harmful = "Du kannst hier keine Schadenszauber sprechen, solange jemand anwesend ist."
 
-   room_no_magic_allowed = "You can't cast spells here."
-   room_no_spell = "You can't cast spells here."
+   room_no_pk_allowed = "Du kannst hier keine anderen Spieler angreifen."
+   room_guild_combat = "Nur Gildenmitglieder können hier gegeneinander kämpfen."
+   room_no_mob_attack = "Du kannst hier keine Monster angreifen."
 
-   room_no_combat_magic = "You can't cast offensive spells here."
+   room_no_magic_allowed = "Hier kann nicht gezaubert werden."
+   room_no_spell = "Hier kann nicht gezaubert werden."
 
-   room_no_teleport = "This room does not yet have teleport support."
-   room_door_was_opened = "You open the door and walk through."
-   room_silenced_rsc = "Your words catch in your throat and you cannot speak."
+   room_no_combat_magic = "Du kannst hier keine Angriffszauber sprechen, solange jemand anwesend ist."
+
+   room_no_teleport = "Du kannst hier nicht teleportieren."
+   room_door_was_opened = "Du öffnest die Tür und gehst hindurch."
+   room_silenced_rsc = "Deine Worte bleiben Dir im Halse stecken. Du kannst nicht sprechen."
 
    %  note that these 'stormy' skies are the normal skies,
    %     and the 'normal' skies are just flat colors (and we don't use them)...
@@ -97,12 +97,12 @@ resources:
    room_jungle_sound24 = jungle24.wav
    room_jungle_sound25 = jungle25.wav
 
-   room_sewer_sound1 = sewer03.wav
-   room_sewer_sound2 = sewer04.wav
-   room_sewer_sound3 = drips.wav
-   room_sewer_sound4 = sngldrip.wav
+   room_sewer_sound1 = sewer04.wav
+   room_sewer_sound2 = drips.wav
+   room_sewer_sound3 = sngldrip.wav
+   room_sewer_sound4 = sewer01.wav
    % Not included for now.  Kinda stupid rat sound.
-   room_sewer_sound5 = sewer01.wav
+   room_sewer_sound5 = sewer03.wav
 
    room_badmount_sound1 = ice04.wav
    room_badmount_sound2 = ice03.wav
@@ -150,8 +150,8 @@ resources:
    room_necro_sound = necloop2.wav
    room_beach_sound = ocean.wav
 
-   no_use_jig = \
-      "You can't wield that - it would interfere with your funky moves!"
+   no_use_jig = "Du kannst das nicht tragen - Es würde deinen Rhythmus stören!"
+
 
 classvars:
 
@@ -3911,8 +3911,8 @@ messages:
          each_obj = Send(self,@HolderExtractObject,#data=i);
          if (IsClass(each_obj,&ActiveWallElement)
             or IsClass(each_obj,&Brambles))
-            AND NOT IsClass(each_obj,&ActiveSporeCloud)
-            AND NOT IsClass(each_obj,&Web)
+			AND NOT IsClass(each_obj,&ActiveSporeCloud)
+			AND NOT IsClass(each_obj,&Web)
          {
             if Send(who,@SquaredDistanceTo,#what=each_obj) <= (WALL_DELETE_RADIUS * WALL_DELETE_RADIUS)
             {
@@ -3939,3 +3939,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

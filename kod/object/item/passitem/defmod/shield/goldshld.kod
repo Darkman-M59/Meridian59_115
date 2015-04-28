@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   goldshield_name_rsc = "gold round shield"
+   goldshield_name_rsc = "Der Goldschild"
    goldshield_icon_rsc = rshield.bgf
-   goldshield_desc_rsc = \
-      "Finely made, this hefty gold shield offers a fair "
-      "measure of protection.  Delicate engravings, the mark "
-      "of Quintor, adorn its circumference."
+   goldshield_desc_rsc = "Dieser schwere, kunstvoll gearbeitete Goldschild bietet einen guten Schutz. Wunderschöne Gravierungen mit dem Wappen Quintors zieren seinen Rand."
+
+
+
 
    goldshield_window_overlay_rsc = povshldD.bgf
 
@@ -64,3 +64,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

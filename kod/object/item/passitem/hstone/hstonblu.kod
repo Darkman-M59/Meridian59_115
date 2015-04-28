@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   BlueHeartStone_name_rsc = "blue heartstone"
-   BlueHeartStone_desc_rsc = \
-	"This is called a 'heartstone'.  It is a huge blue gem taken from the body of a "
-	"fallen Ma'Xeochicatl.  It wiggles slightly and is cool to the touch.  The uses for "
-	"this gem are not widely known."
+   BlueHeartStone_name_rsc = "Ein blauer Herzstein"
+   BlueHeartStone_desc_rsc = "Das ist ein Herzstein. Es ist ein großer blauer Edelstein und er stammt von einem getöteten Ma'Xeochicatl. Er erzittert leicht und fühlt sich kühl an. Die Verwendung dieses Edelsteins ist unbekannt."
+
+
+
 	
 classvars:
    
@@ -44,4 +44,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -17,16 +17,16 @@ constants:
 
 resources:
 
-   guildsetrank_name_rsc = "set rank"
+   guildsetrank_name_rsc = "Rang festlegen"
    guildsetrank_icon_rsc = light.bgf
 
-   guildsetrank_lieutenant = "Replaces 'promote' and 'demote' in new, neat-o interface."
+   guildsetrank_lieutenant = "Gibt 'befördern' und 'degradieren' eine neue Bedeutung."
 
-   setrank_not_member = "%s%s is not a member of %s%q!"
-   setrank_cant_setrank_self = "You may not promote or demote yourself!"
-   setrank_non_user = "%s%s doesn't seem to be concerned about your decision."
-   setrank_too_high = "You may not change the rank of someone of equal or higher rank than yourself!"
-   setrank_promotion_too_high = "You may not promote someone to a rank equal or higher than your own!"
+   setrank_not_member = "%s%s ist kein Mitglied von %s%q!"
+   setrank_cant_setrank_self = "Du kannst Dich nicht selbst befördern oder degradieren!"
+   setrank_non_user = "%s%s scheint von Deiner Entscheidung nicht sehr beeindruckt zu sein."
+   setrank_too_high = "Du kannst nicht den Rang von jemandem ändern, der gleichrangig mit Dir ist oder einen höheren Rang besitzt!"
+   setrank_promotion_too_high = "Du kannst niemandem zu einem Rang verhelfen, der Deinem gleicht oder höher ist!"
 
 classvars:
 
@@ -104,3 +104,4 @@ messages:
   
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

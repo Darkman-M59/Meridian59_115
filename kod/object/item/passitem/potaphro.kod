@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   AphrodesiacPotion_name_rsc = "vial of perfume"
-   AphrodesiacPotion_name_plural_rsc = "vials of perfume"
+   AphrodesiacPotion_name_rsc = "Ein Fläschchen mit Parfüm"
+   AphrodesiacPotion_name_plural_rsc = "Fläschchen mit Parfüm"
    AphrodesiacPotion_icon_rsc = solagh.bgf
-   AphrodesiacPotion_desc_rsc = \
-	"One whiff of this musky-scented fluid is enough to give you a warm, fuzzy feeling."
+   AphrodesiacPotion_desc_rsc = "Ein Schluck von dieser modrig riechenden Flüssigkeit reicht, um ein warmes, kribbelndes Gefühl auszulösen."
+
 
 classvars:
 
@@ -40,3 +40,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

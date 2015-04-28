@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   ExplosiveFrost_name_rsc = "explosive frost"
+   ExplosiveFrost_name_rsc = "Frostexplosion"
 
    ExplosiveFrost_icon_rsc = iexfrost.bgf
 
-   ExplosiveFrost_desc_rsc = \
-      "Creates a small exploision of frost which damages a target at short range.  "
-      "Requires red mushrooms and elderberries to cast."
+   ExplosiveFrost_desc_rsc = "Erzeugt eine kleine Frostexplosion, die Ziele in geringer Entfernung verletzt. Benötigt rote Pilze und Holunderbeeren."
+
+
 
    ExplosiveFrost_sound = ficefing.wav
 
@@ -69,3 +69,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

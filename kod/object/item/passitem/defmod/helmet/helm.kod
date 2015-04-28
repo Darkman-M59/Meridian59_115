@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   helm_name_rsc = "magic spirit helmet"
-   helm_icon_male_rsc   = ornhelma.bgf
+   helm_name_rsc = "Der magische Helm"
+   helm_icon_male_rsc = ornhelma.bgf
    helm_icon_female_rsc = ornhelmb.bgf
-   helm_desc_rsc = \
-      "Finely crafted and ornate in its design, this impressive looking piece of "
-      "headgear is eerily cold to the touch.  The Duke commissioned Fehr'loi Qan "
-      "with the aid of Priestess Qerti'nya to create these helmets specifically "
-      "for winners of officially sanctioned tournaments."
+   helm_desc_rsc = "Dieser kunstvoll geschmiedete, aufwendig gravierte und ziemlich eindrucksvolle Helm fühlt sich schaurig kalt an. Der Herzog beauftragte Ferloi Qan, diesen Helm mit Hilfe von Priesterin Qertina speziell für Gewinner des offiziell gebilligten Wettkampfes anzufertigen."
+
+
+
+
 
 classvars:
 
@@ -93,3 +93,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

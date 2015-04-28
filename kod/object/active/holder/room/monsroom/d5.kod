@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OutdoorsD5 ="West Merchant Way"
+   room_name_OutdoorsD5 = "Westliche Handelsroute"
    room_OutdoorsD5 = D5.roo
-   OutdoorsD5_music = forest.mid
+   OutdoorsD5_music = forest.mp3
 
    waterfall_soundd5 = wfall2.wav
 
@@ -87,3 +87,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

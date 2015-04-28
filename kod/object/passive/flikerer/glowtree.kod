@@ -18,12 +18,12 @@ constants:
 
 resources:
 
-   GlowTree_name = "soulsap willow tree"
-   GlowTree_desc = \
-      "A luminescent sap hangs from the branches of this bizarre tree.  Rather "
-      "than gather sunlight with plump foliage, the soulsap tree attracts insects "
-      "with the sweet glowing fluid, then absorbs the nutrients of the helpless "
-      "bugs directly."
+   GlowTree_name = "Seelensaft-Weide"
+   GlowTree_desc = "Luminiszierendes Harz klebt an den Ästen dieses bizarren Baumes. Anstatt Sonnenlicht mit prallem Laubwerk zu sammeln, lockt der Seelensaft-Baum mit seiner süßen leuchtenden Flüssigkeit Insekten an, um dann die Nährstoffe der hilflosen Tiere direkt aufzunehmen."
+
+
+
+
    GlowTree_icon = nectree3.bgf
 
 classvars:
@@ -63,3 +63,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

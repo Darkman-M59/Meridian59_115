@@ -20,22 +20,22 @@ constants:
 
 resources:
 
-   EagleEyes_name_rsc = "eagle eyes"
+   EagleEyes_name_rsc = "Adleraugen"
    EagleEyes_icon_rsc = ieagleye.bgf
-   EagleEyes_desc_rsc = \
-      "Bestows a supernatural acuity of vision on the caster, protecting "
-      "against spells that attack sight and improving accuracy at long range.  "
-      "Requires mushrooms and purple mushrooms."
-   
-   EagleEyes_on_rsc = "Your eyes burn and the world leaps into surreal clarity."
-   EagleEyes_off_rsc = "The world seems somehow less distinct and vivid."
-   EagleEyes_already_enchanted_rsc = "You already have Eagle Eyes."
-   EagleEyes_Success_rsc = "You grant %s%s preternatural sight."
+   EagleEyes_desc_rsc = "Verleiht dem Zaubernden einen übernatürlich scharfen Blick, schützt die Sehkraft vor magischen Attacken und verbessert die Genauigkeit auf weite Entfernungen. Benötigt braune Pilze und Lila Pilze."
 
-   EagleEyes_resist = "Krannan's magic fights to penetrate the veil of darkness."
-   EagleEyes_evade = "The magic of Krannan preserves your sight."
-   EagleEyes_resist_caster = "You sense a force resisting your blinding spell."
-   EagleEyes_evade_caster = "The magic of Krannan preserves the sight of your target."
+
+
+   
+   EagleEyes_on_rsc = "Deine Augen brennen und die Welt erscheint in surrealer Klarheit."
+   EagleEyes_off_rsc = "Deine Umgebung scheint irgendwie weniger deutlich und klar."
+   EagleEyes_already_enchanted_rsc = "Du hast bereits die Fähigkeit, mit Adleraugen zu sehen."
+   EagleEyes_Success_rsc = "Du verschaffst %s%s einen außergewöhnlich scharfen Blick."
+
+   EagleEyes_resist = "Die Magie von Krannan versucht den Schleier der Dunkelheit zu durchdringen."
+   EagleEyes_evade = "Die Magie von Krannan schützt deinen Blick."
+   EagleEyes_resist_caster = "Du spürst eine Kraft deinen blendenden Zauber zu widerstehen."
+   EagleEyes_evade_caster = "Die Magie von Krannan schützt den Blick deines Ziels."
 
    EagleEyes_sound = keagleye.wav
 
@@ -184,3 +184,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

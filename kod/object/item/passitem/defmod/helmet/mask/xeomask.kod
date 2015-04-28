@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   XeoMask_name_rsc = "xeochicatl mask"
+   XeoMask_name_rsc = "Xeochicatlmaske"
    XeoMask_icon_male_rsc = res0002m.bgf
    XeoMask_icon_female_rsc = res0002n.bgf
-   XeoMask_desc_rsc = \
-      "This looks like the head of a feared Xeochicatl.  Spellcasting ability "
-      "(including smite) not included."
+   XeoMask_desc_rsc = "This looks like the head of a feared Xeochicatl.  Spellcasting ability (including smite) not included."
+
+
 
 classvars:
 
@@ -78,3 +78,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

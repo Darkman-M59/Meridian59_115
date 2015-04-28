@@ -27,88 +27,88 @@ constants:
 
 resources:
 
-   NecromancerAmulet_name_rsc = "Amulet of the Three"
+   NecromancerAmulet_name_rsc = "Das Amulett der Drei"
    NecromancerAmulet_icon_rsc = necamlet.bgf
-   NecromancerAmulet_desc_rsc = \
-   "There is something deeply disturbing about this amulet.  When you look at it in the corner of your eye, "
-   "you can almost see the evil pouring forth from it."
+   NecromancerAmulet_desc_rsc = "Dieses Amulett hat etwas äußerst Beunruhigendes an sich. Wenn Du es aus der Deinen Augenwinkeln betrachtest, kannst Du fast sehen, wie das Böse aus ihm läuft."
 
-   NecromancerAmulet_newbie_pickup_good = "Your guardian angel says, \"That amulet is a thing of great "
-      "evil.  Even holding it in your possession would corrupt your soul, and eventually destroy you.\""
-   NecromancerAmulet_newbie_pickup_evil = "Your guardian angel says, \"That amulet holds far too much "
-      "power for you to contain.  You must stay away from it, for now.\""
 
-   NecromancerAmulet_holding_damage_wearing = \
-   "The unholy energy streaming from the Amulet of the Three seeps into you, racking your body with pain as it "
-   "corrupts your soul.  You must do something before it destroys you!"
-   NecromancerAmulet_holding_damage = \
-   "The unholy energy streaming from the Amulet of the Three seeps into you, racking your body with pain as it "
-   "corrupts your soul."
-   NecromancerAmulet_holding_unworthy_wearing = \
-   "The unholy energy streaming from the Amulet of the Three seeps into you, filling you with pleasure even as it "
-   "racks you with pain.  You must somehow remove it before it destroys you!"
-   NecromancerAmulet_holding_unworthy = \
-   "The unholy energy streaming from the Amulet of the Three seeps into you, filling you with pleasure even as it "
-   "racks you with pain.  You feel a strong compulsion to put the amulet on and channel its full power, but you "
-   "know somehow that it would surely destroy you if you did."
-   NecromancerAmulet_holding_tempt = \
-   "The unholy energy streaming from the Amulet of the Three seeps into you, filling you with pleasure.  You "
-   "cannot help but fantasize how wonderful it would feel to put the amulet on and channel its full power."
+
+   NecromancerAmulet_newbie_pickup_good = "Dein Schutzengel flüstert Dir zu, \"Dieses Amulett ist ein Gegenstand abgrundtiefen Übels. Es nur in Deinem Besitz zu führen würde Deine Seele untergraben und Dich letztendlich zerstören.\""
+
+   NecromancerAmulet_newbie_pickup_evil = "Dein Schutzengel flüstert Dir zu, \"Dieses Amulett hat bei weitem mehr Kraft, als Du aufnehmen kannst. Halte Dich vorerst von ihm fern.\""
+
+
+   NecromancerAmulet_holding_damage_wearing = "Die unheilige Energie, die von dem Amulett der Drei ausgeht, sickert in Dich und erfüllt Deinen Körper mit Schmerz, während es von Deiner Seele Besitz ergreift. Du musst etwas unternehmen, bevor es Dich zerstört!"
+
+
+   NecromancerAmulet_holding_damage = "Die unheilige Energie, die von dem Amulett der Drei ausgeht, sickert in Dich und erfüllt Deinen Körper mit Schmerz, während es von Deiner Seele Besitz ergreift."
+
+
+   NecromancerAmulet_holding_unworthy_wearing = "Die unheilige Energie, die von dem Amulett der Drei ausgeht, sickert in Dich und erfüllt Dich mit Freude, obwohl es Dich mit Schmerzen peinigt. Du musst es irgendwie entfernen, bevor es Dich zerstört!"
+
+
+   NecromancerAmulet_holding_unworthy = "Die unheilige Energie, die von dem Amulett der Drei ausgeht, sickert in Dich und erfüllt Dich mit Freude, obwohl es Dich mit Schmerzen peinigt. Du fühlst den starken Drang, das Amulett anzulegen und all seine Energie zu bündeln, aber Du weißt irgendwie, dass es Dich mit Sicherheit zerstören würde."
+
+
+
+   NecromancerAmulet_holding_tempt = "Die unheilige Energie, die von dem Amulett der Drei ausgeht, sickert in Dich und erfüllt Dich mit Freude. Du kannst nicht anders, als Dir auszumalen, wie wunderbar es wäre, das Amulett anzulegen und seine volle Energie zu bündeln."
+
+
 
    
-   NecromancerAmulet_warning = \
-   "As you begin to place the amulet around your neck, you feel a strong sense of foreboding;  this is not likely "
-   "to be a reversible act."
-   NecromancerAmulet_used_unworthy = \
-   "As you put the amulet on, a wave of power flows through your body, setting every nerve on fire with pleasure "
-   "and pain.  The amount of energy flowing into your body is enormous, and growing with every passing second - "
-   "the coppery taste of fear fills your mouth as you realize you may not be able to contain it all."
-   NecromancerAmulet_used_rsc = \
-   "As you put the amulet on, a wave of power flows through your body, setting every nerve on fire with pleasure, "
-   "leaving every cell irrevocably changed in its wake.  Somewhere far inside your mind, underneath the feeling "
-   "of power, you can also feel something else, however - a kind of hunger gnawing at you, growing with every "
-   "passing second."
+   NecromancerAmulet_warning = "Als Du das Amulett um Deinen Hals legst, fühlst Du eine starke Vorahnung; es ist unwahrscheinlich, dass diese Tat rückgängig gemacht werden kann."
 
-   NecromancerAmulet_try_unuse_rsc = \
-   "As you try to pull the amulet from your neck, you feel it tug painfully at your insides, as if it were "
-   "magically tethered to your innards, grafted permanently onto the blackest part of your soul."
 
-   NecromancerAmulet_unused_rsc = \
-   "As the Amulet of the Three leaves your body, you feel something else rip free inside you, turning your "
-   "internal organs to jelly."
+   NecromancerAmulet_used_unworthy = "Als Du das Amulett anlegst, fließt eine Welle von Kraft durch Dich, die jede Faser Deines Körpers mit Freude und Schmerz erfüllt. Die Kraft, die Deinen Körper durchflutet, ist von unermeßbarem Umfang und wächst mit jeder verstrichenen Sekunde weiter an - der kupferne Geschmack der Angst füllt Deinen Mund, als Du feststellst, dass Du nicht alle Kraft in Dir aufnehmen kannst."
 
-   NecromancerAmulet_hunger_1 = "You're starting to feel a little hungry."
-   NecromancerAmulet_hunger_2 = "You're definitely hungry now."
-   NecromancerAmulet_hunger_3 = "You are very hungry now.  The hunger is a burning knot somewhere inside your "
-      "skull.  It is time to feed."
-   NecromancerAmulet_hunger_4 = "Your brain is on fire with but one impulse:  you must feed.  Every moment passes "
-      "like molasses, an eternity of suffering."
-   NecromancerAmulet_hunger_5 = "Your body is now in so much pain that you can feel yourself pulling away from it, "
-      "drifting out and away.  You jerk yourself back with great effort - you must feed soon, or you will surely "
-      "be lost."
 
-   NecromancerAmulet_illusion_slipped = "The illusion masking your true features slips, revealing your ghastly "
-      "appearance in all its obscene glory!"
-   NecromancerAmulet_illusion_restored = "Your horrific appearance has once again been cloaked in illusion."
 
-   NecromancerAmulet_hunger_assuaged = "You feel your amulet absorbing %s%s's life energy.  It washes through you "
-      "in waves, slaking your hunger and leaving you feeling strengthened."
+   NecromancerAmulet_used_rsc = "Als Du das Amulett anlegst, fließt eine Welle von Kraft durch Dich, die jede Faser Deines Körpers mit Freude erfüllt und jede Zelle unaufhebbar verändert. Tief in Deinem Inneren, unter dem Gefühl der Kraft, spürst Du noch etwas anderes - eine Art Hunger, die an Dir nagt, mehr und mehr mit jeder verstrichenen Sekunde."
 
-   NecromancerAmulet_cant_eat = "You attempt to gag down %s%s, to no avail.  Mortal food will no longer assuage "
-      "the dark hunger that burns within your unholy body."
 
-   NecromancerAmulet_cant_pay = "Your Dark Queen reaches out to grasp your amulet.  "
-      "She holds it for a moment, then pushes you away in disgust.\n"
-      "~kQueen Venya'cyr tells you, \"~rWeak fool. Thou art too hungry thyself to satisfy mine own hunger.~k\""
-   NecromancerAmulet_pay_ouch = "Your Dark Queen reaches out to grasp your amulet.  "
-      "You gasp as she draws your life essence out of you into herself, leaving you drained and weak.\n"
-      "~kQueen Venya'cyr tells you, \"~rI thank thee, my loyal subject.  Thou had best go and feed thyself now.~k\""
-   NecromancerAmulet_pay = "Your Dark Queen reaches out to grasp your amulet.  "
-      "You gasp as she draws your life essence out of you into herself.\n"
-      "~kQueen Venya'cyr tells you, \"~rAh, a truly refreshing soul thou hast.  Thou servest me well, dark one!~k\""
 
-   NecromancerAmulet_drops = "As your essence dissolves away from this plane of existence, the amulet slips out "
-      "of your hands and drops to the ground."
+
+
+   NecromancerAmulet_try_unuse_rsc = "Als Du versuchst, das Amulett von Deinem Hals zu ziehen, spürst Du, wie es schmerzvoll an Deinem Inneren zerrt, als wäre es magisch mit Deinen Innereien verbunden, für immer in den dunkelsten Teil Deiner Seele gepflanzt."
+
+
+
+   NecromancerAmulet_unused_rsc = "Als das Amulett der Drei Deinen Körper verläßt, fühlst Du, wie sich noch etwas anderes in Deinem Körper losreißt und Deine Organe aufgelöst zurückläßt."
+
+
+
+   NecromancerAmulet_hunger_1 = "Du fängst an, ein wenig hungrig zu werden."
+   NecromancerAmulet_hunger_2 = "Du fühlst Dich definitiv hungrig."
+   NecromancerAmulet_hunger_3 = "Mittlerweile bist Du sehr hungrig. Der Hunger ist ein brennender Knoten irgendwo tief in Deinem Schädel. Es ist Zeit zu essen."
+
+   NecromancerAmulet_hunger_4 = "Dein Gehirn brennt mit einem einzigen Impuls - Du musst essen. Jeder Augenblick  zieht sich in die Länge, eine Ewigkeit des Leidens."
+
+   NecromancerAmulet_hunger_5 = "Dein Körper erleidet unerträgliche Schmerzen. Du fühlst Dich, als ob Du von ihm weggezogen würdest.aus dem Staub machen. Du stößt Dich mit großer Anstrengung zurück - Du musst schnell essen, sonst bist Du verloren verloren gehen."
+
+
+
+   NecromancerAmulet_illusion_slipped = "Die Illusion, die Deine wahren Fähigkeiten verdeckte, verschwindet und zeigt Deine bösartige Erscheinung in all ihrem obszönen Glanz!"
+
+   NecromancerAmulet_illusion_restored = "Deine fürchterliche Erscheinung wurde erneut durch eine Illusion verhüllt."
+
+   NecromancerAmulet_hunger_assuaged = "%s%s vergeht. Du fühlst, wie Dein Amulett Lebensenergie absorbiert. Eine Energiewelle wäscht Deinen Hunger hinfort und läßt Dich gestärkt zurück."
+
+
+   NecromancerAmulet_cant_eat = "Du versuchst %s%s zurückzugewinnen, vergeblich. Lebensspendende Nahrung wird nicht mehr nötig sein. ein bohrendes Hungergefühl quält Deinen unreinen Körper."
+
+
+   NecromancerAmulet_cant_pay = "Deine Dunkle Königin versucht, Dein Amulett zu berühren. Sie hält es für einen kurzen Moment, dann stößt sie Dich angeekelt zur Seite.\n~kKönigin Venya'cyr spricht zu Dir, \"~rSchwächlicher Narr, Dein eigener Hunger ist zu gross, als dass Du meinen stillen könntest!~k\""
+
+
+   NecromancerAmulet_pay_ouch = "Deine Dunkle Königin versucht, Dein Amulett zu berühren. Du keuchst, als sie Dir Deine Lebensenergie entzieht und Dich erschöpft und schwach zurückläßt.\n~kKönigin Venya'cyr sagt zu Dir, \"~rIch danke Dir, mein loyaler Diener. Geh' jetzt und stärke Dich wieder!~k\""
+
+
+   NecromancerAmulet_pay = "Deine Dunkle Königin versucht, Dein Amulett zu berühren. Du keuchst, als sie Dir die Lebensenergie entzieht.\n~kKönigin Venya'cyr sagt zu Dir, \"~rAh, welch erfrischende Seele Du doch hast. Du unterstützest mich gut, mein Dunkler Krieger!~k\""
+
+
+
+   NecromancerAmulet_drops = "Als Deine Essenz von dieser Ebene der Existenz verschwindet, gleitet Dir das Amulett aus den Händen und fällt auf den Boden."
+
 
 classvars:
 
@@ -1010,6 +1010,7 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 

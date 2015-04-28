@@ -31,8 +31,8 @@ constants:
 
 resources:
  
-   itematt_made_desc = "  It shimmers insubstantially."
-   iaMade_gone = "Your %s disappears in a puff of smoke."
+   itematt_made_desc = " Der Gegenstand schimmert unwirklich."
+   iaMade_gone = "%s löst sich in eine Rauchwolke auf."
    
 classvars:
 
@@ -143,3 +143,4 @@ messages:
 	     
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

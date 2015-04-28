@@ -18,13 +18,13 @@ resources:
 
    JasperBlacksmith_name_rsc = "Quintor"
    JasperBlacksmith_icon_rsc = jssmith.bgf
-   JasperBlacksmith_desc_rsc = \
-      "Quintor is widely recognized as the finest weaponsmith in the land.  He is also "
-      "recognized as a quiet, brooding man who keeps to himself.  Take that as you will."
+   JasperBlacksmith_desc_rsc = "Quintor ist weithin als der beste Waffenschmied im Land bekannt. Man kennt ihn auch als stillen, grüblerischen Mann, der meist für sich allein bleibt. Nimm es, wie Du willst."
 
-   JsBla_entry_welcome = "Hello %s%s, and welcome."
 
-   JsBla_island_items = "I don't deal with nerudite garbage."
+
+   JsBla_entry_welcome = "Guten Tag, %s%s."
+
+   JsBla_island_items = "Ich gebe mich nicht mit Schund aus Nerudit ab."
 
 classvars:
 
@@ -150,4 +150,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

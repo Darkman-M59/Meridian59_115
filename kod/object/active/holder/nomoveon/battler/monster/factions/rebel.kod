@@ -18,23 +18,23 @@ resources:
 
    RebelLiege_name_rsc = "Jonas D'Accor"
    RebelLiege_icon_rsc = wngenera.bgf
-   RebelLiege_desc_rsc = \
-     "Time and anger have weathered Jonas D'Accor into a hard man.  He stands "
-     "steadfastly in place, contemplating the future of the lands.  The actions of "
-     "the other lieges have forced him to make an attempt for the crown.  He believes "
-     "that the other lieges are not strong enough to rule, even if they have a rightful "
-     "claim to the throne.  He organizes his rebels and hopes to gain support in his "
-     "quest to take the crown and bring peace and order back to the lands."
-   
-   RebelLiege_token_delivered_rsc = "Returning this token will show the counselors my power is not to be ignored. %s"
-   RebelLiege_rebel_delivered_rsc = "You are very loyal to my cause.  I thank you."
-   RebelLiege_neutral_delivered_rsc = "Do you also oppose the tyranny of the current pretenders to the Throne?  Join me."
-   RebelLiege_other_delivered_rsc = "Does the yoke of your current liege restrict you so much that you bring me such gifts?  Join us in our quest for a strong crown."
-   RebelLiege_toopowered_rsc = "Currently I cannot bring another into my ranks for fear they will swell beyond my control."
+   RebelLiege_desc_rsc = "Zeit und Ärger machten Jonas D'Accor zu einem harten Mann. Er steht unerschütterlich an seinem Platz und denkt über die Zukunft des Landes nach. Die Aktionen der anderen Lehnsherren zwangen ihn zu dem Versuch, nach der Krone zu greifen. Er glaubt, dass die anderen Lehnsherren nicht stark genug sind, um zu regieren, auch wenn sie einen rechtmäßigen Anspruch auf den Thron haben. Er organisiert seine Rebellen und hofft, mehr Unterstützung für seinen Griff nach der Krone zu bekommen und Frieden und Ordnung zurückzubringen."
 
-   RebelLiege_already_have_spell = "I believe you already have knowledge of the %s spell."
-   RebelLiege_no_murderer = "I am a servant of the Law, and as such my conscience "
-         "will not allow me to help you.  Please be on your way."
+
+
+
+
+
+   
+   RebelLiege_token_delivered_rsc = "Die Rückgabe dieses Artefakts wird dem Rat zeigen, dass man meine Macht nicht ignorieren kann. %s"
+   RebelLiege_rebel_delivered_rsc = "Du bist in meiner Sache sehr loyal. Ich danke Dir."
+   RebelLiege_neutral_delivered_rsc = "Bist Du auch ein Gegner der Tyrannei der gegenwärtigen Thronanwärter? Folge mir."
+   RebelLiege_other_delivered_rsc = "Bedrängt Dich das Joch Deines jetzigen Lehnsherrn so sehr, dass Du mir solche Geschenke bringst? Unterstütze uns in unserem Bestreben nach einer starken Krone."
+   RebelLiege_toopowered_rsc = "Im Moment kann ich aus Furcht, die Kontrolle zu verlieren, niemanden in meine Ränge aufnehmen."
+
+   RebelLiege_already_have_spell = "Ich glaube, Du kennst bereits den %s Zauberspruch."
+   RebelLiege_no_murderer = "Ich bin ein Diener des Gesetzes, und als solcher ist mein Gewissen nicht, Dir zu helfen. Bitte geh weiter."
+
 
 classvars:
 
@@ -168,3 +168,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

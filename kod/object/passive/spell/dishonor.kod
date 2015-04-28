@@ -19,25 +19,25 @@ constants:
 
 resources:
 
-   MarkOfDishonor_name_rsc = "mark of dishonor"
+   MarkOfDishonor_name_rsc = "Zeichen der Ächtung"
    MarkOfDishonor_icon_rsc = imarkdis.bgf
-   MarkOfDishonor_desc_rsc = \
-      "Allows caster to cast Shal'ille's displeasure upon a target.  Will prevent "
-      "target's life force from exceeding the body's maximum.  For evil targets, "
-      "Shal'ille will cause a loss of vigor.  "
-      "Requires emeralds to cast."
+   MarkOfDishonor_desc_rsc = "Erlaubt dem Aussprechenden, dem Ziel Sha-Lills Verdruss zuteil werden zu lassen. Dies wird verhindern, dass die Lebensenergie der Zielperson das Maximale des Körpers übersteigt. Boshafte Ziele werden an Ausdauer verlieren. Man benötigt Edelsteine um diesen Zauber zu sprechen."
+
+
+
+
 
    MarkOfDishonor_sound = smarkdis.wav
 
-   MarkOfDishonor_start = \
-      "Shal'ille singles you out for punishment.  Your life energies ebb."
-   MarkOfDishonor_stop  = \
-      "Shal'ille's attention turns to more pressing matters."
-   MarkOfDishonor_success = "The eyes of Shal'ille turn towards %s%s."
-   MarkOfDishonor_already_enchanted = "%s%s is already marked."
-   MarkOfDishonor_no_self = \
-      "You cannot cast mark of dishonor upon yourself; if you were truly "
-      "dishonorable you would not be able to cast Shal'ille's spells."
+   MarkOfDishonor_start = "Sha-Lill wählt Dich für eine Bestrafung aus. Deine Ausdauer nimmt ab."
+
+   MarkOfDishonor_stop = "Sha-Lills Aufmerksamkeit wendet sich wieder wichtigeren Aufgaben zu."
+
+   MarkOfDishonor_success = "Die Augen Sha-Lills richten sich auf %s%s."
+   MarkOfDishonor_already_enchanted = "%s%s ist bereits gezeichnet."
+   MarkOfDishonor_no_self = "Du kannst die Zeichen der Ächtung nicht auf dich selbst sprechen."
+
+
 
 
 classvars:
@@ -196,4 +196,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -17,24 +17,24 @@ constants:
 
 resources:
 
-   defile_name_rsc = "defile"
+   defile_name_rsc = "Schänden"
    defile_icon_rsc = idefile.bgf
-   defile_desc_rsc = \
-      "In this darkest of rituals, the very spirit of Qor is "
-      "summoned to defile the corpse of a murdered innocent, "
-      "transforming flesh and blood into magical energy for "
-      "the caster.  "
-      "Requires fairy wings and the slain."
+   defile_desc_rsc = "In diesem dunkelsten aller Rituale wird der Geist von Qor herbeigerufen, um die Leiche eines guten Spielers zu schänden, und verwandelt Fleisch und Blut in magische Energie für den Zaubernden. Braucht nichts als einen toten Körper und die Flügel von Feen."
 
-   defile_cast_rsc = "Your nausea betokens the imminence of Qor."
 
-   defile_corpse_gone = \
-      "Your defile spell fails because the corpse has already returned to the earth."
 
-   defile_max = \
-      "If you were to invite more eldritch energy inside of you, there is no "
-      "telling what would happen!"
-   defile_not_good = "Qor may only harvest the souls of the good at heart."
+
+
+
+   defile_cast_rsc = "Deine Übelkeit verkündet die Anwesenheit von Qor."
+
+   defile_corpse_gone = "Dein Schänden-Zauber versagt, weil die Leiche bereits zu Staub zerfiel."
+
+
+   defile_max = "Es gibt kein Wort dafür, was passiert, wenn Du noch mehr zusätzliche Energie aufnimmst. "
+
+
+   defile_not_good = "Qor kann nur jene brauchen, die gut im Herzen waren."
 
    defile_sound = qdefile.wav
 
@@ -194,3 +194,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

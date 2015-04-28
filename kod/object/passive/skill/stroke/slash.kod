@@ -15,11 +15,11 @@ constants:
    include blakston.khd
 
 resources:
-   slash_name_rsc = "slash"
+   slash_name_rsc = "Zuschlagen"
    slash_icon_rsc = slashico.bgf
-   slash_desc_rsc = "Slash is the most common weapon skill.  It helps you hit with melee weapons."
+   slash_desc_rsc = "Das Zuschlagen ist der gewöhnlichste Waffenhieb."
 
-   slash_skill_intro = "Weaponcraft Lv. 1: The most basic skill of armed combat. A must for those who live by the blade."
+   slash_skill_intro = "Waffenfertigkeiten Zirkel 1: Die gewöhnlichste Fertigkeit für den Umgang mit Waffen aller Art. Ein Muß für jeden Kämpfer."
 
 classvars:
 
@@ -67,3 +67,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -18,368 +18,368 @@ constants:
 resources:
 
    room_coruniv = coruniv.roo
-   room_name_coruniv = "The Hall of Genealogy"
+   room_name_coruniv = "Die Halle der Ahnen"
 
-   coruniv_music = main.mid
-   coruniv_room_changed = "Your hometown has been changed."
-   coruniv_no_change = "You cannot change your hometown - it has already been chosen."
+   coruniv_music = main.mp3
+   coruniv_room_changed = "Die Heimatstadt wurde geändert."
+   coruniv_no_change = "Du kannst Deine Heimatstadt nicht wechseln - sie steht fest."
 
-   genealogy_tos = "Written by Lisbetta of the Crimson Blade\n"
-	"\n"
-	"   Tos, the oldest city in the land, how well I know your every cobblestone "
-	"and building crack.  You see I've lived in the big city all my life, never "
-	"saw a reason to move on or even leave her walls for more than a quick jaunt.  "
-	"Why bother, the old city is full of life, adventure and opportunity.  The "
-	"most popular bar, a renowned graveyard, the Arena of Kraanan, what more "
-	"could you want.\n"
-	"\n"
-	"   If you're going to live in Tos there are two things you have to remember, "
-	"everyone's out to get the better of you and you weren't born yesterday.  "
-	"It's not that the people are dishonest.  Fiercely competitive, capitalistic, "
-	"hedonistic perhaps, but not dishonest.  But if you're going to have the "
-	"excitement of living in The City, you've got to watch your back, trust me, "
-	"but not too much.\n"
-	"¶"
-	"   Primarily, we support our Duke.  He has done a lot to keep our merchants "
-	"competitive in the world and keep our walls from crumbling in.  Sure, we "
-	"may grumble about his taxes now and then, but he certainly knows the needs "
-	"of Tos better than those stuffed shirts up in Barloque.\n"  
-	"\n"
-	"Views on other Towns\n"
-	"\n"
-	"BARLOQUE\n"
-	"   For as long as I can remember we have hated those pompous idiots up in "
-	"Barloque.  Long ago there were wars between the people who want to stay in "
-	"the great city and those who wanted to move the center of power up to the "
-	"coast.  Although the wars ended hundreds of years ago, they still hold a "
-	"grudge against us.  I think they are all inbred.\n"
-	"¶"
-	"COR NOTH\n"
-	"   We have strong diplomatic relations with Cor Noth.  It's the only other "
-	"city I bother with.  The trade relations between Tos and Cor Noth have "
-	"always been amicable.\n"
-	"\n"
-	"JASPER\n"
-	"   You have to respect Jasper.  Hard working people.  Jala knows I couldn't "
-	"work that hard.  I also like Jasper because they have thumbed their nose at "
-	"the crown in Barloque.  They never just kneeled down before the aristocrats.  "
-	"They would make good allies if another war were to break out.\n"
-	"\n"
-	"MARION\n"
-	"   We've got a word for the people of Marion, \"Hicks\".  We've got another "
-	"word as well, \"Laughable\".  These simplistic farmers are nothing more than "
-	"shoe polishers for the nobles in Barloque.  Make fun of them at every chance."
-	"¶"
-	"Advantage - heavy freelanced commerce.\n"  
-	"\n"
-	"\n"
-	"To permanently select Tos as your hometown, merely speak this phrase aloud: "
-	"\"I grew up on the ancient streets of Tos.\"\n"
-	"\n"
-	"\n"
-	"PLEASE TAKE NOTICE: Once you have selected your hometown, it will become "
-	"permanent and can not be changed."
+   genealogy_tos = "Geschrieben von Lisbetta von der Scharlachklinge\n\n  Tos, älteste Stadt des Landes, wie ist mir jeder der Steine, aus denen Du bestehst und jeder Spalt vertraut. Mein ganzes Leben habe ich in der Stadt verbracht, nie sah ich einen Grund sie länger zu verlassen als nur für ein paar Stunden. Warum auch, die alte Stadt ist voller Leben, Abenteuer und Möglichkeiten. Die beliebteste Schänke, ein berühmter Friedhof, die Arena von Kraanan, was könnte man sich mehr wünschen?\n\n  Wenn Du in Tos leben willst, musst Du Dir zwei Dinge merken: Ein jeder will nur Dein Bestes (und davon möglichst viel) und Du bist eigentlich ein helles Kerlchen (hoffentlich). Es ist nicht so, dass die Leute hier unehrlich wären: gnadenlos konkurrierend, kapitalistisch genußsüchtig vielleicht, aber nicht unehrlich. Wenn Du also in dieser aufregenden Stadt leben willst, dann solltest Du in der Lage sein, auf Dich aufzupassen. Vertrau mir, aber nicht zu sehr.\n  Grundsätzlich unterstützen wir den Herzog. Er hat viel für die Konkurrenzfähigkeit unserer Händler in der Welt getan - und bewahrt die Stadtmauern vor dem Einsturz.¶Sicher, wir murren hin und wieder wegen seiner Steuern hin, doch er kennt die Bedürfnisse von Tos viel besser, als diese feinen Herren von Barloque.\n\nAnsichten über andere Städte\n\nBARLOQUE\n  Solange ich denken kann, hassen wir diese aufgeblasenen Idioten oben in Barloque. Vor langer Zeit gab es Kriege zwischen den Leuten, die in der großen Stadt bleiben wollten und denen, die den Sitz der Macht an die Küste verlagern wollten. Obwohl die Kriege vor Hunderten von Jahren endeten, hegen sie immer noch einen Groll gegen uns. Ich glaube, er ist ihnen angeboren.\nCOR NOTH\n  Wir unterhalten enge diplomatische Beziehungen mit Cor Noth. Es ist die einzige andere Stadt, mit der ich mich abgebe. Die Handelsbeziehungen zwischen Tos und Cor Noth waren stets freundschaftlich.¶JASPER\n  Jasper verdient Anerkennung. Hart arbeitende Leute. Bei Jala, ich könnte niemals so hart arbeiten. Ich mag Jasper auch, weil sie´s nicht mit dem Edlen von Barloque haben. Sie haben sich ihnen nie einfach unterworfen. Sie wären gute Verbündete für den Fall, dass ein neuer Krieg ausbräche.\n\nMARION\n  Wir nennen die Leute aus Marion, \"Bauern\". Und wir nennen sie noch anders:, \"Lächerlich\". Diese einfältigen Bauern sind nichts weiter als Schuhputzer für die Noblesse von Barloque. Mach Dich über sie lustig, wann immer Du kannst.Vorteil - hoher freiberuflicher Handel.\n\n\nUm Tos dauerhaft als Heimatstadt zu wählen, sprich einfach die folgenden Worte nach: \"Den uralten Straßen von Tos entstamme ich.\"\n\n\nACHTUNG: Ist die Heimatstadt einmal gewählt, steht sie fest und kann nicht mehr geändert werden."
 
-   genealogy_barloque = "Written by Lord Fellmund III, member of the Royal Court\n"
-	"\n"
-	"   Never was there so noble a city as our fair Barloque.  'Tis said, my "
-	"good fellow, those born of proper class established a grand, ocean side "
-	"retreat in an age long past.  Full of fresh air and clear views of the "
-	"azure water, said nobility found reason in great measure to leave behind "
-	"the stagnant puddle known as Tos.  Thou wouldst think that any being with "
-	"a mind for reason would follow in suit, yet those craven clay-brained "
-	"knaves of the withered city moved not.  And to further salt a scratch, "
-	"they chose not to recognize the change in the location of power.  Such "
-	"was not to be tolerated by the Kingdom.\n"
-	"\n"
-	"   In faith, hailing from Barloque grants thee the privilege of nobility "
-	"and the respect of the peasant class.  Thou wouldst enjoy a comfortable "
-	"life filled with appreciation for elegant culture and courtly discourse.  "
-	"A false Lady or Lord would be found not within our stately walls.  I pray "
-	"thee, speak with the tongue befitting our mouths.  Take great care with "
-	"thy \"thous\" and \"thees\".  Speak not \"thither\" when thou mean \"yon\".\n"
-	"¶"
-	"   Whether thou taketh thy support to the Princess or doth grant it that "
-	"villainous Duke, thou must always defend to the best of thy ability and "
-	"with great fortitude the will of the Kingdom.  Many a time, traitorous "
-	"Tos and impertinent Jasper hath challenged the right of our rule, only "
-	"to find defeat at our soldiers' hands.  Barloque holds the honor and the "
-	"responsibility of defending and lording over the Meridian entire.  I "
-	"beseech thee, forget this not.\n"
-	"\n"
-	"Views on other Towns\n"
- 	"\n"
-	"COR NOTH\n"
-	"   I doubt not, thou were properly taught all matters save language and "
-	"social grace in the University of Cor Noth.  And I say with equal "
-	"determination, thy children shall attend the same schools.  Yet, once "
-	"thy brain hath filled itself with the bountiful knowledge offered, get "
-	"thee back to regal life in Barloque.\n" 
-	"¶"
-	"JASPER\n"
-	"   Were there ever a place uncivilized she would answer to the call of "
-	"\"Jasper\".  They speak in uncouth words of rebellion, yet lack the true "
-	"merit to govern themselves.  With no offense to the Cragged Mountain, "
-	"those born of Jasper are best kept at mountain length from those of our "
-	"birth.\n"
-	"\n"
-	"MARION\n"
-	"   Forsooth, the loyalty displayed by the backcountry serfs of Marion "
-	"doth bring such pleasure to our countenance.  Nary a bad word can be said "
-	"of these goodly farmers and servants.  Treat them well and they will "
-	"serve thee well.\n"  
-	"\nTOS\n"
-	"   Roguish beetle-headed miscreants, Tos doth own but naught else."
-	"¶"
-	"Advantage - Vaultman\n" 
-	"\n"
-	"\n"
-	"To permanently select Barloque as thy hometown, merely speak this phrase "
-	"aloud: \"Good Barloque, thy regal streets shall be mine home.\"\n"
-	"\n"
-	"\n"
-	"PLEASE TAKE NOTICE: Once you have selected your hometown, it will become "
-	"permanent and can not be changed."  
 
-   genealogy_marion = "Written by Land Owner Donnal Reed\n"
-	"\n"
-	"   Life is simple here in Marion, and that's the way we like it.  Ya see, "
-	"all them cities try too hard to complicate life with this and that.  When "
-	"you grow up on the farm, you learn that it just ain't that difficult.  "
-	"You live your life decent and others'll treat you right.  It's like an "
-	"apple tree, you give it love and water and let the sun do its thing and "
-	"it will give you delicious apples.  Treat it bad and it dies.\n"
-	"\n"
-	"   We are proud to say that the most valiant and trustworthy knights come "
-	"from our little village.  Those guys are strong from working hard in life "
-	"and follow strict codes on how to treat women right, how to give respect "
-	"to nobility, and how to be generous to those less fortunate.\n"
-	"¶"
-	"   Most of us follow the way ways of Shal'ille and of the Princess, but "
-	"none will raise a pitchfork if yer supporting the Duke or Kraanan.  Why "
-	"even old Faren is to be respected for allowing nature to give us the food "
-	"that we need."
-	"¶"
-	"Views on other Towns\n"
- 	"\n"
-	"BARLOQUE\n"
-	"   You got to give the proper respect to the royalty.  They were born of "
-	"higher blood than us.  Don't need to take their guff if they get rude on "
-	"you, but always remember your place in life.  And it's not that we are "
-	"any less important that they are, they just here on this world for a "
-	"different reason.\n"
-	"\n"
-	"COR NOTH\n"
-	"   I just don't understand.  They spend all of their time chattering away about "
-	"things that I quite frankly don't see any point to, like who wrote what "
-	"book and how different people think differently.  I got to respect that "
-	"they can think like that, but if it don't produce food or clothing or "
-	"make you laugh, then why bother.\n"
-	"¶"
-	"JASPER\n"
-	"   I've heard some good jokes about the people of Jasper.  Don't get me "
-	"wrong, we're just havin' some fun.  They are hard working folk that we "
-	"can relate to.  They're a mite bit strange in how they ain't so outgoing, "
-	"but deep down they carry similar values as us.\n"
-	"\n"
-	"TOS\n"
-	"   Slick city folk, never met one that I'd introduce to my daughter.  I "
-	"think the biggest problem with them down in Tos is their laziness.  They "
-	"don't seem to want to work for anything.  Always think they can talk their "
-	"way out of honest work."
-	"¶"
-	"Advantage - Town Healer.\n" 
-	"\n"
-	"\n"
-	"To permanently select Marion as your hometown, merely speak this phrase "
-	"aloud: \"Marion, home sweet home.\"\n"
-	"\n"
-	"\n"
-	"PLEASE TAKE NOTICE: Once you have selected your hometown, it will become "
-	"permanent and can not be changed."
 
-   genealogy_cornoth = "Written by Regifan Du Bukise, Dean of the University of Cor Noth\n"
-	"\n"
-	"   Let me tell you a little about my hometown of Cor Noth and the type of "
-	"people that we foster.  Once, it was little more than a country inn at the "
-	"crossroads of the King's Highway and the Merchant Way, and slowly buildings "
-	"started to pop up around it.  Its central location led it to become a "
-	"waypoint in most major trade and when the University was founded in the "
-	"year 330, it was declared a major city.  With people coming in from all different "
-	"lands, Cor Noth quickly became known as the Stew Pot.  The addition of "
-	"various cultures mixed with higher education bred tolerance and freethinking.\n"  
-	"\n"
-	"   By all accounts, Cor Noth is a free city.  It does not answer to the Duke "
-	"or the Princess in matters of politics.  In fact, because of its value as a "
-	"trade route between all of the cities, it does not even have a military to "
-	"speak of.  In times of need, Cor Noth has called upon one or more of her "
-	"allies for protection.\n"
-	"¶"
-	"   Most of the educated individuals in the land have hailed from our central "
-	"city.  It is common for them to annotate which degree they did their studies "
-	"in, such as History, Thaumaturgy, and Diplomacy, or the esoteric sub-curriculums "
-	"in Acarology, Pterylology, Meridianology, and etceteras.\n"
-	"\n"
-	"Views on other Towns\n"
- 	"\n"
-	"BARLOQUE\n"
-	"   The Capital City inevitably sends all of its noble children to be learned "
-	"at our University.  Immense wealth and social stature leads to an unhealthy "
-	"view on the world and those less fortunate than themselves, however the "
-	"steady flow of income to our programs and fine arts make them a necessary "
-	"ally.  Perhaps with more liberal education we can eventually change the "
-	"elitism that Barloque has bred for so long.\n"
-	"¶"
-	"JASPER\n"
-	"   Mostly, I feel sorry for the miner's town.  The hills do not yield gems "
-	"and gold in the enormous quantities of fifty years ago.  Simple laws of "
-	"economics foretell the death of Jasper.  Unless a huge vein can be found "
-	"to flood their pockets, they have little hope for surviving another fifty "
-	"years.  To make matters worse, the people estrange themselves from the "
-	"rest of the cities both in attitude and in politics.  Too proud to ask "
-	"for or accept help from others.\n" 
-	"\n"
-	"MARION\n"
-	"   The people of Marion are extremely useful to the world.  We fully "
-	"respect their innate ability to produce crops year after year to feed the "
-	"world at large.  Unfortunately, that leaves them with no time for a formal "
-	"education.  Good people of a simpler time, just try not to offend them "
-	"as you slow down your speech so that they can comprehend you.\n"
-	"¶"
-	"TOS\n"
-	"   Every culture goes through stages, birth and foundation, growth and "
-	"self-discovery, prosperity and high culture - Tos has now entered the "
-	"final stage, corruption and decadence.  The Duke brings strength to the "
-	"land but one must wonder at what cost.  There is much to be learned from "
-	"the confidant inhabitants, but be on your guard."
-	"¶"
-	"Advantage - Central location.\n" 
-	"\n"
-	"\n"
-	"To permanently select Cor Noth as your hometown, merely speak this phrase "
-	"aloud: \"I commend my knowledge to the free city of Cor Noth.\"\n"
-	"\n"
-	"\n"
-	"PLEASE TAKE NOTICE: Once you have selected your hometown, it will become "
-	"permanent and can not be changed."
 
-   genealogy_jasper = "Written by Treban Kley, Historian Emeritus to the King's "
-	"Army and Professor at Cor Noth University\n"
-	"\n"
-	"   The Cragged Mountains are a barren range along the southern border of "
-	"Meridian. The rocky cliffs and sheer walls of these mountains extend for "
-	"many, many miles, forming a natural barrier impassable to all but a few "
-	"legendary explorers. These mountains are inhabited by dangerous and "
-	"mysterious tenants; by the fearsome Trolls of Ukgoth, by colonies of "
-	"mutant ants, and by the tribes of the Great Orc Warlord, whose Mountain "
-	"Fortress has eluded a dozen armies over many campaigns in the last two "
-	"centuries. But it could be said that the least understood of all are "
-	"the mountain people of Jasper.\n"
-	"¶"
-	"   The people of the Cragged Mountains see themselves as a separate "
-	"culture from that of the rest of Meridian. Their struggle for autonomy "
-	"from what they view as an imposed rule from governments in Tos and later "
-	"Barloque has led to three wars of open rebellion against the Crown. "
-	"Historians now refer to these struggles as the First Rebellion (or "
-	"Far'Nohl Insurrection) in year 436, the Second Rebellion (or The "
-	"Kraanan War) in year 511, and the Third Rebellion in year 569. Under "
-	"the leadership of a legacy of warlords, or Wryns as they were called, "
-	"¶"
-	"the people of Jasper proved their valor as a formidable irregular army, "
-	"stalwart on the defense and absolutely ruthless when attacking. The "
-	"people of Jasper were brought under the King's rule after the Battle "
-	"of Denthan Crossing in year 572, which claimed the life of King Zarcos "
-	"II but lead ultimately to the complete subjugation of Jasper. There has "
-	"not been a Wryn presiding over Jasper since, as this custom and many "
-	"others have been forbidden by Royal Decree. An uneasy peace has prevailed "
-	"between Barloque and Jasper since that time, although tensions have not "
-	"again escalated to full-scale war.\n" 
-	"¶"
-	"   Their heritage is little understood by outsiders, and the Jasper people "
-	"are very secretive about their customs and practices. In fact very little "
-	"is known about these ancient people besides their obvious and fierce "
-	"independence, a toughness bred of their wild mountain home, their "
-	"clannishness, and their legendary pride. The people of Jasper are renown "
-	"for their willingness to support and to stick up for each other. Jasper "
-	"enjoyed a brief period of economic boom as a number of hard rock mines "
-	"flourished in the area between years 648 and 696, although mining "
-	"activities in the area of the Cragged Mountain foothills has now all "
-	"but ceased."
-	"¶"
-	"Views on other Towns\n"
-	"\n"
-	"BARLOQUE\n"
-	"   The emotion hatred could be used to describe the feeling that the "
-	"people of Jasper have for the Royalty in Barloque, although it probably "
-	"isn't sufficiently vehement. Bad feelings built up over the course of "
-	"three separate civil wars take a long time to dispel, despite efforts "
-	"from more temperate factions on both sides to establish a meaningful "
-	"peace. Trade and commerce are conducted between the common folk, "
-	"although a strong sense of contempt seems to exist for the Royalty "
-	"regardless of time and distance from the original conflict.\n"
-	"¶"
-	"COR NOTH\n"
-	"   The people of Jasper seem to be much too founded in their "
-	"characteristically strong willed way to ever empathize with the "
-	"positions of their countrymen in Cor Noth. In particular, it is "
-	"apparently inconceivable that Cor Noth could remain neutral through "
-	"so much turmoil between the other cities and towns, or that a town "
-	"established around a university that they see as teaching a "
-	"\"pro-royalist\" curriculum could be anything but a toady, subservient "
-	"culture to the philosophically bankrupt government. As such, there "
-	"is little culturally that passes between the two communities, and "
-	"almost no economic ties.\n"
-	"¶"
-	"MARION\n"
-	"   Relations between the two townships of Jasper and Marion have "
-	"been both positive and active since almost the founding of Marion, "
-	"when the Jasper community essentially saved the lives of the new "
-	"immigrant population following a series of devastating crop failures "
-	"that hit the fledgling community. Despite Marion's political ties to "
-	"Barloque, the communities remain kindred in spirit. In fact there "
-	"is some evidence to suggest that an independent contingency of "
-	"warriors from Marion have been involved in each of Jasper's "
-	"rebellions, in some fighting cases against other Marion forces "
-	"loyal to the King.\n"
-	"¶"
-	"TOS\n"
-	"   The old adage that \"The enemy of my enemy is my friend\" could "
-	"scarcely be used more poignantly than to describe the relationship "
-	"between the township of Jasper and the city of Tos. The two "
-	"communities have built a relationship around a common enemy, "
-	"Barloque, although it would be difficult to argue that Tos shares "
-	"the vehemence of feeling towards the Crown that predominates "
-	"Jasper's political climate. Nevertheless, cooperation and trade "
-	"exist, and should civil war ever break out again, it is likely that "
-	"Jasper and Tos would ally and could indeed field a powerful army."
-	"¶"
-	"Advantage - More restful inn.\n" 
-	"\n"
-	"\n"
-	"To permanently select Jasper as your hometown, merely speak this "
-	"phrase aloud: \"With solidarity, we stand in Jasper.\"\n"
-	"\n"
-	"\n"
-	"PLEASE TAKE NOTICE: Once you have selected your hometown, it will "
-	"become permanent and can not be changed."
 
-   genealogy_tos_name = "Living on the streets of Tos"
-   genealogy_barloque_name = "The Official Writs of the Noble Class"
-   genealogy_marion_name = "Seasons, ever-changing yet always the same"
-   genealogy_cornoth_name = "Of Free Thinkers and Scholars"
-   genealogy_jasper_name = "The Wryn's Legacy"
 
-   coruniv_choose_jasper_trigger = "With solidarity, we stand in Jasper."
-   coruniv_choose_tos_trigger = "I grew up on the ancient streets of Tos."
-   coruniv_choose_marion_trigger = "Marion, home sweet home."
-   coruniv_choose_barloque_trigger = "Good Barloque, thy regal streets shall be mine home."
-   coruniv_choose_cornoth_trigger = "I commend my knowledge to the free city of Cor Noth."
 
-   coruniv_chose_jasper = "Seek out and have trust only in your fellow Jasperites."
-   coruniv_chose_tos = "Street savvy and ready for fame and fortune, you proudly display Tos as your hometown."
-   coruniv_chose_marion = "Be kind to all others, even those who follow the urban ways."
-   coruniv_chose_barloque = "Be true to thy noble blood."
-   coruniv_chose_cornoth = "Be sure to annotate your degrees of study on your description."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   genealogy_barloque = "Geschrieben von Lord Fellmund III., Mitglied des Königlichen Hofes\n\n  Nie gab es eine Stadt so edel wie unser schönes Barloque. 'Es heißt, mein Freund, jede, die vom rechten Geblüt waren, schufen eine wunderbare Stätte der Ruhe direkt an den Gestaden des Meeres. Voller frischer, würziger Luft und mit einem klaren Blick auf türkisfarbene Wasser, fanden die genannten Edelmänner hier gute Gründe dafür, das alte dumme Tos für allemal zu verlassen. Man könntee meinen, jedes Wesen, das einen Funken Verstand hat, würde sofort folgen. Doch dies dumpfen Knappen aus der verblaßten Stadt blieben dort. Und um es auf die Spitze zu treiben, erkannten sie den neuen Sitz der Macht nicht an. Das konnte vom Königreich nicht toleriert werden.\n\n  Durch die Berufung nach Barloque erhaltet Ihr das Privileg der Adligen und den Respekt der Bauernklasse. Ihr werdet ein bequemes Leben führen, mit Sinn für elegante Kultur und höfischen Diskurs. Falschheit werdet Ihr innerhalb unserer prächtigen Mauern nicht finden.¶Dock denkt daran, sprecht so, wie es sich für einen Edelmann geziemt. Achtet wohl auf Eure \"Dus\" und \"Ihrs\". Sagt nicht \"Komm\" wenn Ihr \"Kommt\" meint.\n  Egal, ob ihr Eure die Prinzessin unterstützt oder diesen schurkischen Herzog, Ihr müßt immer mit all Eurer Kraft und allem, was Ihr habt, den Willen des Königreichs vertreten und verteidigen. Oft schon haben es das verräterische Tos und das aufsässige Jasper versucht, unsere rechtmäßige Herrschaft zu brechen. Doch sind sie dabei durch unsere Soldaten zu Tode gekommen. Barloque hat die Ehre und die Verantwortung der Herrschaft und Verteidigung des gesamten Meridian. Ich lege Euch ans Herz, dies nicht zu vergessen.¶Ansichten über andere Städte\n\nCOR NOTH\n  Ich zweifle nicht daran, dass Euch an der Universität von Cor Noth alles wohl beigebracht wurde, außer Umgang und Ausdruck. Und ich sage mit gleicher Bestimmtheit, dass Eure Kinder dieselben Schule besuchen sollen. Doch hat sich Euer Hirn mit all dem nützlichen Wissen mal gefüllt, kehrt zurück zum königlichen Leben in Barloque.\nJASPER\n  Wenn je einen unzivilisierten Ort gab, so hörte er auf den Namen  \"Jasper\". Dort spricht man ungehobelt von Rebellion, verdient es aber nicht, sich selbst zu regieren. Ohne die zerklüfteten Berge beleidigen zu wollen, aber es ist mir so lieber, dass ein Gebirge die in Jasper Geborenen, von denen unseres  Standes trennt.¶MARION\n  Kein schlechtes Wort will ich auf die treuen Leute aus Marion kommen lassen, denn sie bringen soviel Zufriedenheit in unsere Welt. Nicht ein böses Wort kann über diese guten Bauern und Diener gesagt werden. Behandelt sie gut, und sie werden Euch gut dienen.¶TOS\n  Verkommene, bornierte Mißgeburten! Das ist alles was Tos zu bieten hat.Vorteil - Schatzmeister\n\n\nUm Barloque auf immer als Deine Heimatstadt zu wählen, sprich einfach den folgenden Satz: \"Gutes Barloque, Deine edlen Straßen sollen meine Heimat sein.\"\n\n\nACHTUNG: Ist die Heimatstadt einmal gewählt, steht sie fest und kann nicht mehr geändert werden."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   genealogy_marion = "Geschrieben vom Grundbesitzer Donnal Reed\n\n  Es ist ein einfaches Leben hier in Marion, und so gefällt es uns. Weißt Du, all die anderen Städte versuchen so sehr, sich das Leben schwer zu machen. Wenn Du auf einem Hof aufwächst lernst Du, dass es eigentlich gar nicht so schwierig ist. Du lebst ein anständiges Leben und kommst mit allen aus. Es ist wie ein Apfelbaum. Gib ihm Liebe und Wasser, und laß die Sonne das ihrige dazu tun, und er wird Dir dafür köstliche Äpfel schenken. Behandle ihn schlecht, und er stirbt.\n\n  Wir sind stolz, sagen zu können, dass die tapfersten und vertrauenswürdigsten Ritter aus unserem kleinen Dorf kommen. Die harte Arbeit hat sie stark gemacht, und sie folgen strengen Regeln über den gebührenden Umgang mit Frauen, wie sie den Edelleuten Respekt zollen müssen und großzügig zu jenen zu sein haben, die nicht so viel Glück hatten wie sie.\n  Die meisten von uns folgen dem Geheiß von Sha-Lill und der Prinzessin, doch keiner wird seine Heugabel für den Herzog oder Kraanan heben.¶Statt dessen wird der alte Faren wird dafür geachtet, dass er der Natur erlaubt, uns die Nahrung zu spenden, die wir brauchen.Ansichten über andere Städte\n\nBARLOQUE\n  Du musst den Edelleuten Tribut zollen. Sie sind von einem bess´ren Geblüt als wir. Du musst Dir nicht alles von ihnen gefallen lassen, wenn sie Dich schlecht behandeln, aber denk´ dran, wohin Du gehörst. Und es ist nicht so, dass wir weniger wichtig wären als sie. Sie sind einfach aus einem anderen Grund als wir auf dieser Welt.\n\nCOR NOTH\n  Ich verstehe es nicht. Sie vergeuden ihre Zeit damit, stets über Dinge zu plappern, die vollkommen unbedeutend sind, wie z. B. wer welches Buch geschrieben hat und dass unterschiedliche Leute unterschiedlich denken. Ich respektiere schon, dass sie sich soviele Gedanken machen, doch wenn ich weder Essen noch Kleidung produziere und einen anderen nicht zum Lachen bringen kann, dann frage ich mich, wozu das Ganze?¶JASPER\n  Ich hab´ einige gute Witze über die Leute aus Jasper gehört. Versteh´ das nicht falsch, wir machen uns nur einen Spaß. Das sind hart arbeitende Leute, mit denen wir etwas anfangen können. Es ist ein wenig seltsam, dass sie so zurückhaltend sind, doch tief in sich tragen sie ähnliche Werte wie wir.\n\nTOS\n  Aalglattes Stadtvolk, hab´ nie einen getroffen, den ich für meine Tochter wollen würde. Ich glaube, das größte Problem der Leute aus Tos ist ihre Faulheit. Es scheint, als wollten sie für nichts wirklich arbeiten. Glauben wohl, sie könnten sich um ehrliche Arbeit herumreden.Vorteil - Dorfheiler.\n\n\nUm Marion auf immer zu Deinem Heimatort zu machen, sprich einfach den folgenden Satz: \"Marion, meine Heimat sollst Du sein.\"\n\n\nACHTUNG: Ist die Heimatstadt einmal gewählt, steht sie fest und kann nicht mehr geändert werden."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   genealogy_cornoth = "Geschrieben von Regifan Du Bukise, Dekan der Universität von Cor Noth\n\n  Laßt mich Euch ein wenig über meine Heimatstadt Cor Noth erzählen und die Leute, die hier leben. Einst gab es kaum mehr als eine Schänke an der Kreuzung der Prachtstraße der Könige und der Straße der Händler, doch nach und nach kamen immer mehr Gebäude hinzu. Seine zentrale Lage ließ es zu einem zentralen Anlaufpunkt für den Handel werden und als die Universität im Jahre 330 gegründet war, wurde es als eine Hauptstadt anerkannt. Dadurch, dass alle möglichen Leute aus dem ganzen Land herkamen, wurde Cor Noth schnell als der Tiegel bekannt. Durch die vielen verschiedenen Kulturen und die Bildung der Leute entstand viel Toleranz und Freidenken.\n\n  Cor Noth ist eine freie Stadt. Sie unterwirft sich in der Politik weder dem Herzog noch der Prinzessin. Aufgrund ihres Wertes an der Handelsroute zwischen den anderen Städten benötigt Cor Noth noch nicht einmal eine nennenswerte Armee. In Zeiten der Not konnte Cor Noth sich noch immer auf seine Verbündeten verlassen.\n¶ Die meisten der gebildeten Leute des Landes kennen unsere Stadt in der Mitte von allem. Es ist normal für sie, damit anzugeben, welches Studium sie absolviert haben, z. B. Geschichte, Thaumaturgie, Diplomatie oder die esoterischen Lehrpläne in Akarologie, Pterylologie, Meridianologie und so weiter.\n\nAnsichten über andere Städte\n\nBARLOQUE\n  Die Bürger der Hauptstadt schicken ihre edlen Kinder zum Lernen an unsere Universität. Immenser Reichtum und soziales Ansehen führen zu einem ungesunden Bild der Welt und derer, die weniger gesegnet sind als man selbst. Dennoch sind die ständigen Einnahmen unserer Programme und der schönen Künste gern gesehen und die Reichen ein unumgänglicher Verbündeter. Vielleicht schaffen wir es mir einer liberaleren Bildungspolitik, die elitäre Grundhaltung von Barloque zu normalisieren.¶JASPER\n  Die Einwohner der Minenstadt tun mir leid. Die Berge erbringen keine Edelsteine und kein Gold mehr wie noch vor 50 Jahren. Nach den Gesetzen der Wirtschaft wird Jasper bald sterben. Wenn dort nicht bald eine große Ader gefunden wird, die die Taschen der Leute dort füllt, haben sie wenig Hoffnung, weitere fünfzig Jahre dort zu überstehen. Was die Sache noch schlimmer macht, ist, dass die Leute dort sich von den anderen Städten abspalten - politisch wie auch von der Grundhaltung. Sie sind zu stolz, um nach Hilfe zu fragen, geschweige denn sie anzunehmen.\n\nMARION\n  Die Einwohner Marions sind eine Hilfe für die Welt. Wir respektieren ihre erstaunlichen Fähigkeiten, jedes Jahr aufs neue Ernten zu erbringen, mit denen sie fast uns alle ernähren können. Bedauerlicherweise haben sie dadurch keinerlei Zeit, um sich zu bilden. Gute Leute aus einfacheren Zeiten. Versuch etwas langsamer zu spechen, damit sie Dich verstehen können.\nTOS\n  Jede Kultur durchläuft verschiedene Stufen wie Geburt und Gründung, Wachstum und Selbsterforschung, Wohlstand und Hochkultur - Tos ist nun auf der letzten Stufe angelangt, Korruption und Verfall.¶Der Herzog macht das Land stark, doch zu welchem Preis? Es gibt von den zuversichtlichen Einwohnern der Stadt viel zu lernen, doch sei stets auf der Hut.Vorteil - Zentrale Lage.\n\n\nUm Cor Noth auf immer als Heimatstadt zu wählen, sprecht einfach den folgenden Satz: \"Ich weihe mein Wissen und Sein der freien Stadt Cor Noth.\"\n\n\nACHTUNG: Ist die Heimatstadt einmal gewählt, steht sie fest und kann nicht mehr geändert werden."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   genealogy_jasper = "Geschrieben von Treban Kley, Geschichts-Emeritus der Königlichen Armee und Professor an der Universität von Cor Noth\n\n  Die zerklüfteten Berge sind eine karge Bergkette entlang der südlichen Grenze von Meridian. Die schroffen Felsen und steilen Wände dieser Berge erstrecken sich über viele, viele Meilen und sind eine natürliche Sperre, die mit Ausnahme weniger legendärer Forscher bisher von niemandem überwunden wurde. Diese Berge werden von gefährlichen und geheimnisvollen Wesen bewohnt; den gefürchteten Trollen von Ukgot, von Kolonien riesiger roter Ameisen und von den Völkern, die dem Großen Kriegsherrn der Orks Untertan sind, dessen Festung die Feldzüge Dutzender Armeen in den letzten zwei Jahrhunderten überstanden hat. Doch die rätselhaftesten aller Bergvölker sind die Bergbewohner von Jasper.\n  Die Bewohner der zerklüfteten Berge sehen sich selbst als eine eigene Kultur - unabhängig vom Rest von Meridian. Ihr Kampf um Unabhängigkeit gegen das, was sie als erzwungene Herrschaft der Regierungen in Tos und später Barloque erachten, hat sie bereits zu drei Kriegen während offener Rebellionen gegen die Krone geführt.¶Historiker bezeichnen diese Kämpfe als Erste Rebellion (oder Far'Nohl-Auflehnung) im Jahre 436, die Zweite Rebellion (oder Der Kraanan-Krieg) im Jahre 511 und die Dritte Rebellion im Jahre 569. Unter der Führung verschiedener Kriegsherren, oder Wryns, wie sie genannt wurden, bewies das Volk von Jasper seine Tapferkeit als hervorragende, wenn auch untrainierte Armee, beherzt in der Verteidigung und gnadenlos im Angriff. Das Volk von Jasper wurde die Herrschaft des Königs nach der Schlacht an der Kreuzung von Denthan im Jahre 572 leid, woraufhin der König Zarcos II. sein Leben ließ, was aber letztendlich doch zur Unterwerfung von Jasper führte. Seitdem hat es in Jasper keinen Wryn mehr gegeben und diese Tradition - wie auch viele andere - ist durch ein königliches Dekret unterbunden worden.¶Seitdem herrscht zwischen Barloque und Jasper ein unterkühlter Frieden, doch die Spannungen haben noch nicht wieder zu einem Krieg geführt.\n  Die Werte der Leute von Jasper werden nur von wenigen Außenstehenden verstanden, was auch daher rührt, dass sie ihre Bräuche vor anderen verbergen. Über dieses uralte Volk ist daher sehr wenig bekannt, abgesehen davon, dass sie großen Wert auf ihre Unabhängigkeit legen, durch ihre Heimat bedingt sehr zäh sind, äußerst stammesbewußt und extrem stolz. Das Volk von Jasper ist für seinen Zusammenhalt bekannt. Jasper kam in den Genuß eines kurzen wirtschaftlichen Aufschwungs, als eine Reihe von Minen boomte und der Stadt von den Jahren 648 bis 696 Reichtum schenkte. Bis heute wird in den Minen der zerklüfteten Berge gearbeitet, doch inzwischen mit sehr wenig Erfolg.Ansichten über andere Städte\n\nBARLOQUE\n  Das Wort \"Haß\" kann ohne weiteres benutzt werden, um die Gefühle der Leute aus Jasper gegenüber den edlen Damen und Herren von Barloque zu beschreiben, doch eigentlich reicht es nicht aus.¶Die Vorurteile, die im Laufe dreier Kriege entstanden sind, lassen sich nicht so schnell abbauen - trotz aller Versuche der moderaten Nachbarn, einen bedeutsamen Frieden sicherzustellen. Handel und Kommerz finden im gemeinen Volk statt, während es eine starke, allgemein spürbare Verachtung gegenüber den Adligen gibt, die stets und überall zu spüren ist.\n\nCOR NOTH\n Das Volk von Jasper scheint viel zu sehr in seiner charakteristischen unnachgiebigen Art verfangen zu sein, um die Ansichten seiner Landsleute in Cor Noth zu verstehen. Insbesondere ist ihnen offenbar unverständlich, wie Cor Noth während all des Aufruhrs und der Kämpfe zwischen den anderen Städten neutral bleiben konnte oder dass eine Stadt, die um eine Universität herum errichtet wurde, die einen \"pro-adligen\" Lehrplan hat, mehr als nur ein unterwürfiges Element der korrupten Regierung sein kann. Als Resultat davon gibt es zwischen den beiden Kommunen wenig kulturellen Austausch und beinahe überhaupt keinen Handel.¶MARION\n  Die Beziehungen zwischen den beiden Städten Jasper und Marion sind beinahe schon seit der Gründung von Marion positiv und aktiv, nachdem das Volk von Jasper die neu immigrierte Bevölkerung nach einer Reihe von Mißernten praktisch rettete, unter denen die neue Kommune zu leiden hatte. Marions politischer Bande zu Barloque zum Trotz sind die beiden Orte sich sehr nahe. Es gibt sogar Beweise dafür, dass eine unabhängige Krieger-Einheit aus Marion in jeder von Jaspers Rebellionen zum Einsatz kam. In manchen Fällen soll diese sogar gegen dem König loyal ergebene Truppen aus Marion gekämpft haben.\n\nTOS\n  Das alte Sprichwort, dass \"der Feind meines Feindes mein Freund ist\", könnte kaum passender benutzt werden als zur Beschreibung der Beziehung zwischen den Städten Jasper und Tos. Die beiden Kommunen haben ihr gutes Verhältnis zueinander aufgrund eines gemeinsamen Feindes, Barloque, obwohl sich kaum bestreiten läßt, dass Tos die Vehemenz des politischen Klimas, das in Jasper der Krone gegenüber herrscht, nicht völlig teilt.¶Dennoch treiben die beiden Städte eifrig Handel miteinander und sollte jemals wieder ein Bürgerkrieg ausbrechen, ist es möglich, dass Jasper und Tos sich verbünden und somit über eine sehr starke Armee verfügen.Vorteil - Ruhigere Wirtschaft.\n\n\nUm Jasper auf ewig zur Heimatstadt zu wählen, sprich den folgenden Satz nach: \"Solidarisch halten wir in Jasper zueinander.\"\n\n\nACHTUNG: Ist die Heimatstadt einmal gewählt, steht sie fest und kann nicht mehr geändert werden."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   genealogy_tos_name = "Das Leben in den Straßen von Tos"
+   genealogy_barloque_name = "Die Offiziellen Schriften der Adligen"
+   genealogy_marion_name = "Die Jahreszeiten, immer anders und doch dasselbe"
+   genealogy_cornoth_name = "Von Freidenkern und Gelehrten"
+   genealogy_jasper_name = "Das Vermächtnis der Wryn"
+
+   coruniv_choose_jasper_trigger = "Solidarisch halten wir in Jasper zueinander."
+   coruniv_choose_tos_trigger = "Den uralten Straßen von Tos entstamme ich."
+   coruniv_choose_marion_trigger = "Marion, meine Heimat sollst Du sein."
+   coruniv_choose_barloque_trigger = "Gutes Barloque, Deine edlen Straßen sollen meine Heimat sein."
+   coruniv_choose_cornoth_trigger = "Ich weihe mein Wissen und Sein der freien Stadt Cor Noth."
+
+   coruniv_chose_jasper = "So gehet hin und habt Vertrauen nur in Menschen aus Jasper."
+   coruniv_chose_tos = "Die Straßen geteilt und bereit für Ruhm und Vermögen, wählst Du Tos als Deine Heimatstadt."
+   coruniv_chose_marion = "Sei freundlich zu allen - auch zu denen, die die Wege einer anderen Stadt beschreiten."
+   coruniv_chose_barloque = "Sei von wahrhaft edlem Geblüt."
+   coruniv_chose_cornoth = "Achte darauf, Deine Studienabschlüsse in Deiner Beschreibung aufzuführen."
 
 classvars:
 
@@ -511,3 +511,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

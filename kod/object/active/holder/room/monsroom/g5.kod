@@ -17,8 +17,8 @@ constants:
 resources:
    waterfall_soundg5 = wfall2.wav
    room_OutdoorsG5 = G5.roo
-   room_name_OutdoorsG5 ="The King's Way"
-   OutdoorsG5_music = walk1.mid
+   room_name_OutdoorsG5 = "Weg des Königs"
+   OutdoorsG5_music = walk1.mp3
 
 classvars:
 
@@ -79,3 +79,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

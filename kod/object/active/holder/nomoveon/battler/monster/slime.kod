@@ -17,15 +17,15 @@ constants:
 resources:
 
    slime_koc_name_rsc = "kinachot"
-   slime_name_rsc = "slime"
+   slime_name_rsc = "Der Schleim"
    slime_icon_rsc = amoeba.bgf
-   slime_desc_rsc = \
-   "A mass of quivering goo, the slime inches forward "
-   "leaving a sickly trail behind.  The remains of its last "
-   "victim are visible within its transparent innards."
+   slime_desc_rsc = "Als ein Haufen schwabbelnder Masse kriecht der Schleim vorwärts und hinterläßt eine ekelerregende Spur. Die Reste seines letzten Opfers sind durch die transparenten Innereien zu sehen."
+
+
+
 
    slime_dead_icon_rsc = amoebaX.bgf
-   slime_dead_name_rsc = "dead slime"
+   slime_dead_name_rsc = "Nur eine Schleimpfütze"
 
    slime_sound_hit = slm_atkh.wav
    slime_sound_miss = slm_atkm.wav
@@ -113,3 +113,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

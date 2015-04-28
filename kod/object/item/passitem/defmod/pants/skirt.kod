@@ -20,9 +20,9 @@ resources:
 
    Skirt_male_player_rsc = bfc.bgf
    Skirt_female_player_rsc = bfd.bgf
-   Skirt_name_rsc = "long skirt"
-   Skirt_desc_rsc = \
-      "This skirt will cover your legs nicely but won't provide much protection."
+   Skirt_name_rsc = "Der lange Rock"
+   Skirt_desc_rsc = "Dieser Rock wird viel von deinen schönen Beinen zeigen. Erwarte jedoch nicht allzu viel Schutz von ihm."
+
 
 classvars:
 
@@ -58,3 +58,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   RoomEnchantment_name_rsc = "room enchantment"
+   RoomEnchantment_name_rsc = "Gebietszauber"
    RoomEnchantment_icon_rsc = iheat.bgf
-   RoomEnchantment_desc_rsc = \
-      "An enchantment which is attached to a room."
+   RoomEnchantment_desc_rsc = "Dieser Zauber betrifft alle, die sich in diesem Gebiet aufhalten."
+
 
 classvars:
 
@@ -60,3 +60,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

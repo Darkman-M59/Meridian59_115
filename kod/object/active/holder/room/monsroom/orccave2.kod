@@ -17,9 +17,9 @@ constants:
 resources:
 
    room_orccave2 = oc02.roo
-   room_name_orccave2 = "An Enigmatic Chamber"
+   room_name_orccave2 = "Eine rätselhafte Kammer"
 
-   orccave2_music = orc1.mid
+   orccave2_music = orc1.mp3
 
 classvars:
 
@@ -78,3 +78,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   platearmor_name_rsc = "plate armor"
+   platearmor_name_rsc = "Der Plattenpanzer"
    platearmor_icon_rsc = plateamr.bgf
-   platearmor_desc_rsc = \
-      "Formed from solid sheets of hardened steel, this armor "
-      "offers protection from all but the most ferocious "
-      "assault.  It bears the mark of Fehr'loi Qan, a "
-      "sign of fine workmanship and first rate materials."
+   platearmor_desc_rsc = "Der Plattenpanzer besteht aus mehreren Lagen gehärteten Stahls. Diese Rüstung bietet den größtmöglichen Schutz. Er trägt das Zeichen von Ferloi Qan, ein Zeichen für Handwerkskunst und Qualität."
+
+
+
+
 
    platearmor_male_icon_rsc = bte.bgf
    platearmor_female_icon_rsc = btf.bgf
@@ -71,4 +71,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

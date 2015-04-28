@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   sign_name_rsc = "sign"
+   sign_name_rsc = "Das Schild"
    sign_icon_rsc = sign.bgf
    sign_icon_newbie_rsc = razsign1.bgf
-   sign_desc_rsc = "This is an informational sign."
-   sign_insc_rsc = " "
+   sign_desc_rsc = "Dies ist eine Informationstafel."
+   sign_insc_rsc = ""
 
 classvars:
 
@@ -77,3 +77,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

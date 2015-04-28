@@ -34,17 +34,17 @@ constants:
 resources:
 
    DragonFly_koc_name_rsc = "huzotz"
-   DragonFly_name_rsc = "dragonfly"
+   DragonFly_name_rsc = "Die Drachenfliege"
    DragonFly_icon_rsc = dfly.bgf
-   DragonFly_desc_rsc = \
-      "These small lizards look exceptionally friendly.  Their gossamer wings allow "
-      "them to jump into the air and take flight for brief periods of time.  When "
-      "backed into a corner, dragonflies are known to have a nasty spitting attack."
+   DragonFly_desc_rsc = "Diese kleinen Eidechsen sehen außergewöhnlich freundlich aus. Ihre hauchzarten Flügel erlauben es ihnen, sich in die Luft zu schwingen und für einen kurzen Augenblick zu fliegen. Wenn Drachenfliegen in eine Ecke gedrängt werden, weiß man, dass sie darauf mit einem widerlichen Spuckangriff reagieren."
+
+
+
 
    DragonFly_wings_rsc = dflywing.bgf
 
    DragonFly_dead_icon_rsc = dflyX.bgf
-   DragonFly_dead_name_rsc = "dead dragonfly"
+   DragonFly_dead_name_rsc = "Die tote Drachenfliege"
 
    DragonFly_sound_hit = df_atkm.wav
    DragonFly_sound_miss = df_atkm.wav
@@ -288,3 +288,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

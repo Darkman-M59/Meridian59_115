@@ -18,7 +18,7 @@ constants:
 
 resources:
 
-   guildshield_name_rsc = "herald shield"
+   guildshield_name_rsc = "Der Gildenschild"
 
    guildshield_base_sash = gshA.bgf
    guildshield_base_halvesv = gshB.bgf
@@ -63,42 +63,42 @@ resources:
 
    guildshield_window_overlay_rsc = povshldE.bgf
 
-   guildshield_desc_rsc = \
-      "Heavy metal shields of this style are decorated in the standards of its owner guild. "
+   guildshield_desc_rsc = "Schwere Metallschilde dieses Stils tragen ein Muster, das den Vorgaben der Gilde entspricht, welcher der Besitzer angehört. "
 
-   guildshield_heraldry_prefix = "The pattern on this shield is "
 
-   guildshield_red = "rose"
-   guildshield_skin1 = "sand"
+   guildshield_heraldry_prefix = "Das Muster dieses Schildes ist "
+
+   guildshield_red = "rot"
+   guildshield_skin1 = "beige"
    guildshield_skin2 = "bronze"
-   guildshield_skin4 = "ochre"
-   guildshield_orange = "gold"
-   guildshield_green = "verdant"
-   guildshield_blue = "navy"
-   guildshield_purple = "violet"
-   guildshield_yellow = "gold"
-   guildshield_gray = "gris"
-   guildshield_sky = "azure"
-   guildshield_unknown = "a color"
+   guildshield_skin4 = "ocker"
+   guildshield_orange = "golden"
+   guildshield_green = "grün"
+   guildshield_blue = "blau"
+   guildshield_purple = "lila"
+   guildshield_yellow = "golden"
+   guildshield_gray = "grau"
+   guildshield_sky = "azurblau"
+   guildshield_unknown = "einfarbig"
 
-   guildshield_slash = " tierced in bend sinister by "
-   guildshield_half = " astride "
-   guildshield_horiz = " tierced in feld by "
-   guildshield_checker = " quartered with "
+   guildshield_slash = " und versetzt mit "
+   guildshield_half = " geteilt durch "
+   guildshield_horiz = "dreigeteilt durch"
+   guildshield_checker = "gevierteilt durch "
 
-   guildshield_heraldry_known = ": the mark of the "
+   guildshield_heraldry_known = ". Das Wappen der Gilde "
    guildshield_heraldry_postfix = ". "
 
-   guildshield_insig_riija = "The unblinking eye of Riija stares from its center. "
-   guildshield_insig_qor = "The skull insignia of Qor is upon it. "
-   guildshield_insig_kraanan = "The weapons of Kraanan are crossed acenter. "
-   guildshield_insig_faren = "The power of Faren arcs across it. "
-   guildshield_insig_jala = "The lute of Jala is depicted upon it. "
-   guildshield_insig_princess = "It is emblazoned with the Royal Crown of Kateriina. "
-   guildshield_insig_old_duke = "The bold seal of Kalior is affixed. "
-   guildshield_insig_duke = "The bold seal of Akardius is affixed. "
-   guildshield_insig_shalille = "The ankh of Shal'ille's blessing is afaced. "
-   guildshield_insig_rebel = "The rebel flag of Jonas is displayed proudly. "
+   guildshield_insig_riija = "Das starre Auge Riijas blickt aus der Mitte. "
+   guildshield_insig_qor = "Das Schädelabzeichen von Qor befindet sich darüber. "
+   guildshield_insig_kraanan = "Die Waffen Kraanans sind in der Mitte gekreuzt. "
+   guildshield_insig_faren = "Die Kraft von Faren-Bogen darüber. "
+   guildshield_insig_jala = "Die Laute von Jala ist darauf dargestellt. "
+   guildshield_insig_princess = "Es ist mit der Königskrone von Kateriina geschmückt. "
+   guildshield_insig_old_duke = "Verziert von Kaliors stolzem Siegel."
+   guildshield_insig_duke = "Das ins Auge fallende Siegel von Herzog Akardius ist darauf angebracht. "
+   guildshield_insig_shalille = "Das Henkelkreuz von Sha-Lills Segen ist dargestellt. "
+   guildshield_insig_rebel = "Verziert mit Jonas' stolzer Rebellenflagge."
    guildshield_insig_none = ""
 
 classvars:
@@ -572,7 +572,7 @@ messages:
          OR (piInsigniaType = INSIG_QOR AND iSchool = SS_QOR)
          OR (piInsigniaType = INSIG_SHALILLE AND iSchool = SS_SHALILLE)
          OR (piInsigniaType = INSIG_RIIJA AND iSchool = SS_RIIJA)
-         OR (piInsigniaType = INSIG_JALA AND iSchool = SS_JALA)
+		 OR (piInsigniaType = INSIG_JALA AND iSchool = SS_JALA)
       {
          return 10;
       }
@@ -591,3 +591,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

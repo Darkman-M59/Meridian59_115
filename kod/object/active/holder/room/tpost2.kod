@@ -17,13 +17,13 @@ constants:
 resources:
   
    room_TradingPostCellar = tpost2.roo
-   room_name_TradingPostCellar = "The Cellar Rooms"
+   room_name_TradingPostCellar = "Die Kellerräume"
 
-   TradingPostCellar_music = boneprst.mid
+   TradingPostCellar_music = boneprst.mp3
 
-   TradingPostCellar_locked_1 = "Room One is locked."
-   TradingPostCellar_locked_2 = "Room Two is locked."
-   TradingPostCellar_locked_3 = "Room Three is locked."
+   TradingPostCellar_locked_1 = "Raum eins ist abgeschlossen."
+   TradingPostCellar_locked_2 = "Raum zwei ist abgeschlossen."
+   TradingPostCellar_locked_3 = "Raum drei ist abgeschlossen."
 
 classvars:
 
@@ -71,3 +71,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

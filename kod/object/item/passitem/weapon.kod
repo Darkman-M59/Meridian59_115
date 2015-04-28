@@ -85,23 +85,23 @@ constants:
 
 resources:
 
-   weapon_already_broken = "%s%s is broken; you can't use it!"
-   weapon_broken = "%s%s shatters into pieces."
+   weapon_already_broken = "%s%s ist zerbrochen und nicht mehr zu gebrauchen."
+   weapon_broken = "%s%s zerbricht in Stücke."
 
-   weapon_condition_exc = " is in flawless condition."
-   weapon_condition_exc_mended = " is in excellent condition, but has been repaired before."
-   weapon_condition_good = " is slightly tarnished but in generally good condition."
-   weapon_condition_med = " is notched and stained with blood but is still an effective weapon."
-   weapon_condition_poor = " is well worn and may not last much longer."
-   weapon_condition_broken = " has been shattered by a powerful blow."
+   weapon_condition_exc = " ist in tadellosem Zustand."
+   weapon_condition_exc_mended = " ist in hevorragendem Zustand, wurde aber bereits ausgebessert."
+   weapon_condition_good = " zeigt erste Spuren von Abnutzung."
+   weapon_condition_med = " ist schartig und blutgetränkt, aber immer noch effektiv."
+   weapon_condition_poor = " ist schon schwer beschädigt und wird vermutlich bald zerbrechen."
+   weapon_condition_broken = " wurde durch einen brutalen Schlag zerbrochen."
 
-   weapon_do_damage = "I just did %i points of damage! (%i)"
-   weapon_to_hit = "I have a %i chance to hit! (%i/%i)"
+   weapon_do_damage = "Ich habe gerade %i Zerstörungspunkte gemacht! (%i)"
+   weapon_to_hit = "Ich habe eine %i Gelegenheit zuzuschlagen! (%i/%i)"
 
    % These are used by weapon enchantments to tell where some symbol
    %  happens to be on the blade.
-   weapon_head = "on the head"
-   weapon_grip = "on the grip"
+   weapon_head = "auf den Kopf"
+   weapon_grip = "auf den Griff"
 
 classvars:
 
@@ -939,3 +939,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

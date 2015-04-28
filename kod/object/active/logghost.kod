@@ -17,10 +17,10 @@ constants:
 
 resources:
 
-   LogoffGhost_name_rsc = "logoff ghost"
-   LogoffGhost_desc_rsc = \
-      "This is the ghosted body of %q, whose consciousness has travelled to "
-      "another plane of existence."
+   LogoffGhost_name_rsc = "Ein seelenloser Körper"
+   LogoffGhost_desc_rsc = "Dies ist der seelenlose Körper von %q, er befindet sich auf einer anderen Bewußtseinsebene."
+
+
 
    LogoffGhost_default_icon = ptb.bgf
    LogoffGhost_default_larm = plb.bgf
@@ -30,54 +30,54 @@ resources:
    LogoffGhost_default_sword = swordov.bgf
    LogoffGhost_default_shield = rshield.bgf
 
-   LogoffGhost_penalty_mail_Sender = "Your guardian angel"
+   LogoffGhost_penalty_mail_Sender = "Dein Schutzengel"
 
-   LogoffGhost_penalty_mail = "Subject: Penalties for logging off in an unsafe area\n"
-      "You have suffered some penalties for logging off in an unsafe area:\n"
-      "You lost %q items, %q spell points, and %q skill points."
-      "\n\n"
-      "In the future, it would be wise to log off in a safe area such as an "
-      "inn, an adventurer's hall, or the interior of your guild's hall."
-      "\n\n"
-      "Abandoning your body in an unsafe area weakens it, which may cause you "
-      "to suffer some of the effects of death: you could lose proficiency in "
-      "spells and skills, as well as loosening your grip on items in your "
-      "possession.  You have a 10 minute grace period after logoff before "
-      "penalties are incurred, so if you lose your connection involuntarily, "
-      "simply reconnect within 10 minutes and your character will be fine.  "
-      "Every time you log off unsafely in a short period of time, your body "
-      "becomes progressively weaker and as such will suffer more from being "
-      "abandoned.  The first time you logoff unsafely, you will suffer little "
-      "or no penalties, but once you have performed enough unsafe logoffs, "
-      "the damage to your body will be comparable to the losses incurred when "
-      "your character dies.  This penalty escalation recedes over time, so if "
-      "you don't log off unsafely too frequently, your character should "
-      "suffer only mild if any penalties."
-      "\n\n"
-      "I recommend you do not use this as a tactic to avoid danger, since "
-      "it could work against you should your connection to the Meridian "
-      "become too unstable soon after."
-      "\n\n"
-      "  -- Your guardian angel"
+   LogoffGhost_penalty_mail = "Betreff: Bestrafung, weil das Spiel in einem unsicheren Bereich beendet wurde\nDu bist bestraft worden, weil Du das Spiel in einem unsicheren Bereich beendet hast! \nDu hast %q Gegenstände, %q Zauberspruchpunkte und %q Fertigkeitspunkte verloren. \nEs wäre weiser, das Spiel in Zukunft in sicheren Bereichen wie einer Kneipe oder in einer Gemeinschaftshalle oder in Deiner Gildenhalle zu beenden.\n\nDeinen Körper in einem unsicheren Bereich zurückzulassen, schwächt ihn, wodurch Du die Fertigkeit in Bezug auf Zaubersprüche und Fähigkeiten verlieren könntest, und vielleicht hast Du auch keinen Zugriff mehr auf die Gegenstände, die in Deinem Besitz sind. Du hast eine Gnadenfrist von 10 Minuten nach dem Beenden des Spiels, bevor Strafpunkte erhoben werden. Wenn die Verbindung also unbeabsichtigt unterbrochen wird, stelle sie einfach innerhalb von 10 Minuten wieder her und Deiner Spielfigur wird nichts passieren. Wenn Du innerhalb kurzer Zeit das Spiel beendest, wird Dein Körper mit jedem Mal nach und nach schwächer und wird so mehr darunter leiden, wenn er verlassen wird. Wenn Du das erste Mal das Spiel in einem unsicheren Bereich beendest, wirst Du nur wenige oder gar keine Strafe bekommen, doch sobald Du dies zehnmal wiederholt hast, werden die Schäden, die Dein Körper nimmt, so groß sein, dass sie vergleichbar sind mit dem Verlust, den Du nimmst, wenn Deine Spielfigur stirbt. Dieser Anstieg der Strafe nimmt mit der Zeit wieder ab; wenn Du das Spiel also nicht zu häufig in unsicheren Bereichen beendest, sollte Deine Spielfigur nur eine kleine Strafe erhalten.\n\n -- Dein Schutzengel\n\n[Diese Ergänzung wurde aufgrund von Beschwerden über Spieler eingebracht, die das Spiel beenden, um der Vergeltung durch andere Spieler zu entgehen. Diese Spielabbrüche sind umso schädigender, je häufiger sie durchgeführt werden, und führen zu Strafen. Spieler, die nur gelegentlich in unsicheren Bereichen das Spiel beenden, werden davon in der Regel nicht berührt.]"
 
-   LogoffGhost_newbie_mail = "Subject: Logging off in an unsafe area\n"
-      "You last logged off in an unsafe area, where the lines of connection "
-      "to the Meridian are weak.  I have managed to protect you from the harm "
-      "that usually would result from passing back through the Meridian in "
-      "such a place, but in the future it would be wise to log off in a safe "
-      "area such as an inn or an adventurer's hall (or your guild's hall, "
-      "when you have progressed enough to join a guild)."
-      "\n\n"
-      "Abandoning your body in an unsafe area weakens it, which may cause "
-      "you to experience some effects of death: you could lose proficiency "
-      "in spells and skills, as well as lose your grip on items in your "
-      "possession.  You have a 10 minute grace period after logoff before "
-      "penalties are incurred, so if you lose your connection involuntarily, "
-      "simply reconnect within 10 minutes and your character will be fine."
-      "\n\n"
-      "  -- Your guardian angel"
 
-   LogoffGhost_someone = "Someone"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   LogoffGhost_newbie_mail = "Betreff: Das Spiel wird in einem unsicheren Bereich beendet\nDu hast das Spiel das letzte Mal in einem unsicheren Bereich beendet, wo die Verbindungen nach Meridian schwach sind. Es ist mir gelungen, Dich vor Schaden zu bewahren, der normalerweise dadurch hervorgerufen wird, dass man an solch einem Ort in Meridian zurückgeht, doch es wäre klug, in Zukunft das Spiel in einem sicheren Bereich, wie in einer Kneipe oder einer Gemeinschaftshalle zu beenden (oder in deiner Gildenhalle, wenn Du schon fortgeschritten genug bist, um einer Gilde beizutreten).\nDeinen Körper in einem unsicheren Bereich zurückzulassen, schwächt ihn, wodurch Du die Fertigkeit in Bezug auf Zaubersprüche und Fähigkeiten verlieren könntest, und vielleicht hast Du auch keinen Zugriff mehr auf die Gegenstände, die in Deinem Besitz sind. Du hast eine Gnadenfrist von 10 Minuten nach dem Beenden des Spiels, bevor Strafpunkte erhoben werden. Wenn die Verbindung also unbeabsichtigt unterbrochen wird, stelle sie einfach innerhalb von 10 Minuten wieder her und Deiner Spielfigur wird nichts passieren.\n\n -- Dein Schutzengel"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   LogoffGhost_someone = "Jemand"
 
    LogoffGhost_poof_wav_rsc = logoffghost_poof.wav
 
@@ -762,3 +762,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

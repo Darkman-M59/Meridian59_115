@@ -17,9 +17,9 @@ constants:
 resources:
 
    room_jasperSmith = jassmith.roo
-   room_name_JasperSmith = "Quintor's Smithy"
+   room_name_JasperSmith = "Quintors Schmiede"
 
-   jassmith_music = smithy.mid
+   jassmith_music = smithy.mp3
 
 classvars:
 
@@ -68,3 +68,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

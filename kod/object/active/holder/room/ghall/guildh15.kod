@@ -32,17 +32,17 @@ constants:
 
 resources:
 
-   room_name_guildh15 = "Inner Sanctum of Queen Venya'cyr"
+   room_name_guildh15 = "Das Allerheiligste von Königin Venya'cyr"
    room_guildh15 = guildh15.roo
 
-   Guildh15_lever_desc = "This lever is clearly of archaic design, yet it seems to be in pristine condition.  "
-      "You can't help but wonder what it controls."
+   Guildh15_lever_desc = "Dieser Hebel hat ein archaisches Aussehen, scheint aber in gutem Zustand zu sein. Du fragst Dich natürlich, was er bewirkt."
+
    Guildh15_lever_icon = neclever.bgf
 
    Guildhall15_loop = necloop3.wav
-   Guildhall15_music = nec03.mid
+   Guildhall15_music = nec03.mp3
 
-   guildh15_guildwarning = "Your amulet vibrates vigorously for a moment.  Something is amiss."
+   guildh15_guildwarning = "Dein Amulett vibriert für einen Moment sehr stark. Irgendetwas fehlt."
 
 classvars:
 
@@ -389,3 +389,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

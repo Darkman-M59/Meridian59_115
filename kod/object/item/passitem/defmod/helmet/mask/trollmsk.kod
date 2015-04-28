@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   TrollMask_name_rsc = "troll mask"
+   TrollMask_name_rsc = "Eine Trollmaske"
    TrollMask_icon_male_rsc = mmtrl.bgf
    TrollMask_icon_female_rsc = mftrl.bgf
-   TrollMask_desc_rsc = \
-      "A mask featuring the visage of a fierce troll!  Use it to scare your friends."
+   TrollMask_desc_rsc = "Diese Maske zeigt das Gesicht eines wilden Trolls! Damit kannst du bestimmt deine Freunde erschrecken."
+
 
 classvars:
 
@@ -39,5 +39,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

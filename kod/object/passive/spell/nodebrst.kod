@@ -18,19 +18,19 @@ constants:
 
 resources:
 
-   Nodeburst_name_rsc = "nodeburst"
+   Nodeburst_name_rsc = "Magisches Opfer"
    Nodeburst_icon_rsc = icanniba.bgf
-   Nodeburst_desc_rsc = \
-      "You tap all of your mana nodes to the maximum, giving you "
-      "an instant burst of mana and health, but destroying your bonds.  "
-      "May only be cast once per day.  "
-      "Requires fairy wings and entroot berries and is very tiring to cast."
+   Nodeburst_desc_rsc = "Du bündelst alle Deiner Mananodes zu einer unglaublichen Stärke und Gesundheit, zerstörst dabei aber Deine Manaverbindungen. Kann nur einmal pro Tag gezaubert werden. Benötigt Feenflügel und Wurzelknollen und ist sehr anstrengend."
 
-   Nodeburst_fail = "You have no links to any mana nodes which you can burst."
-   Nodeburst_success = \
-      "You open all your mana links to the maximum and mana floods down the "
-      "links."
-   Nodeburst_not_today = "You may only cast Nodeburst once per day."
+
+
+
+
+   Nodeburst_fail = "Du hast keine Verbindungen zu Manaquellen."
+   Nodeburst_success = "Du öffnest alle Deine Manaverbindungen und Mana fließt zu den Verbindungen."
+
+
+   Nodeburst_not_today = "Du kannst Magisches Opfer nur einmal pro Tag zaubern."
    
    Nodeburst_sound = qor.wav
 
@@ -151,3 +151,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

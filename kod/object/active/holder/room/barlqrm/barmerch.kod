@@ -18,9 +18,9 @@ constants:
 resources:
 
    room_barmerch = barmerch.roo
-   room_name_barmerch = "The Sparkling Stone Shop"
+   room_name_barmerch = "Zum funkelnden Edelstein"
 
-   barmerch_music = smithy.mid
+   barmerch_music = smithy.mp3
 
 classvars:
 
@@ -77,3 +77,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

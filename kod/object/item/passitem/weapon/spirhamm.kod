@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   spirithammer_name_rsc = "spiritual hammer"
+   spirithammer_name_rsc = "Heiliger Hammer"
    spirithammer_icon_rsc = hammer.bgf
-   spirithammer_desc_rsc = \
-      "Inherently having holy blessings, this hammer is even more powerful "
-      "than the standard variation."
+   spirithammer_desc_rsc = "Dieser Hammer, dem ein heiliger Segen innewohnt, ist mächtiger als die Standardausgabe."
 
-   spirithammer_expires = "Your spiritual hammer disappears in a puff of smoke!"
+
+
+   spirithammer_expires = "Dein heiliger Hammer verschwindet in einer Rauchwolke!"
 
    spirithammer_window_overlay_rsc = povhamr.bgf
    spirithammer_player_overlay = hamrov.bgf
@@ -168,3 +168,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

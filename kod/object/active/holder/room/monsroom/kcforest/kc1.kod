@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OutdoorsKC1 ="The Chasm"
+   room_name_OutdoorsKC1 = "Der Abgrund"
    room_OutdoorsKC1 = KC1.roo
-   OutdoorsKC1_music = avarwar.mid
+   OutdoorsKC1_music = avarwar.mp3
 
 classvars:
 
@@ -91,3 +91,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

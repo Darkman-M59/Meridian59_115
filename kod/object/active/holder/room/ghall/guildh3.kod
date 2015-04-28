@@ -27,7 +27,7 @@ constants:
 
 resources:
 
-   room_name_guildhall3 = "The Den of Shadows"
+   room_name_guildhall3 = "Lange Schatten"
    room_guildhall3 = guildh3.roo
 
 classvars:
@@ -229,3 +229,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

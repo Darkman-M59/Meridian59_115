@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OutdoorsKA5 ="Outside the Guard Tower"
+   room_name_OutdoorsKA5 = "Am Wachturm"
    room_OutdoorsKA5 = KA5.roo
-   OutdoorsKA5_music = avarwar.mid
+   OutdoorsKA5_music = avarwar.mp3
 
 classvars:
 
@@ -118,3 +118,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

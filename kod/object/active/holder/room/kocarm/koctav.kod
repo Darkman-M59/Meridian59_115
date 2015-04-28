@@ -16,9 +16,9 @@ constants:
 
 resources:
   
-   room_name_koctavern = "The Barking Monster"
+   room_name_koctavern = "Zum bellenden Monstrum"
    room_koctavern = koctav.roo
-   koctavern_music = song12.mid
+   koctavern_music = song12.mp3
 
 classvars:
 
@@ -111,3 +111,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

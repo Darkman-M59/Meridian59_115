@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   uncutseraphym_name_rsc = "uncut seraphym"
+   uncutseraphym_name_rsc = "ungeschliffene Seraph"
    uncutseraphym_icon_rsc = serapunc.bgf
-   uncutseraphym_desc_rsc = \
-   "There must be something remarkable about this ugly lump of "
-   "stone, for the wizards of the orc clans certainly seem fond of "
-   "them. A vein in the rock pulses occasionally, like a heartbeat." 
-   uncutseraphym_name_plural_rsc = "uncut seraphym"
+   uncutseraphym_desc_rsc = "Da muss etwas Bemerkenswertes an diesem widerlichen Klumpen  Stein sein, da die Zauberer der Ork-Clans ihn ziemlich gern haben. Gelegentlich pulsiert eine Ader im Fels wie der Herzschlag."
+
+
+
+   uncutseraphym_name_plural_rsc = "ungeschliffene Seraph"
 
 classvars:
 
@@ -65,3 +65,4 @@ return;
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

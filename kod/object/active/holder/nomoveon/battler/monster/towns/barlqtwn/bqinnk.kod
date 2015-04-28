@@ -17,33 +17,33 @@ constants:
 
 resources:
 
-   Barloque_Innkeep_name_rsc = "Pritchett"
+   Barloque_Innkeep_name_rsc = "Pritchet"
    Barloque_Innkeep_icon_rsc = bqinnk.bgf
-   Barloque_Innkeep_desc_rsc = "Of everyone in Barloque, the former sailor turned innkeeper Pritchett is "
-      "the least haughty.  Perhaps it is because he was not originally from the Royal City and moved to "
-      "North Barloque to buy a title."
-   BqInn_entry_welcome = "I am gladeth to see you, mate."
+   Barloque_Innkeep_desc_rsc = "Von allen in Barloque ist der frühere Seemann und jetzige Kneipenwirt Prichet der am wenigsten hochmütige. Vielleicht ist dies auf den Umstand zurückzuführen, dass er nicht aus der königlichen Stadt stammt und erst vor kurzem nach Nord-Barloque gezogen ist, um einen Titel zu kaufen."
 
-   BqInn_mace_sale = "Aye, ye might needeth one of them if ye plan on leavingeth our cultured city. I got some ye can buyeth."
-   BqInn_unwanted_give = "~k%s%s tells you, \"Whyfore dost you offer me that?~n~k\""
 
-   BarloqueInnkeeper_room_rented = "Here is the key to thine room.  I trust you will findest "
-      "our rooms to be most well-appointed.  Enjoyest thy stay!"
+   BqInn_entry_welcome = "Ich freue mich, Dich zu sehen, Kamerad."
 
-   BarloqueInnkeeper_cost1 = "The rooms here are the finest.  I needeth "
-   BarloqueInnkeeper_cost2 = " shillings when thou ~Irent~neth a ~Iroom~n for for 85 days.  After that, I requireth "
-   BarloqueInnkeeper_cost3 = " per day up front.  Key copies costeth "
-   BarloqueInnkeeper_cost4 = " shillings if thou wishest to share thine room with a special someone."
+   BqInn_mace_sale = "Du könnteft einen von ihnen brauchen, wenn du vorhaft, unfere kultivierte Stadt zu verlaffen. Ich habe ein paar, die du kaufen könnteft."
+   BqInn_unwanted_give = "~k%s%s sagt zu dir, \"Wofür bieteft du mir daf an?~n~k\""
 
-   BarloqueInnkeeper_days_left = "I thanketh thee.  Thou hast %q days left at my luxurious inn."
-   BarloqueInnkeeper_too_long = "It pleaseth me that ye liketh thine room, but thou hast paid enough in rent already!  I canst not accept more from you right now."
+   BarloqueInnkeeper_room_rented = "Hier ist der Schlüssel zu Deinem Zimmer. Ich hoffe, Du wirst unsere Räume sehr gut ausgestattet finden. Genieße Deinen Aufenthalt!"
 
-   BarloqueInnkeeper_destroy_key_copy = "~kPritchett tells you, \"I will discardeth the key for thou.\""
+
+   BarloqueInnkeeper_cost1 = "Die Zimmer hier sind die besten, ich schwöre."
+   BarloqueInnkeeper_cost2 = " Schillinge, um das Zimmer für 85 Tage  zu ~Imieten~I. Danach kostet es"
+   BarloqueInnkeeper_cost3 = " pro Tag im voraus. Schlüsselduplikate kosten"
+   BarloqueInnkeeper_cost4 = " Schillinge, wenn Ihr das Zimmer mit jemandem teilen wollt."
+
+   BarloqueInnkeeper_days_left = "Ich danke Euch.Das Zimmer ist Euer für die nächsten %q Tage."
+   BarloqueInnkeeper_too_long = "Es befriedigt mich, dass ihr euch an eurem Raum erfreut, aber ihr habt schon genug Miete gezahlt. Ich kann kein weiteres Geld von euch akzeptieren."
+
+   BarloqueInnkeeper_destroy_key_copy = "~kPritchet sagt zu dir, \"Ich werde diesen Schlüssel für euch vernichten.\""
    
-   BqInn_room_command = "room"
-   BqInn_rent_command = "rent"
-   BqInn_cost_command = "cost"
-   BqInn_copy_key_command = "copy key"
+   BqInn_room_command = "Zimmer"
+   BqInn_rent_command = "mieten"
+   BqInn_cost_command = "Kosten"
+   BqInn_copy_key_command = "kopiere Schlüssel"
 
 classvars:
 
@@ -272,3 +272,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

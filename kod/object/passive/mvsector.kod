@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   MovingSector_name_rsc = "moving sector"
+   MovingSector_name_rsc = "Der bewegliche Bereich"
    MovingSector_icon_rsc = light.bgf
-   MovingSector_desc_rsc = "A sector whose floor/ceiling moves up and down."
+   MovingSector_desc_rsc = "Ein Bereich, wo Boden und Decke sich auf und ab bewegen."
 
 classvars:
 
@@ -154,3 +154,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -18,7 +18,7 @@ constants:
 
 resources:
 
-   room_name_guildhall5 ="Konima's Abandoned Dwelling"
+   room_name_guildhall5 = "Konimas versteckte Zuflucht"
    room_guildhall5 = guildh5.roo
 
    guildhall5_sound = down2.wav
@@ -26,8 +26,8 @@ resources:
    guildhall5_door_down = wooddn1.wav
    water_soundguildhall5 = boil.wav
 
-   guildhall5_privacy_command = "privacy"
-   guildhall5_no_privacy_command = "no privacy"
+   guildhall5_privacy_command = "Privatsphäre"
+   guildhall5_no_privacy_command = "keine Privatsphäre"
 
 classvars:
 
@@ -457,3 +457,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

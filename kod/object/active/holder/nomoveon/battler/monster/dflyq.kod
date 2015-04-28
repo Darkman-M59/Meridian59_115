@@ -35,25 +35,25 @@ constants:
 resources:
 
    DragonFlyQueen_koc_name_rsc = "kohuzotz"
-   DragonFlyQueen_name_rsc = "dragonfly queen"
+   DragonFlyQueen_name_rsc = "Die Drachenfliegenkönigin"
    DragonFlyQueen_icon_rsc = dflo.bgf
-   DragonFlyQueen_desc_rsc = \
-      "The other dragonflies seem to revere this oddly colored female.  She looks "
-      "up at you out of curiosity or hunger, you are not sure which."
+   DragonFlyQueen_desc_rsc = "Die anderen Drachenfliegen scheinen dieses merkwürdig gefärbte Weibchen zu verehren. Sie sieht zu dir mit Hunger oder Neugier auf, du weißt nicht, welches von beiden es ist."
+
+
 
    DragonFlyQueen_wings_rsc = dflywing.bgf
 
    DragonFlyQueen_dead_icon_rsc = dfloX.bgf
-   DragonFlyQueen_dead_name_rsc = "dead dragonfly queen"
+   DragonFlyQueen_dead_name_rsc = "Die tote Drachenfliegenkönigin"
 
    DragonFlyQueen_sound_hit = df_atkm.wav
    DragonFlyQueen_sound_miss = df_atkm.wav
    DragonFlyQueen_sound_death = df_dth.wav
    DragonFlyQueen_sound_aware = df_awr.wav
 
-   dragonfly_charmed = "The dragonfly scarfs down the %s and looks at you with obvious adoration."
-   dragonfly_notcharmed = "The dragonfly scarfs down the %s, sniffs your hand, and looks at you expectantly."
-   DragonFlyQueen_unwanted_give = "~k%s%s cocks its head quizzically and sniffs your hand.~n~k"
+   dragonfly_charmed = "Die Drachenfliegenkönigin frisst %s auf und schaut Dich mit offensichtlicher Bewunderung an."
+   dragonfly_notcharmed = "Die Drachenfliegenkönigin frißt %s auf, schnuppert an Deiner Hand und schaut Dich erwartungsvoll an."
+   DragonFlyQueen_unwanted_give = "~k%s%s hebt spöttisch den Kopf und schnuppert an Deiner Hand.~n~k"
    
    DragonFlyQueen_spit = loogy.bgf
 
@@ -374,3 +374,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OutdoorsKC3 ="Ruins of the Riija Temple"
+   room_name_OutdoorsKC3 = "Ruinen des Riija-Tempels"
    room_OutdoorsKC3 = KC3.roo
-   OutdoorsKC3_music = orcbeg.mid
+   OutdoorsKC3_music = orcbeg.mp3
 
 classvars:
 
@@ -127,3 +127,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

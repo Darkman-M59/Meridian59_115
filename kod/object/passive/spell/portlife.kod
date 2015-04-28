@@ -15,17 +15,17 @@ constants:
 
 resources:
 
-   portaloflife_cast_rsc = "You feel more confident that %s%s will find %s way back."
-   portaloflife_name_rsc = "portal of life"
+   portaloflife_cast_rsc = "Du bist zuversichtlicher, dass %s%s den Weg zurückfinden wird."
+   portaloflife_name_rsc = "Portal des Lebens"
    portaloflife_icon_rsc = irasdead.bgf
-   portaloflife_desc_rsc = \
-      "Creates a portal for your fallen comrades to enter and return from the "
-      "underworld back to their physical body.  If formed in time the portal can lessen the shock of death.  "
-      "Requires emeralds and polished seraphym to cast."
+   portaloflife_desc_rsc = "Öffnet für Deine gefallenen Kameraden ein Tor, durch das sie aus der Unterwelt in ihren echten Körper zurückkehren können. Man braucht polierte Seraphyme und Smaragde für die Beschwörung. "
 
-   portaloflife_spell_intro = \
-      "Shal'ille Level 6: Creates a portal for your fallen comrades to enter "
-      "and return from the underworld back to their physical body." 
+
+
+
+   portaloflife_spell_intro = "Sha-Lill Zirkel 6: Öffnet für Deinen gefallenen Kameraden ein Tor, durch das sie aus der Unterwelt in ihren echten Körper zurückkehren können."
+
+
 
    portaloflife_sound = sraised.wav
 
@@ -131,3 +131,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

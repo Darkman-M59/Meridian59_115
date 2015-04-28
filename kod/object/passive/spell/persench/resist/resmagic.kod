@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   resistmagic_name_rsc = "resist magic"
+   resistmagic_name_rsc = "Magie widerstehen"
    resistmagic_icon_rsc = iresmagc.bgf
-   resistmagic_desc_rsc = \
-      "The war god fortifies you against magic attacks.  "
-      "Requires blue dragon scale to cast."
+   resistmagic_desc_rsc = "Der Kriegsgott festigt Dich gegen magische Angriffe. Der Zauber benötigt Drachenschuppen. "
+
+
    
-   resistmagic_already_enchanted = "You are already resisting magic."
-   resistmagic_success = "Kraanan fortifies %s%s against magic attacks."
-   resistmagic_on = "Kraanan fortifies you against magic attacks."
-   resistmagic_off = "Kraanan's magic departs, leaving you vulnerable to magic attacks once more."
+   resistmagic_already_enchanted = "Du bist bereits immun gegen Magie."
+   resistmagic_success = "Kraanan macht %s%s immun gegen Magie."
+   resistmagic_on = "Kraanan stärkt Dich gegen magische Angriffe."
+   resistmagic_off = "Kraanans Magie entschwindet und Du bist wieder anfällig für magische Angriffe."
 
 classvars:
 
@@ -87,3 +87,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

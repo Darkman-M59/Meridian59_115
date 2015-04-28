@@ -17,11 +17,11 @@ constants:
 resources:
 
    moon_icon_rsc = moon.bgf
-   moon_name_rsc = "moon"
-   moon_desc_rsc = \
-      "The moon looms in the sky, a majestic sphere of grey rock. "
-	  "Some fables say that the moon was once a lot larger, but they're "
-	  "probably just as true as the fables of frogmen and blue dragons."
+   moon_name_rsc = "Der Mond"
+   moon_desc_rsc = "Der Mond glänzt am Himmel, ein majestätischer Himmelskörper aus grauem Fels. Manche Sagen berichten, dass der Mond einst größer war, aber das hat wahrscheinlich genauso viel Wahrheitsgehalt wie die Geschichten von Froschmännern und blauen Drachen."
+
+
+
 
 classvars:
 
@@ -88,3 +88,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

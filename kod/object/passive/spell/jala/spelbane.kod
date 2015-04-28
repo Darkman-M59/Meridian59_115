@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   Spellbane_name_rsc = "spellbane"
+   Spellbane_name_rsc = "Magie bannen"
    Spellbane_icon_rsc = ispebane.bgf
-   Spellbane_desc_rsc = \
-      "The words of this song form an enchantment which disallows the casting "
-      "of any spells weaker than the song.  "
-      "Requires one perfect polished seraphym."
+   Spellbane_desc_rsc = "Die Worte dieses Liedes bilden einen Zauber, der das Ausführen jeglicher Magie, die schwächer als dieses Lied ist unterbindet. Man benötigt erstklassig polierte Seraphyme."
 
-   Spellbane_no_towns = "You are prevented from singing this song currently."
 
-   Spellbane_song = jala1.mid
+
+
+   Spellbane_no_towns = "Du kannst dieses Lied momentan nicht singen."
+
+   Spellbane_song = jala1.mp3
  
 classvars:
 
@@ -95,3 +95,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

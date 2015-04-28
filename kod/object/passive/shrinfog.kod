@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   shrinefog_name_rsc = "acidic fog"
+   shrinefog_name_rsc = "Ätzender Nebel"
    shrinefog_icon_rsc = poisoncl.bgf
-   shrinefog_desc_rsc = "A thick cloud of deadly looking vapor spews from the vent. The air is filled with the stench of sulfer and acid."
+   shrinefog_desc_rsc = "Eine dichte Wolke aus tödlich aussehendem Dampf tritt aus einem Loch aus dem Boden aus. Die Luft ist erfüllt vom Geruch von Schwefel und Säure."
 
 classvars:
 
@@ -46,3 +46,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

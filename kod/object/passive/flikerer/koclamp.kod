@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   lamp_name = "blue iron brazier"
-   lamp_desc = \
-      "Scented oil burns in this brazier, providing light and giving the room a musky air."
+   lamp_name = "Die blaue eiserne Kohlenpfanne"
+   lamp_desc = "Mit Duft versetztes ÷l brennt in dieser Kohlenpfanne, das den Raum erhellt und die Luft nach Moschus riechen l‰ﬂt."
+
    lamp_icon = lamp1.bgf
 
 classvars:
@@ -43,3 +43,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -18,71 +18,71 @@ constants:
    
 resources:
 
-   lich_pretty_name_rsc = "Queen Venya'cyr"
+   lich_pretty_name_rsc = "Die Königin Venya'cyr"
    lich_pretty_icon_rsc = licha.bgf
-   lich_pretty_desc_rsc = \
-      "A noble woman of stunning beauty, Queen Venya'cyr carries herself with a "
-      "refined demeanor hardly still seen in this day and age.  You can't help "
-      "but marvel at how she has managed to keep her beautiful face so young and "
-      "vibrant through all of these centuries."
-   lich_name_rsc = "Queen Venya'cyr"
+   lich_pretty_desc_rsc = "Eine edle Frau von unglaublicher Schönheit. Königin Venya'cyr bewegt sich mit einer kultivierten Eleganz, die in diesem Zeitalter fast nicht mehr gesehen wird. Du kannst Dich nur wundern, wie sie es über all diese Jahrhunderte geschafft hat, ihr Gesicht so jung und schön zu halten."
+
+
+
+
+   lich_name_rsc = "Die Königin Venya'cyr"
    lich_icon_rsc = lichb.bgf
-   lich_desc_rsc = \
-      "Through some dark pact made ages ago, Queen Venya'cyr's ghastly corpse "
-      "has been kept alive by dark magicks.  Sheer power emanates forcibly from her "
-      "eyes, an intense gaze which strikes fear into your heart.  "
-      "The centuries have apparently taken their toll on her physical form, "
-      "however, as her skin is a mess of rotting flesh writhing with worms.  "
+   lich_desc_rsc = "Duch einen dunklen Pakt der Jahrhunderte in der Vergangenheit geschlossen wurde, wird Königin Venya'cyrs entsetzlicher Leichnam durch dunkle Magie am Leben erhalten. Reine Kraft geht spürbar von ihren Augen aus, als ein intensiver Blick Dein Herz mit Furcht erfüllt.Die Jahrhunderte haben scheinbar ihren Zoll von ihrer pysikalischen Form gefordert, denn ihre Haut ist ein Haufen verrottendes Fleisch, das von Würmern bevölkert wird."
+
+
+
+
+
       
-   lich_dispel = "The foul lich queen's ghastly appearance is revealed for all to see!"
-   lich_respel = "The lich queen's ghastly appearance is once more cloaked in illusion."
+   lich_dispel = "Die schreckliche Erscheinung des Lichs ist nun enthüllt und für alle sichtbar!"
+   lich_respel = "Die schreckliche Erscheinung des Lichs ist wieder mit einer Illusion verdeckt."
 
    lich_dead_icon_rsc = lichbx.bgf
-   lich_dead_name_rsc = "The ghost of Queen Venya'cyr"
+   lich_dead_name_rsc = "Der Geist von Königin Venya'cyr"
 
    lich_sound_miss = lich_atk.wav
    lich_sound_death = lich_dth.wav
    lich_sound_aware = lich_awr.wav
 
-   lich_cast_spell = "The lich queen summons forth the darkness!!"
+   lich_cast_spell = "Die Lichkönigin beschwört die Dunkelheit!!"
    lich_cast_sound = necro01.wav
 
-   lich_death_blow    = "Your final blow has banished the foul Queen Venya'cyr from this plane of reality!"
-   lich_single_killer = "You have personally banished the foul Queen Venya'cyr from this plane of reality!"
-   lich_double_killer = "The foul Lich Queen has been driven from this plane of reality, "
-      "thanks to you and your comrade!"
-   lich_helper_killer = "The foul Lich Queen has been driven from this plane of reality, "
-      "thanks to you and your comrades!"
-   lich_no_truce      = "The Lich Queen's evil presence dispels your truce before you can even cast it."
-   lich_killed_world_saved_0 = "~B"
-   lich_killed_world_saved_1 = " has struck down the Dark Queen Venya'cyr, ridding Meridian of the evil Order "
-      "of Necromancers!\n"
-      "Thanks to "
-   lich_comma = ", "
-   lich_and = "and "
-   lich_killed_world_saved_2 = "the good citizens of Meridian can walk the land in safety once again, knowing "
-      "that "
-   lich_killed_world_saved_3 = " have perished along with their undead queen."
+   lich_death_blow = "Dein letzter Schlag hat die verdorbene Königin Venya'cyr von dieser Ebene der Existenz verbannt!"
+   lich_single_killer = "Du hast persönlich die verdorbene Königin Venya'cyr von dieser Ebene der Existenz verbannt!"
+   lich_double_killer = "Die verdorbene Lichkönigin wurde dank Dir und Deinen Kameraden von dieser Ebene der Existenz verbannt!"
 
-   lich_killed_world_saved_nolich = " has struck down the last of the Order of Necromancers, "
-      "ridding Meridian of their evil!\n"
+   lich_helper_killer = "Die verdorbene Lichkönigin wurde dank Dir und Deinen Kameraden von dieser Ebene der Existenz verbannt!"
+
+   lich_no_truce = "Die verdorbene Gegenwart der Lichkönigin zerstört Deine Waffenruhe, bevor Du sie auch nur zaubern kannst."
+   lich_killed_world_saved_0 = "~B"
+   lich_killed_world_saved_1 = " hat die dunkle Königin Venya'cyr getötet und Meridian von der bösen Herrschaft der Nekromanten befreit!\nDanke an "
+
+
+   lich_comma = ", "
+   lich_and = "und "
+   lich_killed_world_saved_2 = ". Die guten Bewohner Meridians können nun wieder in Sicherheit leben, wissend, dass "
+
+   lich_killed_world_saved_3 = "mit der untoten Königin vergangen sind."
+
+   lich_killed_world_saved_nolich = "hat den letzen des Ordens der Nekromanten erschlagen und befreit somit Meridian von ihrer Bosheit!\n"
+
 
    lich_spit = lightnin.bgf
 
-   lich_tribute_trigger = "tribute"
-   lich_hunger_trigger = "hunger"
+   lich_tribute_trigger = "Anerkennung"
+   lich_hunger_trigger = "Hunger"
 
-   Lich_starting_password = "deathmage"
+   Lich_starting_password = "Todesmagier"
 
-   lich_hunger_5 = "~rMy hunger is a burning coal within my breast!  Feed me at once!"
-   lich_hunger_4 = "~rI hunger very greatly!  The Order has been negligent in its duties to me.  Feed me at once!"
-   lich_hunger_3 = "~rI am very hungry.  Feed me, my minion."
-   lich_hunger_2 = "~rI am hungry.  I would like to feed soon."
-   lich_hunger_1 = "~rI am only slightly hungry at present."
-   lich_hunger_0 = "~rI am satisfied.  The Order serves me well."
+   lich_hunger_5 = "~rMein Hunger ist wie ein glühende Kohle in meiner Brust! Füttere mich sofort!"
+   lich_hunger_4 = "~rIch hungere sehr stark! Der Orden hat mir gegenüber seine Pflichten vernachlässigt. Füttere mich sofort!"
+   lich_hunger_3 = "~rIch bin sehr hungrig! Füttere mich, mein Diener."
+   lich_hunger_2 = "~rIch bin hungrig und möchte bald gefüttert werden."
+   lich_hunger_1 = "~rIch verspüre zur Zeit nur ein wenig Hunger."
+   lich_hunger_0 = "~rIch bin zufrieden. Der Orden dient mir gut."
 
-   lich_not_powerful = "~kQueen Venya'cyr says, \"~rYour feeble mind is incapable of learning such powerful magics.\""
-   lich_not_order = "~kQueen Venya'cyr says, \"~rOnly my servants are granted this mighty boon.\""
+   lich_not_powerful = "~kQueen Venya'cyr sagt, \"~rDein schwacher Geist ist nicht in der Lage, solch mächtige Magie zu lernen.\""
+   lich_not_order = "~kQueen Venya'cyr sagt, \"~rNur meine Diener erhalten diesen mächtigen Bonus.\""
 
    lich_darkbolt = gob.bgf
 
@@ -926,3 +926,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

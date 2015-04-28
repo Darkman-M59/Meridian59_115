@@ -16,20 +16,20 @@ constants:
 
 resources:
 
-   SummonFog_name_rsc = "fog"
+   SummonFog_name_rsc = "Nebel"
    SummonFog_icon_rsc = ifog.bgf
-   SummonFog_desc_rsc = \
-      "Creates a cloud of fog that is often mistaken for poisonous fog.  "
-      "Requires elderberries to cast."
+   SummonFog_desc_rsc = "Erschafft eine Wolke aus Nebel die fälschlicherweise häufig für giftigen Nebel gehalten wird. Der Zauber benötigt Holunderbeeren.\n "
 
-   SummonFog_cast_rsc = \
-      "A thick fog rises from the ground before you."
-   SummonFog_failed_rsc = \
-      "There is too much summoning magic focused here to create fog." 
+
+
+   SummonFog_cast_rsc = "Ein dichter, beißender Nebel kommt aus dem Boden vor Dir."
+
+   SummonFog_failed_rsc = "Es gibt hier zuviel Beschwörungsmagie, um einen Nebel zu erschaffen."
+
    SummonFog_sound = ffog.wav
 
-   SummonFog_spell_intro_rsc = \
-      "Faren Lv. 1: Summons a wall of billowing fog to confuse your foes."
+   SummonFog_spell_intro_rsc = "Faren Zirkel 1: Erschafft eine Wand aus wogendem Nebel, um Deine Feinde zu verwirren."
+
 
 classvars:
 
@@ -194,3 +194,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

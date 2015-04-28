@@ -16,8 +16,8 @@ constants:
 
 resources:
 
-   treeoak_name_rsc = "tree"
-   treeoak_desc_rsc = "A fine specimen of Oak."
+   treeoak_name_rsc = "Die Eiche"
+   treeoak_desc_rsc = "Ein schönes Exemplar einer Eiche."
    treeoak_icon_rsc = treeoak.bgf
 
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

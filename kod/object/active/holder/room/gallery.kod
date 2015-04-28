@@ -18,8 +18,8 @@ constants:
 resources:
 
    room_gallery = univ.roo
-   room_name_gallery = "object gallery"
-   gallery_music = main.mid
+   room_name_gallery = "Objekt-Gallerie"
+   gallery_music = main.mp3
 
 classvars:
 
@@ -111,3 +111,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

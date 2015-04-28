@@ -18,9 +18,9 @@ constants:
 
 resources:
 
-   attack_spell_hit_rsc = "You hit %s%s."
-   attack_spell_no_self_rsc = "You can't cast %s on yourself."
-   attack_spell_out_of_range = "%s%s is too far away to hit with %s."
+   attack_spell_hit_rsc = "%s%s wird von Dir getroffen."
+   attack_spell_no_self_rsc = "Du kannst den %s-Zauber nicht auf Dich selbst anwenden."
+   attack_spell_out_of_range = "%s%s ist zu weit weg. %s%s kann nicht treffen."
 
 classvars:
 
@@ -211,3 +211,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

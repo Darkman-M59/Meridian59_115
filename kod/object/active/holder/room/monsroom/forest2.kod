@@ -22,11 +22,11 @@ constants:
 resources:
 
    room_forest2 = forest2.roo
-   room_name_forest2 = "The Forests of Meridian"
+   room_name_forest2 = "Die Wälder von Meridian"
 
    forest2_noise = forest.wav
 
-   forest2_music = walk2.mid
+   forest2_music = walk2.mp3
 
 
 classvars:
@@ -234,3 +234,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

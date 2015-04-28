@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   letter_name_rsc = "letter"
+   letter_name_rsc = "Brief"
    letter_icon_rsc = scr04.bgf
-   letter_desc_rsc = \
-      "This letter from the Princess is embossed with a gilt crest, and smells faintly of her perfume."
+   letter_desc_rsc = "Dieser Brief von der Prinzessin trägt eine aufgeprägte, vergoldete Krone und duftet schwach nach ihrem Parfum."
+
 
 classvars:
 
@@ -37,3 +37,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -26,19 +26,19 @@ constants:
 
 resources:
 
-   room_name_Duke2 = "Blackstone Keep"
+   room_name_Duke2 = "Burg Schwarzstein"
    room_Duke2 = Duke2.roo
 
-   Duke2_music = area01.mid
+   Duke2_music = area01.mp3
 
-   Duke2_West_Wing_Door = \
-      "The west wing of the keep is closed by the Duke's orders."
-   Duke2_East_Wing_Door = \
-      "The east wing of the keep is closed by the Duke's orders."
-   Duke2_West_Wing_Door_Open = \
-      "The feast hall is now opened on the Duke's authority."
-   Duke2_East_Wing_Door_Open = \
-      "The ceremony hall is now opened on the Duke's authority."
+   Duke2_West_Wing_Door = "Der Westflügel der Burg ist auf Befehl des Herzogs geschlossen."
+
+   Duke2_East_Wing_Door = "Der Ostflügel der Burg ist auf Befehl des Herzogs geschlossen."
+
+   Duke2_West_Wing_Door_Open = "Die herzögliche Festhalle ist nun geöffnet."
+
+   Duke2_East_Wing_Door_Open = "Die Zeremonien-Halle des Herzogs ist nun geöffnet."
+
 
    Duke2_Hall_Open_Sound = fanfare1.wav
    Duke2_Hall_Close_Sound = dorclose.wav
@@ -241,3 +241,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -19,50 +19,50 @@ constants:
 
 resources:
 
-   RebelShield_name_rsc = "shield of the rebel militia"
+   RebelShield_name_rsc = "Ein Schild der Rebellenmiliz"
 
-   RebelShield_desc_rsc = \
-      "This shield identifies you as a soldier of the rebel militia under Jonas."
+   RebelShield_desc_rsc = "Dieser Schild weist dich als Soldat der Rebellenmiliz unter Jonas D'Accor aus."
 
-   RebelShield_ArmyName = "the rebel militia"
+
+   RebelShield_ArmyName = "der Rebellenmiliz"
 
    RebelShield_emblem_over = gshreov.bgf
    RebelShield_emblem_drop = gshre.bgf
    RebelShield_emblem_back = gshrebk.bgf
 
-   RebelShield_welcome_mail = "Subject: Welcome fellow freedom fighter.\n"
-      "I am glad to see that you are willing to become more active in our fight for "
-      "the future of these lands against the forces of tyranny.\n\n"
-      "I expect a certain level of discipline from my militia soldiers.  Read these "
-      "rules and follow them without question.\n\n"
-      "SOLDIER SHIELD: Your shield is the sign that you are an 'official' part of the "
-      "rebel miliita.  You must keep this equipped at all times in order to demonstrate "
-      "your status within the rebel army.\n\n"
-      "ENEMY SOLDIERS: Be wary!  You can be attacked without penalty by those bearing "
-      "the colors of our faction enemies.  Only the safety of an inn or hall will protect "
-      "you from attacks.  Attacks against enemies carry no penalties, just as these "
-      "enemies will not be penalized for attacking you.  Attacking a soldier allied "
-      "to our faction is cause enough to be expelled dishonorably from our army.  I will "
-      "teach you various ways to inflict additional damage on these enemies in order to "
-      "defend yourself and to help us reclaim our place in governing this land.  You "
-      "should know that any deaths at the hands of an enemy will not be lessened.\n\n"
-      "RANKS: Your position within our forces is determined by your actions.  Defeating "
-      "enemy soldiers in combat will increase your rank.  Being killed or remaining idle "
-      "in our fight will decrease in rank.  Also, fleeing from combat by leaving this "
-      "world in unsafe areas will meet with my displeasure.  Simple enough?\n\n"
-      "ABILITIES: You will receive additional training as a soldier.  I will increase "
-      "your natural might and aim through rigorous excercise.  I will also teach you to "
-      "avoid damage from enemy blows.  I will, of course, spend more time with higher "
-      "ranking soldiers boosting their powers than with lower ranking ones.\n\n"
-      "THE COUNCILORS: Your shield will interfere with your ability to recover tokens.  "
-      "I want you to find a fellow rebel to take the token to the proper councilor should "
-      "you find one.  Also know that only proper soldiers bearing shields can claim "
-      "territory.  The flags in Pietro's may now only be carried and used by soldiers.\n\n"
-      "LOYALTY: A soldier like yourself is expected to find your own equipment.  However, "
-      "I do not expect you to continue to supply the guards protecting our flagpoles "
-      "while you maintain your status as a soldier.\n\n"
-      "Your brother in arms,\n\n"
-      "Jonas D'Accor"
+   RebelShield_welcome_mail = "Betreff: Willkommen, Freiheitskämpfer.\n\nIch bin froh zu sehen, dass du aktiver in unserem Kampf für die Zukunft unseres Landes und gegen die Tyrannei werden willst.\n\n\nIch erwarte ein gewisses Maß an Disziplin von den Soldaten meiner Miliz. Lies diese Regeln und folge ihnen ohne Fragen.\n\n\nDER FRAKTIONSSCHILD: Dein Schild ist das Zeichen, dass du ein 'offizieller' Teil unserer Rebellenmiliz bist. Du musst es immer tragen, um deinen Status innerhalb der Rebellenarmee zu demonstrieren.\n\nFEINDLICHE SOLDATEN: Sei gewarnt! Du kannst von denen, die die Farben unserer Fraktionsgegner tragen ohne Strafe angegriffen werden. Nur die Sicherheit von Kneipen oder Hallen kann dich vor Angriffen schützen. Angriffe gegen Feinde bleiben ohne Bestrafung für dich, so wie deine Feinde nicht bestraft werden, wenn sie dich angreifen. Einen Soldaten, der mit unserer Fraktion verbündet ist anzugreifen, ist genug Grund dich unehrenhaft aus unserer Armee und der Fraktion zu entlassen. Ich werde dich verschiedene Wege lehren, mehr Schaden anzurichten, um dich gegen Feinde zu verteidigen und uns zu helfen, unseren Platz in der Regierung dieses Landes wiederzugewinnen. Du solltest wissen, dass jeder Tod durch die Hand eines Feindes dir keineswegs erleichtert wird.\n\nRÄNGE: Deine Position innerhalb unserer Streitkräfte wird durch deine Taten festgelegt. Siege über feindliche Soldaten wird dich im Rang aufsteigen lassen. Wenn du getötet wirst, oder wenn du dem Kampf fern bleibst wirst du absteigen. Auch wird deine Flucht vor dem Kampf mittels Verlassen dieser Welt in unsicheren Gebieten dich mit meiner Missgunst in Konfrontation bringen.\n\nFÄHIGKEITEN: Dir wird als Soldat zusätzliches Training zuteil werden. Ich werde deine natürliche Stärke und Genauigkeit durch hartes Training erhöhen. Darüber hinaus werde ich dir darüber beibringen, wie du den Schaden durch gegnerische Schläge vermindern kannst. Natürlich werde ich mich mit dem Training der höheren Ränge mehr beschäftigen als mit dem der niedrigeren.\n\nDIE RATSMITGLIEDER: Dein Schild stört deine Fähigkeit, Artefakte zu bergen. Ich möchte, dass du einen Anhänger der Rebellen suchst, der das Artefakt zum richtigen Ratsmitglied zurückbringt, solltest du eines finden. Beachte auch, dass nur richtige Soldaten mit einem Schild Gebiete beanspruchen können. Die Flaggen in Pietros Kneipe dürfen von nun an nur von Soldaten getragen und benutzt werden.\n\nLOYALITÄT: Ein Soldat wie du es bist sollte sich vorrangig um seine eigene Ausrüstung kümmern. Daher erwarte ich nicht von dir, unsere Wachen an den Flaggenmasten mit Ausrüstung zu versorgen, solange du den Rang eines Soldaten inne hast.\n\n\nDein Waffenbruder,\nJonas D'Accor"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -162,3 +162,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

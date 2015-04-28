@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   FeyMask_name_rsc = "fey mask"
+   FeyMask_name_rsc = "Feenmaske"
    FeyMask_good_icon_male_rsc = res0002g.bgf
    FeyMask_evil_icon_male_rsc = res0002h.bgf
    FeyMask_good_icon_female_rsc = res0002i.bgf
    FeyMask_evil_icon_female_rsc = res0002j.bgf
-   FeyMask_desc_rsc = \
-      "This is a fey mask.  It seems to shift based on your karmic standing."
+   FeyMask_desc_rsc = "Dies ist eine Feenmaske. Sie scheint sich deinem Karma anzupassen."
+
 
 classvars:
 
@@ -83,3 +83,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   Yrxlsap_name_rsc = "yrxl sap"
+   Yrxlsap_name_rsc = "Yrxl-Harz"
    Yrxlsap_icon_rsc = yrxlsap.bgf
-   Yrxlsap_desc_rsc = \
-   "There is but one known Yrx'l still known to civilization, "
-   "for mages have craved the blood of the eldritch tree, which "
-   "provided the lifeblood to their more powerful spells. Now that "
-   "all are extinct on Meridian's mainland and only one exists here, "
-   "it is an unspoken rule that one shall leave the tree alone, and "
-   "allow it to provide its life blood as it chooses. "
+   Yrxlsap_desc_rsc = "Es gibt nur noch einen bekannten Yrxl Baum, da es die Magier danach dürstete, an das Blut dieses merkwürdigen Baumes zu gelangen, welches Ihren mächtigeren Zaubersprüchen Leben einzuhauchen vermochte. Jetzt sind auf dem Festland von Meridian alle ausgerottet und es gibt nur noch einen, für den das ungeschriebene Gesetz gilt, dass man den Baum sich selbst überlasse und ihm erlaube, so viel Lebensblut zu spenden, wie er selbst will. "
 
-   Yrxlsap_name_plural_rsc = "yrxl sap"
-   Yrxlsap_vial_name = "vial of yrxl sap"
-   Yrxlsap_vial_name_plural = "vials of yrxl sap"
+
+
+
+
+
+
+   Yrxlsap_name_plural_rsc = "Yrxl-Harz"
+   Yrxlsap_vial_name = "Phiole mit Yrxl-Harz"
+   Yrxlsap_vial_name_plural = "Phiolen mit Yrxl-Harz"
 
 
 classvars:
@@ -145,3 +145,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

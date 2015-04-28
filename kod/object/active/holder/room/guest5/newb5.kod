@@ -16,25 +16,25 @@ constants:
 
 resources:
 
-   room_name_newb5 = "Raza Hut"
+   room_name_newb5 = "Razas Hütte"
 
-   newb5_sign = \
-      "Being able to communicate is an important part of Meridian, "
-      "whether you're solving a quest or you're plotting with your "
-      "allies. The most common way to communicate is with the SAY "
-      "command. For example, if you type SAY HELLO, the elder in this "
-      "hut will respond.\n\n"				 
-      "Any other player who happens to be in the same map area as you "
-      "can hear what you say.  However, most shopkeepers and elders "
-      "are hard of hearing; you need to get close for them to hear you.\n\n"
-      "Another communication option is BROADCAST.  If you type BROADCAST HELLO, "
-      "you will then be saying hello to everyone online.  However, you should note "
-      "that it is not considered good etiquette to fill the broadcast channel with "
-      "useless messages, and for that reason, every broadcast you do carries a cost of "
-      "half your mana.  Watch what other people broadcast to get a feel for what is "
-      "appropriate.\n"
-      "-------------------------\n"
-      "Say QUEST to see what you should do next."
+   newb5_sign = "Kommunikation ist ein wichtiger Bestandteil von Meridian, egal, welches Ziel Du auch verfolgst. Die gebräuchlichste Art der Kommunikation ist der Befehl SAGEN (Kürzel: s). Ein Beispiel: Wenn Du S HALLO eintippst, wird der Alte in dieser Hütte antworten.\n\nJeder andere Spieler, der sich im selben Kartengebiet wie Du aufhält, kann hören, was Du sagst. Allerdings sind die meisten Ladeninhaber und auch viele Alte quasi schwerhörig. Du musst also nahe an sie herantreten, damit sie Dich verstehen.\n\nEin andere Art der Kommunikation ist der Befehl MITTEILEN (Kürzel: m). Wenn Du M HALLO eintippst, dann sagst Du zu jedem 'Hallo', der online ist. Allerdings solltest Du beachten, dass es nicht die feine englische Art ist, den Mitteilungskanal mit überflüssigen Nachrichten zu überhäufen. Aus diesem Grunde kostet Dich dieser Befehl die Hälfte Deiner Zauberkraft. Beobachte die anderen Spieler, um zu sehen, wo dieser Befehl angebracht ist.\n--------------------------\nTippe S AUFTRAG, um zu sehen, was Du als nächstes tun sollst."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -73,3 +73,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

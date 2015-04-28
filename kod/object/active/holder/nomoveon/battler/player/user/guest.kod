@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   guest_cant_broadcast = "Only regular players may broadcast messages."
+   guest_cant_broadcast = "Nur Stammspieler können Nachrichten verbreiten."
 
-   guest_cant_send_non_guest = "Only regular players may send messages to the real world."
+   guest_cant_send_non_guest = "Nur Stammspieler können Nachrichten in die wirkliche Welt schicken."
 
 classvars:
 
@@ -176,3 +176,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

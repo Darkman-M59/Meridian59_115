@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   healer_desc_rsc = "%s\n\nThis will help you feel better.%s"
+   healer_desc_rsc = "%s\n\nDamit wirst Du Dich besser fühlen.%s"
 
-   healer_use = "You feel better."
-   healer_cant_use_on = "You can't heal %s%s."
+   healer_use = "Du fühlst Dich besser."
+   healer_cant_use_on = "Du kannst %s%s nicht heilen."
 
 classvars:
 
@@ -62,3 +62,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

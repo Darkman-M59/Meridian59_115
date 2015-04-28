@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   BrambleWall_name_rsc = "bramble wall"
+   BrambleWall_name_rsc = "Brombeerwand"
    BrambleWall_icon_rsc = iwalltho.bgf
-   BrambleWall_desc_rsc = \
-      "Creates a thicket of thorny, twisted bramble.  Such a wall would be "
-      "painful to pass, though it might not harm one who remained "
-      "motionless.  "
-      "Requires elderberries and yrxl sap to cast."
+   BrambleWall_desc_rsc = "Erschafft ein Dickicht aus dornigen, verschlungenen Brombeeren. Es ist sicherlich schmerzhaft solch eine Wand zu durchqueren, auch wenn jemand, der sich nicht bewegt sicher wenig Schaden nimmt. Benötigt Holunderbeeren und Harz des Yrxl-Baumes."
 
-   BrambleWall_cast_rsc = "A wall of brambles appears before you!"
-   BrambleWall_failed_rsc = \
-      "There is too much summoning magic focused here to create a wall of "
-      "brambles."
+
+
+
+
+   BrambleWall_cast_rsc = "Eine Wand aus Brombeeren erscheint vor Dir!"
+   BrambleWall_failed_rsc = "Es gibt hier zuviel Beschwörungsmagie, um eine Wand aus Brombeeren zu erschaffen."
+
+
 
    BrambleWall_sound = faren.wav
 
@@ -263,3 +263,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

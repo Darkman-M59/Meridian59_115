@@ -17,9 +17,9 @@ constants:
 resources:
 
    room_OutdoorsJ3 = J3.roo
-   room_name_OutdoorsJ3 ="The Queen's Way"
+   room_name_OutdoorsJ3 = "Der Weg der Königin"
 
-   OutdoorsJ3_music = forest.mid
+   OutdoorsJ3_music = forest.mp3
 
 
 classvars:
@@ -93,3 +93,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

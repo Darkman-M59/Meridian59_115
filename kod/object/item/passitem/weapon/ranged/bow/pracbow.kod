@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   PracticeBow_name_rsc = "practice bow"
-   PracticeBow_desc_rsc = \
-      "Carved for durability, this bow is generally used by students to practice "
-      "the skills of ranged combat.  Softer woods were used in the construction, "
-      "allowing the practice bow to last much longer than other bows, at the "
-      "expense of power.  This bow should not be used in lethal combat."
+   PracticeBow_name_rsc = "Der Übungsbogen"
+   PracticeBow_desc_rsc = "Für Haltbarkeit geschnitzt wird dieser Bogen im Allgemeinen von Schülern der Kunst des Fernkampfes zum Üben benutzt. Für den Bau wurden weichere Hölzer verwendet, damit der Übungsbogen länger hält. Dies geht jedoch auf Kosten von Durchschlagskraft. Dieser Bogen sollte nicht in einem echten Kampf eingesetzt werden."
+
+
+
+
 
 classvars:
 
@@ -52,3 +52,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

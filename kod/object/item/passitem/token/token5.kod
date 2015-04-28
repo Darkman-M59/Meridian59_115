@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   FiveToken_name_rsc = "crystal sphere token"
-   FiveToken_desc_rsc = \
-      "Swirling with mystical patterns, this ancient token is some relative of "
-      "the mana nodes, and in the hands of a Councilor is rumored to glow when "
-      "near one. Returning it would likely raise your status in the Royal Court."
+   FiveToken_name_rsc = "Die Kristallkugel"
+   FiveToken_desc_rsc = "Umgeben mit mystischen Mustern, ist dieses Artefakt verbunden mit den magischen Energiequellen. Dieses Artefakt soll angeblich in der Nähe einer Energiequelle glühen. Wenn Du es zurückgibst, würde wahrscheinlich Dein Ansehen beim königlichen Gericht steigen."
+
+
+
    FiveToken_icon_rsc = "sphere.bgf"
 
    % Overlays not implemented yet.
@@ -42,3 +42,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

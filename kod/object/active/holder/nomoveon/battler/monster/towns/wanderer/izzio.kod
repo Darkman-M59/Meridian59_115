@@ -28,19 +28,19 @@ resources:
 
    izzio_name_rsc = "Izzio"
    izzio_icon_rsc = wnizzio.bgf
-   izzio_desc_rsc = \
-      "Izzio carries his massive sack and bulging belly with surprising ease and grace.  "
-      "A beatific grin and blissful eyes speak to Izzio's simple joy with nature.  "
-      "Unfortunately Izzio's Zen-like communion with the natural does not temper his "
-      "obsessive pursuit of profit."
+   izzio_desc_rsc = "Izzio trägt seinen schwer gefüllten und zum Bersten vollen Bauch mit überraschender Leichtigkeit und Würde. Ein seliges Lächeln und glückliche Augen verkünden Izzios reine Freude an der Natur. Leider mildert Izzios Zen-mäßiger Umgang mit dem Natürlichen nicht sein zwanghaftes Streben nach Profit."
 
-   izzio_AlreadyHaveOne_rsc = "So sorry.  This pack is heavy enough, I prefer not to carry duplicates."
-   izzio_Full_rsc = "Look at my pack.  Where would I put it?  The wise man knows his limits."  
-   izzio_Not_Interested = "I just wouldn't feel right about taking that."
 
-   izzio_too_many_rsc = "I would take that off your hands but I already have several of those for sale.  I'd rather unload them first."
 
-   Izzio_sold_rsc = "Thanks!  May that bring you good health and wealth."
+
+
+   izzio_AlreadyHaveOne_rsc = "Tut mir leid!  Dieses Bündel ist schwer genug, ich trage keine Duplikate."
+   izzio_Full_rsc = "Schau Dir mein Bündel an, ein weiser Mann kennt seine Grenzen."
+   izzio_Not_Interested = "Ich würde mich nicht wohl dabei fühlen, wenn ich es nehmen würde."
+
+   izzio_too_many_rsc = "Ich würde es Dir abnehmen, aber ich habe schon einige davon zu verkaufen. Ich würde lieber erst diese abstoßen."
+
+   Izzio_sold_rsc = "Danke! Möge es Dir Wohlergehen und Gesundheit schenken."
 
 classvars:
 
@@ -376,4 +376,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

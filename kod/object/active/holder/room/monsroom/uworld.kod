@@ -19,26 +19,26 @@ constants:
 
 resources:
 
-   room_name_underworld = "The Underworld"
+   room_name_underworld = "Die Unterwelt"
    room_underworld = uworld.roo
-   underworld_music = undrwrld.mid
+   underworld_music = undrwrld.mp3
 
    hell_projectile_icon_rsc = lightnin.bgf
    portal_zap_sound = fbolt.wav
 
-   underworld_assgame = "Something forces you to stay your hand."
+   underworld_assgame = "Irgendetwas befiehlt Dir, stillzuhalten."
 
-   portal_tos = "Looking in the portal, you see the bustling bar of Familiars."
-   portal_marion = "Through the portal, you see the laid-back atmosphere of the Limping Toad."
-   portal_jasper = "The quiet Yonder Inn of Jasper lies through this portal."
-   portal_cornoth = "A lazy inn next to a quiet creek rests on the other side of this portal."
-   portal_barloque = "Gazing into the portal, you see an expensive inn in a bustling city."
+   portal_tos = "Mit einem Blick durch das Portal erkennst Du das fröhliche Treiben in der Brunnenkneipe."
+   portal_marion = "Durch das Portal erkennst Du die entspannte Atmosphäre in der 'Lahmen Kröte'."
+   portal_jasper = "Hinter diesem Portal liegt die Kneipe 'Zum Zwergenhammer' in Jasper."
+   portal_cornoth = "Dieses Portal führt Dich zu einer gemütlichen Kneipe in der Nähe eines ausgetrockneten Flußbetts."
+   portal_barloque = "Der Blick durch das Portal zeigt Dir eine teure Gaststätte in einer sehr belebten Stadt."
 
-   zap_to_corpse = "Entering the portal you wander about the netherworld, but find yourself drawn out..."
-   zap_to_home   = "You enter the portal, and find yourself lost, confusion starts to take over when you find yourself home."
+   zap_to_corpse = "Beim Betreten des Portals streifst Du die Unterwelt, wirst aber plötzlich herausgezogen..."
+   zap_to_home = "Du durchschreitest das Portal und verlierst jegliche Orientierung. Als Du Dich plötzlich zuhause wiederfindest, steigt Deine Verwirrung."
 
-   try_light_unlit = "Waving your hand past the cold brazier, a warm flame ignites."
-   try_light_lit = "You wave your hand over the lit brazier, and flames lick at your fingertips."
+   try_light_unlit = "Als Du die Hand nach dem kalten Kohlenbecken ausstreckst, lodert plötzlich eine heiße Flamme auf."
+   try_light_lit = "Du schwenkst die Hand über dem Kohlenbecken. Heiße Flammen umzüngeln Deine Fingerspitzen."
 
    burning_wading_sound = frying.wav
 
@@ -736,3 +736,4 @@ messages:
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
                                                            
+

@@ -18,62 +18,62 @@ constants:
 resources:
 
    room_KocatanHallB = Kochohb.roo
-   room_name_KocatanHallB = "The Hall of Heroes East"
+   room_name_KocatanHallB = "Die Halle der Helden (Osten)"
 
-   kochistory_book_name = "History of the Settlement"
-   kochistory_book_text = \
-	"By Coitla cha'Oztya, 224th year of the settlement.\n"
-	"\n"
-	"   Several centuries ago, our forefathers established the great settlement "
-	"of Ko'catan.  It was not built on learning or trade, but on sweat and blood.\n"
-	"\n" 
-	"   In the Time Before, our hero and savior Konima lead less than one hundred "
-	"warriors into the caves of the Utom.  Konima, a great military strategist and "
-	"swordsman unparalleled bravely brought the war to the heart of the enemy.  "
-	"There is no written record of the civilization from which they came.  The "
-	"oral stories of our predecessors tell of a decedent land run amok with "
-	"bizarre politics and meaningless wars, though some say the people were "
-	"essentially good and deserving of the sacrifice made by our ancestors.  Most "
-	"believe that this land no longer exists and the people are dead.  The truth, "
-	"we may never know.\n"
-	"\n"
-	"   Having taken the horrible battle to the heart of the Utom, Konima knew "
-	"that there would be no returning to his homeland.  The battle was not going "
-	"well.  The utom had ambushed the warriors.  His numbers were low.  There was "
-	"no food left.  And those left in his command were unaware of how badly injured "
-	"Konima was.\n"
-	"\n"
-	"¶"
-	"   It was at the last days of Konima's life that a scout party made their way "
-	"through a series of caverns and emerged on the sandy shores of the Island.  "
-	"Fresh air and food abound, it promised salvation for the war-ravaged group.  "
-	"Sadly, the scouts were not quick enough; hours before returning with their "
-	"good news, the great Konima passed on from deep internal wounds.  His last "
-	"words were, \"You have all bravely followed me to what is to be our tomb.  "
-	"You have all saved the lives of thousands at the cost of your own.  Should "
-	"any of you survive these final hours by some folly of the old gods, know well "
-	"that I will see you again.  For one day you and all of your descendants will "
-	"stand beside me in the glorious ever-after.\"\n"    
-	"\n"
-	"   The warrior men and women carried his body to the oceanfront and erected "
-	"a memorial tomb that one day would become the Hall of Heroes.  This was to be "
-	"the beginning of the Settlement.  At first, they prepared for the utom to "
-	"follow them to the surface to slaughter them all.  But the utom never came.  "
-	"In fact, to this day the utom shun the open air of the island at all costs.  "
-	"No one knows what they fear on the island.\n"
-	"¶"  
-	"   It was not long before our predecessors encountered the first Avar tribe.  "
-	"After a series of bloody battles, the great barrier wall was built. For six "
-	"generations of Warlords, we have stood strong against the various tribes on "
-	"the island.  Although at one point our established territory went all the way "
-	"to the old temple ruins, we have never lost Ko'catan to invaders.  Not even "
-	"during the slaughter of the fifth warlord, when Avars attacked from the "
-	"undefended beachfront.\n"
-	"\n"  
-	"   Ko'catan is strong and with the spirit of Konima at its heart, we shall never fall."
+   kochistory_book_name = "Geschichte der Siedlung"
+   kochistory_book_text = "Von Coitla cha'Oztya, im 224. Jahr der Siedlung.\n\n  Vor mehreren Jahrhunderten gründeten unsere Vorväter die wunderbare Siedlung namens Ko'catan. Sie entstand nicht durch Handel oder kluge Köpfe, sondern durch Schweiß und Blut.\n\n  In der Zeit zuvor führte unser Held und Retter Konima weniger als 100 Krieger in die Höhlen der Utom. Konima, ein großer Militärstratege und Schwertmeister, führte den Krieg am Herzen seiner Gegner. Es gibt keine Aufzeichnungen über die Zivilisation, der sie entsprangen. Die mündlichen Überlieferungen erzählen von einem zerfallenden Land voller bizarrer Politik und bedeutungsloser Kriege, obwohl manche sagen, diese Leute waren grundsätzlich gut und verdienten das Opfer, das unsere Ahnen für sie gebracht haben. Die meisten glauben, dass dieses Land nicht mehr existiert und dass sein Volk tot ist. Die Wahrheit werden wir wohl nie erfahren.\n\n  Als er den Krieg ins Herz des Utom-Gebiets verlagerte, wußte Konima, dass er niemals in seine Heimat zurückkehren würde.¶Die Schlacht verlief ungünstig. Die Utom hatten die Krieger überfallen. Sie wurden immer weniger. Es gab kein Essen mehr. Die, die noch unter seinem Kommando standen, waren sich nicht darüber im Klaren, wie schwer verwundet Konima war.\n\n  Es waren die letzten Tage in Konimas Leben, als ein Suchtrupp einen Weg durch eine Reihe von Höhlen fand und am Strand einer Insel ins Tageslicht trat. Frische Luft und reichlich Nahrung - es schien die Rettung für die vom Krieg zerrüttete Truppe. Doch die Aufklärer waren nicht schnell genug. Stunden bevor sie mit der frohen Botschaft zurückkehrten, starb der große Konima an seinen schweren inneren Verletzungen. Seine letzten Worte waren, \"Ihr seid mir alle mutig in das gefolgt, was unser Grab sein wird. Ihr alle habt die Leben Tausender durch Euer Opfer gerettet. Sollten einige von Euch diese schweren Stunden durch die Gnade der Götter überstehen, so sollt Ihr wissen, dass wir uns wiedersehen. Denn eines Tages werdet Ihr und all Eure Nachkommen neben mir stehen, ruhmreich in der Ewigkeit.\"¶Die Kriegerinnen und Krieger trugen seinen Körper ans Meer und errichteten eine Gedenkstätte, dort, wo heute die Halle der Helden steht. Dies sollten die Anfangsstunden der Siedlung sein. Zuerst rüsteten sie sich dafür, dass die Utom ihnen an die Oberfläche folgen würden - doch die Utom kamen nicht. Und seit diesem Tag mieden die Utom offenes Gelände und die Insel um jeden Preis. Niemand weiss, wovor sie sich auf der Insel fürchten.\n  Es dauerte nicht lang, bis unsere Ahnen auf den ersten Avar-Stamm trafen. Nach einer Reihe blutiger Schlachten wurde ein großer Wall errichtet. Sechs Kriegsherren-Generationen lang hielten wir uns gegen die verschiedenen Stämme der Insel. Obwohl unser Gebiet sich einmal sogar bis hin zu den alten Tempelanlagen erstreckte, haben wir Ko'catan nie an Eindringlinge verloren. Noch nicht einmal als der fünfte Kriegsherr fiel, als die Avars vom unverteidigten Strand aus angriffen\n\n  Ko'catan ist stark und mit dem Geist von Konima in unseren Herzen werden wir niemals scheitern."
 
 
-   KocatanHallB_music = extra01.mid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   KocatanHallB_music = extra01.mp3
 
 classvars:
 
@@ -130,3 +130,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

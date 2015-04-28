@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   ring_unidentified_name_rsc = "magical ring"
-   ring_unidentified_description_rsc = "The ring pulses with magical energy."
+   ring_unidentified_name_rsc = "Ein magischer Ring"
+   ring_unidentified_description_rsc = "Der Ring pulsiert voll magischer Energie."
 
-   ring_identified_name_rsc = "generic magical ring"
-   ring_identified_description_rsc = "The has some magical effect."
+   ring_identified_name_rsc = "Ein gewöhnlicher magischer Ring."
+   ring_identified_description_rsc = "Er besitzt einen magischen Effekt."
 
 classvars:
 
@@ -81,3 +81,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

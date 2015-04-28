@@ -17,13 +17,13 @@ constants:
 resources:
  
 
-   EvilTwin_name_rsc = "evil twin"
+   EvilTwin_name_rsc = "Böser Zwilling"
 
    EvilTwin_male_icon_rsc = btg.bgf
    EvilTwin_female_icon_rsc = bth.bgf
 
    EvilTwin_dead_icon_rsc = amoebaX.bgf
-   EvilTwin_dead_name_rsc = "dead evil twin"
+   EvilTwin_dead_name_rsc = "Ein toter böser Zwilling"
    EvilTwin_weapon_rsc = scimov.bgf
 
    EvilTwin_sound_hit = orc_atkh.wav
@@ -31,9 +31,9 @@ resources:
    EvilTwin_sound_death = orc_dth.wav
    EvilTwin_sound_aware = orc_awr.wav
 
-   EvilTwin_delete =  "%s%s disappears into a puff of smoke."
+   EvilTwin_delete = "%s%s verschwindet in einer Rauchwolke."
 
-   EvilTwin_trouble = "You sense that a evil twin you summoned has gotten you into some trouble..."
+   EvilTwin_trouble = "Du bemerkst, dass ein böser Zwilling, den Du beschworen hast, Dich in Schwierigkeiten gebracht hat..."
 
 classvars:
 
@@ -586,3 +586,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

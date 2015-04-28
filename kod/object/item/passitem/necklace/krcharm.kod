@@ -23,13 +23,13 @@ constants:
 
 resources:
 
-   KraananCharm_name_rsc = "steel torc"
+   KraananCharm_name_rsc = "Das stählerne Halsband"
    KraananCharm_icon_rsc = krcharm.bgf
-   KraananCharm_desc_rsc = \
-   "Made not for ornamentation but for protection, this torc looks more than "
-   "suitable for stopping any blow headed towards the throat."
+   KraananCharm_desc_rsc = "Dieses Halsband dient nicht als Schmuck, sondern wurde eher dafür gefertigt, einen Schlag gegen den Hals abzudämpfen."
 
-   KraananCharm_whisper = "You hear a voice whisper, \"~I...dodge all they want, a mighty warrior need only hit them once...\""
+
+
+   KraananCharm_whisper = "Du hörst eine Stimme flüstern, \"~I...spring immer zur Seite, ein großer Krieger braucht sie nur einmal zu treffen...\""
 
 classvars:
 
@@ -102,6 +102,7 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 

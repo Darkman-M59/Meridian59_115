@@ -43,28 +43,28 @@ constants:
 
 resources:
 
-   system_user_killed = "### %q was just killed by %s%q."
-   system_user_killed_by_pker = "### %q has been murdered in cold blood."
-   system_user_killed_pker = \
-      "### The notorious murderer, %q, has been killed by %s%q."
-   system_user_killed_outlaw = \
-      "### The feared outlaw, %q, has just met justice at %s%q's hands."
-   system_killed_self = "### %q was just slain by %s own folly."
-   system_user_killed_room = \
-      "### %s have laid claim to yet another poor soul, %q."
-   system_user_killed_bridge_faith = \
-      "### %q just hurled %sself from the cliffs of Riija to find a watery "
-      "grave."
-   system_user_killed_token = "### %q lost a token to %s%q."
-   system_user_killed_shield = "### %q was bested by faction rival %s%q."
-   system_user_killed_guild = \
-      "### %q of %s%q has been slaughtered by %s%q of %s%q in guild combat."
+   system_user_killed = "### %q ist gerade gestorben. %s%q war zu stark."
+   system_user_killed_by_pker = "### %q ist kaltblütig umgebracht worden."
+   system_user_killed_pker = "### %q ist als Mörder getötet worden! %s%q war im Kampf siegreich."
+
+   system_user_killed_outlaw = "### %q war gesetzlos und ist ermordet worden. %s%q hat die gerechte Strafe ausgeführt."
+
+   system_killed_self = "### %q hat soeben durch eigene Dummheit ins Gras gebissen."
+   system_user_killed_room = "### %s haben sich noch eine weitere arme Seele geholt: %q."
+
+   system_user_killed_bridge_faith = "### %q stürzte sich von den Riija-Klippen in ein feuchtes Grab."
+
+
+   system_user_killed_token = "### %q hat ein Artefakt an %s%q verloren."
+   system_user_killed_shield = "### %q wurde vom Fraktionsrivalen %s%q besiegt."
+   system_user_killed_guild = "### %q von %s%q wurde von %s%q von %s%q im Gildenkampf abgeschlachtet."
+
       
-   guildwar_kill_title1 = " has slaughtered "
-   guildwar_kill_body1 = "Let it be known that "
-   guildwar_kill_body2 = " of the "
-   guildwar_kill_body3 = " has been slaughtered by "
-   guildwar_kill_body4 = " in guild combat."
+   guildwar_kill_title1 = " schlachtete "
+   guildwar_kill_body1 = "Lasst es bekannt werden, dass "
+   guildwar_kill_body2 = " von den "
+   guildwar_kill_body3 = " durch "
+   guildwar_kill_body4 = " im Gildenkampf erschlagen wurde."
 
    system_admin_message = "%q"
 
@@ -73,22 +73,22 @@ resources:
    % charinfo stuff
 
    charinfo_might_icon = light.bgf
-   charinfo_might_name = "Might"
+   charinfo_might_name = "Stärke"
 
    charinfo_intellect_icon = light.bgf
-   charinfo_intellect_name = "Intellect"
+   charinfo_intellect_name = "Klugheit"
 
    charinfo_agility_icon = light.bgf
-   charinfo_agility_name = "Agility"
+   charinfo_agility_name = "Gewandtheit"
 
    charinfo_stamina_icon = light.bgf
-   charinfo_stamina_name = "Stamina"
+   charinfo_stamina_name = "Konstitution"
 
    charinfo_mysticism_icon = light.bgf
-   charinfo_mysticism_name = "Mysticism"
+   charinfo_mysticism_name = "Magie"
 
    charinfo_aim_icon = light.bgf
-   charinfo_aim_name = "Aim"
+   charinfo_aim_name = "Genauigkeit"
 
    charinfo_head_ax_icon = phax.bgf
    charinfo_head_kx_icon = phkx.bgf
@@ -118,105 +118,105 @@ resources:
    charinfo_nose_lx_icon = pnlx.bgf
    charinfo_nose_mx_icon = pnmx.bgf
 
-   charinfo_hair_name = "Hair"
+   charinfo_hair_name = "Das Haar"
 
-   charinfo_hair_ac_icon = ptac.bgf  % Hercules male long hair look
-   charinfo_hair_ba_icon = ptba.bgf  % Tower of Power
-   charinfo_hair_bc_icon = ptbc.bgf  % Ponytail
-   charinfo_hair_cd_icon = ptcd.bgf  % Mohawk
-   charinfo_hair_ca_icon = ptca.bgf  % Short, women's hair
-   charinfo_hair_db_icon = ptdb.bgf  % Braids
+   charinfo_hair_ac_icon = ptac.bgf
+   charinfo_hair_ba_icon = ptba.bgf
+   charinfo_hair_bc_icon = ptbc.bgf
+   charinfo_hair_cd_icon = ptcd.bgf
+   charinfo_hair_ca_icon = ptca.bgf
+   charinfo_hair_db_icon = ptdb.bgf
 
-   charinfo_hair_ad_icon = ptad.bgf  % Short men's hair
-   charinfo_hair_bb_icon = ptbb.bgf  % Chin length men's hair
-   charinfo_hair_bd_icon = ptbd.bgf  % earlength wide women's hair.
+   charinfo_hair_ad_icon = ptad.bgf
+   charinfo_hair_bb_icon = ptbb.bgf
+   charinfo_hair_bd_icon = ptbd.bgf
 
-   charinfo_hair_cb_icon = ptcb.bgf  % Long hair tucked back
-   charinfo_hair_dc_icon = ptdc.bgf  % Long hair
-   charinfo_hair_dr_icon = ptdr.bgf  % dreads
-   charinfo_hair_xa_icon = ptxa.bgf  % bald head/Ben Franklin Look
-   charinfo_hair_xb_icon = ptxb.bgf  % Curly hair bun look
+   charinfo_hair_cb_icon = ptcb.bgf
+   charinfo_hair_dc_icon = ptdc.bgf
+   charinfo_hair_dr_icon = ptdr.bgf
+   charinfo_hair_xa_icon = ptxa.bgf
+   charinfo_hair_xb_icon = ptxb.bgf
 
-   charinfo_hair_bald_icon = blank.bgf   % bald.
+   charinfo_hair_bald_icon = blank.bgf
 
    % What's substitutded for swear words when cleansing strings.
    system_swear_symbols = "#@$%!"
 
    % Number resources for ordinal and cardinal numbers
-   system_ordinal_0 = "zeroth"
-   system_ordinal_1 = "first"
-   system_ordinal_2 = "second"
-   system_ordinal_3 = "third"
-   system_ordinal_4 = "fourth"
-   system_ordinal_5 = "fifth"
-   system_ordinal_6 = "sixth"
-   system_ordinal_7 = "seventh"
-   system_ordinal_8 = "eighth"
-   system_ordinal_9 = "ninth"
-   system_ordinal_10 = "tenth"
-   system_ordinal_11 = "eleventh"
-   system_ordinal_12 = "twelfth"
-   system_ordinal_20 = "twentieth"
-   system_ordinal_30 = "thirtieth"
-   system_ordinal_40 = "fortieth"
-   system_ordinal_50 = "fiftieth"
-   system_ordinal_60 = "sixtieth"
-   system_ordinal_70 = "seventieth"
-   system_ordinal_80 = "eightieth"
-   system_ordinal_90 = "ninetieth"
-   system_ordinal_100 = "the hundredth"
-   system_ordinal_general = "th"
-   system_ordinal_ones = "st"
-   system_ordinal_twos = "nd"
-   system_ordinal_threes = "rd"
-   system_cardinal_0 = "zero"
-   system_cardinal_1 = "one"
-   system_cardinal_2 = "two"
-   system_cardinal_3 = "three"
-   system_cardinal_4 = "four"
-   system_cardinal_5 = "five"
-   system_cardinal_6 = "six"
-   system_cardinal_7 = "seven"
-   system_cardinal_8 = "eight"
-   system_cardinal_9 = "nine"
-   system_cardinal_10 = "ten"
-   system_cardinal_11 = "eleven"
-   system_cardinal_12 = "twelve"
-   system_cardinal_20 = "twenty"
-   system_cardinal_30 = "thirty"
-   system_cardinal_40 = "forty"
-   system_cardinal_50 = "fifty"
-   system_cardinal_60 = "sixty"
-   system_cardinal_70 = "seventy"
-   system_cardinal_80 = "eighty"
-   system_cardinal_90 = "ninety"
-   system_cardinal_100 = "a hundred"
-   system_fuzzy_cardinal_10000 = "countless"
-   system_fuzzy_cardinal_1000 = "thousands of"
-   system_fuzzy_cardinal_200 = "hundreds of"
-   system_fuzzy_cardinal_100 = "a hundred or more"
-   system_fuzzy_cardinal_75 = "a large number of"
-   system_fuzzy_cardinal_50 = "at least fifty"
-   system_fuzzy_cardinal_36 = "a few dozen"
-   system_fuzzy_cardinal_20 = "over twenty"
-   system_fuzzy_cardinal_12 = "at least a dozen"
-   system_fuzzy_cardinal_5 = "a handful of"
-   system_fuzzy_cardinal_4 = "several"
-   system_fuzzy_cardinal_3 = "a few"
-   system_fuzzy_cardinal_2 = "a couple of"
-   system_fuzzy_cardinal_1 = "one"
-   system_fuzzy_cardinal_0 = "no"
-   system_fuzzy_cardinal_deficit = "a deficit of"
+   system_ordinal_0 = "nullte"
+   system_ordinal_1 = "erste"
+   system_ordinal_2 = "zweite"
+   system_ordinal_3 = "dritte"
+   system_ordinal_4 = "vierte"
+   system_ordinal_5 = "fünfte"
+   system_ordinal_6 = "sechste"
+   system_ordinal_7 = "siebte"
+   system_ordinal_8 = "achte"
+   system_ordinal_9 = "neunte"
+   system_ordinal_10 = "zehnte  "
+   system_ordinal_11 = "elfte"
+   system_ordinal_12 = "zwölfte"
+   system_ordinal_20 = "20."
+   system_ordinal_30 = "30."
+   system_ordinal_40 = "40."
+   system_ordinal_50 = "50."
+   system_ordinal_60 = "60."
+   system_ordinal_70 = "70."
+   system_ordinal_80 = "80."
+   system_ordinal_90 = "90."
+   system_ordinal_100 = "100."
+   system_ordinal_general = "."
+   system_ordinal_ones = "."
+   system_ordinal_twos = "."
+   system_ordinal_threes = "."
+   system_cardinal_0 = "0"
+   system_cardinal_1 = "1"
+   system_cardinal_2 = "2"
+   system_cardinal_3 = "3"
+   system_cardinal_4 = "4"
+   system_cardinal_5 = "5"
+   system_cardinal_6 = "6"
+   system_cardinal_7 = "7"
+   system_cardinal_8 = "8"
+   system_cardinal_9 = "9"
+   system_cardinal_10 = "10"
+   system_cardinal_11 = "11"
+   system_cardinal_12 = "12"
+   system_cardinal_20 = "20"
+   system_cardinal_30 = "30"
+   system_cardinal_40 = "40"
+   system_cardinal_50 = "50"
+   system_cardinal_60 = "60"
+   system_cardinal_70 = "70"
+   system_cardinal_80 = "80"
+   system_cardinal_90 = "90"
+   system_cardinal_100 = "100"
+   system_fuzzy_cardinal_10000 = "unzählige"
+   system_fuzzy_cardinal_1000 = "tausende von"
+   system_fuzzy_cardinal_200 = "hunderte von"
+   system_fuzzy_cardinal_100 = "über 100"
+   system_fuzzy_cardinal_75 = "viele"
+   system_fuzzy_cardinal_50 = "mindestens 50"
+   system_fuzzy_cardinal_36 = "einige Dutzend"
+   system_fuzzy_cardinal_20 = "über 20"
+   system_fuzzy_cardinal_12 = "mindestens ein Dutzend"
+   system_fuzzy_cardinal_5 = "eine Handvoll von"
+   system_fuzzy_cardinal_4 = "einige"
+   system_fuzzy_cardinal_3 = "wenige"
+   system_fuzzy_cardinal_2 = "ein paar"
+   system_fuzzy_cardinal_1 = "ein"
+   system_fuzzy_cardinal_0 = "keine"
+   system_fuzzy_cardinal_deficit = "ein Mangel an"
 
-   system_new_hour = "It is now %i:00 Meridian time."
+   system_new_hour = "Es ist genau %i:00. Meridian-Zeit."
 
-   system_gift = \
-       "### Out of the kindness of their hearts, the gods have elected to "
-       "give you %s%s!"
+   system_gift = "### %s%s! Aus ihrer unendlichen Güte heraus haben die Götter beschlossen, Dir dieses Geschenk zu geben."
 
-   system_mail_template_rsc = "Subject: %q\n%q\n"
-   system_nothing_rsc = " "
-   system_automated_rsc = "(Automated Message)"
+
+
+   system_mail_template_rsc = "Betreff: %q\n%q\n"
+   system_nothing_rsc = ""
+   system_automated_rsc = "(Automatisierte Nachricht)"
 
    system_guildshield_sample_sash = gshA.bgf
    system_guildshield_sample_halvesv = gshB.bgf
@@ -225,19 +225,19 @@ resources:
 
    system_name_rsc = "[SYSTEM]"
 
-   system_success_rsc = "Success."
-   system_failure_rsc = "Failure."
-   system_please_wait_rsc = "Please wait about 30 seconds for processing."
+   system_success_rsc = "Erfolgreich."
+   system_failure_rsc = "Fehlschlag."
+   system_please_wait_rsc = "Bitte warte 30 Sekunden für die Bearbeitung."
 
    % A resource for use when a hidden admin tells something to a non-admin.
    %  Placed here so we can filter out user names to avoid confusion.
-   system_hidden_admin = "An Administrator"
+   system_hidden_admin = "Ein Administrator"
 
    % Joke message
-   system_joke_message = \
-      "~IA strange wind blows across the land, killing all monsters.~I\n"
-      "~b~BCongratulations!~B~k All the monsters have been slain!  You have "
-      "won Meridian 59.  Hope you had fun, it's been a great game."
+   system_joke_message = "~IEin seltsamer Wind weht durch die Lande und tötet alle Monster.~I\n~b~BGratulation!~B~k Alle Monster wurden besiegt!  Du hast Meridian 59 gewonnen.  Hoffentlich hattest du mit diesem ausergewöhnlichen Spiel deinen Spass."
+
+
+
    
 classvars:
 
@@ -6558,4 +6558,5 @@ messages:
    }
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

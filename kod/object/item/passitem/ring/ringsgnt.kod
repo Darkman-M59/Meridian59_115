@@ -17,10 +17,10 @@ constants:
 
 resources:
 
-   ringsignet_name_rsc = "signet ring"
+   ringsignet_name_rsc = "Der Siegel-Ring"
    ringsignet_icon_rsc = signet.bgf
-   ringsignet_desc_rsc = "This ring is worn and dirty, but you make out the family crest of "
-   ringsignet_desc_rsc2 =". Surely, its return would be appreciated."
+   ringsignet_desc_rsc = "Obwohl dieser Ring dreckig und abgenutzt ist, kannst Du den Namen von "
+   ringsignet_desc_rsc2 = " erkennen. Sicherlich würde man seine Rückgabe zu schätzen wissen."
 
 classvars:
 
@@ -165,4 +165,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

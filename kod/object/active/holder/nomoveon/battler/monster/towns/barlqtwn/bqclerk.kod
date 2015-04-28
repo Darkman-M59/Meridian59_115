@@ -36,234 +36,234 @@ resources:
 
    barloque_clerk_name_rsc = "Caramo"
    barloque_clerk_icon_rsc = bqclerk.bgf
-   barloque_clerk_desc_rsc = \
-      "Not your typical Royal bureaucrat.  "
-      "She's attractive, charming, and by all accounts, honorable.  "
-      "Caramo has spent years counting the Duke's money, "
-      "filing the former Queen's taxation scrolls, and more recently, "
-      "serving as clerk for the Office of the Justicar."
+   barloque_clerk_desc_rsc = "Nicht gerade das, was Du Dir unter einer typischen königlichen Bürokratin vorstellst. Sie ist attraktiv, charmant und nach allem, was man hört, ehrenhaft. Caramo hat Jahre damit verbracht, das Geld des Herzogs zu zählen, die Steuerunterlagen der früheren Königin zu ordnen und seit kurzem als Schreiberin im Büro des Justiziars zu dienen."
 
-   barloqueclerk_for_shame = \
-      "For shame, %s!  Because of your unlawful status, I am forced to strip you "
-      "of your office!"
+
+
+
+
+
+   barloqueclerk_for_shame = "Schäme dich, %s! Aufgrund Deines ungesetzlichen Status' muss ich Dich des Amtes entheben!"
+
+
 
    % Basic stuff
 
-   barloque_clerk_hail_justicar = \
-      "All hail, the honorable Justicar %s hath arrived!"
-   barloque_clerk_bye_justicar = \
-      "The honorable Justicar %q hath just left the Office."
-   barloque_clerk_refuse_service = \
-      "I would not even ~Bconsider~B the loathsome idea of dealing with the likes of "
-      "thee, %s!  Remove thyself, or the guard will provide escort!"
+   barloque_clerk_hail_justicar = "Gesegnet seien alle, der ehrenwerte Justiziar %s ist angekommen!"
+
+   barloque_clerk_bye_justicar = "Der ehrenwerte Justiziar %q hat das Büro gerade verlassen."
+
+   barloque_clerk_refuse_service = "Ich würde noch nicht einmal die widerliche Idee ~Berwägen~B, mit jemandem wie Euch Geschäfte zu machen, %s! Hebt Euch hinweg oder die Wache wird Euch begleiten!"
+
+
 
    % Voting
 
-   barloque_clerk_election_no_justicar_subject = "Office Hath Been Vacated"
-   barloque_clerk_election_no_justicar = \
-      "The Office of the Justicar is now empty. "
-      "Until a new election hath been held and a new Justicar thus chosen, "
-      "there are no pardons from the Crown."
-      "\n\n"
-      "--Caramo"
-   barloque_clerk_election_open_subject = "The Election Campaign Hath Begun"
-   barloque_clerk_election_open = \
-      "The election for Justicar hath begun.  Thou mayest now buy a ballot from me. "
-      "Write the name of the candidate of thy preference and return it for official"
-      " tally.  Do remember, under current Meridian law, neither new citizens nor "
-      "outlaws can vote or hold office."
-      "\n\n"
-      "--Caramo"
-   barloque_clerk_tally_day = \
-      "The next Justicar will be sworn into office %d Meridian days henceforth."
-   barloque_clerk_tally_no_leader = \
-      "Thus far, there are no votes tallied for the next Justicar election."
-   barloque_clerk_tally_leader = \
-      "Thus far, the leader in the next Justicar election is %q, with %i votes."
-   barloque_clerk_tally_tied = \
-      "Thus far, it appears there is a tie."
-   barloque_clerk_announce_winner_subject = "Newly Elected Justicar"
-   barloque_clerk_announce_winner1 = \
-      "Please congratulate "
-   barloque_clerk_announce_winner2 = \
-      ", thy new Justicar."
-      "\n\n"
-      "--Caramo"
-   barloqueClerk_not_yet = "I am not accepting votes at this time."
-   barloqueClerk_blank_ballot = "Really, waste not my time with blank ballots."
+   barloque_clerk_election_no_justicar_subject = "Das Amt ist frei"
+   barloque_clerk_election_no_justicar = "Das Büro des Justiziars ist nun unbesetzt. Solange keine neue Wahl ausgeschrieben ist und ein neuer Justiziar gewählt ist, gibt es keine Begnadigungen durch die Krone.\n\n--Caramo"
+
+
+
+
+
+   barloque_clerk_election_open_subject = "Der Wahlkampf hat begonnen"
+   barloque_clerk_election_open = "Die Wahl des Justiziars hat begonnen. Du kannst nun einen Stimmzettel von mir kaufen. Schreibe den Namen Deines favorisierten Kandidaten auf den Zettel und gib ihn im Büro des Justiziars ab. Vergiss nicht, dass gemäß dem geltenden Recht von Meridian weder Neulinge noch Gesetzlose für das Amt kandidieren können.\n\n--Caramo"
+
+
+
+
+
+
+   barloque_clerk_tally_day = "Dem nächsten Justiziar wird in %d Meridiantagen der Amtseid abgenommen."
+
+   barloque_clerk_tally_no_leader = "Bisher sind noch keine Stimmen für die Wahl des nächsten Justiziars gezählt worden."
+
+   barloque_clerk_tally_leader = "Bisher führt %s die Wahl um den nächsten Justiziar mit %d Stimmen an."
+
+   barloque_clerk_tally_tied = "Bis jetzt scheint es, gibt es ein Unentschieden."
+
+   barloque_clerk_announce_winner_subject = "Neu gewählter Justiziar"
+   barloque_clerk_announce_winner1 = "Bitte gratuliere "
+
+   barloque_clerk_announce_winner2 = ", dem neu gewählten Justiziar.\n\n--Caramo"
+
+
+
+   barloqueClerk_not_yet = "Zu diesem Zeitpunkt nehme ich keine Stimmen an."
+   barloqueClerk_blank_ballot = "Wirklich, verschwende meine Zeit nicht mit leeren Stimmzetteln."
 
    % Accountability
 
-   barloque_clerk_pardon = "pardon"
-   barloque_clerk_pardons = "pardons"
-   barloque_clerk_anoutlaw = "an outlaw"
-   barloque_clerk_outlaws = "outlaws"
-   barloque_clerk_amurderer = "a murderer"
-   barloque_clerk_murderers = "murderers"
-   barloque_clerk_alawful = "a lawful citizen"
-   barloque_clerk_lawfuls = "lawful citizens"
-   barloque_clerk_aperson = "a person"
-   barloque_clerk_person = "person"
-   barloque_clerk_people = "people"
-   barloque_clerk_pardons_served1 = \
-      "In this term, Justicar %q hath served %i %s."
-   barloque_clerk_pardons_served2 = \
-      "Of those, %i %s to %s, and %i to %s."
+   barloque_clerk_pardon = "Begnadigen"
+   barloque_clerk_pardons = "Begnadigungen"
+   barloque_clerk_anoutlaw = "Gesetzlose(r)"
+   barloque_clerk_outlaws = "Gesetzlosen"
+   barloque_clerk_amurderer = "Mörder(in)"
+   barloque_clerk_murderers = "Mörder(innen)"
+   barloque_clerk_alawful = "gesetzestreue(r) Bürger(in)"
+   barloque_clerk_lawfuls = "gesetzestreue Bürger(innen)"
+   barloque_clerk_aperson = "eine Person"
+   barloque_clerk_person = "Personen"
+   barloque_clerk_people = "Leute"
+   barloque_clerk_pardons_served1 = "In dieser Amtszeit hat Justiziar %q %i %s erlassen."
+
+   barloque_clerk_pardons_served2 = "Davon: %i %s \"%s\" und %i \"%s.\""
+
 
    % Commands
 
-   barloque_clerk_pardon_phrase = "As Justicar, I pardon "
-   barloque_clerk_remand_phrase = "As Justicar, I remand "
-   barloque_clerk_report_phrase = "Justicar Report"
-   barloque_clerk_tally_phrase = "count the votes"
+   barloque_clerk_pardon_phrase = "Als Justiziar begnadige ich "
+   barloque_clerk_remand_phrase = "Als Justiziar weise ich zurück: "
+   barloque_clerk_report_phrase = "Bericht des Justiziars"
+   barloque_clerk_tally_phrase = "zählt die Stimmen"
 
    % Problems
 
-   barloque_clerk_no_justicar = \
-      "In faith, there is no one serving as Justicar currently."
-   barloque_clerk_in_absentia = \
-      "Your Honor, that person is present not.  They must be in thy company."
-   barloque_clerk_step_forward = \
-      "Your Honor, that person is in the gallery.  "
-      "In faith, they must step forward into hither court area first."
-   barloque_clerk_already_pardoned = \
-      "Your Honor, that person hath already been pardoned for murder.  "
-      "The Crown doth not look kindly upon unrepetant murderers and will "
-      "allow not another pardon this term."
-   barloque_clerk_citizen_unknown = \
-      "Your Honor, there is no record of a citizen by such name."
-   barloque_clerk_no_more = \
-      "Your Honor, by Royal Law, thou hath reached thy limit on pardons this term."
+   barloque_clerk_no_justicar = "In der Tat gibt es zur Zeit keinen amtierenden Justiziar."
+
+   barloque_clerk_in_absentia = "Euer Ehren, diese Person ist nicht anwesend. Sie muss sich in Eurer Gesellschaft befinden."
+
+   barloque_clerk_step_forward = "Euer Ehren, diese Person befindet sich in der Gallerie. In der Tat müssen sie zuerst vor jenes Gericht treten."
+
+
+   barloque_clerk_already_pardoned = "Euer Ehren, diese Person ist bereits wegen Mordes begnadigt worden. Die Krone ist Mördern nicht freundlich gesinnt und wird keine weitere Begnadigung zulassen."
+
+
+
+   barloque_clerk_citizen_unknown = "Euer Ehren, es gibt keine Aufzeichnungen über einen Bürger solches Namens."
+
+   barloque_clerk_no_more = "Euer Ehren, nach dem Königlichen Gesetz habt Ihr für diese Amtszeit die Höchstzahl von Begnadigungen erreicht."
+
 
    % Intelligence
 
-   barloque_clerk_summary_lawful = \
-      "Your Honor, according to records, "
-      "%q is a lawful citizen in keeping with the Royal Establishment."
-   barloque_clerk_summary_outlaw = \
-      "Your Honor, according to records, "
-      "%q is an outlaw for having caused injury upon lawful citizens, "
-      "or for breaking other laws of the land."
-   barloque_clerk_summary_murderer1 = \
-      "Your Honor, according to records, "
-      "%q hath killed %i %s."
-   barloque_clerk_summary_murderer2 = \
-      "Of those, %i being %s, and %i %s justifiable by law."
-   barloque_clerk_was = "was"
-   barloque_clerk_were = "were"
+   barloque_clerk_summary_lawful = "Euer Ehren, nach den Aufzeichnungen ist %q gesetzestreu und hält sich an die königlichen Vorgaben."
+
+
+   barloque_clerk_summary_outlaw = "Euer Ehren, nach den Aufzeichnungen ist %q gesetzlos und hat gesetzestreue Bürger verletzt oder andere Gesetzes des Landes gebrochen."
+
+
+
+   barloque_clerk_summary_murderer1 = "Euer Ehren, nach den Aufzeichnungen ist %q des Mordes schuldig und hat bereits %i %s getötet."
+
+
+   barloque_clerk_summary_murderer2 = "Davon sind %i %s und %i %s vor dem Gesetz entschuldbar."
+
+   barloque_clerk_was = "war"
+   barloque_clerk_were = "waren"
 
    % Announcements
 
-   barloque_clerk_granted = \
-      "Justicar %s hath granted a pardon to %s, %s, who shall now have the "
-      "status of %s!"
+   barloque_clerk_granted = "Justiziar %s hat %s, %s begnadigt. Die Person hat von nun an den Status %s!"
 
-   barloqueclerk_accepting_votes = \
-      "I am now accepting nominations and votes for the office of the Justicar."
-   barloqueclerk_votes_tallied = "The votes have been tallied."
-   barloqueclerk_new_justicar= "Please congratulate %q, thy new Justicar."
-   barloqueclerk_no_can_vote = "I do not have a record of any person with that name."
-   barloqueclerk_vote_noted = "Your vote for %q has been noted."
-   barloqueclerk_vote_switched = "I have modified your vote to be for %q."
-   barloqueclerk_vote_already = "You already were supporting %q with your vote."
 
-   barloqueclerk_hands_back = "~bCaramo hands back the ballot."
-   barloqueclerk_bad_candidate = "%q is ineligible for the office of Justicar."
-   barloqueclerk_no_newbie_voter = "You are not yet eligible to vote."
-   barloqueclerk_no_outlaw_voter = "Criminals have no voting rights.  Begone."
 
-   barloque_clerk_notify_ad = \
-      "~kCaramo tells you, \"~I~bThere is a vote to elect a new Justicar "
-      "currently.~I~k\""
-   barloque_clerk_start_ad = \
-      "I shall let you know when the new voting starts should you remain a "
-      "lawful citizen."
-   barloque_clerk_start_ad_outlaw = \
-      "A new vote will make little difference to thee.  Criminals such as thyself "
-      "are not allowed to vote.  Should thou provest thyself a lawful citizen, I "
-      "shall notify you of new votes."
-   barloque_clerk_no_start_ad = \
-      "You are already being notified when the new voting starts."
-   barloque_clerk_no_start_ad_angel = \
-      "Only experienced veterans may participe in voting. "
-      "Ask again when you are worthy."
-   barloque_clerk_stop_ad = \
-      "You will no longer be notified when new voting starts."
-   barloque_clerk_stop_ad_outlaw = \
-      "Reform seems beyond thy grasp, I see.  I will not bother thee with my "
-      "notifications, then."
-   barloque_clerk_no_stop_ad = \
-      "You are not currently being notified when new voting starts."
+   barloqueclerk_accepting_votes = "Ich nehme jetzt Nominierungen und Stimmen für das Büro des Justiziars an."
 
-   barloque_clerk_advertise = "advertise"
-   barloque_clerk_no_advertise = "no advertise"
+   barloqueclerk_votes_tallied = "Die Stimmen wurden ausgezählt."
+   barloqueclerk_new_justicar = "Gratuliert %q, Eurem neuen Justiziar."
+   barloqueclerk_no_can_vote = "Ich habe keine Aufzeichnungen über eine Person dieses Namens."
+   barloqueclerk_vote_noted = "Deine Stimme für %q wurde notiert."
+   barloqueclerk_vote_switched = "Ich habe Deine Stimme in eine Stimme für %q umgeändert."
+   barloqueclerk_vote_already = "Du hast %q bereits Deine Stimme gegeben."
+
+   barloqueclerk_hands_back = "~bCaramo gibt den Stimmzettel zurück."
+   barloqueclerk_bad_candidate = "%q kommt für das Amt des Justiziars nicht in Frage."
+   barloqueclerk_no_newbie_voter = "Du bist noch nicht berechtigt zu wählen."
+   barloqueclerk_no_outlaw_voter = "Kriminelle haben kein Wahlrecht. Verschwinde."
+
+   barloque_clerk_notify_ad = "~kCaramo teilt Dir mit, \"~I~bEs gibt derzeit eine Wahl um einen neuen Justiziar zu bestimmen.~I~k\""
+
+
+   barloque_clerk_start_ad = "Ich werde es dich wissen lassen, wenn eine neue Wahl beginnt, sofern du ein rechtstreuer Bürger bleibst."
+
+
+   barloque_clerk_start_ad_outlaw = "Die nächste Wahl spielt für euresgleichen keine Rolle.  Kriminelle wie wie Ihr dürft nicht wählen.  Solltet ihr euch als gesetzestreuer Bürger behaupten, so werde ich euch über die nächsten Wahlen informieren."
+
+
+
+   barloque_clerk_no_start_ad = "Du wirst bereits informiert wenn eine neue Wahl beginnt."
+
+   barloque_clerk_no_start_ad_angel = "Nur erfahrene Veteranen dürfen an einer Wahl teilnehmen. Frage wieder an wenn du würdig bist."
+
+
+   barloque_clerk_stop_ad = "Du wirst nicht länger informiert wenn eine neue Wahl beginnt."
+
+   barloque_clerk_stop_ad_outlaw = "Reformen scheinen mir außerhalb deines Horizonts.  Ich werde nicht nicht länger benachrichtigen."
+
+
+   barloque_clerk_no_stop_ad = "Du wirst derzeit nicht informiert wenn eine neue Wahl beginnt."
+
+
+   barloque_clerk_advertise = "informieren"
+   barloque_clerk_no_advertise = "nicht informieren"
 
    % Initiation
 
-   barloque_clerk_mail = \
-      "Subject: Congratulations on thy Election.\n"
-      "From the Desk of Caramo, Clerk of the Office of the Justicar\n"
-      "\n"
-      "This message is to formally notify thee that thou hath been selected "
-      "by the lawful citizens of Meridian to hold the office of the Justicar.\n"
-      "\n"
-      "As the Justicar of Meridian, thou art able to decide cases of justice, "
-      "and thou may make pronouncements of people's guilt or innocence according "
-      "to thy own sense of righteousness. Thou have been elected by thy peers, "
-      "and it is thy duty to uphold their ideals as well as thy own, or thou "
-      "likely will be invited not to retain the office for another term.\n"
-      "\n"
-      "Thou may only pardon eight individuals in a term.  A pardon will change "
-      "the legal status of a murderer to an outlaw, or an outlaw to a free citizen. "
-      "Thus, a full pardon for a murderer takes two separate acts."
-      "\n"
-      "For all official business, thou must use the Office of the Justicar in "
-      "the north end of Barloque. I am at thy disposal to supply thee information "
-      "on the scofflaws and murderers in the land, and I will avail myself to "
-      "keep the paperwork as required by the Royal Government of Meridian.\n"
-      "\n"
-      "When upon your official bench here, merely sayest the name of a citizen, and "
-      "I shall tell you their standing in the Royal Law. Then to grant your pardon, "
-      "mayhaps to Zaphod for example, sayest thou from the bench, "
-      "\"As Justicar, I pardon Zaphod\". And knowest thou that any lawful citizen can "
-      "know your record if they merely ask me for a Justicar Report.\n"
-      "\n"
-      "Again, congratulations, and I look forward to helping thee serve justice.\n"
-      "Ask me for help if thou should have need of it.\n"
-      "\n"
-      "On Jala's Truth,\n"
-      "    Caramo, Office of the Justicar\n"
-      "\n"
-      "(duplicate to the Duke of Blackstone Keep)\n"
-      "(duplicate to the Princess Kateriina of Bourgeois Castle)\n"
-   barloque_clerk_help1 = \
-      "Hail, Justicar %s.  I'm Caramo, thy assistant during thy term."
-   barloque_clerk_help2 = \
-      "Thou may hear as many cases as thou like in this office, but thou art limited "
-      "by Royal law to pardon only %i citizens in the remainder of thy term. "
+   barloque_clerk_mail = "Betreff: Gratulation zu Eurer Wahl.\nVom Tisch von Caramo, der Schreiberin im Büro des Justiziars\n\nIm Rahmen dieser Mitteilung wird Euch offiziell verkündet, dass Ihr von den gesetzestreuen Bürgern Meridians gewählt worden seid, das Amt des Justiziars zu übernehmen.\n\nAls der Justiziar von Meridian könnt Ihr in Rechtsfällen entscheiden und die Schuld oder Unschuld von Leuten nach Eurem eigenen Gerechtigkeitssinn verkünden. Ihr seid von Euresgleichen gewählt worden und es ist Eure Pflicht, sowohl ihre als auch Eure eigenen Ideale zu bewahren, oder es ist unwahrscheinlich, dass Ihr das Amt für eine weitere Amtszeit innehabt.\n\nIhr dürft im Verlaufe einer Amtszeit von 7 Tagen nur acht Personen begnadigen. Eine Begnadigung ändert den rechtlichen Status eines Mörders in den eines Verbrechers und eines Verbrechers in den eines gesetzestreuen Bürgers. So erfordert die völlige Rehabilitierung eines Mörders zwei getrennte Verhandlungen.\nFür offizielle Angelegenheiten müßt Ihr das Büro des Justiziars im Norden von Barloque benutzen. Ich stehe zu Eurer Verfügung, um Euch mit Informationen über Mörder oder diejenigen im Land zu versorgen, die das Gesetz mißachten. Ich selbst werde den Papierkram nach den Vorgaben der Königlichen Regierung von Meridian in Ordnung halten.\n\nWenn Ihr auf der Richterbank sitzt, sagt einfach nur den Namen eines Bürgers und ich werde Euch dessen Stellung nach dem königlichen Gesetz sagen. Um eine Begnadigung auszusprechen, vielleicht bezüglich \"Zaphod\", dann sagt Ihr von der Richterbank aus, \"Als Justiziar begnadige ich Zaphod\". Und seid euch darüber im Klaren, dass ein jeder gesetzestreue Bürger Einsicht in Eure Aufzeichnungen nehmen kann, wenn er mich einfach nach dem \"Bericht des Justiziars\" fragt.\n\nNoch einmal herzlichen Glückwunsch, und ich freue mich darauf, Euch im Rahmen der Rechtsprechung zu helfen.\nBittet mich einfach um Hilfe, wenn Ihr sie brauchen solltet.\n\nAuf Jalas Wahrheit,\n  Caramo, Büro des Justiziars\n\n(Kopie an den Herzog von Burg Schwarzstein)\n(Kopie an Prinzessin Kateriina von Schloß Bourgeois)\n"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   barloque_clerk_help1 = "Seid gesegnet, Justiziar %s. Ich bin Caramo, Euer Assistent während Eurer Amtszeit."
+
+   barloque_clerk_help2 = "Ihr könnt Euch so viele Fälle anhören, wie Ihr wollt in diesem Büro, aber Ihr seid vom königlichen Gesetz darauf beschränkt, nur %i Bürger bis zum Ende Eurer Amtszeit zu begnadigen. "
+
+
 
    % Dealing with the Disorderly
 
-   barloque_clerk_warn = \
-      "I do beseech thee, if thou cannot be orderly, %s, thou should leave the Office."
-   barloque_clerk_warn_outside = \
-      "Your commotion is disrupting the proceedings of the Court of the Justicar, "
-      "%s.  Please desist."
-   barloque_clerk_dismiss = \
-      "Don't return, %s, until thou can conduct thyself properly."
-   barloque_clerk_glare = \
-      "Try to conduct thyself in a civilized manner, %s."
-   barloqueclerk_votes_tied = \
-      "The votes for justicar are tied, and therefore the voting has not been closed."
+   barloque_clerk_warn = "Ich flehe Euch an, wenn Ihr, %s, Eure Arbeit nicht ordnungsgemäß verrichten könnt, dann verlasst dieses Büro."
 
-   barloque_clerk_pardon_1 = "Let it be known that "
-   barloque_clerk_pardon_2 = " has been granted reprieve.  Formerly "
+   barloque_clerk_warn_outside = "Eure Aufregung stört den reibungslosen Fortgang der Dinge am Hof des Justiziars, %s. Bitte nehmt Abstand."
+
+
+   barloque_clerk_dismiss = "Kommt nicht zurück, %s, ehe Ihr Euch nicht wieder ordentlich benehmt."
+
+   barloque_clerk_glare = "Versucht Euch zivilisiert zu benehmen, %s."
+
+   barloqueclerk_votes_tied = "Die Wahl des Justiziars ist stimmengleich ausgegangen und ist deshalb noch nicht zu Ende."
+
+
+   barloque_clerk_pardon_1 = "Lasst es bekannt werden, dass "
+   barloque_clerk_pardon_2 = " eine Gnadenfrist gewährt wurde. Ehemals "
    barloque_clerk_pardon_3 = ", "
-   barloque_clerk_pardon_4 = " now walks among us as "
-   barloque_clerk_pardon_5 = ", by the order of "
-   barloque_clerk_pardon_6 = ", thy Justicar.  So it has been spoken, so shall it be done.\n\n-- Caramo"
+   barloque_clerk_pardon_4 = " weilt diese Person nun als "
+   barloque_clerk_pardon_5 = "unter uns. Im Namen des Justiziars "
+   barloque_clerk_pardon_6 = ". So ward es gesprochen, so soll es geschehen!\n\n-- Caramo"
    % This string must be < 20 chars long to fit in the subject line with a player name
-   barloque_clerk_pardon_7 = " granted reprieve"
+   barloque_clerk_pardon_7 = " wurde eine Galgenfrist gewährt"
 
 classvars:
 
@@ -1405,3 +1405,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

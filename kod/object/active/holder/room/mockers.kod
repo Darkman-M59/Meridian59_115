@@ -18,12 +18,12 @@ constants:
 resources:
    waterfall_soundmockers = wfall2.wav
    room_mockers = mockers.roo
-   room_name_mockers = "Chamber of the Mocker"
+   room_name_mockers = "Kammer der Diebe"
 
-   mockers_music = castle.mid
+   mockers_music = castle.mp3
 
-   mockers_lockdoor = "You lock the door, barring others from entry."
-   mockers_unlockdoor = "You unlock the door."
+   mockers_lockdoor = "Du verschließt die Tür, um andere Spieler am Eintreten zu hindern."
+   mockers_unlockdoor = "Du schließt die Tür auf."
 
 classvars:
 
@@ -117,4 +117,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

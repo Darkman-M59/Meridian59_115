@@ -22,13 +22,13 @@ constants:
 
 resources:
 
-   RiijaCharm_name_rsc = "feathered choker"
+   RiijaCharm_name_rsc = "Der gefederte Kriegsschmuck"
    RiijaCharm_icon_rsc = rjcharm.bgf
-   RiijaCharm_desc_rsc = \
-   "Unorthodox and ornate, this choker is wondrous to look at, but it doesn't "
-   "look like much fun to wear."
+   RiijaCharm_desc_rsc = "Dieser ungewöhnliche Kriegsschmuck ist hübsch anzusehen, wahrscheinlich jedoch nicht sehr angenehm zu tragen."
 
-   RiijaCharm_whisper = "A voice whispers, \"~I...the key to making mischief is being smart enough to avoid the consequences...\""
+
+
+   RiijaCharm_whisper = "Eine Stimme flüstert, \"~I...der Schlüssel zum Unheilstiften ist, schlau genug zu sein, um den Folgen auszuweichen...\""
 
 classvars:
 
@@ -101,6 +101,7 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 

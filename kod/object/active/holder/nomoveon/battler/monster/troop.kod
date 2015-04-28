@@ -34,10 +34,10 @@ constants:
 
 resources:
 
-   FactionTroop_name_rsc = "faction troop"
+   FactionTroop_name_rsc = "Der Fraktionssoldat"
 
    FactionTroop_male_icon_rsc = bta.bgf
-   FactionTroop_female_icon_rsc = btb.bgf  
+   FactionTroop_female_icon_rsc = btb.bgf
 
    % a is male, b is female
    FactionTroop_legs_a_rsc = bfa.bgf
@@ -49,86 +49,86 @@ resources:
    FactionTroop_leftarm_a_rsc = bla.bgf
    FactionTroop_leftarm_b_rsc = blb.bgf
 
-   FactionTroop_desc_rsc = \
-   "This is a member of the local militia."
+   FactionTroop_desc_rsc = "Dies ist ein Mitglied der örtlichen Miliz."
+
 
    FactionTroop_dead_male_icona_rsc = playerXa.bgf
    FactionTroop_dead_male_iconb_rsc = playerXb.bgf
    FactionTroop_dead_female_icona_rsc = heraXa.bgf
    FactionTroop_dead_female_iconb_rsc = heraXb.bgf
-   FactionTroop_dead_name_rsc = "dead faction troop"
+   FactionTroop_dead_name_rsc = "Toter Fraktionssoldat"
 
-   FactionTroop_head_male_icon = phax.bgf  %male    
-   FactionTroop_head_female_icon = phkx.bgf  %female 
+   FactionTroop_head_male_icon = phax.bgf
+   FactionTroop_head_female_icon = phkx.bgf
 
-   FactionTroop_eyes_ax_icon = peax.bgf  %male
-   FactionTroop_eyes_bx_icon = pebx.bgf  %male
-   FactionTroop_eyes_cx_icon = pecx.bgf  %male
-   FactionTroop_eyes_dx_icon = pedx.bgf  %male
+   FactionTroop_eyes_ax_icon = peax.bgf
+   FactionTroop_eyes_bx_icon = pebx.bgf
+   FactionTroop_eyes_cx_icon = pecx.bgf
+   FactionTroop_eyes_dx_icon = pedx.bgf
 
-   FactionTroop_eyes_kx_icon = pekx.bgf  %female 
-   FactionTroop_eyes_lx_icon = pelx.bgf  %female 
-   FactionTroop_eyes_mx_icon = pemx.bgf  %female 
+   FactionTroop_eyes_kx_icon = pekx.bgf
+   FactionTroop_eyes_lx_icon = pelx.bgf
+   FactionTroop_eyes_mx_icon = pemx.bgf
 
-   FactionTroop_mouth_ax_icon = pmax.bgf  %male
-   FactionTroop_mouth_bx_icon = pmbx.bgf  %male
-   FactionTroop_mouth_cx_icon = pmcx.bgf  %male
+   FactionTroop_mouth_ax_icon = pmax.bgf
+   FactionTroop_mouth_bx_icon = pmbx.bgf
+   FactionTroop_mouth_cx_icon = pmcx.bgf
 
-   FactionTroop_mouth_kx_icon = pmkx.bgf  %female 
-   FactionTroop_mouth_lx_icon = pmlx.bgf  %female 
-   FactionTroop_mouth_mx_icon = pmmx.bgf  %female 
+   FactionTroop_mouth_kx_icon = pmkx.bgf
+   FactionTroop_mouth_lx_icon = pmlx.bgf
+   FactionTroop_mouth_mx_icon = pmmx.bgf
 
-   FactionTroop_nose_ax_icon = pnax.bgf  %male
-   FactionTroop_nose_bx_icon = pnbx.bgf  %male
-   FactionTroop_nose_cx_icon = pncx.bgf  %male
+   FactionTroop_nose_ax_icon = pnax.bgf
+   FactionTroop_nose_bx_icon = pnbx.bgf
+   FactionTroop_nose_cx_icon = pncx.bgf
 
-   FactionTroop_nose_kx_icon = pnkx.bgf  %female 
-   FactionTroop_nose_lx_icon = pnlx.bgf  %female 
-   FactionTroop_nose_mx_icon = pnmx.bgf  %female 
+   FactionTroop_nose_kx_icon = pnkx.bgf
+   FactionTroop_nose_lx_icon = pnlx.bgf
+   FactionTroop_nose_mx_icon = pnmx.bgf
 
-   FactionTroop_hair_cd_icon = ptcd.bgf  %both
-   FactionTroop_hair_bald_icon = blank.bgf %both
+   FactionTroop_hair_cd_icon = ptcd.bgf
+   FactionTroop_hair_bald_icon = blank.bgf
 
-   FactionTroop_hair_ac_icon = ptac.bgf  %male 
-   FactionTroop_hair_ba_icon = ptba.bgf  %male  
-   FactionTroop_hair_ad_icon = ptad.bgf  %male  
-   FactionTroop_hair_bb_icon = ptbb.bgf  %male  
-   FactionTroop_hair_xa_icon = ptxa.bgf  %male  
+   FactionTroop_hair_ac_icon = ptac.bgf
+   FactionTroop_hair_ba_icon = ptba.bgf
+   FactionTroop_hair_ad_icon = ptad.bgf
+   FactionTroop_hair_bb_icon = ptbb.bgf
+   FactionTroop_hair_xa_icon = ptxa.bgf
 
-   FactionTroop_hair_bc_icon = ptbc.bgf  %female
-   FactionTroop_hair_ca_icon = ptca.bgf  %female   
-   FactionTroop_hair_db_icon = ptdb.bgf  %female   
-   FactionTroop_hair_bd_icon = ptbd.bgf  %female   
-   FactionTroop_hair_cb_icon = ptcb.bgf  %female   
-   FactionTroop_hair_dc_icon = ptdc.bgf  %female   
-   FactionTroop_hair_dr_icon = ptdr.bgf  %female   
-   FactionTroop_hair_xb_icon = ptxb.bgf  %female   
+   FactionTroop_hair_bc_icon = ptbc.bgf
+   FactionTroop_hair_ca_icon = ptca.bgf
+   FactionTroop_hair_db_icon = ptdb.bgf
+   FactionTroop_hair_bd_icon = ptbd.bgf
+   FactionTroop_hair_cb_icon = ptcb.bgf
+   FactionTroop_hair_dc_icon = ptdc.bgf
+   FactionTroop_hair_dr_icon = ptdr.bgf
+   FactionTroop_hair_xb_icon = ptxb.bgf
 
-   FactionTroop_sound_swish1 = swswish1.wav             %no ouch
-   FactionTroop_sound_swish2 = swswish2.wav             %no ouch
-   FactionTroop_sound_swish3 = swswish3.wav             %no ouch
+   FactionTroop_sound_swish1 = swswish1.wav
+   FactionTroop_sound_swish2 = swswish2.wav
+   FactionTroop_sound_swish3 = swswish3.wav
 
-   FactionTroop_sound_sword1 = sword1.wav             %no ouch
-   FactionTroop_sound_sword2 = sword2.wav             %no ouch
-   FactionTroop_sound_sword3 = sword3.wav             %no ouch
+   FactionTroop_sound_sword1 = sword1.wav
+   FactionTroop_sound_sword2 = sword2.wav
+   FactionTroop_sound_sword3 = sword3.wav
 
-   FactionTroop_sound_metal1 = swrdmtl1.wav             %no ouch
-   FactionTroop_sound_metal2 = swrdmtl2.wav             %no ouch
-   FactionTroop_sound_metal3 = swrdmtl3.wav             %no ouch
+   FactionTroop_sound_metal1 = swrdmtl1.wav
+   FactionTroop_sound_metal2 = swrdmtl2.wav
+   FactionTroop_sound_metal3 = swrdmtl3.wav
 
-   FactionTroop_sound_hit_monster_flesh1 = fhit1b.wav             %no ouch
-   FactionTroop_sound_hit_monster_flesh2 = fhit2b.wav             %no ouch
-   FactionTroop_sound_hit_monster_flesh3 = fhit3b.wav             %no ouch
+   FactionTroop_sound_hit_monster_flesh1 = fhit1b.wav
+   FactionTroop_sound_hit_monster_flesh2 = fhit2b.wav
+   FactionTroop_sound_hit_monster_flesh3 = fhit3b.wav
 
-   FactionTroop_sound_hit_monster_leather1 = lhit1b.wav             %no ouch
-   FactionTroop_sound_hit_monster_leather2 = lhit2b.wav             %no ouch
-   FactionTroop_sound_hit_monster_leather3 = lhit3b.wav             %no ouch
+   FactionTroop_sound_hit_monster_leather1 = lhit1b.wav
+   FactionTroop_sound_hit_monster_leather2 = lhit2b.wav
+   FactionTroop_sound_hit_monster_leather3 = lhit3b.wav
 
-   FactionTroop_sound_hit_monster_metal1 = mhit1b.wav             %no ouch
-   FactionTroop_sound_hit_monster_metal2 = mhit2b.wav             %no ouch
-   FactionTroop_sound_hit_monster_metal3 = mhit3b.wav             %no ouch
+   FactionTroop_sound_hit_monster_metal1 = mhit1b.wav
+   FactionTroop_sound_hit_monster_metal2 = mhit2b.wav
+   FactionTroop_sound_hit_monster_metal3 = mhit3b.wav
 
-   FactionTroop_male_sound_ouch1 = ouchm1.wav     % in increasing order of agony
+   FactionTroop_male_sound_ouch1 = ouchm1.wav
    FactionTroop_male_sound_ouch2 = ouchm2.wav
    FactionTroop_male_sound_ouch3 = ouchm3.wav
    FactionTroop_male_sound_ouch4 = ouchm4.wav
@@ -1176,3 +1176,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

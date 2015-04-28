@@ -357,7 +357,7 @@ BEGIN
     42                      "Du ruhst Dich gar nicht aus."
     43                      "Du kannst keine Zauber sprechen, solange Du rastest."
     44                      "Du kannst Deine Arme nicht bewegen um den Zauber zu sprechen!"
-    45                      "Gebe ""suicide"" ein, um einen neuen Charakter zu erschaffen."
+    45                      "Gebe ""harakiri"" ein, um einen neuen Charakter zu erschaffen."
     46                      "Du mußt einen Gildennamen festlegen."
     47                      "Meridian 59 --- %s"
 END
@@ -412,7 +412,7 @@ BEGIN
     85                      "Schule von Faren"
     86                      "Gottliche Zauber"
     87                      "Inventar"
-    88                      "Was bitte? Benutz die Hilfe ""help""."
+    88                      "Was bitte? Benutz die Hilfe ""Hilfe""."
     89                      "&Wer spielt"
     90                      "Eine ungültige Anweisung wurde für den Kurzbefehl festgelegt."
     91                      "Diesen Befehl gibt es häufiger."

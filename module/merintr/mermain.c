@@ -15,10 +15,10 @@
 // Buttons to add to toolbar by default
 // If you change this table, you MUST check the indices defined in mermain.h
 AddButton default_buttons[] = {
-{ A_TEXTCOMMAND, "help", A_NOACTION,     NULL,   NULL, IDB_HELP,   IDS_TBHELP, },
-{ A_TEXTCOMMAND, "drop", A_NOACTION,     NULL,   NULL, IDB_DROP,   IDS_TBDROP, },
-{ A_TEXTCOMMAND, "get",  A_NOACTION,     NULL,   NULL, IDB_GET,    IDS_TBGET, },
-{ A_TEXTCOMMAND, "rest", A_TEXTCOMMAND, "stand", NULL, IDB_REST,   IDS_TBREST, },
+{ A_TEXTCOMMAND, "hilfe", A_NOACTION,     NULL,   NULL, IDB_HELP,   IDS_TBHELP, },
+{ A_TEXTCOMMAND, "wegwerfen", A_NOACTION,     NULL,   NULL, IDB_DROP,   IDS_TBDROP, },
+{ A_TEXTCOMMAND, "nehmen",  A_NOACTION,     NULL,   NULL, IDB_GET,    IDS_TBGET, },
+{ A_TEXTCOMMAND, "rasten", A_TEXTCOMMAND, "aufstehen", NULL, IDB_REST,   IDS_TBREST, },
 { 0,             NULL,   0,              NULL,   NULL, 0,          0, },           // Separator
 };
 

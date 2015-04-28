@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   dement_name_rsc = "dement"
+   dement_name_rsc = "Verblöden"
    dement_icon_rsc = idement.bgf
-   dement_desc_rsc = \
-      "Sends the mind of the target reeling with dark, bewildering "
-      "thoughts, making spell casting more difficult for several minutes.  "
-      "Requires solagh and uncut seraphym to cast."
+   dement_desc_rsc = "Verwirrt die Gedanken der Zielperson, so dass Zaubern für mehrere Minuten erschwert wird. Der Zauber benötigt ungeschliffene Seraphyme und Phiolen mit Solagh."
+
+
+
 
    dement_sound = rdement.wav
-   dement_cast_rsc = "You sense an unsavory presence."
-   dement_already_enchanted = "That poor soul is already demented."
+   dement_cast_rsc = "Du fühlst eine unappetitliche Präsenz."
+   dement_already_enchanted = "Diese arme Seele ist bereits mit dem Blödheitszauber belegt."
 
 
 classvars:
@@ -147,5 +147,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

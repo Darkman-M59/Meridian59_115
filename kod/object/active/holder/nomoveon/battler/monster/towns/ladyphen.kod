@@ -37,37 +37,37 @@ constants:
 resources:
  
    ladypheonix_name_rsc = "LadyPhoenix"
-   ladypheonix_desc_rsc = "A strange feeling comes over you as you "
-                          "perceive that there is a force deep inside this statue.  "
-                          "A soft, singing voice fills your senses. Her "
-                          "eyes seem to follow you, taking careful notice of your "
-                          "actions.   A feeling of well being and protection washes "
-                          "over you, and you know that you can trust in her guidance."
+   ladypheonix_desc_rsc = "Ein seltsames Gefühl überkommt Dich, als Du erkennst, dass da eine Macht ist, tief in dieser Statue. Eine sanfte, singende Stimme erfüllt Deine Sinne. Ihre Augen scheinen Dir zu folgen, sorgsam Notiz nehmend von Deinen Taten. Ein Gefühl von Wohlsein und Sicherheit überkommt Dich und Du weißt, dass Du Dich ihrer Führung anvertrauen kannst. "
 
-   ladypheonix_Directions_rsc = "`kLadyPhoenix whispers,\"Now take %q"
-   ladypheonix_not_in_range = "`kLadyPhoenix whispers something, but you are too far "
-                              "away to hear it."
 
-   ladypheonix_whispers = "~kLadyPhoenix whispers,\"The "
-   ladypheonix_row_6 = "northernmost cloud "
-   ladypheonix_row_7 = "second cloud from the north "
-   ladypheonix_row_8 = "third cloud from the north "
-   ladypheonix_row_9 = "center cloud "
-   ladypheonix_row_10 = "third cloud from the south "
-   ladypheonix_row_11 = "second cloud from the south "
-   ladypheonix_row_12 = "southernmost cloud "
-   ladyphoenix_no_further = "will not harm you, but go no further without my guidance.\""
-   ladypheonix_step = "step "
-   ladypheonix_steps = "steps "
-   ladypheonix_south = "south "
-   ladypheonix_north = "north "
-   ladypheonix_step_forward = "then take a step forward.\""
-   ladypheonix_protect_command = "protect"
-   ladypheonix_wlll_protect = "~kLadyPhoenix whispers,\"I will protect you.\""
-   ladypheonix_already_protecting = "~kLadyPhoenix whispers,\"I am already protecting another.\""
+
+
+
+
+   ladypheonix_Directions_rsc = "~kLadyPhoenix flüstert,\"Mache nun %q"
+   ladypheonix_not_in_range = "~kLadyPhoenix flüstert etwas, aber Du bist zu weit weg, um es zu hören."
+
+
+   ladypheonix_whispers = "~kLadyPhoenix flüstert, \"Die "
+   ladypheonix_row_6 = "nördlichste Wolke "
+   ladypheonix_row_7 = "zweite Wolke von Norden "
+   ladypheonix_row_8 = "dritte Wolke von Norden "
+   ladypheonix_row_9 = "mittlere Wolke "
+   ladypheonix_row_10 = "dritte Wolke von Süden "
+   ladypheonix_row_11 = "zweite Wolke von Süden "
+   ladypheonix_row_12 = "südlichste Wolke "
+   ladyphoenix_no_further = "wird dir nichts tun, aber gehe nicht ohne meine Führung weiter!\""
+   ladypheonix_step = "Schritt "
+   ladypheonix_steps = "Schritte "
+   ladypheonix_south = "nach Süden "
+   ladypheonix_north = "nach Norden "
+   ladypheonix_step_forward = "dann mache einen Schritt nach vorne.\""
+   ladypheonix_protect_command = "schütze"
+   ladypheonix_wlll_protect = "~kLadyPhoenix flüstert, \"Ich werde dich schützen.\""
+   ladypheonix_already_protecting = "~kLadyPhoenix flüstert, \"Ich schütze gerade jemand anders.\""
 
    ladyphoenix_leatherarmor_female_icon_rsc = bth.bgf
-   ladyphoenix_barearm_rightarm_gauntlet_female =brj.bgf
+   ladyphoenix_barearm_rightarm_gauntlet_female = brj.bgf
    ladyphoenix_barearm_leftarm_gauntlet_female = blj.bgf
    ladyphoenix_pantsA_female_player_rsc = bfb.bgf
 
@@ -508,3 +508,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

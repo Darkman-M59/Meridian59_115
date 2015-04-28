@@ -16,7 +16,7 @@ constants:
 
 resources:
 
-   DMSpell_desc_rsc = "%s\n\nThis is a DM only command."
+   DMSpell_desc_rsc = "%s\n\nDieser Zauber kann nur von Göttern und Barden ausgeführt werden."
 
 classvars:
 
@@ -85,3 +85,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

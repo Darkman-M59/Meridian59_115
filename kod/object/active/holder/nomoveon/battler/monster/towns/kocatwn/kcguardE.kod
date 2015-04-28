@@ -20,19 +20,19 @@ resources:
    KocatanCaptainEvil_name_rsc = "Xacal ko'Ixca"
    KocatanCaptainEvil_icon_rsc = kcguardE.bgf
 
-   KocatanCaptainEvil_desc_rsc = "As the one of the highest ranking officers in the "
-      "Ko'catan Army, Xacal ko'Ixca is a veteran of many campaigns. His peacetime "
-      "duties include supervising the main gatehouse during the night hours against "
-      "actions by enemies unknown, and since this is a time of relative peace part of "
-      "Xacal ko'Ixca's duties consist of defining just who those enemies are. He is "
-      "widely respected for his toughness and ability to get results."
+   KocatanCaptainEvil_desc_rsc = "Als einer der höchstrangigen Offiziere Ko'catan Armee, Xacal ko'lxca hat sich in vielen Kampagnen bewährt. In Friedenszeiten es zu seinen Aufgaben, das Haupttorhaus während der Nachtstunden vor unbekannten Feinden zu schützen. Und da es zur Zeit recht friedlich ist, Xacal ko'lxas Pflicht ist, zu definieren, wer diese Feinde sind. Er ist allgemein wegen seiner Härte und Durchsetzungskraft respektiert."
 
-   evilguard_Pass = "You're on your own."
-   evilguard_winknudge = "You know, funny how this money fell out of your purse into my hands."
-   evilguard_winknudge_action = "~kXacal winks and gives you a nudge."
+
+
+
+
+
+   evilguard_Pass = "Du bist ganz allein. "
+   evilguard_winknudge = "Weißt du, es ist schon komisch, wie dieses Geld aus Deiner Börse in meine Hände fällt."
+   evilguard_winknudge_action = "~kXacal winkt und gibt Dir einen Stups."
    
-   evilguard_no_money = "When you approach the gate you need to be ready to deal. You're broke, and you're wasting my time."
-   evilguard_not_enough_money = "Not enough."
+   evilguard_no_money = "Wenn Du Dich dem Tor näherst, musst Du bereit sein zu handeln. Du bist pleite und stiehlst mir meine Zeit. "
+   evilguard_not_enough_money = "Nicht genug."
 
 classvars:
 
@@ -130,3 +130,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

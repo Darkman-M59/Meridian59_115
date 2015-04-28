@@ -18,16 +18,16 @@ resources:
 
    Jasper_Bartender_name_rsc = "Pietro"
    Jasper_Bartender_icon_rsc = jsbart.bgf
-   Jasper_Bartender_desc_rsc = \
-      "A peevish and sullen man tends this bar.  This is Pietro, the impetuous sot." 
+   Jasper_Bartender_desc_rsc = "Ein übellauniger und mürrischer Mensch bedient an der Bar. Das ist Pietro, der hitzige Säufer."
 
-   JsBar_entry_welcome = "Close the door, would you!"
 
-   JasperBartender_unwanted_keep = "~k%s%s tosses the item into the garbage and sneers, \"Get lost.~n~k\""
-   JasperBartender_unwanted_pay = "~k%s%s tells you, \"I'll give you a couple schillings for that, "
-         "my mother's birthday is coming up.~n~k\""
-   JasperBartender_unwanted_give = "~k%s%s tells you, \"What do I look like, a freggin' junk buyer?  "
-         "There's no soliciting here so get out of my bar with your flim-flam, stranger.~n~k\""
+   JsBar_entry_welcome = "Würdest Du bitte die Tür schließen!"
+
+   JasperBartender_unwanted_keep = "~k%s%s wirft den Gegenstand in den Müll und grinst höhnisch, \"Verschwinde.~n~k\""
+   JasperBartender_unwanted_pay = "~k%s%s teilt Dir mit, \"Ich gebe Dir ein paar Schillinge dafür, weil meine Mutter bald Geburtstag hat.~n~k\""
+
+   JasperBartender_unwanted_give = "~k%s%s teilt Dir mit, \"Was schaust wie ein Trödelkäufer? Es gibt hier nichts zu betteln, also sieh zu, dass Du meine Bar verläßt, Fremder.~n~k\""
+
 
 classvars:
 
@@ -113,3 +113,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

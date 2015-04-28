@@ -15,14 +15,14 @@ constants:
 
 resources:
 
-   Squelch_name_rsc = "squelch"
+   Squelch_name_rsc = "Knebeln"
    Squelch_icon_rsc = isilence.bgf
-   Squelch_desc_rsc = "Takes away (or gives back) the ability for a player to broadcast."
+   Squelch_desc_rsc = "Nimmt einem Spieler die Fähigkeit, Massentelepathie zu betreiben oder gibt ihm diese zurück."
 
-   Squelch_msg_DM_on = "You squelch %s%s."
-   Squelch_msg_DM_off = "You unsquelch %s%s."
-   Squelch_msg_target_on = "Your ability to broadcast has been taken away."
-   Squelch_msg_target_off = "Your ability to broadcast has been restored."
+   Squelch_msg_DM_on = "Du knebelst %s%s."
+   Squelch_msg_DM_off = "Du löst den Knebel von %s%s."
+   Squelch_msg_target_on = "Deine Fähigkeit zur Massentelepathie wurde dir genommen."
+   Squelch_msg_target_off = "Deine Fähigkeit zur Massentelepathie wurde wiederhergestellt."
 
 classvars:
 
@@ -81,3 +81,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

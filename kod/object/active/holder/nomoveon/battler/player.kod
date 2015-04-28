@@ -120,241 +120,241 @@ constants:
 
 resources:
 
-   player_cant_broadcast = \
-      "You can't broadcast a message--you don't have enough mana."
-   player_squelched = "You are prevented from broadcasting messages for now."
-   player_cant_send = \
-      "You can't send this message--you don't have enough mana."
-   player_silent_room = "Your telepathic abilities will not work here."
+   player_cant_broadcast = "Du kannst keine Mitteilung an alle versenden, da Du nicht genügend Mana hast."
 
-   player_use_broken = "You can't use %s%s--it's broken."
-   player_cant_use = "You can't use that."
-   player_using_already = "You are already using that."
-   player_use_full = "You are using too many things like that already."
-   player_use_full_hands = "Your hands are too full to use that."
-   player_not_using = "You are not using that."
-   player_not_holding = "You are not even holding %s%s."
+   player_squelched = "Du wirst zur Zeit daran gehindert, Massentelepathie zu betreiben."
+   player_cant_send = "Du kannst diese Mitteilung nicht versenden, da Du nicht genug Mana hast."
+
+   player_silent_room = "Deine telepathischen Fähigkeiten funktionieren hier nicht."
+
+   player_use_broken = "%s%s kann nicht mehr benutzt werden. Du hast den Gegenstand ruiniert."
+   player_cant_use = "Du kannst diesen Gegenstand nicht benutzen."
+   player_using_already = "Du benutzt diesen Gegenstand schon."
+   player_use_full = "Du benutzt schon zu viele Gegenstände dieser Sorte."
+   player_use_full_hands = "Deine Hände sind schon voll, deshalb kannst Du das nicht benutzen."
+   player_not_using = "Das benutzt Du momentan nicht."
+   player_not_holding = "%s%s?! So etwas besitzt Du gar nicht!"
    
    player_hit_color_red = "~r"
    player_hit_color_blue = "~b"
    player_hit_color_none = ""
 
-   player_token_reward = \
-      "Let me give you %s%s as payment for returning the token."
-   player_token_reward_heavy = \
-      "Feel free to take the %s%s by your feet as payment for returning the "
-      "token."
-   player_improve_maxhealth = "~I~BYou suddenly feel a little tougher."
-   player_improve_health_invigorate = "~I~BYou are invigorated by your success."
-   player_spits = "You spit on the corpse of your unworthy foe."
-   player_regain_angel = \
-      "Due to your weakness, your protective guardian angel returns."
-   player_no_angel = "You suddenly feel more vulnerable."
+   player_token_reward = "Darauf habe ich gewartet! Hier Deine Belohnung: %s%s!"
 
-   player_join_faction = \
-      "~IYour name is entered on the roll of membership for %s%s's political "
-      "faction."
-   player_lost_token = \
-      "The token refuses to enter the guild hall and writhes in your hands.  "
-      "You cannot hold it."
-   player_intrigue_shut = "~IThe Royal Court no longer needs your services."
-   player_lost_intriguing = \
-      "~IYou doubt you are still worthy of notice by the Royal Court."
-   player_faction_time = \
-      "~IYour liege is no longer convinced of your loyalty. You should visit "
-      "your liege at court again."
-   player_faction_attacked = \
-      "~BYou have attacked a member of your own faction!"
-   player_non_intriguing_attacked = \
-      "~BYou have displeased your liege by attacking a potential future ally!"
-   player_unfactioned = \
-      "~IYour liege has no use for one such as you, lacking in prowess or "
-      "devotion.  Your name has been stricken from the roll of membership.~n"
+   player_token_reward_heavy = "Danke für das Artefakt. %s%s halte ich für eine angemessene Belohnung - schau einfach zu Deinen Füßen."
 
-   player_cancel_rescue = \
-      "~IYour aggression halts your attempt to escape from the current situation."
 
-   player_improved = "~I~BYou have improved in the art of %s."
+   player_improve_maxhealth = "~BPlötzlich fühlst Du Dich ein bißchen stärker!~n~k"
+   player_improve_health_invigorate = "~I~BDu fühlst dich durch deinen Erfolg gestärkt."
+   player_spits = "Verächtlich spuckst Du auf Deinen besiegten Gegner."
+   player_regain_angel = "Wegen Deiner neuerlichen Schwäche kehrt Dein Schutzengel zu Dir zurück."
+
+   player_no_angel = "Plötzlich fühlst Du Dich viel verwundbarer!"
+
+   player_join_faction = "~IDu zählst von nun an zur Anhängerschaft von %s%s!"
+
+
+   player_lost_token = "Das Artefakt läßt sich nicht mit in die Gildenhalle oder dein gemietetes Zimmer tragen. Es entwindet sich Deinen Händen."
+
+
+   player_intrigue_shut = "~IDer königliche Hof benötigt Deine Dienste nicht mehr."
+   player_lost_intriguing = "~IDu bezweifelst, dass Du immer noch würdig bist, vom königlichen Hof auch nur wahrgenommen zu werden."
+
+   player_faction_time = "~IDu solltest deinen Lehnsherren  wieder aufsuchen, denn man ist sich deiner Loyalität nicht mehr sicher."
+
+
+   player_faction_attacked = "~BDu hast ein Mitglied Deiner Fraktion angegriffen. Dieser Angriff könnte deinen Lehnsherrn erzürnen!"
+
+   player_non_intriguing_attacked = "~BEin Angriff auf einen potentiellen Verbündeten könnte deinen Lehnsherrn erzürnen!"
+
+   player_unfactioned = "~IDer königliche Hof will mit Dir nichts mehr zu schaffen haben, da Deine Loyalität nicht stark genug war.~n"
+
+
+
+   player_cancel_rescue = "~IDeine Agression verhindert deinen Versuch, vor dieser Situation zu flüchten."
+
+
+   player_improved = "~IDu hast Dich verbessert! In Zukunft wirst Du %s erfolgreicher einsetzen können.~n"
    player_improved_wav_rsc = imp.wav
-   player_aggressor = "Shal'ille frowns upon your unprovoked attack."
-   player_safety_caught = \
-      "Hey!  You almost hit %s%s!  Good thing your safety was on!"
+   player_aggressor = "Sha-Lill ist Durch Deinen ungerechtfertigten Angriff erzürnt."
+   player_safety_caught = "Hey! Du hast fast %s%s getroffen! Gut, dass Deine Schutzvorrichtung an war!"
 
-   player_safe_server = \
-      "You are not allowed to attack other players in this world."
-   player_no_enter = \
-      "Your guardian angel holds you back and prevents you from entering here."
-   player_assgame_soon = \
-      "~kRoq tells you, \"~IA new Assassin's Circle shall be initiated "
-      "shortly.\""
+
+   player_safe_server = "In dieser Welt können keine anderen Spieler angegriffen werden."
+
+   player_no_enter = "Dein Schutzengel hält Dich zurück und verbietet Dir, diese Umgebung zu betreten."
+
+   player_assgame_soon = "~kRoq teilt Dir mit, \"~IDas Spiel der Meuchelmörder wird bald beginnen.\""
+
+
 
    player_tougher_wav_rsc = tougher.wav
    player_missed_something_wave_rsc = swordmis.wav
-   player_killed_something = "You killed %s%s."
-   player_killed_player = \
-      "You have killed another player and have been branded a murderer."
-   player_wanted_now = "You are now wanted for the murder of %s%s."
-   player_haunted_on = "%s%s's violent death summons forth a revenant."
-   player_haunted_off = "The revenant is satisfied."
+   player_killed_something = "%s%s wurde von Dir getötet!"
+   player_killed_player = "Weil Du einen anderen Spieler getötet hast, wirst Du bestraft."
 
-   player_health_gain_maxed = "Your health cannot increase any further."
-   
-   player_cant_hit_newbie = \
-      "You are not yet experienced enough to fight other players."
-   player_guardian_angel = \
-      "A guardian angel whispers to you, \"You may not attack %s%s.\""
-   player_kill_zone = \
-      "Your guardian angel whispers to you, \"I cannot protect you here.\""
-   player_angel_rejoins = "Your guardian angel rejoins you."
-   player_lose_node = "You lose your connection to the mana node in %s."
+   player_wanted_now = "Du wirst nun für die Ermordung von %s%s zum Gesetzlosen erklärt."
+   player_haunted_on = "%s%ss gewaltsamer Tod ruft einen Racheengel hervor."
+   player_haunted_off = "Der Racheengel ist zufrieden."
 
-   player_hit_immunity =  "%s%s%s laughs off your pitiful blow."
-   player_hit_resisted = "%s%s%s shrugs off your attack."
-   player_hit_anti_resisted = "%s%s%s staggers backwards from the blow."
-   player_hit_anti_immunity = \
-      "%s%s%s convulses and seems to be suffering badly."
+   player_health_gain_maxed = "Deine Lebensenergie kann sich nicht weiter erhöhen."
    
-   player_immune_to_hit = "%sMysteriously, you feel almost no pain!"
-   player_resists_hit = "%sMuch of the pain fades away."
-   player_anti_resists_hit = \
-      "%sThe pain seems to resonate and grow inside you."
-   player_anti_immune_to_hit = \
-      "%sYour body is wracked with pain of incredible magnitude."
-   
-   player_was_missed = "%s%s%s misses you."
-   player_was_hit = "%s%s%s hits you."
-   player_was_slashed = "%s%s%s slashes your side, leaving a nasty cut."
-   player_was_bludgeoned = "%s%s%s bludgeons you, causing a large bruise."
-   player_was_pierced = "%s%s%s slyly pierces you while you were distracted."
-   player_was_thrusted = "%s%s%s skewers you with a deft thrust.  Sluish!"
-   player_was_burned = "%s%s%s's fire flares brightly, leaving you charred."
-   player_was_shocked = "%s%s%s grins as a jolt of electricity hits you."
-   player_was_frozen = "%s%s%s stings you with a jolt of cold."
-   player_was_quaked = "%s%s%s's tremors shake you about."
-   player_was_holyhit = "%s%s%s hits you with a jolt of purity."
-   player_was_unholyhit = \
-      "%s%s%s hits you, and you feel your soul has been invaded."
-   player_was_stung = "%s%s%s dances away after having stung you badly."
-   player_was_bitten = "%s%s%s bites you several times, leaving you bloody."
-   player_was_clawed = "%s%s%s rends your flesh with razor sharp claws."
-   player_was_punched = "%s%s%s hits you with a solid punch."
-   player_was_kicked = "%s%s%s slams a foot into your gut."
-   
-   player_out_of_room = "%s%s is not here."
-   player_not_supported = "Not supported yet"
-   
-   player_attack_out_of_range = "%s%s is too far away to hit with %s%s."
-   player_attack_out_of_punch_range = "You can't reach %s%s with your %s."
-   player_attack_out_of_spell_range = "%s%s is out of range."
-   player_attack_not_in_view = "You can't see your selected target."
+   player_cant_hit_newbie = "Du hast nicht genügend Erfahrung, um gegen andere Spieler zu kämpfen."
 
-   player_no_target_self = "You cannot attack yourself."
-   player_no_target_self_spell = "You cannot cast this spell on yourself."
+   player_guardian_angel = "Ein Schutzengel flüstert Dir zu, \"Du solltest %s%s nicht angreifen.\""
 
-   player_cant_apply = "You can't use %s%s on other things."
+   player_kill_zone = "Dein Schutzengel flüstert Dir zu, \"Ich kann dich hier nicht beschützen.\""
+
+   player_angel_rejoins = "Dein Schutzengel kehrt zu Dir zurück."
+   player_lose_node = "Du verlierst Deine Verbindung zur Mananode in %s!"
+
+   player_hit_immunity = "%s%s%s lacht über Deinen schwachen Treffer."
+   player_hit_resisted = "%s%s%s grinst und nimmt den Treffer gelassen hin."
+   player_hit_anti_resisted = "%s%s%s wird von Deinem Treffer zurückgeworfen."
+   player_hit_anti_immunity = "%s%s%s zuckt und scheint schrecklich zu leiden."
+
+   
+   player_immune_to_hit = "%sSeltsamerweise empfindest Du fast keinen Schmerz."
+   player_resists_hit = "%sEin großer Teil des Schmerzes schwindet."
+   player_anti_resists_hit = "%sDer Schmerz verschlimmert sich ins Unerträgliche."
+
+   player_anti_immune_to_hit = "%sDein Körper erzittert vor Qualen."
+
+   
+   player_was_missed = "%s%s%s verfehlt Dich."
+   player_was_hit = "%s%s%s trifft Dich."
+   player_was_slashed = "%s%s%s bringt Dir eine tiefe Wunde bei."
+   player_was_bludgeoned = "%s%s%ss Schlag hinterläßt einen großen Bluterguß."
+   player_was_pierced = "%s%s%s trifft Dich, während Du abgelenkt bist."
+   player_was_thrusted = "%s%s%s durchbohrt Dich mit einem kräftigen Stoß."
+   player_was_burned = "%s%s%ss Flammen lodern hoch und verbrennen Dich."
+   player_was_shocked = "%s%s%s grinst gehässig, als Dich sein Blitz trifft."
+   player_was_frozen = "%s%s%ss klirrende Kälte verletzt Dich."
+   player_was_quaked = "%s%s%ss Erdbeben wirft Dich herum."
+   player_was_holyhit = "%s%s%s reinigt Dich mit Sha-Lills Kraft."
+   player_was_unholyhit = "%s%s%s trifft Dich und Finsternis greift nach Deiner Seele."
+
+   player_was_stung = "%s%s%s tänzelt zurück, nachdem er Dich schwer verletzt hat."
+   player_was_bitten = "%s%s%s beißt Dich mehrmals und hinterläßt blutige Wunden."
+   player_was_clawed = "%s%s%s reißt Dein Fleisch mit seinen scharfen Krallen in Stücke."
+   player_was_punched = "%s%s%s trifft Dich mit einem kräftigen Haken."
+   player_was_kicked = "%s%s%s tritt Dir kräftig in den Leib."
+   
+   player_out_of_room = "%s%s ist gar nicht da."
+   player_not_supported = "Wird noch nicht unterstützt"
+   
+   player_attack_out_of_range = "%s%s ist zu weit entfernt. %s%s kann nicht treffen."
+   player_attack_out_of_punch_range = "%s%s ist zu weit entfernt. Dein %s trifft nicht."
+   player_attack_out_of_spell_range = "%s%s ist außerhalb deiner Reichweite."
+   player_attack_not_in_view = "Du kannst dein Ziel nicht sehen."
+
+   player_no_target_self = "Du kannst Dich nicht selbst angreifen."
+   player_no_target_self_spell = "Du kannst diesen Zauber nicht auf Dich selbst anwenden."
+
+   player_cant_apply = "%s%s läßt sich nicht auf andere Dinge anwenden."
    
    player_wave_hit = hit.wav
    
-   player_level_music = perc2.mid
+   player_level_music = perc2.mp3
    
    % These are now old resources..... here in case we want to de-hack...
-   player_desc_guild = "%q of %s%q."
-   player_no_guild = "No known guild affiliation."
-   player_faction_duke = "A staunch servant of Duke Akardius."
-   player_faction_princess = "Firmly loyal to Princess Kateriina."
-   player_faction_rebel = "A freedom fighter supporting Jonas."
-   player_faction_neutral = \
-      "Not a court vassal, yet affected by the Meridian Council."
-   player_not_intriguing = "Not yet concerned with affairs at the Royal Court."
+   player_desc_guild = "%q von der Gilde %s%q."
+   player_no_guild = "Keine Gildenzugehörigkeit bekannt."
+   player_faction_duke = "Ein getreuer Anhänger von Herzog Akardius."
+   player_faction_princess = "Prinzessin Kateriina zutiefst ergeben."
+   player_faction_rebel = "Ein Freiheitskämpfer, der Jonas unterstützt."
+   player_faction_neutral = "Kein Untergebener des Hofes, aber bereits in die Geschehnisse verwickelt."
+
+   player_not_intriguing = "Interessiert sich nicht für die Geschehnisse am Hof."
 
    player_nl = "\n"
-   player_sp = " "
+   player_sp = ""
    player_dot = "."
-   player_citizen_barloque = " has been a Barloquan"
-   player_citizen_tos = " has been a citizen of Tos"
-   player_citizen_cornoth = " hailed from Cor Noth"
-   player_citizen_jasper = " has called Jasper home"
-   player_citizen_marion = " has been a Marionite"
-   player_citizen_raza = " is of Raza"
-   player_citizen_hazar = " is of Hazar"
-   player_citizen_kocatan = " has lived in Ko'catan"
-   player_citizen_unknown = " has wandered"
-   player_of = " of "
-   player_for = " for "
-   player_years = " years."
-   player_year = " year."
-   player_under_one_year = " less than a year."
+   player_citizen_barloque = "Stammt aus Barloque"
+   player_citizen_tos = "Stammt aus Tos"
+   player_citizen_cornoth = "Stammt aus Cor Noth"
+   player_citizen_jasper = "Stammt aus Jasper"
+   player_citizen_marion = "Stammt aus Marion"
+   player_citizen_raza = "Ist aus Raza"
+   player_citizen_hazar = "Ist aus Hazar"
+   player_citizen_kocatan = "Lebt in Ko'catan"
+   player_citizen_unknown = "Ist umhergestreift"
+   player_of = " von "
+   player_for = " seit "
+   player_years = " Jahren."
+   player_year = " Jahr."
+   player_under_one_year = " seit weniger als einem Jahr."
 
-   player_is_justicar = "Elected Royal Justicar of the Meridian."
+   player_is_justicar = "Gewählter königlicher Justiziar von Meridian."
 
-   player_is_holding = " is holding "
+   player_is_holding = "Hält: "
 
-   player_known_for_mastery = "Known far and wide for mastery of "
-   player_and = " and "
-   player_magics = " magics"
-   player_skills = "weaponcraft skills"
+   player_known_for_mastery = "Ist weit und breit für eine Meisterschaft von "
+   player_and = "und "
+   player_magics = "Magie"
+   player_skills = "Waffenfertigkeiten"
 
    % Here's the new extended resources....
-   player_desc_guild_faction_neutral = \
-      "%q of %s%q.  Not associated with any faction, yet concerned with the "
-      "intrigue of the Royal Court."
-   player_desc_guild_faction_duke = \
-      "%q of %s%q.  A devoted servant of Duke Akardius."
-   player_desc_guild_faction_princess = \
-      "%q of %s%q.  Firmly loyal to Princess Kateriina."
-   player_desc_guild_not_intriguing = \
-      "%q of %s%q.  Not yet concerned with affairs at the Royal Court."
+   player_desc_guild_faction_neutral = "%q von %s%q. Gehört nicht zum königlichen Hof, ist aber an den Intrigen interessiert."
 
-   player_no_guild_faction_neutral = \
-      "No known guild affiliation. Not associated with any faction, yet "
-      "concerned with the intrigue of the Royal Court."
-   player_no_guild_faction_duke = \
-      "No known guild affiliation. A devoted servant of Duke Akardius."
-   player_no_guild_faction_princess = \
-      "No known guild affiliation. Firmly loyal to Princess Kateriina."
-   player_no_guild_not_intriguing = \
-      "No known guild affiliation. Not yet concerned with affairs at the "
-      "Royal Court."
 
-   player_donation_title = "Noble benefactor of Meridian in "
+   player_desc_guild_faction_duke = "%q von %s%q. Ein ergebener Diener von Herzog Akardius."
+
+   player_desc_guild_faction_princess = "%q von %s%q. Ein hingebungsvoller Untertan der Prinzessin."
+
+   player_desc_guild_not_intriguing = "%q von %s%q. Interessiert sich noch nicht für den königlichen Hof."
+
+
+   player_no_guild_faction_neutral = "Gehört keiner Gilde und keiner Fraktion an, kümmert sich aber um die Intrigen am königlichen Hof."
+
+
+   player_no_guild_faction_duke = "Keine bekannte Gildenzugehörigkeit. Ein unterwürfiger Diener von Herzog Akardius."
+
+   player_no_guild_faction_princess = "Keine Gildenzugehörigkeit. Ein treuer Diener von Prinzessin Kateriina."
+
+   player_no_guild_not_intriguing = "Keine Gildenzugehörigkeit. Kümmert sich nicht um die Intrigen am königlichen Hof."
+
+
+
+   player_donation_title = "Edler Wohltäter von Meridian in "
    player_donation_separator = ", "
 
-   player_dagger_shatters = "Your black dagger crumbles into dust."
+   player_dagger_shatters = "Dein Schwarzer Dolch verwandelt sich zu Staub."
 
    player_desc_enchanted_none = "%q"
-   player_desc_enchanted = "%s has %s%s.\n\n%s"
+   player_desc_enchanted = "%s hat %s%s.\n\n%s"
    
-   player_too_full = "You are too full to eat."
-   player_too_full_drink = "You are too full to drink."
+   player_too_full = "Du kannst nichts mehr essen."
+   player_too_full_drink = "Du bist zu voll, um zu trinken."
 
-   player_to_hunters = "You detect that %s%s could be found somewhere around %s"
+   player_to_hunters = "Du fühlst, dass %s%s in der Nähe von %s zu finden ist."
 
    player_dead_male_icona_rsc = playerXa.bgf
    player_dead_male_iconb_rsc = playerXb.bgf
    player_dead_female_icona_rsc = heraXa.bgf
    player_dead_female_iconb_rsc = heraXb.bgf
    
-   player_dead_male_name_rsc = "dead male body"
-   player_dead_female_name_rsc = "dead female body"
+   player_dead_male_name_rsc = "Eine männliche Leiche"
+   player_dead_female_name_rsc = "Eine weibliche Leiche"
    
    playerm_death_wav = pdeath.wav
    playerf_death_wav = pdeathf.wav
 
-   player_token_death = \
-      "As you die, the token pulsates, and you feel an odd sensation..."
+   player_token_death = "Du stirbst, bemerkst aber gerade noch, wie das Artefakt sanft aufglüht..."
 
-   player_dance = \
-      "You swallow your pride and get down to the ditty in your head."
-   player_cant_dance = \
-      "You can't dance, all the stuff in your hands is cramping your style!"
-   player_cant_dance_resting = \
-      "You're sitting right now.  Let's not take this \'getting down\' stuff "
-      "too literally, ok?"
-   player_stop_dance = "\
-      You lose your rhythm and settle out of your dancing frenzy." 
 
-   player_wave = "You wave your hand."
-   player_point = "You point."
+   player_dance = "Du schluckst Deinen Stolz herunter und kehrst zu dem Liedchen in Deinem Kopf zurück."
+
+   player_cant_dance = "Du kannst nicht tanzen, der ganze Kram in deinen Händen macht Deinen Stil kaputt!"
+
+   player_cant_dance_resting = "Du sitzt jetzt. Nimm diesen ganzen Kram mit dem 'zurückkehren' nicht zu wörtlich, ok?"
+
+
+   player_stop_dance = "Du kommst aus dem Takt und erwachst aus Deinem Tanzfieber."
+
+
+   player_wave = "Du winkst."
+   player_point = "Du deutest."
    
    player_sword_overlay_icon_rsc = swordov.bgf
    player_mace_overlay_icon_rsc = maceov.bgf
@@ -367,7 +367,7 @@ resources:
    player_window_overlay_glow = povglow.bgf
 
    player_male_icon_rsc = bta.bgf
-   player_female_icon_rsc = btb.bgf  
+   player_female_icon_rsc = btb.bgf
    
    player_legs_a_rsc = bfa.bgf
    player_legs_b_rsc = bfb.bgf
@@ -385,283 +385,283 @@ resources:
 
    player_sound_learn_spell = splearn.wav
 
-   player_angel = "Your guardian angel"
-   intrigue_ambassador = "Baron Springer of Cor Noth Township"
+   player_angel = "Dein Schutzengel"
+   intrigue_ambassador = "Baron Springer von Cor Noth"
 
-   player_newbie_honor_string = "This soul is new to the lands of Meridian 59."
+   player_newbie_honor_string = "Diese Seele ist neu in den Landen Meridians 59."
 
-   player_newbie_commands = \
-      "\n~BBasic Commands for Meridian 59:~B\n"
-      "~IUse these mouse and keyboard commands to interact with the world.\n"
-      "These are the default commands.  You can change the keyboard commands "
-      "by going to the menu item~I ~wGame > Configuration.\n"
-      "~rright-click on an object ~b- examines an object, letting you see "
-      "more detail.  Right-click on the sign in this area to learn more.\n"
-      "~rspace bar ~b- go through doors, like the blue door to the north.\n"
-      "~rE key ~b- attack monsters.  You may want to wield a weapon first!\n"
-      "~n~IType the following commands (red text) into the text bar below. "
-      "You can press the RETURN key to move to the chat window.~I\n"
-      "~rsay (message) ~b- send a message to everyone in the same room.\n"
-      "~rtell (player name) (message) ~b- Send a message to a single player "
-      "in private.\n"
-      "~rbroadcast (message) ~b- send a message to everyone that is logged "
-      "on.\n"
-      "~rwho ~b- shows a list of all the people logged into the game right "
-      "now.\n"
-      "~rmail ~b- opens up your mail folder.  Read the messages from your "
-      "guardian angel!\n"
-      "~rhelp ~b- opens our web-based help pages.  It will take a few "
-      "seconds to load.\n"
+   player_newbie_commands = "\n~BGrundlegende Befehle für Meridian 59:~B\n~IBenutze diese Maus- und Tastaturbefehle, um mit der Welt zu interagieren.~I\n~rRechtsklick auf ein Objekt~b - untersucht ein Object und lässt dich nähere Details betrachten. Klicke rechts auf das Schild in diesem Raum um mehr zu erfahren.\n~rLeertaste~b - gehe durch Türen, wie die blaue Tür im Norden.\n~rSTRG-Taste~b - greife Monster an. Vielleicht möchtst du erst eine Waffe anlegen!\n\n~n~ITippe die folgenden Kommandos (~rroter Text~k) in die Textzeile unten.\n~I~rsagen (Nachricht)~b - sendet eine Nachricht an alle im gleichen Raum.\n~rtelepathie (Spielername) (Nachricht)~b - sendet eine private Nachricht an einen einzelnen Spieler.\n~rmitteilen (Nachricht)~b - sendet eine Nachricht an alle jene, die eingeloggt sind.\n~rwer~b - zeigt eine Liste aller Spieler, die zur Zeit ins Spiel eingeloggt sind.\n~rmail~b - öffnet dein Mailverzeichnis. Lies die Nachrichten deines Schutzengels!\n~rhilfe~b - öffnet die webbasierenden Hilfeseiten. Sie benötigen einige Sekunden zum Laden.\n"
 
-   player_safety_on_mail = \
-      "Your safety is currently on, meaning you cannot cast hostile spells or "
-      "attack innocent players."
-   player_safety_off_mail = \
-      "Your safety is currently off.  If you do not wish to attack innocent "
-      "players, I heartily recommend that you turn it on."
 
-   player_ready_to_kill = "Subject: Congratulations!\n"
-      "Your character has been deemed ready to take on the world without "
-      "my protection, meaning that you may now raise your sword against other "
-      "players if you so desire.  It is with a heavy heart that I take my "
-      "leave of you, but I trust that you will do fine without me."
-      "\n\n"
-      "You also have many other rights and responsibilities available to "
-      "you.  You can now join a guild with other friends.  Guilds are a good "
-      "way to gain protection from those that would do you harm.  Joining a "
-      "good guild will make the difference between merely surviving or "
-      "thriving in the world.  Guilds can also get into wars with other "
-      "guilds, so be careful that you don't make too many enemies."
-      "\n\n"
-      "You can also participate in the politics of Meridian.  In the royal "
-      "city of Barloque there is a clerk named Caramo which handles the "
-      "election of the position of Justicar.  The Justicar pardons those that "
-      "have been flagged as outlaws and murderers.  Unless you wish to see "
-      "such villians get pardons, it is important to be active in voting."
-      "\n\n"
-      "I must warn you that engaging in lethal combat against other players "
-      "may soil your good name.  If you strike an innocent, or cast "
-      "a spell which harms him, you may be branded an outlaw, an onus which "
-      "only fades upon your death.  If you slay an innocent in cold blood, "
-      "you will be blacklisted as a murderer, and this is a weight upon your "
-      "soul which does not easily depart.  This puts you at risk:  since "
-      "murderers and outlaws are not innocents, one may attack them without "
-      "being named a murderer or an outlaw."
-      "\n\n"
-      "Also note that assisting an outlaw or murder by casting helpful spells "
-      "upon them will brand you an outlaw in the eyes of society.  You must "
-      "choose your friends and your enemies well!"
-      "\n\n"
-      "If you do not wish to engage in the unsavory practice of attacking "
-      "innocents or assisting the unlawful, it is heartily recommended that "
-      "you do not enable attacking innocents in your game preferences.  This "
-      "is also called your \"safety\" since it keeps you safe from being "
-      "outcast as an unlawful outlaw or murderer.  While your safety is on, "
-      "you are not permitted to either attack innocents or cast spells that "
-      "are hostile to them.  This can be crucial when one stray sword blow "
-      "can make you an outlaw.  However, rest assured that you will always be "
-      "permitted to strike outlaws and murderers, since it is crucial that "
-      "you always have the option of defending yourself from their "
-      "treacherous ways."
-      "\n\n"
-      "%s"
-      "\n\n"
-      "Finally, some last bits of advice as I depart.  Do not dispair if "
-      "you are sent to the underworld by some monster or even another "
-      "player.  Death is part of the cycle, and learning to recover from "
-      "death is important.  Put some items away in the vault in Barloque for "
-      "times when you find yourself killed and unable to get items from your "
-      "corpse.  Also, ask politely for assistance and you will often find "
-      "someone willing to lend a helping hand.  Make some friends and you "
-      "will find that nothing is truly beyond your reach."
-      "\n\n"
-      "Have fun in Meridian!"
-      "\n\n"
-      "  -- Your guardian angel"
 
-   player_ready_to_guild = "Subject: Congratulations!\n"
-      "Your character has been deemed ready to take on the world without "
-      "my protection, meaning that you may now raise your sword with fellow "
-      "players and engage in guild politics.  It is with a heavy heart that I "
-      "take my leave of you, but I trust that you will do fine without me.\n\n"
-      "%s\n\n"
-      "  -- Your guardian angel"
 
-   player_tutorial_mail = "Subject: You're doing well for yourself.\n"
-      "It's nice to see that you seem to be doing well.  "
-      "I thought I might take this time to explain some finer points of "
-      "the world of Meridian to you."
-      "\n\n"
-      "There are a variety of spells and skill schools that you can "
-      "advance in.  However, learning from all spell and skill schools "
-      "dilutes your focus, and slows down your learning.  The more you "
-      "narrow your focus onto one or two particular spell schools, the "
-      "quicker you will advance in that spell school, and the sooner you "
-      "will be offered new spells in that school.  Stray from the path, "
-      "however, and you will find that teachers may not offer you spells that "
-      "they had previously offered you.  Thus, you must choose very early on "
-      "whether or not you prefer the versatility of being able to pull from a "
-      "multitude of low level spells and skills, or the power of excelling in "
-      "one or two.  Therefore, be sure that you examine any potential ability "
-      "before you acquire it!"
-      "\n\n"
-      "No advancement is more prized than increasing your endurance by "
-      "gaining health points.  Note you that those who go toe to toe with "
-      "monsters are more likely to advance in health than those who stay "
-      "safely out of harm's way, slinging fireballs.  Also, attacking "
-      "insignificant foes earns you no points for valor, and offers no hope "
-      "of advancement."
-      "\n\n"
-      "Your vigor is crucial - it helps determine how fast your health and "
-      "mana returns to you - a tired warrior will find these resources "
-      "fleeting.  Vigor can be restored either through needed rest or a "
-      "hearty meal."
-      "\n\n"
-      "I congratulate you on your recent success.  I know the bards will sing "
-      "of your future exploits."
-      "\n\n"
-      "  -- Your guardian angel"
 
-   player_first_mail = "Subject: Welcome!\n"
-      "Welcome to Meridian 59!  I hope you enjoy the exciting world waiting "
-      "for you!"
-      "\n\n"
-      "You have entered an on-line community, meaning that you may well be "
-      "playing with several other players at a time.  Making allies and "
-      "dealing with potential enemy players is as much a part of Meridian 59 "
-      "as killing monsters.  We hope you feel at home in your new online "
-      "community."
-      "\n\n"
-      "I am your guardian angel, and thus I shall protect you from the spells "
-      "and swords of other players for a short time.  Use this time to "
-      "acquaint yourself with the world, and to gather your resources.  Know "
-      "you that the shops of the land are always safe zones, and the inns are "
-      "good places to rest and recover your strength."
-      "\n\n"
-      "Spells and skills will almost certainly be crucial to your success.  "
-      "Note that a young warrior's skills are stronger than a inexperienced "
-      "wizard's spells, but at the higher end, the sorcerer is far more "
-      "formidable to deal with given his variety of options.  The apprentice "
-      "will almost always need the steady sword of the mercenary by his side "
-      "to get that far, so find comrades who complement your abilities."
-      "\n\n"
-      "You can learn a lot by talking to the little people: the shopkeepers, "
-      "the bankers, the innkeepers.  Ask them for help.  Sometimes, they "
-      "may even wish for you to run an errand for them if you ask."
-      "\n\n"
-      "For your first quest, you may wish to research which hometown you were "
-      "born in.  You can ask any of the towns' people you meet for their "
-      "opinions about the different towns.  To permanently select a hometown, "
-      "you need to adventure to the Hall of Genealogy in the town of Cor Noth "
-      "and look through the books there.  Take your time selecting your "
-      "hometown, as it may determine how other people interact with you."
-      "\n\n"
-      "Death is unkind to you - avoid it!  A death can make you weaker, and "
-      "all of your possessions are left where you met your demise, where any "
-      "scavenger, human or otherwise, may take it as they please.  Best that "
-      "you join an ally on your travels that they may gather your valuables "
-      "should you meet such an unfortunate fate."
-      "\n\n"
-      "Lastly, if you wish to leave this land for a bit, merely log off.  "
-      "When you log on, you will reappear where you left.  However for "
-      "reasons of saftey, it is highly recommended that you do so in a safe "
-      "place, such as an inn.  If you log off outside an inn, you may take "
-      "losses similar to death as your soul did not leave the land "
-      "completely when you logged off."
-      "\n\n"
-      "We hope that you enjoy your stay in our land."
-      "\n\n"
-      "  -- Your guardian angel"
 
-   player_death_mail = "Subject: Death\n"
-      "It saddens me that you fell in combat and into the underworld.  It is "
-      "a dangerous life as an adventurer, as you have undoubtedly learned."
-      "\n\n"
-      "Since you are so young, I have pleaded to the gods that you should be "
-      "spared some of the penalty for death.  Normally, the shock of leaving "
-      "the underworld would reduce your maximum health and penalize you a "
-      "small part of the spells and skills you have learned so far.  I will "
-      "spare you the cost of your health, and only a few of your spells and "
-      "skill will be reduced after you leave the underworld."
-      "\n\n"
-      "You will also notice that your possessions are gone.  They were left "
-      "behind at your corpse where you died.  The items will only remain "
-      "there a limited amount of time, so you must act quickly."
-      "\n\n"
-      "If you don't know where you died, then you should broadcast for help.  "
-      "Type \"broadcast Can someone help me find my items?\" right now and "
-      "watch for someone to respond to you.  Tell that person what you can "
-      "remember about where you were fighting.  Often you will find someone "
-      "kind to help you, or they might even help you get better equipment "
-      "than you had before.  There are many kind souls in this land"
-      "\n\n"
-      "If you know where you died, the portal archways in the underworld will "
-      "take you directly to the inns of the cities of the mainland.  The "
-      "large rip in space in the western side of the underworld is often the "
-      "quickest way back.  It randomly switches between the different inns.  "
-      "Look (right-click by default) the portal to see where it leads.  If it "
-      "leads to the place you want to go, enter it quickly!  It will not lead "
-      "there for very long."
-      "\n\n"
-      "Do not be discouraged!  Many powerful warriors have stumbled into the "
-      "fires of the underworld.  What makes them powerful is that they "
-      "decided to fight on, gaining power and ability to vanquish the "
-      "terrible monsters that felled them before!"
-      "\n\n"
-      "  -- Your guardian angel"
 
-   player_death_mail_notice = \
-      "Your guardian angel has sent you a special game mail on how to cope "
-      "with death.  Type ~Imail~I and read the last game mail from your "
-      "guardian angel."
 
-   player_intrigue_mail = "Subject: Invitation to visit the Royal Court\n"
-      "Oh, most worthy adventurer.  Tales of your exploits have been oft told "
-      "here at the Court, and recently, the Meridian Council itself declared "
-      "you to possess considerable promise. Perhaps someday you will be "
-      "given the honor of studying and guarding one of the Five Tokens."
-      "\n\n"
-      "The Council serves our fair land by using their acquired knowledge to "
-      "benefit daily life. For the most part, they are honest and impartial "
-      "in their decisions - guided by the Priestess of Shal'ille. However, "
-      "Duke Akardius and Princess Kateriina and their factions of followers "
-      "try to sway the Council down differing paths:"
-      "\n\n"
-      "Duke Akardius wishes for more of the Council's energies to be used for "
-      "the benefit of commerce and the study of lore, while the Princess "
-      "seeks their aid in advancing knowledge of magic. Both believe their "
-      "path is the way to reduce the plague of monsters which terrify the "
-      "land these days."
-      "\n\n"
-      "There are also boorish tales of a third faction of rebels.  They "
-      "are dissatisfied with the current political climate and seek to "
-      "bring their leader to rule our lands.  I do not know much about "
-      "these rebels, nor do I care to learn anything.  You are on your own "
-      "if you wish to learn about them."
-      "\n\n"
-      "Should you desire to join any of these factions, seek the Liege. "
-      "As a faction member, you can help to influence the Council yourself, "
-      "and share in the benefits of belonging to the party in power. You will "
-      "need to demonstrate fealty to your Liege on a regular basis to "
-      "keep your name on the rolls. Even if you join neither faction, you "
-      "will still be influenced by the Council's decisions - as are all."
-      "\n\n"
-      "Fair partings, and perhaps we will someday meet at the court."
-      "\n\n"
-      "----Baron of Cor Noth Township, Gerah Springer."
 
-   player_Debug_playercanlearn = \
-      "Do the math for %s to learn a %i level spell from the %s school.  "
-      "%i points from spells already known (%i from this school).  Intellect "
-      "reduces the needed by %i for a total of %i percent needed.  Currently "
-      "possesses %i percent to compensate for the need."
 
-   player_Debug_playercanlearn_scarcity = \
-      "Due to the scarcity of spells at that level in that school, "
-      "the need has been reduced to %i more points."
+
+
+
+
+
+
+
+
+
+
+
+
+   player_safety_on_mail = "Deine Schutzfunktion ist aktiviert, d. h. Du kannst keine Angriffszauber sprechen und keine unschuldigen Spieler attackieren."
+
+
+   player_safety_off_mail = "Deine Schutzfunktion ist deaktiviert. Wenn du willst, kannst Du unschuldige Spieler angreifen.Ich würde vorschlagen, dass Du sie wieder einschaltest."
+
+
+
+   player_ready_to_kill = "Betreff: Gratulation!\nDu wurdest für würdig befunden, diese Welt ohne meine Hilfe zu erkunden. Du kannst nun gegen andere Spieler kämpfen und auch einer Gilde beitreten. Es fällt mir wirklich schwer, Dich jetzt schon zu verlassen, aber ich glaube, dass Du auch ohne mich zurechtkommen wirst.\n\nIch muss Dich allerdings warnen, denn ein einziger Kampf auf Leben und Tod kann Deinen guten Namen ruinieren. Wenn Du einen Unschuldigen angreifst oder mit einem Zauberspruch verletzt, kannst Du als Gesetzloser behandelt werden. Diesen Status kann Dir nur der Tod nehmen. Wenn Du jemanden kaltblütig um die Ecke bringst, wirst Du als Mörder gelten. Diese Belastung Deiner Seele kann Dir selbst der Tod nicht nehmen. Wichtig: Da Gesetzlose und Mörder auf keinen Fall unschuldig sind, können sie von jedem Bürger angegriffen werden, ohne dass diese mit Konsequenzen rechnen müssen.\n\nWenn Du gar nicht erst in Versuchung kommen möchtest, einen Unschuldigen anzugreifen, solltest Du die Schutzfunktion in Deinen Spieloptionen einschalten. Ist sie aktiviert, kannst Du keinen unbescholtenen Mitbürger umbringen, Du kannst ihn nicht einmal angreifen. Das ist sehr wichtig, denn ein einziger Schwertstreich kann Dich zu einem Gesetzlosen werden lassen. Tatsache ist, dass Du Dich gegen einen Gesetzlosen oder Mörder immer verteidigen darfst, ohne mit rechtlichen Konsequenzen des hohen Rates rechnen zu müssen.\n\n%s\n\n -- Dein Schutzengel"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   player_ready_to_guild = "Betreff: Gratulation!\nDu wurdest für würdig befunden, diese Welt ohne meine Hilfe zu erkunden. Du kannst nun gegen andere Spieler kämpfen und auch einer Gilde beitreten. Es fällt mir wirklich schwer, Dich jetzt schon zu verlassen, aber ich glaube, dass Du auch ohne mich zurechtkommen wirst.\n\n%s\n\n -- Dein Schutzengel"
+
+
+
+
+
+
+
+   player_tutorial_mail = "Betreff: Du hast erstaunliche Fortschritte gemacht.\nDeine Fortschritte können sich sehen lassen. Ich dachte mir, dass es an der Zeit ist, Dir ein paar detaillierte Informationen über unsere Welt zu geben.\n\nEs gibt verschiedene Magie- und Waffenschulen, die Du aufsuchen kannst. Wenn Du Dich in mehreren Fächern gleichzeitig unterrichten läßt, wird sich Deine Lerngeschwindigkeit verlangsamen. Je mehr Du Dich auf eine Schule konzentrierst, desto schneller kannst Du in dieser auch Fortschritte machen - neue Zaubersprüche und Waffenfertigkeiten können schneller erlernt werden. Wenn Du Dich von Deinem Pfad entfernst, wirst Du schon bald feststellen, dass Dir keine Zaubersprüche und Waffenfertigkeiten mehr angeboten werden. Deshalb musst Du Dich entscheiden, ob Du eine große Anzahl an Zaubersprüchen und Waffenfertigkeiten auf niedrigem Niveau bevorzugst oder Dich nur auf ein bis zwei Schulen, in denen Du sehr mächtig werden kannst, konzentrieren möchtest. Wähle also mit Geduld und Weisheit!\n\nKein Fortschritt ist kostspieliger, als Deine Ausdauer durch mehr Lebenskraft zu erhöhen. Wisse, dass diejenigen, die sich dicht an die Monster heranwagen, eher zusätzliche Lebenskraft erhalten als solche, die der Gefahr aus dem Weg gehen und Feuerbälle schleudern. Außerdem verdienst Du durch den Angriff auf unbedeutende Gegner keine und bietet keine Hoffnung auf ein Weiterkommen.\n\nDeine Ausdauer ist entscheidend - sie hilft zu bestimmen, wie schnell Deine Lebenskraft und magische Energie wiederkehren - bei einem müden Krieger verflüchtigen sie sich schnell. Die Ausdauer kehrt durch eine Rast oder ein herzhaftes Mahl zurück.\n\nIch gratuliere Dir zu Deinem jüngsten Erfolg. Ich weiß, die Barden werden Deine künftigen Taten besingen.\n\n -- Dein Schutzengel"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   player_first_mail = "Betreff: Willkommen\nWillkommen zu Meridian 59! Wir hoffen, Du genießt die aufregende Welt, die auf Dich wartet!\n\nDu hast eine Online-Gemeinschaft betreten, in der Du mit vielenanderen Spielern zur gleichen Zeit spielen kannst. Der Kampf gegen fiese Monster ist genauso wichtig, wie das Schließen von Freundschaften oder der Zwist mit feindlichen Spielern. Wir hoffen, dass Du Dich in Deiner neuen Online-Gemeinschaft wohlfühlst.\n\nIch bin Dein Schutzengel, daher bewahre ich Dich vor den Zaubern und Schwertern der anderen Spieler - für eine kurze Zeit. Nutze diese Zeit, um Dich mit der Welt vertraut zu machen und Deine Kräfte zu sammeln. Wisse, dass die Läden in diesem Land immer sichere Bereiche sind und die Wirtshäuser sich für eine Rast anbieten.\n\nZaubersprüche und Talente sind sicherlich entscheidend für Deinen Erfolg. Merke Dir, dass die Talente eines Kriegers in unteren Zirkeln stärker sind als die Sprüche eines Zauberers, aber in höheren Zirkeln die Magier viel furchtbarere Gegner sind. Der Zauberlehrling benötigt fast immer das schnelle Schwert eines Söldners an seiner Seite, um so weit zu kommen, also such Dir Kameraden, die Deine Fähigkeiten erweitern. Wisse auch, dass Du langsam Deine Zauber und Talente wieder vergisst, wenn Du sie nicht übst.\n\nDu kannst viel aus Gesprächen mit den kleinen Leuten lernen: die Ladenbesitzer, die Bänker, die Gastwirte. Bitte sie um Hilfe. Manchmal könnten sie Dich sogar um eine kleine Besorgung bitten.\n\nAls erstes möchtest Du vielleicht herausfinden, in welcher Stadt Du geboren wurdest. Du kannst jeden Stadtbewohner, den du triffst, nach seiner Meinung über die verschiedenen Städte befragen. Um sich fest für eine Heimatstadt zu entscheiden, musst Du Dich in die Halle der Ahnen in der Stadt Cor Noth wagen und dort die Bücher durchschauen. Nimm Dir Zeit bei der Auswahl deiner Heimatstadt, da das entscheidenden Einfluß darauf hat, wie andere Leute mit Dir umgehen.\n\nDer Tod ist sehr unfreundlich - meide ihn! Er kann Dich schwächen, und all Deine Besitztümer bleiben, wo Dich das Schicksal ereilt hat. Jeder Plünderer, menschlich oder nicht, kann sie sich nach Belieben aneignen. Besser nimmst Du einen Verbündeten mit auf Deine Reisen, der Deine Wertsachen aufsammelt, sollte Dich ein derart unglückliches Schicksal ereilen.\n\nZu guter Letzt: Wenn Du das Land einmal verlassen willst, trenne die Verbindung zum Server. wird wieder auftauchen, wo du weggegangen bist. Doch aus Gründen der Sicherheit ist es höchst empfehlenswert, dass Du dies an einem sicheren Ort wie zum Beispiel einer Kneipe tust.\n\nWir hoffen, dass Du den kleinen Abstecher in unser Land genießt.\n\n -- Dein Schutzengel\n\nPS: Die Mitspieler helfen Dir gern mit Rat und Tat. Auch die Barden und Guides stehen gern zur Verfügung. Viele Infos findest Du auf diversen Homepages. Schaue einfach mal in den Links auf www.mystik59.de nach."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   player_death_mail = "Betreff: Der Tod\n\nEs betrübt mich dass du im Kampfe in die Unterwelt gefallen bist. Das Leben als Abenteurer ist gefährlich, wie du nun hast erfahren müssen.\n\nDa du so jung bist, habe ich bei den Göttern erfleht, dass dir einige der Strafen des Todes erspart bleiben. Normalerweise reduziert der Schock des Verlassens der Unterwelt deine maximale Lebenskraft und bestraft dich damit, daß du einen kleinen Teil der Zaubersprüche und Fertigkeiten, die du bisher gelernt hast, verlierst. Ich erspare dir den Verlust von Lebenskraft, und nur ein paar deiner Zaubersprüche und Fertigkeiten werden reduziert werden wenn du die Unterwelt verlässt.\n\nDu wirst ebenfalls bemerken, dass deine Besitztümer fort sind. Sie wurden bei deiner Leiche zurückgelassen, als du starbtest. Die Gegenstände werden nur für eine gewisse Zeit dort liegen bleiben, du musst also schnell handeln.\n\nWenn du nicht weisst, wo du gestorben bist, solltest du eine Nachricht an Alle absenden und Hilfe erbitten. Tippe \"mitteilen Kann jemand meine Sachen für mich finden?\" jetzt sofort und warte darauf, dass jemand dir antwortet. Teile dieser Person mit, an was du dich erinnern kannst, wo du gekämpft hast. Oft findet sich Jemand, der gutmütig ist und dir hilft. Vieleicht hilft er dir auch dabei, eine bessere Ausrüstung zu bekommen, als du vorher hattest.\n\nWenn du weisst, wo du gestorben bist, werden dich die Portale in Form von Bogengängen direkt in die Kneipen auf dem Festland bringen. Der große Riss im Raum auf der westlichen Seite der Unterwelt ist oft der schnellste Weg zurück. Er wechselt zufällig zwischen den verschiedenen Kneipen. Schaue dir dieses Portal näher an (Rechtsklick) um zu sehen, wohin es führt. Wenn es dahin führt wohin du willst, betrete es schnell! Es wird seinen Zielort schnell wieder ändern.\n\n\nSei nicht entmutigt! Viele mächtige Krieger sind schon in das Feuer der Unterwelt gestolpert. Was sie so mächtig gemacht hat war der Entschluss, weiterzukämpfen, um die Stärke und Fähigkeit zu erreichen, schreckliche Monster zu besiegen!\n\n-- Dein Schutzengel"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   player_death_mail_notice = "Dein Schutzengel hat dir eine spezielle Gamemail geschickt, wie mit dem Tod umzugehen ist. Tippe ~Imail~I und lese die letzte Gamemail von deinem Schutzengel."
+
+
+
+
+   player_intrigue_mail = "Betreff: Einladung zum königlichen Hof\nOh, würdigster aller Abenteurer. Die Geschichten Deiner Taten wurden oft an unserem Hof erzählt und kürzlich hat der man dort erklärt, dass Du eine vielversprechende Zukunft besitzt. Vielleicht wirst Du eines Tages die Ehre haben, eines der fünf Artefakte zu studieren und zu bewachen.\n\nDer königliche Hof dient dem Land mit seinem angeeigneten Wissen, den Alltag leichter zu gestalten. Vor allem ist der Hof ehrlich und unparteiisch in seinen Entscheidungen - geleitet von der Priesterin Sha-Lills. Jedoch Herzog Akardius, Prinzessin Kateriina und ihre Fraktionsanhänger versuchen den königlichen Hof auf andere Pfade zu zwingen:\n\nHerzog Akardius wünscht sich vom Rat mehr Einsatz zum Vorteil des Handels und das Studium des überlieferten Wissens, während die Prinzessin Hilfe im fortgeschrittenen Wissen der Magie sucht. Beide glauben, ihr Weg sei der richtige Weg, um mit den Monstern, die das Land in diesen Tagen terrorisieren, fertig zu werden.\n\nEs gibt auch Gerüchte über eine dritte Fraktion - die der Rebellen. Sie sind unzufrieden mit dem gegenwärtigen politischen Klima und wollen eine dritte Person an die Macht bringen. Ich weiß nicht viel über diese Rebellen.\n\nSolltest Du Dich entscheiden, einer der Fraktionen beizutreten, so suche den Anführer auf. Als Mitglied einer Fraktion kannst Du mithelfen, den Hof zu beeinflussen, und kommst in den Genuß der Vorzüge, zur herrschenden Partei zu gehören. Du musst immer wieder Deine Treue zum Lehensmann zeigen, um auf seiner Gehaltsliste zu bleiben. Selbst wenn Du keiner der beiden Fraktionen angehörst, wirst Du von den Entscheidungen des Hofs beeinflußt - wie alle anderen auch.\n\nLebe wohl, und vielleicht treffen wir uns eines Tages am Hof wieder.\n\n-- Gerah Springer, Baron der Gemeinde Cor Noth."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   player_Debug_playercanlearn = "Aus der Rechnung für %s, um einen Zirkel %i Spruch der %s-Schule zu erlernen, ergibt sich: %i Prozentpunkte der Sprüche sind bereits gelernt (%i von dieser Schule).\nKlugheit reduziert den Bedarf um %i für einen Gesamtbedarf von %i benötigten Prozenten. Momentan erlernt sind %i Prozent, um diesen Bedarf auszugleichen."
+
+
+
+
+
+   player_Debug_playercanlearn_scarcity = "Wegen der Seltenheit von Sprüchen in diesem Zirkel dieser Schule wurde der Bedarf auf %i Punkte reduziert."
+
+
    
-   player_Debug_nokarma = "%s cannot learn %s due to karma restrictions."
-   player_Debug_noway = "It is impossible for %s to ever get the %s spell."
+   player_Debug_nokarma = "%s kann %s aufgrund des Karmas nicht erreichen."
+   player_Debug_noway = "Für %s ist es unmöglich, jemals den %s-Zauber zu erlernen."
 
    player_sound_sword1 = sword1.wav
    player_sound_sword2 = sword2.wav
@@ -684,7 +684,7 @@ resources:
    player_sound_hit_monster_metal3 = mhit3b.wav
 
    % in increasing order of agony
-   player_sound_male_ouch1 = ouchm1.wav	  
+   player_sound_male_ouch1 = ouchm1.wav
    player_sound_male_ouch2 = ouchm2.wav
    player_sound_male_ouch3 = ouchm3.wav
    player_sound_male_ouch4 = ouchm4.wav
@@ -694,16 +694,16 @@ resources:
    player_sound_female_ouch3 = ouchf3.wav
    player_sound_female_ouch4 = ouchf4.wav
 
-   player_eavesdrop_login_str = "~B~g[~n%s has logged in.~B~g]"
-   player_eavesdrop_str = "~B~g[~n%s tells %s, \"%q~n\"~B~g]"
-   player_eavesdrop_logout_str = "~B~g[~n%s has disconnected.~B~g]"
+   player_eavesdrop_login_str = "~B~g[~n%s hat sich eingewählt. ~B~g]"
+   player_eavesdrop_str = "~B~g[~n%s erzählt %s, \"%q~n\"~B~g]"
+   player_eavesdrop_logout_str = "~B~g[~n%s hat das Spiel verlassen. ~B~g]"
 
-   player_admin_added_spell = "Spell added."
-   player_admin_modified_spell = "Spell modified."
-   player_admin_removed_spell = "Spell removed."
-   player_admin_added_skill = "Skill added."
-   player_admin_modified_skill = "Skill modified."
-   player_admin_removed_skill = "Skill removed."
+   player_admin_added_spell = "Zauberspruch hinzugefuegt."
+   player_admin_modified_spell = "Zauberspruch geaendert."
+   player_admin_removed_spell = "Zauberspruch entfernt."
+   player_admin_added_skill = "Fertigkeit hinzugefuegt."
+   player_admin_modified_skill = "Fertigkeit gaendert."
+   player_admin_removed_skill = "Fertigkeit entfernt."
 
    player_logged_on_wav_rsc = player_login_or_out.wav
    player_logged_off_wav_rsc = player_logout2.wav
@@ -7854,15 +7854,22 @@ messages:
 
       iRoom = Send(poOwner,@GetRoomNum);
 
-      % Reign of Blood Frenzy death?  Newbie death?
-      % Don't drop anything or take any penalties.
+        % Reign of Blood Frenzy death?  Newbie death?
+      % Don't take any penalties.
       if Send(SYS,@GetChaosNight)
-        OR (iRoom >= RID_NEWB_BASE AND iRoom <= RID_NEWB_MAX)
-        OR psHonor <> $
-           AND StringEqual(psHonor,player_newbie_honor_string)
+OR psHonor <> $
+AND StringEqual(psHonor,player_newbie_honor_string)
       {
-         bNo_drop_death = TRUE;
-         piDeathCost = FALSE;    
+        piDeathCost = FALSE;
+		bNo_drop_death = FALSE;    
+      }
+
+      % Raza death?
+      % Don't take any penalties, don't drop stuff.
+      if (iRoom >= RID_NEWB_BASE AND iRoom <= RID_NEWB_MAX)
+      {
+piDeathCost = FALSE;    
+bNo_drop_death = TRUE;
       }
 
       % Currently, the following block is only for Necromancer Amulets and Hunter Swords.
@@ -12386,3 +12393,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

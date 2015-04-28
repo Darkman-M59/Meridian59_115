@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   BattleBow_name_rsc = "battle bow"
-   BattleBow_desc_rsc = \
-      "Expertly carved for power, this bow gives you the envious advantage of "
-      "a stronger attack at a sacrifice of accuracy at long ranges.  You should "
-      "only use this bow at closer ranges."
+   BattleBow_name_rsc = "Der Kampfbogen"
+   BattleBow_desc_rsc = "Fachkundig auf seine Durchschlagskraft optimiert gibt dir dieser Bogen den neidvollen Vorteil eines st‰rkeren Angriffes auf Kosten von Genauigkeit bei groﬂen Entfernungen. Du solltest diesen Bogen nur auf kurze Distanz benutzen."
+
+
+
 
 classvars:
 
@@ -47,3 +47,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

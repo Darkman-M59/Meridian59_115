@@ -20,9 +20,9 @@ resources:
 
    ShortSkirt_male_player_rsc = bfg.bgf
    ShortSkirt_female_player_rsc = bfh.bgf
-   ShortSkirt_name_rsc = "short skirt"
-   ShortSkirt_desc_rsc = \
-      "This short skirt will show off your lovely legs!  Don't expect much protection, though."
+   ShortSkirt_name_rsc = "Der kurze Rock"
+   ShortSkirt_desc_rsc = "Dieser kurze Rock wird viel von deinen schönen Beinen zeigen. Erwarte jedoch nicht allzu viel Schutz von ihm."
+
 
 classvars:
 
@@ -63,3 +63,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,11 +17,11 @@ constants:
 resources:
 
    WarJoinPendant_icon_rsc = factpend.bgf
-   WarJoinPendant_name_rsc = "war pendant"
-   WarJoinPendant_desc_before_rsc = \
-      "This will allow you to join the war on the side of:\n"
-   WarJoinPendant_desc_after_rsc = \
-      "This pendant shows your allegiance to:\n"
+   WarJoinPendant_name_rsc = "Ein Kriegsanhänger"
+   WarJoinPendant_desc_before_rsc = "Dieser wird es Dir erlauben, Dich für den Krieg folgender Seite anzuschließen:"
+
+   WarJoinPendant_desc_after_rsc = "Dieser Anhänger zeigt Deine Zugehörigkeit zu:"
+
 	
 classvars:
    
@@ -161,4 +161,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -15,14 +15,14 @@ constants:
 
 resources:
 
-   fireball_name_rsc = "fireball"
+   fireball_name_rsc = "Feuerball"
    fireball_icon_rsc = fireball.bgf
    fireball_look_icon = ifirebal.bgf
-   fireball_desc_rsc = \
-      "Sends a ball of flames at the target.  "
-      "Requires red mushrooms and orc teeth to cast."
+   fireball_desc_rsc = "Schleudert einen Feuerball auf das Ziel. Der Zauber benötigt Rote Pilze und die Zähne eines Orks."
 
-   fireball_hit_rsc = "A ball of fire strikes %s%s!"
+
+
+   fireball_hit_rsc = "%s%s wird von einem Feuerball getroffen!"
 
    fireball_sound = ffirebal.wav
 
@@ -94,3 +94,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

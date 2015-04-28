@@ -16,22 +16,22 @@ constants:
 
 resources:
 
-   AntiMagicAura_name_rsc = "anti-magic aura"
+   AntiMagicAura_name_rsc = "Anti-Magie-Aura"
    AntiMagicAura_icon_rsc = iantimag.bgf
-   AntiMagicAura_desc_rsc = \
-      "Sends a shock wave of magical energy coursing through the room which "
-      "reduces the spellpower of other spells cast for several minutes.  "
-      "More powerful mages are more effective at casting this spell.  "
-      "Requires sapphires and polished seraphym to cast."
-   
-   AntiMagicAura_unnecessary = \
-      "You cannot overcome the anti-magic field in effect."
-   AntiMagicAura_reinforced = \
-      "The mana field around you is fluctuating more wildly than it was before."
+   AntiMagicAura_desc_rsc = "Sendet eine Schockwelle magischer Energie aus, die durch den Raum geht, wodurch die Macht anderer Zaubersprüche für einige Minuten reduziert wird. Mächtigere Magier sind bei der Durchführung dieses Zauberspruches stärker. Für den Zauber sind Saphire und geschliffene Seraphyme erforderlich."
 
-   AntiMagicAura_on = "The mana field begins to fluctuate."
-   AntiMagicAura_off = "The mana field returns to normal."
-   AntiMagicAura_new_occupant = "The mana field is fluctuating here."
+
+
+
+   
+   AntiMagicAura_unnecessary = "Du kannst die Anti-Magie-Aura nicht überwinden!"
+
+   AntiMagicAura_reinforced = "Das magische Feld um Dich herum schwankt wilder als je zuvor."
+
+
+   AntiMagicAura_on = "Das magische Feld beginnt zu fluktuieren."
+   AntiMagicAura_off = "Das magische Feld normalisiert sich wieder."
+   AntiMagicAura_new_occupant = "Hier fluktuiert das magische Feld."
 
    AntiMagicAura_sound = kantimag.wav
 
@@ -174,3 +174,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

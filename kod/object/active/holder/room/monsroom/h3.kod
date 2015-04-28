@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsH3 = H3.roo
-   room_name_OutdoorsH3 ="Outskirts of Barloque"
-   OutdoorsH3_music = forest.mid
+   room_name_OutdoorsH3 = "Auﬂenbezirk von Barloque"
+   OutdoorsH3_music = forest.mp3
 
 classvars:
 
@@ -79,3 +79,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

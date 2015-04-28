@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   hospice_name_rsc = "hospice"
+   hospice_name_rsc = "Heilung"
    hospice_icon_rsc = ihospice.bgf
-   hospice_desc_rsc = \
-      "Rejuvenates the target of the spell with Shal'ille's healing energy.  "
-      "Shal'ille gives a small reward toward the karma of the mage who heals "
-      "another good soul.  "
-      "Requires herbs to cast."
+   hospice_desc_rsc = "Heilt die Zielperson des Zaubers mit der Kraft Sha-Lills. Der Zauber benötigt Kräuter."
 
-   hospice_cast_rsc = "The spirit of Shal'ille enters your body and rejuvenates it."
-   hospice_cast_on_other = "You heal %s%s."
-   hospice_unnecessary_rsc = "%s%s is perfectly healthy."
+
+
+
+
+   hospice_cast_rsc = "Der Geist Sha-Lills durchdringt Deinen Körper und heilt ihn."
+   hospice_cast_on_other = "Du heilst %s%s."
+   hospice_unnecessary_rsc = "%s%s ist vollkommen gesund."
 
 classvars:
 
@@ -132,3 +132,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

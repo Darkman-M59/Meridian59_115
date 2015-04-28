@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   nightvision_name_rsc = "night vision"
+   nightvision_name_rsc = "Nachtsicht"
    nightvision_icon_rsc = nitvsico.bgf
-   nightvision_desc_rsc = \
-      "Magically enhances the vision of the target.  "
-	   "Requires elderberry to cast."
-   
-   nightvision_already_enchanted_rsc = "You already have night vision."
+   nightvision_desc_rsc = "Verstärkt auf magische Weise die Sehkraft der Zielperson. Der Zauber benötigt Holunderbeeren. "
 
-   nightvision_on_rsc = "Your eyes burn with magical energy."
-   nightvision_off_rsc = "Your vision returns to normal."
-   nightvision_success_rsc = "%s%s's eyes burn with magical energy."
+
+   
+   nightvision_already_enchanted_rsc = "Du hast bereits Nachtsicht."
+
+   nightvision_on_rsc = "Deine Augen brennen voll magischer Energie."
+   nightvision_off_rsc = "Deine Sehkraft normalisiert sich wieder."
+   nightvision_success_rsc = "%s%s Augen brennen voll magischer Energie."
 
 classvars:
 
@@ -96,3 +96,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

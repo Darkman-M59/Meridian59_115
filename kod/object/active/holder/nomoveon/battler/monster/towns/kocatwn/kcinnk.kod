@@ -18,16 +18,16 @@ resources:
 
    Kocataninnkeeper_name_rsc = "Moxal ix'Hanak"
    kocataninnkeeper_icon_rsc = kcinnk.bgf
-   kocataninnkeeper_desc_rsc =  \
-     "Entrepreneurial by nature, Moxal ix'Hanak is always on the look out "
-     "for a new high risk investment.  He greets you with a confident smile "
-     "and a clandestine gleam in his eye."
+   kocataninnkeeper_desc_rsc = "Von Natur aus unternehmerisch veranlagt, hält Moxal ix'Hanak stets Ausschau nach einer neuen hochriskanten Investition. Er grüßt dich mit einem selbstbewussten Lächeln und einem geheimnissvollen Glimmen in seinen Augen."
 
-   kocataninnkeeper_entry_welcome = "Welcome, good patron.  I hope you find your stay to be a pleasant one."
-   kocinn_winknudge = "Thanks!  I'll be sure to let you know how it all turns out!"
-   kocataninnkeeper_unwanted_keep = "~k%s%s tells you, \"Thank you.  You won't regret letting me borrow that.~n~k\""
 
-   KocatanInkeeper_purplemushroom_sale = "Ah!  You would like %s%s.  Yes, I imported these wonderous beauties directly from the mainland.  Guaranteed to make you stronger if you eat 3000 of them, I've heard!"
+
+
+   kocataninnkeeper_entry_welcome = "Willkommen, Patron. Ich hoffe, Du hast einen angenehmen Aufenthalt."
+   kocinn_winknudge = "Danke! Ich werde Dich bestimmt wissen lassen, was dabei herauskommt!"
+   kocataninnkeeper_unwanted_keep = "~k%s%s erzählt Dir, \"Danke. Du wirst es nicht bereuen, dass Du es mir geliehen hast.~n~k\""
+
+   KocatanInkeeper_purplemushroom_sale = "Ah! Du möchtest %s%s? Ich habe sie frisch vom Festland importiert. Sie sollen Stärke verleihen, wenn man 3000 davon isst."
 
 classvars:
 
@@ -162,3 +162,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -22,19 +22,19 @@ constants:
 
 resources:
 
-   room_name_OutdoorsF8 ="Lake of Jala's Song"
+   room_name_OutdoorsF8 = "See Jalas Lied"
    room_OutdoorsF8 = F8.roo
-   OutdoorsF8_music = walk7.mid
+   OutdoorsF8_music = walk7.mp3
 
    waterfall_soundF8 = wfall2.wav
 
-   OutdoorsF8_muffled = "You can barely hear the sound of someone talking in the distance."
-   OutdoorsF8_PasswordDoorUnlocked = "You hear a loud click as the door unlocks."
-   OutdoorsF8_PasswordDoorRelocked = "You hear a loud click as the door relocks."
+   OutdoorsF8_muffled = "Ganz in der Ferne hörst Du, wie sich jemand unterhält."
+   OutdoorsF8_PasswordDoorUnlocked = "Du hörst ein lautes Klicken. Die Tür ist nun nicht mehr verschlossen."
+   OutdoorsF8_PasswordDoorRelocked = "Du hörst ein lautes Klicken. Die Tür ist nun wieder verschlossen."
 
-   OutdoorsF8_locked = \
-      "The door back into the guild hall is locked from the other side.  The guild "
-      "password is needed to enter."
+   OutdoorsF8_locked = "Die Tür zur Gildehalle ist von der anderen Seite verschlossen. Du benötigst das Gildenpasswort, um einzutreten."
+
+
 
 classvars:
 
@@ -306,3 +306,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

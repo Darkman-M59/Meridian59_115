@@ -15,7 +15,7 @@ constants:
    include blakston.khd
 
 resources:
-   priestess_teach_quest_needed = "To learn that, you must first become my disciple by proving the strength of your faith."
+   priestess_teach_quest_needed = "Um das zu lernen, musst Du zuerst ein ~IAnhänger~I werden, indem Du die Größe deiner Treue unter Beweis stellst."
 
 classvars:
    
@@ -91,3 +91,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

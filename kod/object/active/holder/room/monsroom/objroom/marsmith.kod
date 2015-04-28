@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   room_name_marsmith = "Ye Olde Slasher Salesman"
+   room_name_marsmith = "Zum alten Hufschmied"
    room_MarSmith = marsmith.roo
 
-   marsmith_music = smithy.mid
+   marsmith_music = smithy.mp3
 
 classvars:
 
@@ -68,3 +68,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   CouncilLetter_name_rsc = "letter"
+   CouncilLetter_name_rsc = "Brief"
    CouncilLetter_icon_rsc = scr04.bgf
-   CouncilLetter_desc_rsc = \
-      "This official-looking piece of correspondence is embossed with a gilt crest.  You "
-      "wonder what is written on it, but dare not break the seal to peek."
+   CouncilLetter_desc_rsc = "Dieser amtlich aussehende Brief trägt eine Gildenwappenprägung. Du fragst Dich, was darin steht, traust Dich jedoch nicht, das Siegel zu brechen und hineinzuschauen."
+
+
 
 classvars:
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

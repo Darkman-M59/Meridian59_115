@@ -16,23 +16,23 @@ constants:
 
 resources:
 
-   fireWand_name_rsc = "wand of fire"
+   fireWand_name_rsc = "Der Stab des Feuers"
    fireWand_icon_rsc = wand2.bgf
    fireWand_fire_rsc = fireball.bgf
-   fireWand_desc_rsc = \
-   "Waves of heat seem to radiate from this wand."
+   fireWand_desc_rsc = "Hitzewellen scheinen von diesem Zauberstab abzustrahlen."
 
-   firewand_target_hit_rsc = \
-   "Pain rips through your body as %s%s's magical flames sear your flesh!"
 
-   firewand_hit_target_rsc = "You watch with satisfaction as a ball of fire engulfs %s%s!"
-   firewand_used_self_rsc = "After a moment's deliberation, you decide not to set yourself aflame."
+   firewand_target_hit_rsc = "Schmerz fließt durch Deinen Körper, als Dich %s%s mit magischen Flammen berührt!"
 
-   firewand_safety_on = "Silly you!  You almost fried %s!  Good thing your safety was on!"
-   firewand_fail_rsc = "It would be foolish to waste the mystical energy on an inanimate object!"
 
-   firewand_missed_target = "%s%s narrowly dodges your mystical ball of flame."
-   firewand_missed_you = "%s%s's mystical ball of flame narrowly misses you."
+   firewand_hit_target_rsc = "Du siehst mit Zufriedenheit, dass Flammen von %s%s aufsteigen!"
+   firewand_used_self_rsc = "Du überlegst kurz und entscheidest dann, Dich nicht selbst zu verbrennen."
+
+   firewand_safety_on = "Dummerchen! Fast hättest Du %s geröstet! Zum Glück war Deine Schutzfunktion aktiv!"
+   firewand_fail_rsc = "Es wäre einfältig, die mystische Kraft an ein unbewegtes Objekt zu verschwenden!"
+
+   firewand_missed_target = "%s%s weicht Deinem Feuerball geschickt aus."
+   firewand_missed_you = "%s%s wirft einen Feuerball nach Dir, aber er trifft Dich nicht."
 
    firewand_sound = ffirebal.wav
 
@@ -214,4 +214,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -17,14 +17,14 @@ constants:
 
 resources:
 
-   guildsetpassword_name_rsc = "set password"
+   guildsetpassword_name_rsc = "Passwort festlegen"
    guildsetpassword_icon_rsc = light.bgf
 
-   guildsetpassword_lieutenant = "Changes a guild hall's password."
+   guildsetpassword_lieutenant = "Ändert das Passwort einer Gildenhalle."
 
-   setpassword_not_guilded = "You are not a member of a guild, and have no password to change!"
-   setpassword_cant_setpassword = "Only guildmasters may change a guild's password!"
-   setpassword_no_hall = "You cannot set your guild hall's password, if you have no guild hall!"
+   setpassword_not_guilded = "Du bist kein Gildenmitglied und hast kein Passwort zu ändern!"
+   setpassword_cant_setpassword = "Nur Gildenführer können das Gildenpasswort ändern!"
+   setpassword_no_hall = "Du kannst kein Passwort für Deine Gildenhalle festlegen, wenn Du keine Gildenhalle hast!"
 
 classvars:
 
@@ -88,3 +88,4 @@ messages:
   
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

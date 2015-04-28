@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   Melancholy_name_rsc = "melancholy"
+   Melancholy_name_rsc = "Melancholie"
    Melancholy_icon_rsc = imlnchly.bgf
-   Melancholy_desc_rsc = \
-      "This is a sad song, invoking feelings of loss and sorrow.  It causes "
-      "most people hearing it to experience overwhemling sadness, often "
-      "leading to foul moods.  This music is appropriate for funerals and "
-      "fighting against the forces of good.  "
-      "It requires 1 sapphire to cast."
+   Melancholy_desc_rsc = "Eine traurige Melodie, welche Gefühle von Verlust und Sehnsucht weckt. Der Zuhörer wird von einer solchen Trauer und Leere erfasst, dass diese nicht selten zu depressiven Stimmungen führen. Ein Lied, welches zu Beerdigungen und anderen melancholischen Zeiten passt. Um ihre Wirkung zu entfalten, wird ein Saphir benötigt."
 
-   Melancholy_on = "%s%s's melancholy song makes your heart feel heavy."
 
-   Melancholy_song = ksong.mid
+
+
+
+
+   Melancholy_on = "Das melancholische Lied von %s%s lässt dein Herz schwer werden."
+
+   Melancholy_song = ksong.mp3
  
 classvars:
 
@@ -174,3 +174,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   fairywing_name_rsc = "fairy wing"
+   fairywing_name_rsc = "Der Feenflügel"
    fairywing_icon_rsc = farywing.bgf
-   fairywing_desc_rsc = \
-   "This tiny fairy wing is as delicate as aged parchment.  "
-   "It is extremely rare and is said to be a powerful "
-   "magical reagent."
+   fairywing_desc_rsc = "Dieser äußerst feine Flügel ist ebenso filigran wie altes Pergament. Er ist extrem selten und man sagt, er sei eine sehr mächtige magische Zutat."
 
-   fairywing_name_plural_rsc = "fairy wings"
+
+
+
+   fairywing_name_plural_rsc = "Feenflügel"
 
 classvars:
 
@@ -46,3 +46,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

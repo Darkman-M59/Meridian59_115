@@ -24,43 +24,43 @@ resources:
    room_name_marion = "Marion"
    room_marion = marion.roo
 
-   mar_music = city02.mid
+   mar_music = city02.mp3
 
    wind_sound_marion = rs_wind.wav
 
-   mimosa_rose_offering = \
-      "You pause to reflect on the fallen, and feel your spirit refreshed despite the sorrow."
+   mimosa_rose_offering = "Du hältst inne, um der Gefallenen zu gedenken und zu fühlen, wie ihr Geist durch das Mitgefühl erfrischt wird."
 
-   mimosa_rose_offering_spam = \
-      "You pause to ponder the meaning of life."
 
-   mimosa_other_offering = \
-      "Your offering to the fallen falls softly on a bed of dried flower petals."
+   mimosa_rose_offering_spam = "Du machst eine kurze Pause, um über den Sinn des Lebens zu sinnieren."
 
-   mimosa_name = "the mimosa tree"
+
+   mimosa_other_offering = "Deine Gabe an die Gefallenen fällt in ein weiches Bett getrockneter Blütenblätter."
+
+
+   mimosa_name = "Der Mimosenbaum"
    mimosa_icon = treebot.bgf
-   mimosa_desc = \
-      "This tree stands as a memorial of a fallen friend. "
-      "A small metal plaque is affixed near the ground; a few dried rose petals rest nearby."
-   mimosa_insc = \
-      "The young girls\n"
-      "Cut their hair at your passing.\n"
-      "No bread was baked that day,\n"
-      "And the wine tasted sour.\n"
-      "\n"
-      "We sloughed our way up the hill\n"
-      "In the driving rain\n"
-      "To send you on your way.\n"
-      "A bit further along into eternity\n"
-      "Than your rain-soaked comrades.\n"
-      "\n"
-      "Diana kept your sword;\n"
-      "Aspasia, your muddy cloak of fine red wool.\n"
-      "I kept your memory--and the dark tunic\n"
-      "We used to wipe your face.\n"
-      "More than that, I would not have done."
+   mimosa_desc = "Dieser Baum steht zum Gedenken an einen gefallenen Freund. Eine kleine Metallplatte ist nahe des Bodens angebracht; einige trockene Rosenblätter liegen in ihrer Nähe."
 
-   marion_gate_warning = "This gate was put in place to keep citizens safe from the dangers of the crypt."
+
+   mimosa_insc = "Die jungen Mädchen\nSchnitten sich die Haare ab.\nKein Brot wurd' gebacken an dem Tage,\nUnd selbst der Wein schmeckte schal.\n\nWir wanden uns den Berg hinauf,\nEs regnete in Strömen\nUm Dir Geleit zu geben,\nEin Stück näher an der Ewigkeit\nAls Deine duchnässten Kameraden.\n\nDiana hält Dein Schwert;\nAspasia den erdigen Mantel aus roter Wolle.\nIch erinnere mich an Dich und die dunkle Tunika,\nMit der wir Dein Gesicht vom Schmutz befreiten.\nMehr als das hätte ich nie getan."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   marion_gate_warning = "Dieses Gitter wurde errichtet, um die Bevölkerung vor den Gefahren zu beschützen, die in der Krypta lauern."
 
 classvars:
 
@@ -231,3 +231,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

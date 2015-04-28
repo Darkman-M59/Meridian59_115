@@ -18,16 +18,16 @@ constants:
 
 resources:
 
-   barloque_apothecary_name_rsc = "Joguer"
+   barloque_apothecary_name_rsc = "Koldor"
    barloque_apothecary_icon_rsc = bqapoth.bgf
-   barloque_apothecary_desc_rsc = \
-      "Whistling an inane tune to himself, Joguer takes great care in tending to his fresh garden "
-      "of magical herbs and mushrooms. Many say he is the foremost herbalist in the land."
+   barloque_apothecary_desc_rsc = "Eine alberne Melodie vor sich hinpfeifend, widmet sich Koldor ganz der Pflege seines Gartens mit magischen Kräutern und Pilzen. Viele sagen, er sei der größte Kräuterkundige im Land."
 
-   BqApo_entry_welcome = "Congratulations! Thou hath found the best shop in the land."
-   BqApo_unwanted_give = "~k%s%s tells you, \"I fear that I have no use for thy offering.  Mayhaps thou should seek to sell it at another establishment.~n~k\""
 
-   BqApo_firesand_sale = "Looking for %s%s?  I happend to have imported some from the island of Ko'catan."
+
+   BqApo_entry_welcome = "Herzlichen Glückwunsch! Ihr habt den besten Laden im Land gefunden."
+   BqApo_unwanted_give = "~k%s%s sagt zu Dir, \"Ich fürchte, dass ich keinen Nutzen von Deinem Angebot habe. Vielleicht solltest Du versuchen, es in einem anderen Etablissement zu verkaufen.~n~k\""
+
+   BqApo_firesand_sale = "Ihr sucht %s%s? Ich habe einige von der Insel importiert."
 
 classvars:
 
@@ -181,4 +181,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

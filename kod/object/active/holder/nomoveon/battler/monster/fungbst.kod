@@ -23,19 +23,19 @@ constants:
 resources:
 
    fungusbeast_koc_name_rsc = "puucmecmoch"
-   fungusbeast_name_rsc = "fungus beast"
+   fungusbeast_name_rsc = "Das Pilzwesen"
    fungusbeast_icon_rsc = fungbst.bgf
-   fungusbeast_desc_rsc = \
-      "This strange creature, made up of tender, pulpy flesh, "
-      "moves slowly and deliberately.  Giant spores cling to "
-      "its back."
+   fungusbeast_desc_rsc = "Diese seltsame Kreatur aus weichem, schwammigen Gewebe bewegt sich langsam und überlegend. Riesige Sporen haften auf ihrem Rücken."
+
+
+
 
    % fungusbeast_head_icon_rsc = fungh.bgf
 
    fungusbeast_spore = spore.bgf
 
    fungusbeast_dead_icon_rsc = fungX.bgf
-   fungusbeast_dead_name_rsc = "dead fungus beast"
+   fungusbeast_dead_name_rsc = "Ein totes Pilzwesen"
 
    fungusbeast_sound_hit = fng_atkh.wav
    fungusbeast_sound_miss = fng_atkm.wav
@@ -179,3 +179,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

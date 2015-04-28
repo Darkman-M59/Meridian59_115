@@ -32,13 +32,13 @@ constants:
 
 resources:
 
-   room_name_guildh4 = "The Wryn's Keep"
+   room_name_guildh4 = "Die Würms-Feste"
    room_guildh4 = guildh4.roo
 
    guildhall4_sound = down2.wav
 
-   news_guild4_name = "news"
-   news_guild4_desc = "This is the guild newsgroup."
+   news_guild4_name = "Neuigkeiten"
+   news_guild4_desc = "Dies ist das Schwarze Brett der Gilde."
 
 classvars:
 
@@ -537,3 +537,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,7 +16,7 @@ constants:
    
 resources:
 
-   repairslot_name_rsc = "repair slot"
+   repairslot_name_rsc = "Reparaturschlitz"
 
 classvars:
 
@@ -60,4 +60,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

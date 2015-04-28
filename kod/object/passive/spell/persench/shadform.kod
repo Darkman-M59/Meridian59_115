@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   shadowform_name_rsc = "shadow form"
-   shadowform_icon_rsc = ishadfrm.bgf   
-   shadowform_desc_rsc = \
-     "Transforms the target into a silhouette of their former self, "
-	  "perfect for skulking in darker locales and making them more difficult to hit.  "
-	  "Requires a handful of rainbow fern."
+   shadowform_name_rsc = "Schattenform"
+   shadowform_icon_rsc = ishadfrm.bgf
+   shadowform_desc_rsc = "Wandelt Dein Ziel in einen Schatten seiner selbst. Ideal, um in dunkleren Gefilden herumzuschleichen. Dafür reicht eine handvoll Regenbogenfarn."
 
-   shadowform_already_enchanted = "You already have shadow form."
-   shadowform_already_affected = "The shadows refuse to hide what you wish."
 
-   shadowform_on = "You melt into your shadow."
-   shadowform_off = "You fade back to your own colors."
+
+
+   shadowform_already_enchanted = "Du erscheinst bereits als Schattenform."
+   shadowform_already_affected = "Der Schatten weigert sich zu verstecken, was du verborgen wissen willst."
+
+   shadowform_on = "Du verwandelst Dich in Deinen Schatten."
+   shadowform_off = "Du kehrst in Deine wahre Gestalt zurück."
 
    shadowform_wave_rsc = shadI11m.wav
 
@@ -149,3 +149,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

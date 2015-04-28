@@ -17,19 +17,19 @@ constants:
 
 resources:
 
-   gift_name_rsc = "gift"
+   gift_name_rsc = "Das Geschenk"
    gift_icon_rsc = package.bgf
-   gift_desc_rsc = \
-      "This is a gift from the gods, to thank you for your patience and "
-      "your patronage."
+   gift_desc_rsc = "Dies ist ein Geschenk der Götter, die sich für Deine Geduld und Ergebenheit bedanken wollen."
 
-   gift_open = "With unbridled delight, you open the gift to find %s%s inside!"
 
-   gift_desc_1 = "This is a neatly wrapped present.  A tag attached to the bow reads, 'From "
-   gift_desc_2 = " with love'."
-   gift_bonded_wrapped_1 = "You sense that your "
-   gift_bonded_wrapped_2 = " has been giftwrapped."
-   gift_bonded_unwrapped_1 = "You sense that your gift has been unwrapped to reveal a "
+
+   gift_open = "Mit ungezügelter Freude öffnest Du das Geschenk und findest darin %s%s!"
+
+   gift_desc_1 = "Dies ist ein niedlich verpacktes Geschenk. Auf einem kleinen Zettelchen steht geschrieben: 'Von "
+   gift_desc_2 = " in Liebe'."
+   gift_bonded_wrapped_1 = "Du fühlst, dass Du vergiftet wurdest."
+   gift_bonded_wrapped_2 = " wurde mit Geschenkpapier umwickelt."
+   gift_bonded_unwrapped_1 = "Dein Geschenk ist nun unverpackt. Es ist: "
    gift_bonded_unwrapped_2 = "."
 
 classvars:
@@ -225,4 +225,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

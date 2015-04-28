@@ -25,7 +25,7 @@ resources:
    archive_watcher = king.bgf
    archive_priestess = priestes.bgf
    archive_blacksmith = mrsmith.bgf
-   archive_hermit = hermit.bgf   
+   archive_hermit = hermit.bgf
    archive_Assassin = qroq.bgf
    archive_OldDuke = duke.bgf
    archive_OldPrincess = prncsold.bgf
@@ -97,3 +97,4 @@ messages:
    }
 
 end
+

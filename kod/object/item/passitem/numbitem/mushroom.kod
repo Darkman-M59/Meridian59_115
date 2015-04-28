@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   mushroom_name_rsc = "mushroom"
+   mushroom_name_rsc = "Der Pilz"
    mushroom_icon_rsc = mushroom.bgf
-   mushroom_desc_rsc = \
-      "These mushrooms are a common magical reagent."
+   mushroom_desc_rsc = "Diese Pilze sind übliche magische Zutaten."
 
-   mushroom_name_plural_rsc = "mushrooms"
+
+   mushroom_name_plural_rsc = "Pilze"
 
 classvars:
 
@@ -51,3 +51,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

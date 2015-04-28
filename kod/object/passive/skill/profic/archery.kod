@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   Archery_name_rsc = "archery"
+   Archery_name_rsc = "Bogenschießen"
    Archery_icon_rsc = archrico.bgf
-   Archery_desc_rsc = "Those with this skill find themselves better able to handle any standard bow.  "
-			"However, the learning curve is tediously slow, and only those with good aim will "
-			"ever truly excel at it."
+   Archery_desc_rsc = "Diejenigen mit dieser Fertigkeit kommen mit einem Bogen besser zurecht. Doch das Lernen geht nur sehr langsam voran und nur diejenigen, die über eine hohe Zielgenauigkeit verfügen, werden es jemals meistern."
+
+
 
    %% Add a new proficiency for crossbows.
 
@@ -49,3 +49,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

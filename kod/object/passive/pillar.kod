@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   pillar_name_rsc = "pillar"
+   pillar_name_rsc = "Die S‰ule"
    pillar_icon_rsc = marblplr.bgf
-   pillar_desc_rsc = "This is a tall, impressive marble pillar."
+   pillar_desc_rsc = "Dies ist eine groﬂe, eindrucksvolle Marmors‰ule."
 
 classvars:
 
@@ -44,3 +44,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   room_name_newb1 = "Raza Inn"
+   room_name_newb1 = "Razas Taverne"
 
-   Newbie1_god_name = "Designers' News"
-   Newbie1_god_desc = "Check here for information from the game administrators."
+   Newbie1_god_name = "Neuigkeiten der Designer"
+   Newbie1_god_desc = "Erfahre hier über Neuigkeiten über das Spiel."
 
 classvars:
 
@@ -74,3 +74,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

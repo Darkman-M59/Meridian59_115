@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   DetectGood_name_rsc = "detect good"
+   DetectGood_name_rsc = "Gutes erkennen"
    DetectGood_icon_rsc = iDetGood.bgf
-   DetectGood_desc_rsc = \
-      "Allows you to see the disgustingly pure of heart.  This spell will reveal all good "
-      "people and monsters that are more good than you are corrupted.  "
-      "Requires a fairy wing to cast."
+   DetectGood_desc_rsc = "Ermöglicht Dir, die wahrhaft erschreckende Reinheit des Herzens zu erfahren. Man braucht dazu die Flügel eines Feys."
+
+
+
    
-   DetectGood_on_rsc = "You can now sense all things good, merely waiting to be defiled."
-   DetectGood_off_rsc = "Your eyesight returns to its former mundanity."
-   DetectGood_already_enchanted_rsc = "You can already see the pure."
-   DetectGood_Success_rsc = "%s%s can now see the pure."
+   DetectGood_on_rsc = "Du kannst jetzt das Gute in allen Dingen spüren, das bloß darauf wartet, entehrt zu werden."
+   DetectGood_off_rsc = "Deine Sicht kehrt zur vorherigen Perspektive zurück."
+   DetectGood_already_enchanted_rsc = "Du kannst bereits das Gute sehen."
+   DetectGood_Success_rsc = "%s%s kann jetzt Gutes erkennen."
 
    DetectGood_sound = qdetgood.wav
 
-   DetectGood_spell_intro = "Qor Lv. 1: Allows you to detect good people and monsters."
+   DetectGood_spell_intro = "Qor Zirkel 1: Erlaubt es Dir, gute Menschen und Monster zu entdecken."
 
 classvars:
 
@@ -112,3 +112,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

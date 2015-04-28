@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   nerudite_arrow_name_rsc = "nerudite arrows"
+   nerudite_arrow_name_rsc = "Die Nerudit-Pfeile"
    nerudite_arrow_icon_rsc = arrowner.bgf
-   nerudite_arrow_desc_rsc = \
-      "These carved arrowheads do a little more damage than standard arrows, "
-      "but should the small green stone shatter under the impact, it could "
-      "prove fatal to the victim."
+   nerudite_arrow_desc_rsc = "Diese geschnitzten Pfeilspitzen verursachen ein wenig mehr Schaden als die normalen Pfeilspitzen. Sollte jedoch der kleine grüne Stein durch den Aufschlag zerbrechen, kann sich das als fatal für das Opfer erweisen."
 
-   nerudite_arrow_explodes = "The nerudite arrowhead shatters!"
+
+
+
+   nerudite_arrow_explodes = "Die Pfeilspitze aus Nerudit zerbricht!"
 
 classvars:
 
@@ -84,3 +84,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

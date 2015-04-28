@@ -18,11 +18,11 @@ constants:
 
 resources:
 
-   corpseportal_name_rsc = "rip in space"
+   corpseportal_name_rsc = "Ein Dimensionstor"
    corpseportal_icon_rsc = teleport.bgf
-   corpseportal_desc_rsc = \
-      "This rip in space leads back to someone's body.  The rip will only "
-      "work for the former inhabitant of that body."
+   corpseportal_desc_rsc = "This rip in space leads back to someone's body.  The rip will only work for the former inhabitant of that body."
+
+
 
 classvars:
 
@@ -106,3 +106,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

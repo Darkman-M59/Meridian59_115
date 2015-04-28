@@ -25,16 +25,16 @@ constants:
 resources:
 
    OrcPitBoss_koc_name_rsc = "koutom"
-   OrcPitBoss_name_rsc = "orc pit boss"
+   OrcPitBoss_name_rsc = "Der Orkhäuptling"
    OrcPitBoss_icon_rsc = OrcPitB.bgf
-   OrcPitBoss_desc_rsc = \
-	"In order to gain the ominous title and station of Pit Boss, "
-	"this orc had to battle and slay over one hundred other of its "
-	"kind.  In the caves, there is no more formidable warrior, "
-	"determined leader or grisly adversary than the horrendous Pit Bosses."  
+   OrcPitBoss_desc_rsc = "Um den ominösen Titel und Rang eines Orkhäuptling zu erlangen, mußte dieser Ork mehr als einhundert andere seiner Art bekämpfen und töten. In den Höhlen gibt es keinen furchterregenderen Krieger, entschlosseneren Führer oder gräßlicheren Gegner als den entsetzlichen Orkhäuptling."
+
+
+
+
 
    OrcPitBoss_dead_icon_rsc = OrcPitbX.bgf
-   OrcPitBoss_dead_name_rsc = "dead orc pit boss"
+   OrcPitBoss_dead_name_rsc = "Der tote Orkhäuptling"
 
    OrcPitBoss_sound_hit = orc_atkh.wav
    OrcPitBoss_sound_miss = orc_atkm.wav
@@ -204,3 +204,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

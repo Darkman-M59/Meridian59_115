@@ -19,19 +19,19 @@ constants:
 
 resources:
 
-   manabomb_name_rsc = "mana bomb"
+   manabomb_name_rsc = "Magische Bombe"
    manabomb_icon_rsc = imanabom.bgf
-   manabomb_desc_rsc = \
-      "Initiates a white hot explosion which burns all of the "
-      "caster's mana and consumes half of that amount from all "
-      "others in the room.  "
-      "Requires sapphires to cast."
+   manabomb_desc_rsc = "Zündet eine weiße, heiße Explosion, welche die gesamte magische Kraft des Zaubernden und die Hälfte der Kraft aller anderen im Raum verbrennt. Der Zauber benötigt Saphire. "
 
-   manabomb_cast = "%s%s's mana violently detonates!"
-   manabomb_hit_some = \
-      "You feel mana being ripped from your body, burning "
-      "itself out in a magical chain reaction."
-   manabomb_hit_all = "All of your mana burns away in a magical chain reaction!"
+
+
+
+
+   manabomb_cast = "%s%ss Zauberkraft explodiert mit ungeheurer Wucht!"
+   manabomb_hit_some = "Du fühlst, wie die magische Kraft Deinem Körper entzogen wird und unkontrolliert verbrennt."
+
+
+   manabomb_hit_all = "Deine gesamte magische Kraft verbrennt in einer magischen Kettenreaktion!"
 
    manabomb_sound = kmbomb.wav
 
@@ -168,3 +168,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

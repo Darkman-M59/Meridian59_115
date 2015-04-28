@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   curseweapon_cast_rsc = "%s%s gains an eerie, red glow."
+   curseweapon_cast_rsc = "%s%s nimmt ein unheimliches, rotes Glühen an."
    
-   curseweapon_fails = "%s%s is strangely unaffected by the spell."
+   curseweapon_fails = "%s%s bleibt seltsamerweise von dem Zauber unberührt."
    
    
-   curseweapon_name_rsc = "curse weapon"
+   curseweapon_name_rsc = "Verfluchte Waffe"
    curseweapon_icon_rsc = iunholyw.bgf
-   curseweapon_desc_rsc = \
-      "Makes the target weapon nearly ineffective for a time, "
-      "and curses the user to wield it until he or she gains "
-      "divine aid.  "
-      "Requires the blood of a magic-casting beast and teeth of a fierce fighting monster."
+   curseweapon_desc_rsc = "Macht die Zielwaffe für einige Zeit fast unbrauchbar und verflucht den Benutzer dazu, sie zu führen bis er oder sie heilige Hilfe erhält. Erfordert Schamanenblut und Orkzähne."
+
+
+
+
 
    curseweapon_sound = qcurweap.wav
    
@@ -137,3 +137,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

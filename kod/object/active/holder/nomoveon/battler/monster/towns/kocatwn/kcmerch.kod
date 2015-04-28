@@ -18,21 +18,21 @@ resources:
 
    kocatanTradeMaster_name_rsc = "Wulfgang zax'Ak"
    kocatanTradeMaster_icon_rsc = kcmerch.bgf
-   kocatanTradeMaster_desc_rsc =  \
-      "A remarkable man fallen upon a tough life, Wulfgang was born on the mainland "
-      "and raised in the persecuted secret society of the last Riija School.  Besides that "
-      "he somehow escaped to this island and established his trading post, little else is "
-      "known about Wulfgang's past."
-   
-   Wolfgang_lute = "A lute.... a lute... I think I have one of those somewhere...."
-   Wolfgang_potion_jala = "Yes, I do have one of those.  Naturally, I have no use for it..."
-   Wolfgang_entrootberry_sale = "You ask for %s%s?  Take them, it's just a bitter reminder of what I have left behind."
-   Wolfgang_fairywing_sale = "You want %s%s?  You can have them, I have no use for that anymore."
-   Wolfgang_mushroom_sale = "Ah, yes.  You wish to buy %s%s?  I remember collecting these around my hometown as a kid."
+   kocatanTradeMaster_desc_rsc = "Ein bemerkenswerter Mann, der ein hartes Leben hinter sich hat. Wulfgang wurde auf dem Festland geboren und ist in einer verfolgten  Geheimgesellschaft der letzten Riijaschule aufgezogen worden. Außer, dass er irgendwie auf diese Insel geflohen ist und hier seinen Handelsposten etabliert hat, weiß man wenig über seine Vergangenheit."
 
-   Wolfgang_Nerudite_bought = "Wonderful!  This will fetch a fine price from the Peet-*  ahem.  From my customers."
-   Wolfgang_Nerudite_cant_accept_money = "I would love to take that fine chunk of ore off your hands, but I'm afraid "
-      "You are carrying too much to accept your payment."
+
+
+
+   
+   Wolfgang_lute = "Eine Laute ... eine Laute ... Ich glaube, ich hab' eine davon irgendwo ..."
+   Wolfgang_potion_jala = "Ja, ich habe eine davon. Natürlich habe ich keine Verwendung dafür..."
+   Wolfgang_entrootberry_sale = "Du fragst nach %s%s? Nimm sie. Sie sind nur eine bittere Erinnerung für mich für das, was ich hinter mir zurückließ."
+   Wolfgang_fairywing_sale = "Du möchtest %s%s? Nimm ruhig. Ich habe keine Verwendung mehr dafür."
+   Wolfgang_mushroom_sale = "Ah, Du möchtest %s%s kaufen? Ich erinnere mich daran, wie ich sie als Kind rund um meine Heimatstadt gesammelt habe."
+
+   Wolfgang_Nerudite_bought = "Wunderbar! Das wird mir von den... ähem... Kunden einen guten Preis einbringen."
+   Wolfgang_Nerudite_cant_accept_money = "Ich würde Dir gerne dieses feine Stück Erz aus Deinen Händen abnehmen, aber ich fürchte, Du schleppst zu viel mit dir herum, um die Bezahlung annehmen zu können."
+
    
 classvars:
 
@@ -217,3 +217,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

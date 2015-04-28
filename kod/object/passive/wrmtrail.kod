@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   GroundWormTrailClump_name_rsc = "Loose soil"
+   GroundWormTrailClump_name_rsc = "Lockere Erde"
    GroundWormTrailClump_icon_rsc = dirtpile.bgf
    GroundWormTrailClump_small_icon_rsc = dirtplsm.bgf
-   GroundWormTrailClump_desc_rsc = "You are looking at a clump of disturbed soil."
+   GroundWormTrailClump_desc_rsc = "Du blickst auf einen Klumpen lockerer Erde."
 
 classvars:
 
@@ -60,3 +60,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

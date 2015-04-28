@@ -25,19 +25,19 @@ constants:
 
 resources:
 
-   Purge_name_rsc = "purge"
+   Purge_name_rsc = "Beseitigen"
    Purge_icon_rsc = ipurge.bgf
-   Purge_desc_rsc = \
-      "Strips helpful personal enchantments off of the target. "
-      "Requires emeralds and purple mushrooms to cast."
+   Purge_desc_rsc = "Streift hilfreiche persönliche Verzauberungen vom Ziel ab. Benötigt Smaragde und lila Pilze."
+
+
    
-   Purge_on = \
-      "A bright, holy light is trying to burn away your beneficial "
-      "enchantments."
-   Purge_not_enchanted = "%s%s is not affected by any helpful magical "
-      "energies."
-   Purge_spell_intro = \
-      "Shal'ille Lv. 5: Removes helpful personal enchantments on the target."
+   Purge_on = "Ein sanftes, heiliges Licht versucht, Deine hilfreichen Verzauberungen zu beseitigen."
+
+
+   Purge_not_enchanted = "%s%s ist nicht von hilfreichen Magien beeinflusst."
+
+   Purge_spell_intro = "Sha-Lill Zirkel 5: Beseitigt persönliche hilfreiche Verzauberungen."
+
 
 classvars:
 
@@ -249,3 +249,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

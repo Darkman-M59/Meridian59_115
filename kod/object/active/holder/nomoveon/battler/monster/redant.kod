@@ -17,15 +17,15 @@ constants:
 resources:
 
    redant_koc_name_rsc = "kawilkinich"
-   redant_name_rsc = "mutant ant"
+   redant_name_rsc = "Die rote Ameise"
    redant_icon_rsc = antr.bgf
-   redant_desc_rsc = \
-      "The exoskeleton of the mutant ant is thick and hard and "
-      "its mandibles sharp and deadly.  It is stronger and more "
-      "vicious than its dark skinned cousin."
+   redant_desc_rsc = "Der Panzer der roten Ameise ist dick und hart und ihre Klauen sind scharf und tödlich. Sie ist stärker und tödlicher als ihre dunkelhäutigen Verwandten."
+
+
+
 
    redant_dead_icon_rsc = antrX.bgf
-   redant_dead_name_rsc = "dead mutant ant"
+   redant_dead_name_rsc = "Eine tote rote Ameise"
 
    redant_sound_hit = ant_atkh.wav
    redant_sound_miss = ant_atkm.wav
@@ -143,3 +143,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

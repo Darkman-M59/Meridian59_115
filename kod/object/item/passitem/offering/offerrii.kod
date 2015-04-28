@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   offeringRiija_name_rsc = "bottle of lies"
+   offeringRiija_name_rsc = "Die Flasche der Lügen"
    offeringRiija_icon_rsc = lies.bgf
-   offeringRiija_desc_rsc = "This bottle of liquid holds some ominous purpose you can only guess at."
+   offeringRiija_desc_rsc = "Diese Flasche mit Flüssigkeit hat eine ominöse Wirkung, die du nur erraten kannst."
 
 classvars:         
 
@@ -35,4 +35,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   bookped_name_rsc = "book on a pedestal"
+   bookped_name_rsc = "Buch auf einem Sockel"
    bookped_icon_rsc = jbook.bgf
-   bookped_desc_rsc = "A hefty book resting on a sturdy pedestal."
+   bookped_desc_rsc = "Ein schweres Buch, das auf einem stabilen Sockel liegt."
 
-   bookped_text_rsc = \
-      " "
+   bookped_text_rsc = " "
+
 
 classvars:
 
@@ -86,3 +86,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

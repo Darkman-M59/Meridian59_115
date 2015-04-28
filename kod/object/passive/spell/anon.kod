@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   anonymity_start = "Your features fade, and you begin to feel indistinct."
-   anonymity_stop  = "You suddenly feel more like yourself again."
-   anonymity_already_enchanted = "You already have %s%s."
+   anonymity_start = "Deine Umrisse verschwimmen und Du fängst an, undeutlich zu werden."
+   anonymity_stop = "Du fühlst dich plötzlich wieder mehr wie Du selbst."
+   anonymity_already_enchanted = "Du hast den %s%ss-Zauber bereits ausgeführt."
 
-   anonymity_name_rsc = "anonymity"
+   anonymity_name_rsc = "Anonymität"
    anonymity_icon_rsc = ianonymo.bgf
-   anonymity_desc_rsc = \
-      "Makes you indistinct, and unrecognizable to all but those who you'd like to know its you.  "
-      "Note that Shal'ille can not punish transgressors against you when you are anonymous.  "
-      "Requires rainbow ferns and firesand to cast."
+   anonymity_desc_rsc = "Macht Dich anonym für alle außer für die, bei denen du willst, dass sie wissen, wer du bist. Beachte, dass Sha-Lill Missetäter nicht strafen kann, die Dir etwas zuleide getan haben, während du anonym bist. Für den Zauberspruch braucht man Feuersand und Regenbogenfarn."
+
+
+
    anonymity_sound = ranonym.wav
    
 classvars:
@@ -130,3 +130,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsD2 = D2.roo
-   room_name_OutdoorsD2 ="Lower Dirhadrim"
-   OutdoorsD2_music = walk7.mid
+   room_name_OutdoorsD2 = "Nieder-Dirhadrim"
+   OutdoorsD2_music = walk7.mp3
 
 classvars:
 
@@ -78,3 +78,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

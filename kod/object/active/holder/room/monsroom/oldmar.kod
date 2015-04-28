@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OldMarion = "Historic Marion"
+   room_name_OldMarion = "Das historische Marion"
    room_OldMarion = omar.roo
-   OldMarion_music = city02.mid
+   OldMarion_music = city02.mp3
 
 classvars:
 
@@ -64,3 +64,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

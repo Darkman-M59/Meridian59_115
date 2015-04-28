@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   DaemonMask_name_rsc = "daemon skeleton mask"
+   DaemonMask_name_rsc = "Dämonische Skelettmaske"
    DaemonMask_icon_male_rsc = res0002e.bgf
    DaemonMask_icon_female_rsc = res0002f.bgf
-   DaemonMask_desc_rsc = \
-      "This mask looks sinister, good for scaring little children.  It would "
-      "be dangerous to store this in your pocket."
+   DaemonMask_desc_rsc = "Diese Maske ist unheimlich, gut um kleine Kinder zu erschrecken.  Es wäre gefährlich sie in deine Tasche zu stecken."
+
+
 
 classvars:
 
@@ -40,3 +40,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

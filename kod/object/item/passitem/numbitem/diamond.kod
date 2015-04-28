@@ -17,13 +17,13 @@ constants:
 resources:
 
 
-   diamond_name_rsc = "diamond"
+   diamond_name_rsc = "Der Diamant"
    diamond_icon_rsc = diamond.bgf
-   diamond_desc_rsc = \
-   "Mined in dark and dangerous caves far below Jasper, this "
-   "diamond is brilliant and valuable."
+   diamond_desc_rsc = "Dieser Diamant, aus den dunklen und gefährlichen Höhlen tief unter Jasper, ist äußerst rein und wertvoll."
 
-   diamond_name_plural_rsc = "diamonds"
+
+
+   diamond_name_plural_rsc = "Diamanten"
 
 classvars:
 
@@ -48,3 +48,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

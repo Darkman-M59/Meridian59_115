@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsC5 = C5.roo
-   room_name_OutdoorsC5 ="West Merchant Way through Ilerian Woods"
-   OutdoorsC5_music = walk1.mid
+   room_name_OutdoorsC5 = "Westliche Handelsroute durch die Ilerischen Wälder"
+   OutdoorsC5_music = walk1.mp3
    waterfall_soundC5 = wfall2.wav
 
 classvars:
@@ -93,3 +93,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

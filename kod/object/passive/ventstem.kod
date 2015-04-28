@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   VentCloud_name_rsc = "thick steam"
+   VentCloud_name_rsc = "Der dichte Schwaden."
    VentCloud_icon_rsc = poisoncl.bgf
-   VentCloud_desc_rsc = "Thick steam billows from the vent."
+   VentCloud_desc_rsc = "Dichter Dampf dringt aus dem Loch im Boden."
 
 classvars:
 
@@ -49,3 +49,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

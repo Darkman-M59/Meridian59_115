@@ -18,14 +18,14 @@ constants:
 
 resources:
 
-   chess_name_rsc = "chess board"
+   chess_name_rsc = "Das Schachbrett"
    chess_closed_rsc = chesclos.bgf
    chess_open_rsc = chesopen.bgf
    chess_table_rsc = chestabl.bgf
-   chess_desc_rsc = "Two players can use this board to play a game of chess.  Anyone else can use the board to observe.  "
-       "The board must be on the ground for people to be able to play each other.  If you pick up a board "
-       "in the middle of a match, the board will save the status of the game so that it may be concluded later.  "
-       "It is wise to find a safe area to play."
+   chess_desc_rsc = "Hier kann man zu zweit eine Partie Schach spielen. Du kannst natürlich auch einfach nur zusehen. Das Schachbrett muss zum Spielen auf dem Boden liegen. Wenn Du während eines Spiels das Schachbrett hochhebst, wird der Spielstand gespeichert, so dass man später fortfahren kann. Es ist empfehlenswert, einen sicheren Ort zum Spielen aufzusuchen."
+
+
+
    chess_module_rsc = chess.dll
 
 classvars:
@@ -73,3 +73,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

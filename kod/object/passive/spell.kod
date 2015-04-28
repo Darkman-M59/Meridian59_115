@@ -26,78 +26,78 @@ constants:
 
 resources:
 
-   spell_name_rsc = "spell"
+   spell_name_rsc = "Zauberspruch"
    spell_icon_rsc = light.bgf
-   spell_desc_text_rsc = "This is a spell."
+   spell_desc_text_rsc = "Dies ist ein Zauberspruch."
 
-   spell_not_good_enough = "You are not worthy to cast %s!"
-   spell_not_evil_enough = "You are not vile enough to cast %s!"
+   spell_not_good_enough = "Du bist nicht würdig, den %s-Zauber anzuwenden!"
+   spell_not_evil_enough = "Du bist nicht verdorben genug, um den %s-Zauber anzuwenden!"
 
-   spell_already_in_effect = "This spell is already in effect here."
+   spell_already_in_effect = "Dieser Zauber wirkt hier bereits."
 
-   spell_cast_on_target = "You cast %s on %s%s."
+   spell_cast_on_target = "Du zauberst %s%s auf %s."
 
-   spell_triggers_outlawing = \
-      "You have been labeled an outlaw for casting an antisocial spell!"
-   spell_outlaw = "Casting this spell can cause you to be labeled an outlaw."
-   spell_nothing = " "
+   spell_triggers_outlawing = "Du wurdest wegen der Anwendung eines offensiven Zaubers zum Gesetzlosen erklärt!"
 
-   spell_no_rest = "You can't cast spells while resting!"
-   spell_bad_location = "You can't cast %s here."
-   spell_bad_target = "You can't cast %s on %s%s!"
-   spell_no_targets = "There are no proper targets for %s."
-   spell_no_self_target = "You can't cast %s on yourself!"
-   spell_too_tired = "You are too tired to cast %s!"
-   spell_insufficient_magic = "You don't have enough mana to cast %s!"
-   spell_insufficient_reagent = "You don't have the reagents to cast %s!"
-   spell_out_of_range = "%s%s is out of range."
-   spell_begin_trance = "You start to cast %s."
-   spell_safety_on = \
-      "You can't make an antisocial cast; you don't want to attack innocents."
-   spell_safety_no_unlawful = \
-      "Helping an unlawful person such as %s%s will brand you as an outlaw.  "
-      "Good thing your safety was on!"
-   spell_angel_no_unlawful = \
-       "Helping an unlawful person such as %s%s would brand you as an "
-       "outlaw.  You are not yet ready to participate in conflicts against "
-       "other players."
-   spell_outlaw_cast = \
-      "This spell risks turning you into an outlaw.  You are not yet ready "
-      "for conflict against other players."
-   spell_hands_too_full = \
-      "Your hands are too full to cast spells that would affect others."
+   spell_outlaw = "\nDie Anwendung dieses Zaubers kann dazu führen, dass Du zum Gesetzlosen erklärt wirst."
+   spell_nothing = ""
 
-   spell_unlawful_outlaw = \
-      "Shal'ille frowns upon your assitance to unlawful citizens."
+   spell_no_rest = "Du kannst keine Zaubersprüche aussprechen, während du rastest!"
+   spell_bad_location = "Du kannst '%s' hier nicht anwenden."
+   spell_bad_target = "Du kannst den %s-Zauber nicht anwenden. %s%s als Ziel? Das kann nicht funktionieren."
+   spell_no_targets = "Es gibt keine gültigen Ziele für %s."
+   spell_no_self_target = "Du kannst den %s-Zauber nicht auf Dich selbst anwenden!"
+   spell_too_tired = "Du bist zu erschöpft, um den %s-Zauber anzuwenden!"
+   spell_insufficient_magic = "Du hast nicht genügend Zauberkraft, um den %s-Zauber anzuwenden!"
+   spell_insufficient_reagent = "Du hast nicht die nötigen Zutaten, um %s zu zaubern!"
+   spell_out_of_range = "%s%s ist außer Reichweite."
+   spell_begin_trance = "Du konzentrierst Dich auf den %s-Zauber."
+   spell_safety_on = "Du kannst keinen offensiven Zauberspruch anwenden; Du willst schließlich keine Unschuldigen angreifen."
 
-   spell_failed_by_chance = "You were unsuccessful in casting %s."
-   spell_spellbane_stopped = \
-      "The notes of %s's song tangle with the words of your spell, unraveling "
-      "it faster than your tongue can weave it."
+   spell_safety_no_unlawful = "Die Unterstützung eines rechtswidrigen so wie %s%s einer ist, wird dich als Gesetzlosen brandmarken.  Gut das deine Sicherheit eingeschaltet ist!"
 
-   spell_advanced = "You advanced in %s!  Your ability is now at %s."
-   spell_guardian = \
-      "Your guardian angel tells you, \"You are not ready to cast offensive "
-      "spells on other players.\""
-   spell_cant_help = \
-      "Your guardian angel tells you, \"%s%s has attacked someone else too "
-      "recently.  Do not interfere.\""
-   spell_too_soon_since_attacking = "You've attacked a player too recently."
 
-   spell_resists = "%s%s resists your attempts to enchant it!"
+   spell_angel_no_unlawful = "Die Unterstützung eines rechtswidrigen so wie %s%s einer ist, würde dich als Gesetzlosen brandmarken.  Du bist noch nicht bereit, in Konflikten gegen andere Spieler teilzunehmen."
 
-   spell_silenced_rsc = "Your words catch in your throat and you cannot speak."
+
+
+   spell_outlaw_cast = "Mit diesem Zauber riskierst Du es, zum Gesetzlosen erklärt zu werden - Du bist aber noch nicht für einen Kampf gegen andere Spieler bereit."
+
+
+   spell_hands_too_full = "Deine Hände sind zu voll, um Zauber zu sprechen, die auf andere Spieler wirken."
+
+
+   spell_unlawful_outlaw = "Shal'ille runzelt die Stirn über deine Unterstützung für rechtswidrige Bürger"
+
+
+   spell_failed_by_chance = "Dein Versuch, den %s-Zauber anzuwenden, war erfolglos."
+   spell_spellbane_stopped = "Die Töne von %ss Lied geraten mit den Worten Deines Zauberspruchs durcheinander und lösen ihn schneller auf, als Deine Zunge nachkommen kann."
+
+
+
+   spell_advanced = "Du hast Deine Fähigkeiten in %s verbessert! Deine Fähigkeit liegt nun bei %s."
+   spell_guardian = "Dein Schutzengel sagt zu Dir, \"Du bist noch nicht so weit, offensive Zaubersprüche gegen andere Spieler auszusprechen.\""
+
+
+   spell_cant_help = "Dein Schutzengel flüstert Dir zu, \"%s%s hat erst kürzlich jemanden angegriffen. Greife nicht ein.\""
+
+
+   spell_too_soon_since_attacking = "Du hast einen Spieler vor kurzem angegriffen und kannst deswegen diesen Zauberspruch nicht ausführen."
+
+   spell_resists = "%s%s widersteht Deinem Zauber!"
+
+   spell_silenced_rsc = "Die Worte bleiben Dir im Halse stecken und Du kannst nicht sprechen."
 
    spell_fail_wav = spelfail.wav
 
-   spell_desc_rsc = "SCHOOL : %s          LEVEL : %i \n\n%s %s%s"
+   spell_desc_rsc = "SCHULE: %s          ZIRKEL: %i \n\n%s %s%s"
    spell_school_riija = "Riija"
-   spell_school_shalille = "Shal'ille"
+   spell_school_shalille = "Sha-Lill"
    spell_school_qor = "Qor"
    spell_school_faren = "Faren"
    spell_school_kraanan = "Kraanan"
    spell_school_jala = "Jala"
-   spell_intro_rsc = "One of the many mystical spells."
+   spell_intro_rsc = "Einer der vielen magischen Zaubersprüche."
 
    spell_sound_shalille = shalille.wav
    spell_sound_qor = qor.wav
@@ -106,39 +106,39 @@ resources:
    spell_sound_riija = riija.wav
    spell_sound_dm_command = tranport.wav
 
-   spell_gesture_third = \
-      "%s%s murmurs something under %s breath and makes a mystical gesture."
-   spell_gesture_third_target = \
-      "%s%s murmurs something under %s breath and points a finger at %s%s."
-   spell_you = "you"
+   spell_gesture_third = "%s%s murmelt etwas vor sich hin und führt eine geheimnisvolle Geste aus."
 
-   spell_resisted = "%s%s resists your spell!"
+   spell_gesture_third_target = "%s%s murmelt etwas vor sich hin und deutet auf %s%s%s."
 
-   spell_forgot1 = "You... can't quite remember this spell." 
-   spell_forgot2 = \
-      "The incantation is on the tip of your tongue, but you can't get it off!"
-   spell_forgot3 = \
-      "Having forgotten the incantation for this spell, you spew a few random "
-      "words out and wave your arms around in hopes of a miracle."
-   spell_forgot4 = "Klaatu Veratu Nepto?!?!"
+   spell_you = "Der Zaubernde"
 
-   spell_trance_begin = "You focus your whole will on casting %s."
-   spell_trance_break = \
-      "Your concentration is broken and the %s spell fizzles."
+   spell_resisted = "%s%s widersteht Deinem Spruch!"
+
+   spell_forgot1 = "Du ... Du kannst Dich nicht so genau an den Zauberspruch erinnern."
+   spell_forgot2 = "Der Zauberspruch liegt Dir auf der Zunge, doch du bekommst ihn nicht heraus!"
+
+   spell_forgot3 = "Da Du den Zauberspruch vergessen hast, spuckst Du ein paar unzusammenhängende Wörter aus und wedelst mit den Armen in der Hoffnung, dass ein Wunder geschieht."
+
+
+   spell_forgot4 = "Klaatu Veratu Nepto ?!?!"
+
+   spell_trance_begin = "Du konzentrierst Deinen gesamten Willen auf den Zauberspruch %s."
+   spell_trance_break = "Deine Konzentration wurde gestört, und der %s-Zauber schlägt fehl."
+
    spell_trance_break_sound = spelfail.wav
 
-   spell_disabled = \
-      "~g~BAn unseen force rips the words of the spell from your throat "
-      "before you can fully utter them."
+   spell_disabled = "~g~BEine unbekannte Kraft raubt Dir die Zauberworte aus der Kehle bevor Du sie ganz aussprechen kannst."
 
-   Spell_made_rsc = "  Enchanted by "
-   Spell_novice_rsc = ", Novice "
-   Spell_apprentice_rsc = ", Apprentice "
-   Spell_journeyman_rsc = ", Journeyman "
-   Spell_master_rsc = ", Master "
-   spell_Enchantment_type_default_rsc = "enchanter."
 
-   Spell_too_few_hp_rsc = "You are not powerful enough to cast this spell."
+
+   Spell_made_rsc = " Verzaubert von "
+   Spell_novice_rsc = ", Novize "
+   Spell_apprentice_rsc = ", Schüler "
+   Spell_journeyman_rsc = ", Gelehrter "
+   Spell_master_rsc = ", Meistermagier "
+   spell_Enchantment_type_default_rsc = ", Erzmagier "
+
+   Spell_too_few_hp_rsc = "Du bist nicht stark genug um diesen Zauber zu sprechen."
 
 classvars:
 
@@ -2435,3 +2435,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

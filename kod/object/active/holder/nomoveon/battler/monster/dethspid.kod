@@ -20,19 +20,19 @@ constants:
 resources:
 
    DeathSpider_koc_name_rsc = "na'arkinich"
-   DeathSpider_name_rsc = "black spider"
+   DeathSpider_name_rsc = "Die schwarze Spinne"
    DeathSpider_icon_rsc = spidmagc.bgf
-   DeathSpider_desc_rsc = \
-   "Once thought to be a creature made up to frighten children, the black spider "
-   "is said to be a product of evil sorcery, an unwholesome melding of human and "
-   "insect.  Its origin, however, is different depending on the story.  In some, "
-   "it is the fate of some poor soul who crossed a dark mage.  In others, the "
-   "dark spider is an evil mage transformed in return for longevity.  "
-   "All the old tales, however, warn travellers to beware of this malignant "
-   "creature's extraordinarily poisonous bite."
+   DeathSpider_desc_rsc = "Einstmals dachte man, diese Kreatur sei eine Geschichte, um Kinder zu ängstigen. Die schwarze Spinne soll ein Produkt böser Magie sein, eine unheilige Verschmelzung von Mensch und Insekt. Ihre Herkunft, wie dem auch sei, ist je nach Geschichte verschieden. In manchen ist es das Schicksal einer armen Seele, die die Wege eines bösen Zauberers kreuzte. In anderen erzählt man sich, dass sie ein böser Zauberer ist, der sich für ein langes Leben transformierte. Alle alten Geschichten haben aber eines gemeinsam: Sie warnen Wanderer vor den besonders giftigen Bissen dieser Kreaturen."
+
+
+
+
+
+
+
 
    DeathSpider_dead_icon_rsc = spidmagX.bgf
-   DeathSpider_dead_name_rsc = "dead spider"
+   DeathSpider_dead_name_rsc = "Eine tote schwarze Spinne"
 
    DeathSpider_sound_hit = spd_atkh.wav
    DeathSpider_sound_miss = spd_atkm.wav
@@ -152,3 +152,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   chest_name_rsc = "chest"
+   chest_name_rsc = "Eine stählerne Kiste"
    chest_icon_rsc = box2.bgf
 
-   chest_desc_rsc = "This metal chest is sturdy and well built.  It can hold many items."
+   chest_desc_rsc = "Diese Stahltruhe ist massiv und stabil gebaut. Sie hat ein grosses Fassungsvermögen."
 
 classvars:
    vrName = chest_name_rsc
@@ -36,3 +36,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

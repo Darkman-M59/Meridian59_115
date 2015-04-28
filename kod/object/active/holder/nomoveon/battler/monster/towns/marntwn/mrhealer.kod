@@ -18,11 +18,11 @@ resources:
 
    MarionHealer_name_rsc = "Lady Aftyn"
    MarionHealer_icon_rsc = mrhealer.bgf
-   MarionHealer_desc_rsc = "In the presence of Lady Aftyn there is no mistaking that she is of royalty, "
-      "and not from these parts.  She exudes a sense of peaceful determination; of confidence, serenity, and "
-      "purpose."
+   MarionHealer_desc_rsc = "In der Gegenwart von Lady Aftyn gibt es keinen Zweifel, dass sie von königlicher Geburt ist. Sie strömt eine Art von friedlicher Entschlossenheit, Vertrauen, Ernsthaftigkeit und Zielstrebigkeit aus."
 
-   Mrhealer_entry_welcome = "Pardon me for saying so, but you look like you could use a rest, %s%s.  I don't have any rooms for rent right now, but you are welcome to rest here."
+
+
+   Mrhealer_entry_welcome = "Entschuldige, dass ich mich einmische, aber ich glaube, dass Du eine kleine Rast vertragen könntest, %s%s. Ich habe momentan keine Zimmer frei, aber Du darfst Dich gerne hier draußen ausruhen."
 
 classvars:
 
@@ -63,4 +63,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   room_name_kocatan = "Ko'catan, the Island Settlement"
+   room_name_kocatan = "Ko'catan, die Insel-Siedlung"
    room_kocatan = settle1.roo
-   kocatan_music = song08.mid
+   kocatan_music = song08.mp3
 
-   kocatan_military = "No non-military personnel are allowed in the guard barracks."
-   kocatan_locked = "This door is firmly bolted shut."
+   kocatan_military = "Kein Zutritt zur Wachkaserne für nicht-militärisches Personal!."
+   kocatan_locked = "Diese Tür ist fest verschlossen."
 
 classvars:
 
@@ -144,3 +144,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -18,19 +18,19 @@ constants:
 
 resources:
 
-   corpsenode_name_rsc = "rip in space"
+   corpsenode_name_rsc = "Ein Dimensionstor"
    corpsenode_icon_rsc = teleport.bgf
-   corpsenode_desc_rsc = \
-      "You know not where this leads, for you see naught but insanity through "
-      "the gaping rip in reality."
+   corpsenode_desc_rsc = "Du kannst nicht ausmachen, wohin das Dimensionstor führt, da die Realität durch das Portal verzerrt wird."
 
-   corpsenode_already_melded = "You have already bonded with the corpsenode."
-   corpsenode_nothing = "Nothing seems to happen."
-   corpsenode_meld = \
-      "You reach out with your mind to touch the rip, and suddenly the universe "
-      "seems to collapse around you!  Vertigo strikes, and you fall to your knees.  "
-      "Yet, when you regain your equilibrium, you feel the course of magic flow "
-      "through your veins."
+
+
+   corpsenode_already_melded = "Du ziehst bereits Zauberkraft aus dieser magischen Quelle."
+   corpsenode_nothing = "Es scheint nichts zu passieren."
+   corpsenode_meld = "Du berührst mit Deinem Geist die Energiequelle und plötzlich scheint das Universum in sich zusammenzufallen! Höhenangst überkommt Dich und Du fällst auf die Knie. Als Du den Schock überwunden hast, fühlst Du neue magische Energien durch Deinen Körper strömen."
+
+
+
+
 
    uworld_meld_sound = nodeup.wav
 
@@ -196,3 +196,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -19,36 +19,36 @@ constants:
    
 resources:
 
-   item_this = "This "
+   item_this = ""
    item_blank_template = "%q"
    item_desc_template = "%s%s"
    resource_blank = ""
    
-   item_try_use_cursed_rsc = \
-      "As you pick the item up, you feel a will greater than your own "
-      "overwhelm your mind!  Not of your own volition, you try to put it on!"
+   item_try_use_cursed_rsc = "Du merkst, wie Deine Willenskraft schwindet, als Du den Gegenstand aufhebst! Willenlos legst Du den Gegenstand an!"
 
-   item_broken_battle = "Your %s shatters in the heat of battle!"
-   item_broken_battle_plural = "Your %s shatter in the heat of battle!"
-   item_broken_battle_clothing = "Your %s falls into useless tatters!"
-   item_broken_battle_clothing_plural = "Your %s fall into useless tatters!"
 
-   itematt_generic = \
-      " At first glance, it seems quite ordinary, but there is something odd "
-      "about it you can't put your finger on."
+
+   item_broken_battle = "%s zerbricht in der Hitze des Gefechts!"
+   item_broken_battle_plural = "%s zerbrechen in der Hitze des Gefechts!"
+   item_broken_battle_clothing = "%s zerfällt in nutzlose Stücke!"
+   item_broken_battle_clothing_plural = "%s zerfallen in nutzlose Stücke!"
+
+   itematt_generic = " Auf den ersten Blick scheint alles normal zu sein, aber da ist irgendetwas merkwürdig, was Du jedoch nicht benennen kannst."
+
+
 
    nakedleftarm_male = blg.bgf
    nakedrightarm_male = brg.bgf
    nakedleftarm_female = blh.bgf
    nakedrightarm_female = brh.bgf
 
-   item_condition_exc = " is in immaculate condition."
-   item_condition_exc_mended = \
-      " is in excellent condition, but has been patched before."
-   item_condition_good = " is scuffed and slightly worn."
-   item_condition_med = " has a few unsightly rips."
-   item_condition_poor = " is in tatters, and barely holding together."
-   item_condition_broken = " is covered in filth and ripped beyond use."
+   item_condition_exc = " ist in makellosem Zustand."
+   item_condition_exc_mended = " ist in sehr gutem Zustand, wurde aber bereits ausgebessert."
+
+   item_condition_good = " ist leicht abgetragen."
+   item_condition_med = " hat ein paar unscheinbare Risse."
+   item_condition_poor = " besteht nur noch aus Fetzen und hält kaum noch zusammen."
+   item_condition_broken = " ist mit Dreck bedeckt und zerrissen, so dass man es nicht mehr benutzen kann."
 
 classvars:
    
@@ -1697,3 +1697,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

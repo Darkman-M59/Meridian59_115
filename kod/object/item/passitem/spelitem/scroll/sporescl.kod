@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   SporeBurstScroll_label_name_rsc = "scroll of spore burst"
+   SporeBurstScroll_label_name_rsc = "Schriftrolle der Sporenwolke"
    SporeBurstScroll_icon_rsc = scr07.bgf
-   SporeBurstScroll_desc_rsc = \
-      "This scroll is covered with indecipherable mystical writing in a spidery hand."
+   SporeBurstScroll_desc_rsc = "Diese Schriftrolle ist mit einer unleserlichen, krakeligen, mystischen Schrift bedeckt"
+
 
 classvars:
 
@@ -36,3 +36,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

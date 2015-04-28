@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   WarpTime_name_rsc = "warp time"
+   WarpTime_name_rsc = "Verzögerung"
    WarpTime_icon_rsc = iwarptim.bgf
-   WarpTime_desc_rsc = \
-      "The words of this song form an enchantment which increases the time "
-      "that a spellcaster must hold trance to cast a spell."
-   WarpTime_StartEnchantment = \
-      "A woozy feeling passes through your head, slowing your mental spell preparations, "
-      "your thoughts dripping like honey through your brain."
-   WarpTime_RemoveEnchantment = \
-      "A rushing sensation passes through your head, speeding your mental spell preparations "
-      "back to normal."
+   WarpTime_desc_rsc = "Die Worte dieses Liedes bilden einen Zauber, der die Konzentrationsphase eines Zaubereres verlängert. Es wird lediglich eine Phase der Konzentration benötigt, um dieses Lied anzustimmen."
 
-   Warptime_song = jala4.mid
+
+   WarpTime_StartEnchantment = "Ein Gefühl von Benommenheit breitet sich in Deinem Kopf aus, so dass Deine mentale Vorbereitung auf einen Zauber länger dauert, Deine Gedanken tropfen nur zähflüssig durchs Gehirn."
+
+
+   WarpTime_RemoveEnchantment = "Ein Gefühl von belebender Dynamik huscht durch Deinen Kopf und beschleunigt Deine mentale Vorbereitung auf einen Zauber wieder auf normale Zeitdauer."
+
+
+
+   Warptime_song = jala4.mp3
  
 classvars:
 
@@ -157,3 +157,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

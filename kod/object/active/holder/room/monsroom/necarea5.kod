@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   room_name_Necropolis5 = "Ruins of Castle Brax"
+   room_name_Necropolis5 = "Die Ruinen von Brax"
    room_Necropolis5 = necarea5.roo
-   Necropolis5_music = nec02.mid
+   Necropolis5_music = nec02.mp3
 
    Necropolis5_loop = necloop4.wav
 
-   Necropolis4_locked_door = \
-      "The large stone doors are firmly stuck, probably by mounds of rubble on "
-      "the other side."
+   Necropolis4_locked_door = "Die großen Steintüren sind vermutlich durch Geröllhaufen auf der anderen Seite fest verkeilt."
 
-   necroarea5_guildwarning = "Your amulet vibrates gently for a moment."
+
+
+   necroarea5_guildwarning = "Dein Amulett vibriert einen kurzen Moment."
 
 classvars:
 
@@ -164,3 +164,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

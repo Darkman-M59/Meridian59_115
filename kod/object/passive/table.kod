@@ -17,8 +17,8 @@ constants:
 resources:
 
    table_icon_rsc = table.bgf
-   table_name_rsc = "table"
-   table_desc_rsc = "This is a wooden table, weathered from years of use and abuse."
+   table_name_rsc = "Der Tisch"
+   table_desc_rsc = "Ein alter Holztisch, an dem die Jahre nicht spurlos vorübergegangen sind."
 
 classvars:
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

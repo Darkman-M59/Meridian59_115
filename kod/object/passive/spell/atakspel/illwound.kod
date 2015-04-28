@@ -15,16 +15,16 @@ constants:
 
 resources:
 
-   illusionarywounds_name_rsc = "illusionary wounds"
+   illusionarywounds_name_rsc = "Vorget‰uschte Wunden"
    illusionarywounds_icon_rsc = iilluwou.bgf
-   illusionarywounds_desc_rsc = \
-      "Causes the victim to see imagined wounds, but imagination "
-      "always gives in to one's right mind, assuming one lives so long.  "
-      "Requires solagh and firesand."
+   illusionarywounds_desc_rsc = "L‰ﬂt den Betroffenen vermeintliche Wunden sehen, doch die Einbildung gibt dem echten Verstand immer nach, vorausgesetzt, man lebt so lange. Zutaten: Solagh und Feuersand."
 
-   illusionarywounds_cast = "Your illusion takes the form of %s."
 
-   illusionarywounds_off = "Hey!  Some of those wounds were illusionary!"
+
+
+   illusionarywounds_cast = "Deine Illusion nimmt die Form von %s an."
+
+   illusionarywounds_off = "Hey! Einige dieser Wunden waren nur Illusion!"
    illusionarywounds_sound = riija.wav
 
 classvars:
@@ -238,3 +238,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

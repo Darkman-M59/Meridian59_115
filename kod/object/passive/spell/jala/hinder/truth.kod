@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   truth_name_rsc = "truth"
+   truth_name_rsc = "Wahrheit"
    truth_icon_rsc = itruth.bgf
-   truth_desc_rsc = \
-      "This song hinders the spells of the master of the illusionary arts, Riija.  "
-      "A ruby and some rainbow ferns are required to begin performing this song."
+   truth_desc_rsc = "Dieses Lied behindert die Sprüche des Meisters der Illusionskunst: Riija. Man benötigt Rubine und Regenbogenfarn um dieses Zauberlied zu singen."
 
-   truth_song = song.mid
+
+
+   truth_song = song.mp3
  
 classvars:
 
@@ -61,3 +61,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

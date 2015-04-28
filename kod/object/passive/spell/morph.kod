@@ -20,25 +20,25 @@ resources:
 
    morph_scream_wav = pdeath.wav
 
-   morph_name_rsc = "morph"
+   morph_name_rsc = "Gestaltwandlung"
    morph_icon_rsc = imorph.bgf
-   morph_desc_rsc = \
-      "The touch of Riija shifts you into another beast!  "
-      "Requires web moss and dragonfly eyes to cast."
+   morph_desc_rsc = "Der Kontakt mit Riija verwandelt Dich in eine Bestie! Erforderlich dazu sind Drachenfliegenaugen und Moosnetze."
 
-   morph_already_enchanted = "You already have been affected by %s%s."
-   morph_already_affected = "You are already morphed."
 
-   morph_on = \
-      "You painfully undergo a transformation which changes you almost but "
-      "not quite into %s%s."
-   morph_off = "Your alternate form wears off; you return to your normal self."
 
-   Morph_attackable = \
-      "\nNOTE: While you are in the form of a monster, Shal'ille's protection "
-      "will not apply to you.  You can be attacked by others freely, even in "
-      "towns, but you will take the appropriate penalties for attacking other "
-      "innocents."
+   morph_already_enchanted = "Du wurdest bereits von %s%s manipuliert."
+   morph_already_affected = "Du bist bereits verwandelt."
+
+   morph_on = "Du durchlebst eine schmerzhafte Umwandlung, bei der Du Dich fast - aber nicht ganz - verwandelst. %s%s ist Deine neue Gestalt."
+
+
+   morph_off = "Dein Alternativaussehen vergeht langsam und Du wirst wieder Du selbst."
+
+   Morph_attackable = "\nHinweis: Solange du dich in der Gestalt eines Monsters befindest , weilt Shal'ille's schützende Aura nicht über dich.  Du kannst von anderen Spielern frei angegriffen werden, auch in Städten. Dennoch wirst du bestraft, solltest du Unschuldige angreifen."
+
+
+
+
 
    morph_sound = rmorph.wav
    
@@ -635,3 +635,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

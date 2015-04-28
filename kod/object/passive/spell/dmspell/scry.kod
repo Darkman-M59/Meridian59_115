@@ -15,26 +15,26 @@ constants:
 
 resources:
 
-   scry_name_rsc = "scry"
+   scry_name_rsc = "Durchleuchten"
    scry_icon_rsc = lightnin.bgf
 
-   allinroom_scry_msg1 = "~b%s%s deeply scrys the soul of %s%s."
-   allinroom_scry_msg2 = "~bYou tingle as %s%s deeply scrys %s%s."
+   allinroom_scry_msg1 = "~b%s%s blickt %s%s mittels göttlicher Kräfte tief in die Seele."
+   allinroom_scry_msg2 = "~bEin Schauder durchläuft Dich, als %s%s die Tiefen Deiner Seele mit göttlicher Kraft ergründet."
 
-   caster_scry_msg = "~bYou deeply scry %s%s."
-   scryd_scry_msg = "~bYou are deeply scryed by %s%s."
-   scry_desc_rsc = \
-   "This scrys a person of your choice, revealing their status for spell advancement."
+   caster_scry_msg = "~bDu durchleuchtest %s%s."
+   scryd_scry_msg = "~bDu wirst bis tief in Dein Innerstes von %s%ss göttlicher Kraft durchleuchtet."
+   scry_desc_rsc = "Dies durchleuchtet eine Person Deiner Wahl, was Auskunft über ihren Status für die Verbesserung der Zaubersprüche gibt."
 
-   scry_mastery_report = "%s is %s of %s."
-   scry_apprentice = "an apprentice"
-   scry_adept = "an adept"
-   scry_scholar = "a scholar"
-   scry_journeyman = "a journeyman"
-   scry_master = "a master"
-   scry_archmage = "an archmage"
 
-   scry_weaponcraft = "weaponcraft"
+   scry_mastery_report = "%s ist %s der Schule %s."
+   scry_apprentice = "Lehrling"
+   scry_adept = "Adept"
+   scry_scholar = "Student"
+   scry_journeyman = "Geselle"
+   scry_master = "Meister"
+   scry_archmage = "Erzmagier"
+
+   scry_weaponcraft = "Waffenfertigkeiten"
 
 classvars:
    vrName = scry_name_rsc
@@ -232,3 +232,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,29 +16,29 @@ constants:
 
 resources:
 
-   TouchOfFlame_name_rsc = "touch of flame"
+   TouchOfFlame_name_rsc = "Flammengriff"
    TouchOfFlame_icon_rsc = itoucfla.bgf
-   TouchOfFlame_desc_rsc = \
-      "Boils the innards of the target with a white hot flame.  "
-      "Requires red mushrooms to cast."
+   TouchOfFlame_desc_rsc = "Kocht die Eingeweide der Zielperson mit einer heißen, weißen Flamme. Der Zauber benötigt Rote Pilze."
 
-   TouchOfFlame_already_enchanted_rsc = \
-      "Your hands are already shrouded in flame."
-   TouchOfFlame_On_rsc = "Jets of flame erupt from your fingers."
-   TouchOfFlame_Off_rsc = "Your hands are no longer shrouded in flame."
 
-   TouchOfFlame_player_was_hit = \
-      "Flames erupt from %s%s's fingers, burning you!"
-   TouchOfFlame_player_hit_something = \
-      "%sFlames leap from your fingers and burn %s%s."
-   TouchOfFlame_player_killed_something = \
-      "%s%s, engulfed in flames, lets out a final scream."
-   TouchOfFlame_player_was_killed = \
-      "A burst of flames from %s%s's hand is the last thing you see."
 
-   TouchOfFlame_spell_intro = \
-      "Faren Lv. 2: Turns your touch into a blaze of searing flame, damaging "
-      "your foes."
+   TouchOfFlame_already_enchanted_rsc = "Noch mehr und Du wirst Dir selbst die Finger verbrennen."
+
+   TouchOfFlame_On_rsc = "Ein Feuerstoß schießt aus Deinen ausgestreckten Händen."
+   TouchOfFlame_Off_rsc = "Die Flammen an Deinen Fingern erlöschen."
+
+   TouchOfFlame_player_was_hit = "Flammen schlagen aus %s%ss Fingern und verbrennen Dich!"
+
+   TouchOfFlame_player_hit_something = "%sFlammen springen von Deinen Fingern. %s%s wird von Dir verbrannt."
+
+   TouchOfFlame_player_killed_something = "%s%s schreit ein letztes Mal auf und wird von den Flammen verschlungen."
+
+   TouchOfFlame_player_was_killed = "Ein Flammenstoß aus %s%ss Händen ist das letzte, was Du spürst."
+
+
+   TouchOfFlame_spell_intro = "Faren Zirkel 2: Verwandelt Deine Berührung in eine kochend heiße Flamme, die Deinen Gegner verzehrt."
+
+
 
    TouchOfFlame_sound = fflame.wav
 
@@ -101,3 +101,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

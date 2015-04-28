@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   bardletter_name_rsc = "slip of parchment"
+   bardletter_name_rsc = "Der Pergamentbogen"
    bardletter_icon_rsc = scroll.bgf
-   bardletter_desc_written_rsc = \
-      "%q"
+   bardletter_desc_written_rsc = "%q"
+
 
 classvars:
 
@@ -41,3 +41,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

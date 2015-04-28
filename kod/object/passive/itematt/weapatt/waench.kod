@@ -35,10 +35,10 @@ constants:
 
 resources:
    
-   waEnchant_gone = "Your %s suddenly seems a little more... ordinary."
-   waEnchanted = "  This weapon has been dedicated to Kraanan's glory."
-   waEnchanted_name = "enchanted %s"
-   enchanted_dm = "enchanted"
+   waEnchant_gone = "%s scheint plötzlich ein bißchen... normaler zu sein."
+   waEnchanted = " Diese Waffe ist Kraanans Ruhm geweiht."
+   waEnchanted_name = "verzauberter %s"
+   enchanted_dm = "verzaubert"
 
 classvars:
 
@@ -152,3 +152,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

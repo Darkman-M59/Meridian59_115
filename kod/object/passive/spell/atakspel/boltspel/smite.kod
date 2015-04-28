@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   smite_name_rsc = "smite"
+   smite_name_rsc = "Töten"
    smite_icon_rsc = iseduce.bgf
-   smite_desc_rsc = \
-      "This is a god command used to strike down unruly, pathetic mortals.\n\n"
-      "This is a DM only command."
+   smite_desc_rsc = "Dieser Gottbefehl wird benutzt, um widerspenstige und erbärmliche Sterbliche niederzustrecken. \n\nDieser Spruch kann nur von Göttern ausgeführt werden."
 
-   smite_hit_rsc = "%s%s gets a big wet smooch and is completely smitten!"
+
+
+   smite_hit_rsc = "%s%s bekommt einen dicken saftigen Schmatzer und ist völlig erschlagen!"
 
 classvars:
    vrName = smite_name_rsc
@@ -117,3 +117,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

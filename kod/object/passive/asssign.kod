@@ -17,17 +17,17 @@ constants:
 
 resources:
 
-   AssassinSign_name_rsc = "the Assassin's Circle"
+   AssassinSign_name_rsc = "Der Zirkel der Meuchelmörder"
    Assassinsign_icon_rsc = newbsign.bgf
    
-   asssign_insession = "An Assassin's Circle is currently in session.  There "
-         "are %i combatants remaining.\n\n%s"
-   asssign_accepting = "An Assassin's Circle will be starting in relatively short "
-         "order.  I am currently accepting would-be assassins.\n\n%s"
-   asssign_not_accepting = "It will be some time before a new Assassin's Circle is underway.\n\n%s"
-   asssign_lastwinner = "Reigning champion: %q||\n--%s"
-   asssign_darkblade = "Reigning champion: %q \nDarkest blade, with %i kills: %q\n"
-   asssign_darkblades = "Reigning champion: %q \nDarkest blades, with %i kills: \n%s"
+   asssign_insession = "Ein Zirkel der Meuchelmörder veranstaltet gerade ein Treffen. Bisher leben noch %i Kämpfer.\n\n%s"
+
+   asssign_accepting = "Der nächste Zirkel wird schon bald beginnen. Momentan akzeptiere ich noch angehende Meuchelmörder.\n\n%s"
+
+   asssign_not_accepting = "Es wird noch etwas dauern, bis ein neuer Meuchelmörder-Zirkel beginnt.\n\n%s"
+   asssign_lastwinner = ""
+   asssign_darkblade = "Amtierender Champion: %q \nDunkelste Klinge mit %i Toten: %q\n"
+   asssign_darkblades = "Amtierender Champion: %q \nDunkelste Klinge mit %i Toten: \n"
    asssign_darkblade_format = "%q\n%s"
    asssign_last_darkblade_format = "%q\n"
    asssign_blank_winner = "Mocker"
@@ -140,3 +140,4 @@ end
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

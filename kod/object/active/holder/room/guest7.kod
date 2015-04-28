@@ -16,29 +16,29 @@ constants:
 
 resources:
 
-   room_name_guest7 = "Eric's Stout Spirits"
+   room_name_guest7 = "Eriks Spirituosen"
    room_guest7 = guest7.roo
-   guest7_music = login.mid
+   guest7_music = login.mp3
 
-   guest7_signname = "health, mana and vigor"
-   guest7_sign = \
-      "In the upper right-hand corner of your screen, you'll see "
-      "three stats: health, mana, and vigor.  Health is simple--"
-      "you lose it when you take damage (usually in battle).  If your health is "
-      "reduced to zero, you die.  Mana determines how many spells "
-      "you can cast.  Both of these come back with time.\n\n"
-      "Vigor, the third stat, is the most important.  How fast your "
-      "health and your mana return depends largely on your vigor. "
-      "Also, running requires vigor "
-      "so you definitely want to keep your vigor high. "
-      "There are two ways to increase your vigor--by eating food ([USE] it from your inventory) "
-      "and by resting (click on the button in the toolbar).  "
-      "Resting in inns and taverns will heal your vigor "
-      "twice as quickly.  Taverns and stores also frequently sell foodstuffs "
-      "that you can take with you as you explore.\n"
-      "-----------------------\n"
-      "From here, go to the elder's home.  It is the small house "
-      "south and to the west of here."
+   guest7_signname = "Lebensenergie, Zauberkraft und Ausdauer"
+   guest7_sign = "Rechts oben entdeckst Du drei kleine Balken, die sich auf Deine Lebensenergie, Zauberkraft und Ausdauer beziehen. Deine Lebensenergie sinkt, sobald Du verletzt wirst (normalerweise im Kampf). Sinkt Deine Lebensenergie auf null, kommst Du in die Unterwelt. Die Zauberkraft gibt an, wieviel Mana Dir noch zur Anwendung von Zaubersprüchen zur Verfügung steht. Beide Werte regenerieren sich im Laufe der Zeit.\n\nAusdauer, der dritte Wert, ist der wichtigigste. Er bestimmt, wie schnell Du Lebens- und Zauberkraft regenerieren kannst. Auch wenn Du rennst (mit der Taste SHIFT), verlierst Du Ausdauer. Darum solltest Du darauf achten, diesen Wert hochzuhalten. Es gibt zwei Möglichkeiten, Deine Ausdauer zu erhöhen: durch Essen (Essen per [DOPPELKLICK] verspeisen) oder Ausruhen (Befehl über die Kommandoleiste auswählen). Wenn Du Dich in Kneipen oder Gasthäusern ausruhst, steigt Deine Ausdauer doppelt so schnell. Kneipen und Geschäfte verkaufen manchmal auch Mahlzeiten, die Du auf Deine Entdeckungsreisen mitnehmen kannst.\n-----------------------\nVon hier aus begibst Du Dich zum Heim des Ältesten. Es ist das kleine Haus, das im Südwesten liegt."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
              
 classvars:
 
@@ -125,3 +125,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

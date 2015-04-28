@@ -18,18 +18,18 @@ resources:
 
    JealousGeneral_name_rsc = "Jonas D'Accor"
    JealousGeneral_icon_rsc = wngenera.bgf
-   JealousGeneral_desc_rsc =  \
-     "As front-line grunt and later a wise general, Jonas D'Accor has fought "
-	"every manner of evil that has besieged the Meridian cities.  Despite that, "
-	"he has lost the position of Weapon's Master to Rook and the esteemed seat "
-	"on the Meridian Council to Cylill.  He fancies himself far superior to "
-	"both, particularly when it comes to strategy and tactics, considering both "
-	"men to be simple brawlers. In truth, his swordplay is merely adequate, though "
-	"his tactics are superb. "
+   JealousGeneral_desc_rsc = "Als Frontschwein und später als weiser General hat Jonas D'Accor jede Form des Bösen bekämpft, das die Städte Meridians belagert hat. Trotz alledem hat er die Position des Waffenmeisters an Roluk und den angesehenen Sitz im Rat von Meridian an Zylill verloren. Er sieht sich selbst weit über beiden, besonders wenn es um Strategie und Taktik geht, und sieht beide Männer als simple Streithammel. In Wirklichkeit sind seine Schwertkünste gerade einmal hinreichend, seine Taktik ist allerdings brilliant."
 
-   JealousGeneral_already_have_spell = "I believe you already have knowledge of the %s spell, m'%s"
-   JealousGeneral_no_murderer = "I am a servant of the Law, m'%s, and as such my conscience"
-         "will not allow me to help you.  Please be on your way."
+
+
+
+
+
+
+
+   JealousGeneral_already_have_spell = "Ich glaube, Du kennst bereits den %s Zauberspruch, m'%s"
+   JealousGeneral_no_murderer = "Ich bin ein Diener des Gesetzes, m'%s, und deshalb erlaubt es mir mein Gewissen nicht, Dir zu helfen. Bitte geh weiter."
+
 
 classvars:
 
@@ -157,3 +157,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -27,39 +27,39 @@ constants:
 
 resources:
 
-   SoldierShield_name_rsc = "soldier's shield"
+   SoldierShield_name_rsc = "Der Fraktionsschild"
 
-   SoldierShield_desc_rsc = \
-      "Shields of this style show allegiance to a particular faction"
+   SoldierShield_desc_rsc = "Schilde dieses Stils zeigen die Treue zu einer bestimmten Fraktion."
+
 
    SoldierShield_icon_rsc = gshE.bgf
    SoldierShield_icon_back_rsc = gsheback.bgf
    SoldierShield_window_overlay_rsc = povgshE.bgf
 
-   SoldierShield_rank_desc1 = "\n\nYour rank within "
-   SoldierShield_rank_desc2 = " is: "
+   SoldierShield_rank_desc1 = "\nDein Rang in "
+   SoldierShield_rank_desc2 = " ist: "
    SoldierShield_rank_desc3 = "."
 
-   SoldierShield_ArmyName = "the forces of neutrality"
+   SoldierShield_ArmyName = "den Kräften der Neutralität"
 
-   SoldierShield_rank_name1 = "a lowly peon"
-   SoldierShield_rank_name2 = "an average soldier"
-   SoldierShield_rank_name3 = "a notable fighter"
-   SoldierShield_rank_name4 = "a great warrior"
-   SoldierShield_rank_name5 = "a supreme hero"
+   SoldierShield_rank_name1 = "ein niedriger Bote"
+   SoldierShield_rank_name2 = "ein durchschnittlicher Soldat"
+   SoldierShield_rank_name3 = "ein bedeutender Kämpfer"
+   SoldierShield_rank_name4 = "ein großer Krieger"
+   SoldierShield_rank_name5 = "ein erhabener Held"
 
-   SoldierShield_welcome_mail = "Subject: Welcome.\n"
-      "You are a soldier now."
+   SoldierShield_welcome_mail = "Betreff: Willkommen.\n\nDu bist nun ein Soldat."
 
-   SoldierShield_lost_status = "Your liege revokes your status as a soldier!"
-   SoldierShield_lost_status_nonfaction = \
-      "You are not worthy to hold a soldier shield!"
-   SoldierShield_booted_mail = "Subject: Your soldier status is revoked.\n"
-      "I have removed you from my army of soldiers.  I have no use for one so "
-      "cowardly as yourself."
 
-   SoldierShield_sling_on_back = "You sling your shield on your back."
-   SoldierShield_remove_from_back = "You remove your shield from your back."
+   SoldierShield_lost_status = "Dein Lehnsherr widerruft deinen Status als Soldat!"
+   SoldierShield_lost_status_nonfaction = "Du bist nicht würdig einen Fraktionsschild zu tragen!"
+
+   SoldierShield_booted_mail = "Betreff: Dein Status als Soldat wurde aufgehoben.\n\nIch habe dich aus meiner Armee von Soldaten entfernt. Ich habe für jemand so feigen wie dich keine Verwendung."
+
+
+
+   SoldierShield_sling_on_back = "Du schnallst deinen Schild auf den Rücken."
+   SoldierShield_remove_from_back = "Du entfernst deinen Schild von deinem Rücken."
 
 classvars:
 
@@ -833,3 +833,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

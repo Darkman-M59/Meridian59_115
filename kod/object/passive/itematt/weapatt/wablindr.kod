@@ -27,10 +27,10 @@ constants:
 
 resources:
 
-   weapattblinder_desc = "  Q's insignia is emblazoned on the metal of the weapon."      
-   blinder_fail_use = "You are not yet ready to use %s%s."
-   blinder_worked = "%s%s stumbles away, screaming and clutching %s eyes!"
-   blinder_dm = "blinder"
+   weapattblinder_desc = " Wenn Du Deinen Blick auf diese Waffe richtest, scheint Deine Sehkraft nachzulassen. Das einzige, was Du klar erkennen kannst, sind die eingelassenen Insignien von Baar."
+   blinder_fail_use = "%s%s entgleitet Deinen Händen, da Du noch nicht so weit bist diese Waffe zu benutzen."
+   blinder_worked = "%s%s stolpert schreiend und %s Augen bedeckend davon!"
+   blinder_dm = "Blender"
 
 classvars:
 
@@ -94,3 +94,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

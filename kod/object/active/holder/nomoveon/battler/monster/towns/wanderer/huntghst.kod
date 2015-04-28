@@ -18,14 +18,14 @@ resources:
 
    HunterGhost_name_rsc = "Tendrath"
    HunterGhost_icon_rsc = nnm01.bgf
-   HunterGhost_desc_rsc =  \
-     "This druidic mage's demeanor is so calm and peaceful that you can't help but wonder "
-     "why his ghostly shade still walks this plane."
+   HunterGhost_desc_rsc = "Dieser vergessene Magier macht einen so stillen und friedlichen Eindruck, dass du dich wunderst, warum sein geisterhafter Schatten immer noch auf dieser Ebene verweilt."
 
-   huntghost_hunt_only = "I may only teach that to a wielder of a hunter's sword."
-   huntghost_not_powerful = "~kTendrath says, \"You are far too inexperienced to wield such powerful magics.\""
 
-   huntghost_said_resource_str = "%s%s says, \"%s~n\""
+
+   huntghost_hunt_only = "~kIch kann diese Kunst nur demjenigen lehren, der das Schwert eines Jägers führt."
+   huntghost_not_powerful = "~kTendrath sagt, \"Du bist viel zu unerfahren, um derart kraftvolle Zauber anzuwenden.\""
+
+   huntghost_said_resource_str = "%s%s sagt, \"%s~n\""
 
 classvars:
 
@@ -98,3 +98,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

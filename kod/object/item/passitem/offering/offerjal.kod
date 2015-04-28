@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   OfferingJala_name_rsc = "mystic perfume"
+   OfferingJala_name_rsc = "Mystisches Parfüm"
    OfferingJala_icon_rsc = solagh.bgf
-   OfferingJala_desc_rsc = \
-	"This bottle of liquid holds some ominous purpose you can only guess at."
+   OfferingJala_desc_rsc = "Die Flasche mit Flüssigkeit dient einem ominösen Zweck. Du kannst ihn nur erahnen."
+
 
 classvars:
 
@@ -35,4 +35,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

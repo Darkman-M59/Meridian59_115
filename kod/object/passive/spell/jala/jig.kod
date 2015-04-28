@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   jig_name_rsc = "jig"
+   jig_name_rsc = "Zwingtanz"
    jig_icon_rsc = ijig.bgf
-   jig_desc_rsc = \
-      "This spell causes everyone in the room to break out into dance "
-      "and is lots of fun at parties.  Requires one diamond to cast."
+   jig_desc_rsc = "Dieser Zauber bringt jeden Anwesenden dazu, wie wild loszutanzen und ist ein riesen Spaß auf Festen. Man benötigt Diamanten, um dieses Magische Lied zu singen."
 
-   jig_song = jala2.mid
+
+
+   jig_song = jala2.mp3
  
 classvars:
 
@@ -172,3 +172,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

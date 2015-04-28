@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   Mirth_name_rsc = "mirth"
+   Mirth_name_rsc = "Frohsinn"
    Mirth_icon_rsc = imirth.bgf
-   Mirth_desc_rsc = \
-      "This song makes people happy!  It is a lively tune, which makes people "
-      "feel as if they have a new start on life.  The song causes some people "
-      "to smile, often resulting in better moods.  A good mood allows others "
-      "to fight evil more effectively.  "
-      "It requires 1 sapphire to cast."
+   Mirth_desc_rsc = "Dieses Lied macht die Leute fröhlich! Es ist eine lebendige Melodei, bei der sich die Menschen wie neugeboren fühlen. Das Lied bringt die Leute zum Lächeln, was oft eine bessere Stimmung zur Folge hat. Es benötigt einen Saphir."
 
-   Mirth_on = "%s%s's mirthful song lifts your spirits a bit."
 
-   Mirth_song = main.mid
+
+
+
+
+   Mirth_on = "Das fröhliche Lied von %s%s hebt dein Gemüt ein wenig."
+
+   Mirth_song = main.mp3
  
 classvars:
 
@@ -174,3 +174,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

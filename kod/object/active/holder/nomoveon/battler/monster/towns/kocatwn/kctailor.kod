@@ -17,39 +17,39 @@ resources:
 
    KocatanTailor_name_rsc = "Tepal ix'Zonak"
    kocatanTailor_icon_rsc = kctailor.bgf
-   kocatanTailor_desc_rsc = "Tepal's quick, furtive eyes give away the abundant and nervous "
-      "energy which occupies him. Something about him tells you that he has good reason to "
-      "be nervous. "
+   kocatanTailor_desc_rsc = "Tepals schnelle, verstohlene Blicke zeigen die hohe, nervöse Energie, die ihm innewohnt. Irgendetwas an ihm sagt Dir, dass er Gründe hat, nervös zu sein. "
 
-   kocatanTailor_entry_welcome = "Oh! -- Sorry, you startled me.  Can I help you with something?"
-   kocatantailor_sanctuary = "sanctuary"
-   kocatantailor_sanctuary_response = "Ahhh... I could offer you sanctuary... for a price, of course."
-   
-   kocatantailor_Stones = "Precious Stones"
-   kocatantailor_stones_response = "There is a real market for precious stones "
-      "right now. Someone willing to take a couple chances could make a good deal of money. I happen to know a little about it."
-   
-   KocatanTailor_new_look = "new look"
-   KocatanTailor_new_look_r = "I think you'll be pleased with my selection."
-   KocatanTailor_kriipa = "kriipa"
-   KocatanTailor_kriipa_r = "The scales of the kriipa are rare, but I have a few here for you."
-   KocatanTailor_mutant_ant = "mutant ant"
-   KocatanTailor_mutant_ant_r = "I do like the bold red color even if it comes from a horrific insect."
-   KocatanTailor_dragonfly = "dragonfly queen"
-   KocatanTailor_dragonfly_r = "They have the most brilliant golden irridescent skins, don't they?"
-   KocatanTailor_yeti = "yeti"
-   KocatanTailor_yeti_r = "You'll have to thank Moxal, he gave me a dead yeti's fur once."
-   KocatanTailor_fey_elhai = "fey elhai"
-   KocatanTailor_fey_elhai_r = "They glitter white and grey, this is the closest pigment I can find."
-   KocatanTailor_fey_dirhai = "fey dirhai"
-   KocatanTailor_fey_dirhai_r = "It's hard to match the glittering blue, this is my best effort."
-   KocatanTailor_avar = "avar warrior"
-   KocatanTailor_avar_r = "The plumes are a wondrous gold, if you catch them in the sunlight."
-   KocatanTailor_shadow = "shadow beast"
-   KocatanTailor_shadow_r = "And just how would you know what color the shadow beast is?"
 
-   KocatanTailor_sapphire_sale = "I have imported %s%s from the mainland.  I do love the bright blue color."
-   KocatanTailor_emerald_sale = "I can sell you %s%s.  They come all the way from the mainland, so it will cost you."
+
+   kocatanTailor_entry_welcome = "Oh! -- Entschuldigung, Du hast mich überrascht. Kann ich Dir irgendwie helfen?"
+   kocatantailor_sanctuary = "Zuflucht"
+   kocatantailor_sanctuary_response = "Ahhh... Ich könnte Dir eine Zuflucht bieten ... aber das hat natürlich seinen Preis."
+   
+   kocatantailor_Stones = "Wertvolle Steine"
+   kocatantailor_stones_response = "Es gibt einen echten Markt für wertvolle Steine im Moment. Jemand, der etwas Risiko auf sich nimmt, könnte eine Menge Geld machen. Zufällig weiß ich ein bißchen etwas darüber."
+
+   
+   KocatanTailor_new_look = "neue Kleider"
+   KocatanTailor_new_look_r = "Ich denke, Du wirst mit meiner Wahl zufrieden sein."
+   KocatanTailor_kriipa = "Die Kriipa"
+   KocatanTailor_kriipa_r = "Die Schuppen der Kriipa sind rar. Trotzdem habe ich hier ein paar für Dich."
+   KocatanTailor_mutant_ant = "Die rote Ameise"
+   KocatanTailor_mutant_ant_r = "Ich mag diese tiefe rote Farbe wirklich, auch wenn sie von einem schrecklichen Insekt kommt."
+   KocatanTailor_dragonfly = "Die Drachenfliegenkönigin"
+   KocatanTailor_dragonfly_r = "Sie haben eine wunderschöne golden glänzende Haut, stimmt's?"
+   KocatanTailor_yeti = "Yeti"
+   KocatanTailor_yeti_r = "Du musst Moxal danken, er gab mir einst das Fell eines toten Yetis."
+   KocatanTailor_fey_elhai = "Der Fey Elhai"
+   KocatanTailor_fey_elhai_r = "Sie glitzern weiß und grau, dies ist das ähnlichste Pigment, das ich finden kann."
+   KocatanTailor_fey_dirhai = "Der Fey Dirhai"
+   KocatanTailor_fey_dirhai_r = "Es ist sehr schwer, dem glänzenden Blau nahezukommen, und dies ist mein gelungenster Versuch."
+   KocatanTailor_avar = "Avar-Kämpfer"
+   KocatanTailor_avar_r = "Die Federn haben einen wundervollen goldenen Glanz, wenn man sie im Sonnenlicht betrachtet."
+   KocatanTailor_shadow = "Schattenwesen"
+   KocatanTailor_shadow_r = "Und woher weißt Du, welche Farbe das Schattenwesen hat?"
+
+   KocatanTailor_sapphire_sale = "Ich habe %s%s vom Festland importiert. Ich liebe diese klare blaue Farbe."
+   KocatanTailor_emerald_sale = "Ich kann Dir %s%s verkaufen. Sie stammen vom Festland, was sie nicht gerade billig macht."
 
 classvars:
 
@@ -313,5 +313,6 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

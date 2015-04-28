@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   Sacchaqua_name_rsc = "vial of sacchaqua"
-   Sacchaqua_name_plural_rsc = "vials of sacchaqua"
+   Sacchaqua_name_rsc = "Die Phiole mit Zuckerwasser"
+   Sacchaqua_name_plural_rsc = "Phiolen mit Zuckerwasser"
    Sacchaqua_icon_rsc = solagh.bgf
-   Sacchaqua_desc_rsc = \
-	"This small vial is filled with crystalized fluid.  A quick taste reveals "
-	"the contents to be no more than sugar water."
+   Sacchaqua_desc_rsc = "Diese kleine Phiole ist mit einer kristallinen Flüssigkeit gefüllt. Eine schnelle Probe ergibt, dass es sich um nichts anderes als Zuckerwasser handelt."
+
+
 
 classvars:
 
@@ -41,3 +41,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

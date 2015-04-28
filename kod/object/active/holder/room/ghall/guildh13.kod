@@ -25,10 +25,10 @@ constants:
 
 resources:
 
-   room_name_guildh13 = "The Hall of the Slaughtered Command"
+   room_name_guildh13 = "Die Halle der Gefallenen Kommandanten"
    room_guildh13 = guildh13.roo
 
-   guildh13_locked = "The door is firmly locked"
+   guildh13_locked = "Die Tür ist fest verschlossen"
 
    guildh13_gong = pdeath.wav
    guildh13_ocean_sound = ocean.wav
@@ -354,3 +354,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

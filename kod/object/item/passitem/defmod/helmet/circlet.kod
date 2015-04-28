@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   circlet_name_rsc = "circlet"
+   circlet_name_rsc = "Das Diadem"
    circlet_icon_rsc = invcirc.bgf
-   circlet_desc_rsc = \
-      "This pewter stranded circlet is hot to the touch.  "
-      "A message inscribed on the inside of this magical "
-      "device reads \"Physical essence into magical power.\""
+   circlet_desc_rsc = "Dieses silberbeschlagene Diadem fühlt sich heiß an, wenn Du es berührst. Die Inschrift in diesem magischen Gegenstand besagt: \"Körperliche Substanz in magische Kraft.\""
+
+
+
 
    circlet_overlay_rsc = circlet.bgf
 
@@ -105,3 +105,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

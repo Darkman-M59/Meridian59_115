@@ -19,13 +19,13 @@ constants:
 
 resources:
 
-   thief_name_rsc = "Thief"
+   thief_name_rsc = "Der Dieb"
    thief_icon_rsc = thiefT.bgf
-   thief_desc_rsc = "This is a thief template."
+   thief_desc_rsc = "Dies ist ein Beispiel für einen Dieb."
 
    thief_leg_left = thiefFL.bgf
    thief_leg_right = thiefFR.bgf
-   thief_left_arm = thiefL.bgf       
+   thief_left_arm = thiefL.bgf
    thief_right_arm = thiefR.bgf
 
 
@@ -68,3 +68,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

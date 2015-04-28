@@ -16,20 +16,20 @@ constants:
 
 resources:
 
-   blind_name_rsc = "blind"
+   blind_name_rsc = "Blenden"
    blind_icon_rsc = iblind.bgf
-   blind_desc_rsc = \
-      "The magical force of Qor burns the target's eyes, "
-      "taking away all sight for a brief period.  "
-      "Requires entroot berries and purple mushrooms to cast."
-   
-   blind_caster = "%s%s is now blind."
-   blind_already_enchanted = "%s%s is already blind."
+   blind_desc_rsc = "Die magische Kraft von Qor brennt sich mit Hilfe von Wurzelknollen und lila Pilzen in die Augen des Zieles und nimmt ihm für eine kurze Zeit das Augenlicht."
 
-   blind_on = \
-      "Something burns in your eyes, causing excruciating pain and a loss "
-      "of vision."
-   blind_off = "Your eyes begin to function again."
+
+
+   
+   blind_caster = "%s%s ist jetzt geblendet."
+   blind_already_enchanted = "%s%s ist schon geblendet."
+
+   blind_on = "Eine magische Energie legt sich um Deine Augen, die schreckliche Schmerzen und Blindheit verursacht."
+
+
+   blind_off = "Du kannst wieder mit Deinen Augen sehen."
 
    blind_sound = qblind.wav
 
@@ -240,3 +240,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

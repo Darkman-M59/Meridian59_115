@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   RoomKey_name_rsc = "gold room key"
+   RoomKey_name_rsc = "Ein goldener Zimmerschlüssel."
    RoomKey_icon_rsc = roomkey.bgf
-   RoomKey_desc_rsc = \
-      "This solid gold key bears an inscription which reads:\n"
+   RoomKey_desc_rsc = "Dieser solide, goldene Schlüssel trägt die Beschriftung:\n"
 
-   RoomKey_vanishes = \
-      "Your gold room key dissolves into a strange gold liquid, then "
-      "evaporates into a green mist and is gone."
 
-   RoomKey_teleport = \
-      "As you slide the key into the lock, a strange white glow envelops "
-      "you, and you find yourself somewhere else."
+   RoomKey_vanishes = "Dein goldener Zimmerschlüssel schmilzt zu einer seltsam gelben Flüssigkeit und verdampft wenig später in einer grünen Dunstwolke."
 
-   RoomKey_no_use = \
-      "There doesn't seem to be anything nearby to use the key on."
+
+
+   RoomKey_teleport = "Als Du den Schlüssel ins Schlüsselloch steckst, umgibt Dich ein helles weißes Licht und Du befindest Dich plötzlich woanders."
+
+
+
+   RoomKey_no_use = "Es scheint nichts in der Nähe zu sein, um den Schlüssel zu benutzen."
+
 
 classvars:
 
@@ -197,3 +197,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

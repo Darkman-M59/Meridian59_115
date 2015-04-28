@@ -15,20 +15,20 @@ constants:
 
 resources:
 
-   heal_name_rsc = "minor heal"
+   heal_name_rsc = "Kleinere Heilung"
    heal_icon_rsc = iheal.bgf
-   heal_desc_rsc = \
-      "The compassionate power of Shal'ille heals the wounds of the caster or another "
-      "person.  Is particularly potent on those protected by guardian angels.  "
-      "Shal'ille gives a small reward toward the karma of the mage who heals another "
-      "good soul.  "
-      "Requires herbs to cast."
+   heal_desc_rsc = "Die mitfühlende Kraft Sha-Lills heilt Wunden bei dem Anwender selbst oder bei einem anderen Spieler. Sha Lill gibt dem Magier, der eine andere gute Seele heilt eine kleine Belohnung zu seinem Karma. Benötigt Kräuter zum Zaubern."
 
-   heal_cast_rsc = "You are amazed to see your wounds close up and begin to heal, as if by magic."
-   heal_cast_on_other = "You heal %s%s."
-   heal_unnecessary_rsc = "%s%s is perfectly healthy."
 
-   heal_spell_intro = "Shal'ille Lv. 1: Bestows the healing touch of Shal'ille, restoring points of health."
+
+
+
+
+   heal_cast_rsc = "Du bist erstaunt, als Du siehst, wie Deine Wunden sich scheinbar auf magische Weise schließen und verheilen."
+   heal_cast_on_other = "Du heilst %s%s."
+   heal_unnecessary_rsc = "%s%s ist vollkommen gesund."
+
+   heal_spell_intro = "Sha-Lill Zirkel 1: Beschwört die heilende Kraft Sha-Lills und bessert die Lebenskraft etwas auf."
 
 classvars:
 
@@ -134,3 +134,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

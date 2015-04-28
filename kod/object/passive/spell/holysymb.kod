@@ -19,18 +19,18 @@ constants:
 
 resources:
 
-   HolySymbol_name_rsc = "holy symbol"
+   HolySymbol_name_rsc = "Heiliges Symbol"
    HolySymbol_icon_rsc = iholysym.bgf
-   HolySymbol_desc_rsc = \
-      "This spell involves weaving your hands in a holy tracery which frightens nearby unholy beings.  "
-      "Requires elderberries to be crushed onto the skin of your hands to ritually cleanse them."
+   HolySymbol_desc_rsc = "Dieser Spruch erfordert es, dass sich deine Hände in einer heiligen Art bewegen, die unheiligen Wesen in Deiner Nähe Furcht einflößen. Der Spruch benötigt Holunderbeeren die auf der Haut verrieben werden um sie rituell zu reinigen."
+
+
    
-   HolySymbol_success = "Your hands weave through the air in a delicate tracery, speaking through motion "
-      "the purity of Shal'ille, a ward against the unholy."
+   HolySymbol_success = "Du bewegst Deine Hände tranceartig und langsam durch die Luft und sprichst durch die Bewegung in der Reinheit Sha-Lills eine Abwehr gegen das Unheilige."
+
 
    HolySymbol_sound = sholysym.wav
 
-   holysymbol_intro = "Shal'ille Lv. 1: Weaves a holy symbol in the air which repels any nearby undead."
+   holysymbol_intro = "Sha-Lill Zirkel 1: Durch ein heiliges Symbol werden alle untoten Wesen vertrieben."
 
 classvars:
 
@@ -125,3 +125,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

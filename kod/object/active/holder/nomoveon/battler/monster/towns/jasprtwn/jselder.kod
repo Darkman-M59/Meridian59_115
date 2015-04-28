@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   JasperElder_name_rsc = "Afiera D'xor"
+   JasperElder_name_rsc = "Afiera Xor"
    JasperElder_icon_rsc = jselder.bgf
-   JasperElder_desc_rsc = "Afiera D'xor spent many, many years of solitude in these mountains, and now devotes "
-                          "his life to his art.  His stone carvings are intricate designs of mathematical perfection.  "
-                          "He will make time, however, to entertain travelers who hope to share some of the "
-                          "wisdom he has gained from a life of secluded meditation."
+   JasperElder_desc_rsc = "Afiera Xor verbrachte viele, viele Jahre in Einsamkeit in diesen Bergen und widmet sein Leben jetzt seiner Kunst. Seine Holzschnitzereien sind komplizierte Muster von mathematischer Vollkommenheit. Doch er wird sich die Zeit nehmen, die Reisenden zu unterhalten, die an seiner Weisheit teilhaben wollen, die er sich im Verlaufe eines Lebens, das der stillen Meditation gewidmet war, angeeignet hat. "
 
-   JasperElder_entry_welcome = "Greetings.  May you live to see my years."
 
-   JasperElder_unwanted_keep = "~k%s%s tells you, \"Perhaps I may find some use for that.~n~k\""
-   JasperElder_unwanted_pay = "~k%s%s tells you, \"How convenient.~n~k\""
-   JasperElder_unwanted_give = "~k%s%s tells you, \"Most material goods are of little consequence "
-                               "to an old man like me.~n~k\""
+
+
+   JasperElder_entry_welcome = "Sei gegrüßt! Mögest Du leben bis Du mein Alter erreichst."
+
+   JasperElder_unwanted_keep = "~k%s%s teilt Dir mit, \"Vielleicht finde ich eine Verwendung dafür.~n~k\""
+   JasperElder_unwanted_pay = "~k%s%s teilt Dir mit, \"Wie passend.~n~k\""
+   JasperElder_unwanted_give = "~k%s%s teilt Dir mit, \"Die meisten materiellen Dinge haben nur wenig Bedeutung für einen Mann meines Alters.~n~k\""
+
 
 classvars:
 
@@ -125,3 +125,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

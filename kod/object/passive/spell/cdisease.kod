@@ -21,14 +21,14 @@ constants:
 
 resources:
 
-   curedisease_name_rsc = "cure disease"
+   curedisease_name_rsc = "Krankheit heilen"
    curedisease_icon_rsc = icuredis.bgf
-   curedisease_desc_rsc = \
-     "Pure, healing energy purges disease from the target.  "
-	  "Requires herbs and elderberries to cast."
+   curedisease_desc_rsc = "Pure, heilende Energie neutralisiert Krankheit des Zieles. Der Zauber benötigt Kräuter und Holunderbeeren."
+
+
    
-   curedisease_on = "The power of Shal'ille burns the disease from your body."
-   curedisease_abates = "You feel the disease grow weaker."
+   curedisease_on = "Die Kraft von Sha-Lill vertreibt alle Krankheiten aus Deinem Körper."
+   curedisease_abates = "Du merkst wie die Krankheit abklingt."
    
 classvars:
 
@@ -156,3 +156,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

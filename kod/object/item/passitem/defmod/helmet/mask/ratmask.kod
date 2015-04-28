@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   RatMask_name_rsc = "rat mask"
+   RatMask_name_rsc = "Eine Rattenmaske"
    RatMask_icon_male_rsc = mmrat.bgf
    RatMask_icon_female_rsc = mfrat.bgf
-   RatMask_desc_rsc = \
-      "A silly mask that looks like a rat's head."
+   RatMask_desc_rsc = "Eine doofe Maske, die wie ein Rattenkopf aussieht."
+
 
 classvars:
 
@@ -39,5 +39,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

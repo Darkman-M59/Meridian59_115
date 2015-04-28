@@ -18,17 +18,17 @@ resources:
 
    KocatanApoth_name_rsc = "Zala ix'Mecya"
    kocatanapoth_icon_rsc = kcapoth.bgf
-   kocatanapoth_desc_rsc = "Zala is a slow moving woman who obviously enjoys "
-      "the earthly pleasures.  She talks in a soft, husky voice between long "
-      "drags on her clay pipe."
+   kocatanapoth_desc_rsc = "Zala ist eine sich langsam bewegende Frau, die offensichtlich die irdischen Vergnügungen genießt. Sie hat eine weiche, heisere Stimme und nimmt lange Züge aus ihrer Tonpfeife."
 
-   kocatanapoth_entry_welcome = "Peace, love and tranquility to you, friend."
 
-   apoth_potion_riija = "Yes, I do have a potion of forgetfulness.  Quaff it with caution, for it's effects are potent."
-   kocatanapoth_herbs_sale = "Why, yes, I could share %s%s from my personal stash with you.  Fresh from the mainland."
-   kocatanapoth_elderberry_sale = "Why do you want %s%s?  They don't seem very potent."
-   kocatanapoth_bluemushroom_sale = "Did you know that %s%s work wonders if taken after a hard night of fun?  Buy a few and see."
-   kocatanapoth_redmushroom_sale = "Ah, you want %s%s?  I see you know how to enjoy yourself."
+
+   kocatanapoth_entry_welcome = "Friede, Liebe und Heiterkeit seien mit Dir, Freund."
+
+   apoth_potion_riija = "Ja, ich habe den Trank des Vergessens. Trink ihn mit Vorsicht, denn seine Wirkung ist mächtig."
+   kocatanapoth_herbs_sale = "Warum? Naja ich könnte meinen persönlichen Vorrat an %s%s auch mit Dir teilen."
+   kocatanapoth_elderberry_sale = "Warum willst Du %s%s? Sie sehen nicht sehr wirksam aus?"
+   kocatanapoth_bluemushroom_sale = "Wusstest Du wie %s%s nach einer arbeitsreichen Nacht wirken? Kauf ein paar davon."
+   kocatanapoth_redmushroom_sale = "Ah, Du willst %s%s? Ich sehe schon, Du weißt, wie Du Dir selbst eine Freude bereiten kannst."
 
 classvars:
 
@@ -163,3 +163,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

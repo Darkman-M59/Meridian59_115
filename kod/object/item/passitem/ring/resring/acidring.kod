@@ -17,15 +17,15 @@ constants:
 
 resources:
 
-   AcidRing_name_rsc = "ring of acid resistance"
-   AcidRing_desc_rsc = \
-      "This ring is odd to the touch.  Magical runes are etched on its inner surface."
+   AcidRing_name_rsc = "Ring des Säurewiderstands"
+   AcidRing_desc_rsc = "Dieser Ring fühlt sich ungewöhnlich an. Magische Runen  zieren seine innere Oberfläche."
+
   
-   AcidRing_use_rsc = \
-      "You feel the ring working.  Your skin feels dry and chalky."
+   AcidRing_use_rsc = "Du spürst die Kraft des Rings. Deine Haut fühlt sich trocken und gipsartig an."
+
   
-   AcidRing_dead_rsc = \
-      "The ring begins to sizzle then quickly melts off your finger!"
+   AcidRing_dead_rsc = "Der Ring beginnt zu brutzeln und löst sich von Deinem Finger."
+
 
 classvars:
 
@@ -47,4 +47,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

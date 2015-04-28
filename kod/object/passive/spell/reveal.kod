@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   reveal_name_rsc = "reveal"
+   reveal_name_rsc = "Offenbaren"
    reveal_icon_rsc = ireveal.bgf
-   reveal_desc_rsc = \
-      "Strips away all hidden properties of an item, allowing "
-      "anyone to see its special abilities.  "
-      "Requires a number of perfect orc teeth to cast."
+   reveal_desc_rsc = "Streift jegliche Tarnung von einem Gegenstand ab, so dass jeder die besonderen Fähigkeiten erkennen kann. Man braucht makellose Orkzähne. "
 
-   reveal_cant = "You can't seem to focus on %s%s."
-   reveal_working = "You concentrate on %s%s, and gradually its secrets become plain for all to see!"
-   reveal_strip_misdir = "Your magics strip the illusions from %s%s!"
+
+
+
+   reveal_cant = "%s%s kann scheinbar nicht fokussiert werden."
+   reveal_working = "%s%s ist das Ziel Deiner Konzentration. Die verborgenen Geheimnisse werden für alle sichtbar!"
+   reveal_strip_misdir = "Deine Magie durchschaut jegliche Täuschung. %s%s ist identifiziert!"
    reveal_sound = sreveal.wav
 
 classvars:
@@ -145,3 +145,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

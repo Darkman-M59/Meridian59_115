@@ -18,24 +18,24 @@ constants:
 
 resources:
 
-   Distill_name_rsc = "distill"
+   Distill_name_rsc = "Trank mixen"
    Distill_icon_rsc = idistill.bgf
-   Distill_desc_rsc = \
-      "Allows the caster to distill their knowledge of a spell into liquid "
-      "form.  After casting, simply say the name of the spell you want to "
-      "turn into a potion.  "
-      "Requires a ruby and ingredients for the potion.  "
+   Distill_desc_rsc = "Ermöglicht dem Zauberer, sein Wissen über einen anderen Zauberspruch in flüssige Form zu bringen. Man benötigt dazu Rubine und die Zutaten für den Trank. Auch vergesse man nicht, den Namen des Zaubers anzugeben, welchen man verflüssigen möchte."
 
-   Distill_no_message = \
-      "With no spell to distill, the spell fizzles into nothing."
-   Distill_bad_spell = "You cannot make a potion with those powers."
-   Distill_do = \
-      "Through careful preperation of the ingredients you create %s%s."
-   Distill_Dont_have_target = "You have no knowledge of %s."
-   Distill_no_ingredient = "You do not have all the ingredients you need."
-   Distill_Fail_Target = \
-      "Your knowledge of %s is unsteady and you are not certain how to "
-      "proceed."
+
+
+
+
+   Distill_no_message = "Unentschlossen darüber, welchen Trank Du mixen willst, verpufft der Zauber wirkungslos."
+
+   Distill_bad_spell = "Du kannst diesen Zauber nicht abfüllen."
+   Distill_do = "Durch sorgfältige Vermengung der Zutaten erschaffst Du %s%s."
+
+   Distill_Dont_have_target = "Du besitzt nicht das Wissen über den %s-Zauber."
+   Distill_no_ingredient = "Du hast nicht die nötigen Zutaten."
+   Distill_Fail_Target = "Dein Wissen über %s reicht nicht aus und Du bist nicht sicher, wie Du vorgehen mußt."
+
+
 
    Distill_sound = Jdistill.wav
 
@@ -390,3 +390,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

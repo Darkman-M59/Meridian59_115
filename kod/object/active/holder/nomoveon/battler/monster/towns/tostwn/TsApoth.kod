@@ -18,15 +18,15 @@ resources:
 
    tosapothecary_name_rsc = "Frisconar"
    tosapothecary_icon_rsc = tsapoth.bgf
-   tosapothecary_desc_rsc = "This sickly man stares at you with bleary eyes from behind the counter.  "
-      "His breathing is somewhat labored and sweat mattes his forehead.  Frisconar is almost as well "
-      "known for his keen interest in magical reagents as he is for his dour out look on life."
+   tosapothecary_desc_rsc = "Dieser kranke Mann starrt dich aus trüben Augen über den Tresen hinweg an. Sein Atem wirkt gequält und Schweiß steht auf seiner Stirn. Frisconar ist fast ebenso für sein lebhaftes Interesse an magischen Reagenzien wie für seinen mürrischen Blick aufs Leben bekannt."
 
-   TsAp_entry_welcome = "Close the door.  I can't take the draft."
-   TsAp_Solagh_sale = "Actually, I happen to have %s%s with which I would be willing to part.  "
-      "Ordinarily, I would save it for my own use, but I recently acquired some extra from a wizard who was "
-      "passing through town.  I think he makes it himself."
-   TsAp_unwanted_give = "~k%s%s tells you, \"What is this?  I don't want it!  It's probably cursed.~n~k\""
+
+
+   TsAp_entry_welcome = "Schließ die Tür. Ich vertrage keinen Zug."
+   TsAp_Solagh_sale = "Tatsächlich habe ich ein paar Phiolen mit Solagh, von denen ich bereit wäre mich zu trennen. Normalerweise würde ich es für mich selbst aufbewahren, aber vor kurzem habe ich ein paar weitere von einem Zauberer bekommen, der durch die Stadt kam. Ich glaube, er stellt es selber her."
+
+
+   TsAp_unwanted_give = "~k%s%s sagt zu Dir, \"Was ist das? Ich will es nicht! Es ist wahrscheinlich mit einem Fluch belegt.~n~k\""
 
 
 classvars:
@@ -120,4 +120,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

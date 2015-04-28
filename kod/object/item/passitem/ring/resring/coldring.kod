@@ -17,15 +17,15 @@ constants:
 
 resources:
 
-   ColdRing_name_rsc = "ring of cold resistance"
-   ColdRing_desc_rsc = \
-      "This ring is warm to the touch.  Magical runes are inscribed on its inner surface."
+   ColdRing_name_rsc = "Ring des Kältewiderstands"
+   ColdRing_desc_rsc = "Dieser Ring hat eine warme Oberfläche. Magische Runen zieren seine innere Oberfläche."
+
   
-   ColdRing_use_rsc = \
-      "You feel the ring working.  You feel pleasantly warm all over."
+   ColdRing_use_rsc = "Du spürst die Wirkung des Rings. Du fühlst eine angenehme Wärme."
+
   
-   ColdRing_dead_rsc = \
-      "The ring cracks into pieces!"
+   ColdRing_dead_rsc = "Der Ring zerfällt in Stücke!"
+
 
 classvars:
 
@@ -47,4 +47,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

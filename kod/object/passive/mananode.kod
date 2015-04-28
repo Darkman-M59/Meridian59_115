@@ -22,32 +22,32 @@ constants:
 
 resources:
 
-   ManaNode_name_rsc = "mana node"
+   ManaNode_name_rsc = "Die magische Quelle"
    ManaNode_icon_rsc = node.bgf
 
-   ManaNode_desc_rsc = \
-      "A gathering of mystic energy, a flux of raw mana pulses here, "
-      "providing strength to the spellcaster who can meld with it."
-   ManaNode_Dead_desc_rsc = \
-      "A gathering of mystic energy, the raw mana that usually pulses here is "
-      "strangely absent.  It does not look like you could meld with this node."
+   ManaNode_desc_rsc = "Eine Ansammlung von magischer Energie. Reine Zauberkraft, die den Zauberer stärkt, der sie zu nutzen weiß."
 
-   mananode_already_melded = "You have already bonded with this mana node."
-   mananode_not_in_range = "The mana node is not close enough to meld with."
 
-   mananode_meld = \
-      "Closing your eyes, you put yourself in a trancelike state and reach "
-      "out to bind yourself mystically with the node.  Reality expands and "
-      "time collapses, until you come to, refreshed and invigorated."
+   ManaNode_Dead_desc_rsc = "Eine Ansammlung mystischer Energie. Das reine Mana, das gewöhnlich hier pulsiert scheint verschwunden. Es sieht nicht so aus, als könntest Du Energie aus dieser Quelle gewinnen."
 
-   mananode_failed_meld = \
-      "Closing your eyes, you put yourself in a trancelike state and reach "
-      "out to bind yourself mystically with the node.  You are disappointed "
-      "when nothing seems to happen."
+
+
+   mananode_already_melded = "Du ziehst bereits Zauberkraft aus dieser magischen Quelle."
+   mananode_not_in_range = "Die magische Quelle ist zu weit entfernt, um sie zu nutzen."
+
+   mananode_meld = "Du schließt die Augen, versetzt Dich in einen tranceartigen Zustand und versuchst, eine magische Verbindung zu der Quelle aufzubauen. Die Wirklichkeit erweitert sich und Zeit verliert ihre Bedeutung, bis Du frisch gestärkt das Bewußtsein wiedererlangst."
+
+
+
+
+   mananode_failed_meld = "Du schließt die Augen, versetzt Dich in einen tranceartigen Zustand und versuchst, eine magische Verbindung zu der Quelle aufzubauen. Du bist entäuscht, als nichts zu passieren scheint."
+
+
+
 
    mananode_meld_sound = nodeup.wav
 
-   node_somewhere = "somewhere unknown"
+   node_somewhere = "an einem unbekannten Ort"
 
 classvars:
 
@@ -370,4 +370,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   scimitarproficiency_name_rsc = "scimitar wielding"
+   scimitarproficiency_name_rsc = "Säbelkampf"
    scimitarproficiency_icon_rsc = scimico.bgf
-   scimitarproficiency_desc_rsc = "Allows for growth and strength in Meridian's most exotic weapon."
+   scimitarproficiency_desc_rsc = "Ermöglicht den Ausbau der Fähigkeiten mit Meridians meist unterschätzter Waffe."
 
 classvars:
 
@@ -40,3 +40,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

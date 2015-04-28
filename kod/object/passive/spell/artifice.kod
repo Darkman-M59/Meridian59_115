@@ -17,16 +17,16 @@ constants:
 
 resources:
 
-   artifice_cast_rsc = "The shape of %s%s begins to shift."
+   artifice_cast_rsc = "%s%s beginnt zu verschwimmen und die Umrisse sind kaum noch zu erkennen."
    
-   artifice_fails = "%s%s is strangely unaffected by the spell."
+   artifice_fails = "%s%s bleibt seltsamerweise von dem Zauber unberührt."
    
-   artifice_name_rsc = "artifice"
+   artifice_name_rsc = "List"
    artifice_icon_rsc = iartific.bgf
-   artifice_desc_rsc = \
-	  "Briefly enchants an item with random powers. "
-	  "Unsuspecting buyers may overvalue the item.  "
-	  "Requires firesand and uncut seraphym."
+   artifice_desc_rsc = "Verändert das Aussehen eines Gegenstandes, so dass er mächtige Eigenschaften zu haben scheint, die er in Wirklichkeit gar nicht besitzt. Diese mächtige Verzauberung braucht Feuersand und ungeschliffene Seraphyme.\n"
+
+
+
 
    artifice_sound = rartific.wav
    
@@ -141,3 +141,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

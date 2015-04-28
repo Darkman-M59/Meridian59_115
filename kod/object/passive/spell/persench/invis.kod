@@ -16,20 +16,20 @@ constants:
 
 resources:
 
-   invisibility_name_rsc = "invisibility"
+   invisibility_name_rsc = "Unsichtbarkeit"
    invisibility_icon_rsc = iinvisib.bgf
-   invisibility_desc_rsc = \
-     "Qor cloaks your body with a shimmering field leaving you "
-     "invisible for a brief period.  "
-     "Requires dark angel feathers to cast."
-   
-   invisibility_already_enchanted_rsc = "You are already invisible."
+   invisibility_desc_rsc = "Qor bedeckt Deinen Körper mit einem schimmernden Feld und macht Dich kurzzeitig unsichtbar. Der Zauber benötigt die Federn eines schwarzen Engels."
 
-   invisibility_on = "A shimmering field cloaks your body."
-   invisibility_off = \
-      "The shimmering field around you dissolves, leaving you "
-      "visible once more."
-   invisibility_success_rsc = "%s%s disappears from view."
+
+
+   
+   invisibility_already_enchanted_rsc = "Du bist bereits unsichtbar."
+
+   invisibility_on = "Ein schimmerndes Feld verdeckt Deinen Körper."
+   invisibility_off = "Das schimmernde Feld um Dich löst sich auf und Du wirst wieder sichtbar."
+
+
+   invisibility_success_rsc = "%s%s verschwindet aus der Sicht."
       
 
    invisibility_sound = qinvis.wav
@@ -142,3 +142,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

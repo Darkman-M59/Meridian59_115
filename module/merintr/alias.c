@@ -37,18 +37,18 @@ typedef struct
 
 static HotkeyAlias aliases[] =
 {
-   { VK_F1,   "help",     True, },
-   { VK_F2,   "rest",     True, },
-   { VK_F3,   "stand",    True, },
+   { VK_F1,   "hilfe",     True, },
+   { VK_F2,   "rasten",     True, },
+   { VK_F3,   "aufstehen",    True, },
    { VK_F4,   "neutral",  True, },
-   { VK_F5,   "happy",    True, },
-   { VK_F6,   "sad",      True, },
-   { VK_F7,   "wry",      True, },
-   { VK_F8,   "wave",     True, },
-   { VK_F9,   "point",    True, },
+   { VK_F5,   "glücklich",    True, },
+   { VK_F6,   "traurig",      True, },
+   { VK_F7,   "grimmig",      True, },
+   { VK_F8,   "winken",     True, },
+   { VK_F9,   "deuten",    True, },
    { VK_F10,  "addgroup", True, },
    { VK_F11,  "mail",     True, },
-   { VK_F12,  "quit",     True, },
+   { VK_F12,  "beenden",     True, },
 };
 
 static VerbAlias* _apVerbAliases = NULL;

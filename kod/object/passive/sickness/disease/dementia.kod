@@ -19,12 +19,12 @@ constants:
 
 resources:
 
-   dementia_name_rsc = "dementia"
+   dementia_name_rsc = "Dummheit"
    dementia_icon_rsc = idement.bgf
-   dementia_desc_rsc = "Formerly, you didn't feel so... so... stupid...."
+   dementia_desc_rsc = "Früher hast Du Dich nie so... so... verdammt dumm... gefühlt."
 
-   dementia_start = "Somehow you feel less sharp than you used to be."
-   dementia_stop  = "The fullness of your mental capacities returns to bear."
+   dementia_start = "Irgendwie bist Du nicht mehr so clever wie gewöhnlich."
+   dementia_stop = "Du bist wieder im vollen Besitz Deiner geistigen Fähigkeiten."
    
 classvars:
 
@@ -85,3 +85,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

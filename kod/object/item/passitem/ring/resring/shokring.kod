@@ -17,15 +17,15 @@ constants:
 
 resources:
 
-   ShockRing_name_rsc = "ring of shock resistance"
-   ShockRing_desc_rsc = \
-      "This ring is smooth to the touch.  Magical runes are inscribed on its inner surface."
+   ShockRing_name_rsc = "Ring des Schockwiderstands"
+   ShockRing_desc_rsc = "Dieser Ring hat ein weiches Äusseres. Magische Runen zieren seine innere Oberfläche."
+
   
-   ShockRing_use_rsc = \
-      "You feel the ring working.  You feel well grounded."
+   ShockRing_use_rsc = "Du spürst die Kraft des Rings und fühlst Dich wohl geschützt."
+
   
-   ShockRing_dead_rsc = \
-      "The ring shatters in a small explosion of pieces!"
+   ShockRing_dead_rsc = "Der Ring zerspringt in einer kleinen Explosion."
+
 
 classvars:
 
@@ -47,4 +47,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

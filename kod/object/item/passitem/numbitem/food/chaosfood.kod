@@ -20,9 +20,9 @@ resources:
    chaosfd_name_rsc = "Frenzy Food"
    chaosfd_name_plural_rsc = "Frenzy Food"
    chaosfd_icon_rsc = mushroom.bgf
-   chaosfd_desc_rsc = \
-        "At first glance, these mushrooms appear common, but look at the psychedelic colors!  "
-        "This is actually Frenzy Food! No Stomach No Problem!"
+   chaosfd_desc_rsc = "At first glance, these mushrooms appear common, but look at the psychedelic colors!  This is actually Frenzy Food! No Stomach No Problem!"
+
+
 	  
    chaosfd_no_eat = "You can't eat this potion when it is not a frenzy."
 
@@ -74,3 +74,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -18,17 +18,17 @@ resources:
 
    DarkWizard_name_rsc = "Maleval"
    DarkWizard_icon_rsc = wndarkwi.bgf
-   DarkWizard_desc_rsc =  \
-     "You can feel that you are in the presence of a powerful warlock. Invasive "
-     "magic weighs heavily in the air surrounding this wandering sorcerer. His "
-     "knowledge of the intricacies of spell learning is unsurpassed, though his "
-     "public dislike for the temples has made him an outcast of the Royal Court."
+   DarkWizard_desc_rsc = "Du kannst förmlich die Präsenz eines mächtigen Hexers fühlen. Eine gigantische Aura der Magie umgibt den wandernden Zauberer. Sein Wissen über das Erlernen und Sprechen von Zaubersprüchen ist unerreicht. Wegen seiner öffentlichen Missachtung der Tempel wurde er vom königlichen Hof ausgestoßen."
 
-   DarkWizard_already_have_spell = "You already have knowledge of the %s spell. You waste my time, fool."
-   DarkWizard_not_ready = "You insult me with your feeble requests for powers beyond your worth.  "
-      "Go practice your puny parlor tricks elsewhere, and do not trouble me until you are ready."
-   DarkWizard_teach_quest_needed = "I do not teach my craft to just any parlor magician "
-      "who stumbles by.  When you are ready, I will let you know.  Begone."
+
+
+
+
+   DarkWizard_already_have_spell = "Du kennst bereits den %s Zauberspruch. Du verschwendest meine Zeit, Narr."
+   DarkWizard_not_ready = "Du beleidigst mich mit Deinen kläglichen Bitten um Macht, die Deiner nicht wert ist. Geh und zeige Deine armseligen Salontricks woanders. Belästige mich nicht eher wieder, als bis Du bereit bist."
+
+   DarkWizard_teach_quest_needed = "Ich lehre meine Kunst nicht irgendeinem hergelaufenen Salonzauberer. Ich werde es Dich wissen lassen, wenn Du bereit bist. Verschwinde."
+
 
 classvars:
 
@@ -211,3 +211,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

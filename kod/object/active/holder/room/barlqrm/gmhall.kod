@@ -18,15 +18,15 @@ constants:
 resources:
 
    room_GM_Hall = gmhall.roo
-   room_name_GM_Hall = "The Guildmaster's Hall"
+   room_name_GM_Hall = "Halle des Gildenmeisters"
 
-   GM_Hall_music = bar.mid
+   GM_Hall_music = bar.mp3
 
-   guild_charter_ball = "Guild Charters"
-   guild_charter_desc = "Here, guildmasters may post information for potential members."
+   guild_charter_ball = "Nachrichten der Gilden"
+   guild_charter_desc = "Hier stehen aktuelle Nachrichten der Gilden."
    
-   gwarkills_name = "Guild War News"
-   gwarkills_desc = "News of Guild Wars and Alliances."
+   gwarkills_name = "Neuigkeiten über Gildenkriege"
+   gwarkills_desc = "Neuigkeiten über Gildenkriege und Allianzen."
 
 classvars:
 
@@ -139,3 +139,4 @@ CreateStandardObjects()
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

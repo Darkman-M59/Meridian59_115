@@ -21,14 +21,14 @@ constants:
 
 resources:
 
-   switch_name_rsc = "switch"
+   switch_name_rsc = "Der Schalter"
    switch_icon_rsc = switch.bgf
-   switch_desc_rsc = \
-      "This switch controls nothing."
+   switch_desc_rsc = "Dieser Schalter hat keine Funktion."
 
-   switch_not_in_range = "The switch is not close enough to switch."
 
-   switch_changed = "You flip the switch."
+   switch_not_in_range = "Der Schalter ist zu weit entfernt, um ihn zu aktivieren."
+
+   switch_changed = "Du legst den Schalter um."
 
 classvars:
 
@@ -85,3 +85,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

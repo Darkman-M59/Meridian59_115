@@ -17,12 +17,12 @@ constants:
 resources:
 
    room_Godroom = Zndramas.roo
-   room_name_Godroom ="The meeting place of the Gods"
-   godroom_music = main.mid
+   room_name_Godroom = "Der Treffpunkt der Götter"
+   godroom_music = main.mp3
    waterfall_soundGodroom = wfall2.wav
 
-   news_godroom_name = "God discussion"
-   news_godroom_desc = "courtesy of Q and Zandramas (tm)"
+   news_godroom_name = "Nachrichten von den Göttern und Barden"
+   news_godroom_desc = "Die sagenumwobene Götterkugel"
 
 classvars:
 
@@ -105,3 +105,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -34,18 +34,18 @@ constants:
 resources:
 
    OrcWizard_koc_name_rsc = "utomya"
-   OrcWizard_name_rsc = "orc wizard"
+   OrcWizard_name_rsc = "Der Ork-Zauberer"
    OrcWizard_icon_rsc = orcwiza.bgf
-   OrcWizard_desc_rsc = \
-      "Harnessing dark powers from deep underground, the Orc Wizards "
-      "enforce the mandates of their chieftain, such as extermination "
-      "of the enemy shadow beasts.  How the orcs came "
-      "upon the powers of magic is unknown, but the thought of man's "
-      "greatest enemy armed with arcane power is enough to make any warrior "
-      "queasy."
+   OrcWizard_desc_rsc = "Sich die dunklen Kräfte aus den Tiefen nutzbar machend, erzwingen die Ork-Zauberer von ihren Häuptlingen zum Beispiel die Tötung der feindlichen Schattenbestien. Wie die Orks zu den Mächten der Magie kamen, ist unbekannt, doch der Gedanke, dass der größte Feind mit arkanen Kräfte ausgestattet ist, reicht aus, dass jeder Krieger sich unwohl fühlt."
+
+
+
+
+
+
 
    OrcWizard_dead_icon_rsc = orcwizaX.bgf
-   OrcWizard_dead_name_rsc = "dead orc"
+   OrcWizard_dead_name_rsc = "Ein toter Ork"
 
    OrcWizard_sound_hit = orc_atkh.wav
    OrcWizard_sound_miss = orc_atkm.wav
@@ -299,3 +299,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

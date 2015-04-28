@@ -16,20 +16,20 @@ constants:
 
 resources:
 
-   ReagentRing_name_rsc = "ring of Far'nohl"
+   ReagentRing_name_rsc = "Ring aus Far'nohl"
    ReagentRing_icon_rsc = ring01.bgf
-   ReagentRing_desc_rsc = "A replica of the powerful ring once worn by the "
-      "powerful King Far'nohl, this ring will let the bearer cast spells "
-      "even while lacking the necessary reagents.  Sadly, since it is "
-      "a mere copy of the original, it will only gift you with limited "
-      "usage."
+   ReagentRing_desc_rsc = "Ein Replikat von dem machtvollen Ring, einst getragen vom mächtigen König Far'nohls. Dieser Ring erlaubt es dem Träger Zaubersprüche auszusprechen auch wenn er nicht über die nötigen Reagenzien verfügt. Traurigerweise ist der Ring nur eine einfache Kopie und besitzt deshalb nur eine begrenzte Macht."
 
-   ReagentRing_chargeslefta_rsc = "There are "
-   ReagentRing_chargesleftb_rsc = " charges left in this ring."
 
-   ReagentRing_disappear_rsc = \
-      "As the last charge is consumed, the ring of Far'nohl disappears in "
-      "a puff of dust."
+
+
+
+   ReagentRing_chargeslefta_rsc = "Es verbleiben "
+   ReagentRing_chargesleftb_rsc = " Ladungen in diesem Ring."
+
+   ReagentRing_disappear_rsc = "Als die letzte Ladung aufgebraucht wurde, verschwand der Ring von Far'nohl in einer Staubwolke."
+
+
 
 classvars:
 
@@ -179,4 +179,5 @@ messages:
  
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

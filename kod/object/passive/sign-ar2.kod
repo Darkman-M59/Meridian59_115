@@ -17,19 +17,19 @@ constants:
 
 resources:
 
-   newarenasign_name_rsc = "Kraanan's Pride"
+   newarenasign_name_rsc = "Kraanans Stolz"
    newarenasign_icon1_rsc = artrop01.bgf
    newarenasign_icon2_rsc = artrop02.bgf
    newarenasign_icon3_rsc = artrop03.bgf
    newarenasign_icon4_rsc = artrop04.bgf
 
-   newarenasign_desc_rsc = \
-   "Longest winning streaks (%s):\n %s %s %s %s %s" 
-   newarenasign_dummy_line =  "    %s  (%i %s)\n"
-   newarenasign_line = "    %q  (%i %s)\n"
-   newarenasign_blank_rsc = " "
-   newarenasign_win = "win"
-   newarenasign_wins = "wins"
+   newarenasign_desc_rsc = "Längste Siegesserie (%s):\n %s %s %s %s %s"
+
+   newarenasign_dummy_line = " %s (%i %s)\n"
+   newarenasign_line = " %q (%i %s)\n"
+   newarenasign_blank_rsc = ""
+   newarenasign_win = "Sieg"
+   newarenasign_wins = "Siege"
 
    newarenasign_dummy_name = "Noimad Trebuhcs"
 
@@ -152,3 +152,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

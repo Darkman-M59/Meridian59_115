@@ -19,23 +19,23 @@ constants:
 
 resources:
 
-   forgetspell_name_rsc = "forget"
+   forgetspell_name_rsc = "Vergessen"
    forgetspell_icon_rsc = iforget.bgf
-   forgetspell_desc_rsc = \
-      "Causes the victim to forget his or her own abilities.  "
-      "Requires firesand and uncut seraphym to cast."
+   forgetspell_desc_rsc = "Bewirkt, dass das Opfer seine oder ihre eigenen Fähigkeiten vergisst. Braucht ungeschliffene Seraphyme und Feuersand."
 
-   forgetspell_already_enchanted = "You can't seem to make %s%s any more forgetful."
 
-   forgetspell_on = "The art of %s slips from your mind."
-   forgetspell_off = "You suddenly recall what it was that you had forgotten."
-   forgetspell_caster = "You glare at %s%s and they appear momentarily confused."
-   forgetspell_cast_self = "It occurs to you that casting forget on yourself may cause you to "
-                         "forget forgetting what you had forgotten, and thus you might forget "
-                         "not forgetting all you had forgotten when the forget spell leaves you, "
-                         "and so you forget about it."
 
-   forgetspell_caster_failed = "%s%s is too stupid to make any stupider!"
+   forgetspell_already_enchanted = "Es scheint, dass %s%s bereits alles vergessen hat."
+
+   forgetspell_on = "Du findest in Deinem Gedächtnis keinen Hinweis mehr, wie %s einzusetzen ist."
+   forgetspell_off = "Plötzlich erinnerst Du Dich daran, was Du vergessen hattest."
+   forgetspell_caster = "Du starrst %s%s an und für einen Moment scheint alles durcheinander zu sein."
+   forgetspell_cast_self = "Du hast den Eindruck, dass Du, wenn Du den Spruch Vergessen auf Dich selbst anwendest, vergisst zu vergessen, was Du vergessen hattest und dass Du somit vielleicht vergessen könntest, nicht alles zu vergessen, was Du vergessen hattest, als Du den Spruch Vergessen anwandtest und deshalb vergisst Du es."
+
+
+
+
+   forgetspell_caster_failed = "%s%s ist so dumm, dümmer geht es nicht mehr!"
 
    forgetspell_sound = rforget.wav
 
@@ -230,3 +230,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

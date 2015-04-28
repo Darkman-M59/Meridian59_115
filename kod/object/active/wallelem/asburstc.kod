@@ -19,13 +19,13 @@ constants:
 
 resources:
 
-   ActiveSporeCloud_name_rsc = "thick fog"
+   ActiveSporeCloud_name_rsc = "Dichter Nebel"
    ActiveSporeCloud_icon_rsc = poisoncl.bgf
-   ActiveSporeCloud_desc_rsc = "You choke just looking at the thick putrid fog."
+   ActiveSporeCloud_desc_rsc = "Du würgst, als Du nur auf den dichten fauligen Nebel blickst."
 
-   ActiveSporeCloud_dissipates = "The spore clouds drift away on the wind."
-   ActiveSporeCloud_poisoned = "You suddenly feel sick as you inhale the vapors of the fog."
-   ActiveSporeCloud_unaffected = "Strangely, the noxious cloud does not affect you."
+   ActiveSporeCloud_dissipates = "Die Sporenwolken werden vom Wind verweht."
+   ActiveSporeCloud_poisoned = "Ein Teil des Giftes lässt nach, verschwindet ganz."
+   ActiveSporeCloud_unaffected = "Seltsamerweise tut Dir die giftige Wolke nichts."
 
    ActiveSporeCloud_poison_snd = psncough.wav
 
@@ -82,3 +82,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

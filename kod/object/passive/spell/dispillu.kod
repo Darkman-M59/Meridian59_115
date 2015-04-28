@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   dispelillusion_name_rsc = "dispel illusion"
+   dispelillusion_name_rsc = "Illusionen auflösen"
    dispelillusion_icon_rsc = idispill.bgf
-   dispelillusion_desc_rsc = \
-      "Attempts to dispel any illusions in your vicinity.  This powerful "
-      "spell is the bane of the Riija school of magic, but at a significant "
-      "cost in reagents.  "
-      "Requires dragonfly eyes, uncut seraphym, and solagh to cast."
+   dispelillusion_desc_rsc = "Vertreibt jegliche Illusion in Deiner Nähe. Mit diesem machtvollen Spruch kann man die neuentdeckte Riija-Magielehre beinahe eindämmen, allerdings nur mit hohem Einsatz von Reagenzien, Zauberkraft und Ausdauer. Man benötigt dazu Augen einer Drachenfliege, ungeschliffene Seraphyme und Phiolen mit Solagh."
 
-   dispelillusion_castermsg_rsc = \
-      "You cross your eyes momentarily to make the illusions in the area fade "
-      "away."
+
+
+
+
+   dispelillusion_castermsg_rsc = "Du verdrehst einen Augenblick lang die Augen und alle Vorspiegelungen um Dich herum verschwinden."
+
+
 
    dispelillusion_sound = kdispill.wav
 
@@ -97,3 +97,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

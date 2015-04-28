@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   fountainjet_name_rsc = "fountain"
+   fountainjet_name_rsc = "Der Brunnen"
    fountainjet_icon_rsc = fountjet.bgf
-   fountainjet_desc_rsc = "A spray of water from some underground source."
+   fountainjet_desc_rsc = "Wasser aus einer unterirdischen Quelle."
 
    fountainjet_sound_rsc = fountain.wav
 
@@ -93,3 +93,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

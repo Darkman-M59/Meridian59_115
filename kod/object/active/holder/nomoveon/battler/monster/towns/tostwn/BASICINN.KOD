@@ -7,21 +7,21 @@ constants:
 
 resources:
 
-   basicinnkeeper_name_rsc = "Rycksher"
+   basicinnkeeper_name_rsc = "Rulker"
    basicinnkeeper_icon_rsc = basicinn.bgf
-   basicinnkeeper_desc_rsc = \
-      "The younger, prissy, and less competent brother of Paddock casually "
-      "lounges behind the bar.  While sipping from goblet (pinky outstretched), "
-      "he slowly bobs his head to the music."
+   basicinnkeeper_desc_rsc = "Der jüngere, zimperliche und unfähige Bruder von Paddock lungert untätig hinter der Bar herum. Während er an seinem Kelch nippt (den kleinen Finger abspreizend), nickt er langsam mit dem Kopf zur Musik."
 
-   basicIK_entry_welcome = "I shall be right with you."
 
-   basicinnkeeper_fee_rsc = "You haven't enough to cover the expenses of wrapping tissue."
-   basicinnkeeper_type_rsc = "I shan't be wrapping anything of the sort."
-   basicinnkeeper_wrap_rsc = \
-      "~kRycksher uses some dead slime goo and sheets of colored tissue to wrap a gift-box. "
-      "With practiced hands, he turns a small piece of shiny ribbon into a perfect bow. "
-      "He hands it back after delicately writing something on a tag."
+
+
+   basicIK_entry_welcome = "Ich bin gleich bei Dir."
+
+   basicinnkeeper_fee_rsc = "Du hast noch nicht einmal genug, um die Ausgaben für Packpapier zu decken."
+   basicinnkeeper_type_rsc = "Ich werde etwas Derartiges nicht einwickeln."
+   basicinnkeeper_wrap_rsc = "~kRulker benutzt ein wenig Klebstoff und farbiges Papier, um eine Geschenkschachtel einzupacken. Mit geübten Fingern schlingt er ein kurzes Band zu einer schönen Schleife. Er überreicht es, nachdem er etwas auf den Anhänger geschrieben hat."
+
+
+
 
 classvars:
 
@@ -210,3 +210,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

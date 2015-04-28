@@ -26,7 +26,7 @@ constants:
 
 resources:
 
-   AvarNode_rejected = "The node rejects your attempt to meld with it."
+   AvarNode_rejected = "Die Node weist Deinen Versuch, Dich mit ihr zu verbinden zurück."
 
 classvars:
 
@@ -107,4 +107,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

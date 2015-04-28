@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   FormulaScroll_name_rsc = "alchemical formula"
+   FormulaScroll_name_rsc = "Die Chemische Formel"
    FormulaScroll_icon_rsc = scr08.bgf
-   FormulaScroll_desc_rsc = \
-      "This scroll is covered in spidery script which is only barely legible.  It appears "
-      "to be some sort of alchemical formula, calling for such strange ingredients as "
-      "a child's spit, sap from a hundred-year-old tree, and a spider's entrails."
+   FormulaScroll_desc_rsc = "Diese Schriftrolle ist mit einer krakeligen Schrift bedeckt, die man kaum lesen kann. Es scheint irgendeine chemische Formel zu sein, für die man so merkwürdige Bestandteile wie Kinderspucke, Harz von einem hundert Jahre alten Baum und Spinneneingeweide benötigt."
+
+
+
 
 classvars:
 
@@ -39,3 +39,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

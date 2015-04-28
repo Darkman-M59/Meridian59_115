@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   pants_name_rsc = "pants"   
-   pants_desc_rsc = \
-   "These pants will cover your legs but won't help much in the way of protection."
+   pants_name_rsc = "Die Hose"
+   pants_desc_rsc = "Diese Hose ist ein attraktives Kleidungsstück, schützt Dich aber kaum bei Angriffen."
 
-   pants_condition_exc = " are in immaculate condition."
-   pants_condition_exc_mended = " are in excellent condition, but have been patched before.."
-   pants_condition_good = " are scuffed and slightly worn."
-   pants_condition_med = " have a few unsightly rips."
-   pants_condition_poor = " are in tatters, and barely holding together."
-   pants_condition_broken = " are covered in filth and ripped beyond use."
+
+   pants_condition_exc = " ist in makellosem Zustand."
+   pants_condition_exc_mended = " ist in hevorragendem Zustand, wurde aber bereits ausgebessert."
+   pants_condition_good = " ist leicht abgetragen."
+   pants_condition_med = " hat ein paar Risse."
+   pants_condition_poor = " besteht nur noch aus Fetzen und hält kaum noch zusammen."
+   pants_condition_broken = " ist mit Dreck bedeckt und zerrissen, so dass man sie nicht mehr benutzen kann."
 
 classvars:
 
@@ -143,5 +143,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

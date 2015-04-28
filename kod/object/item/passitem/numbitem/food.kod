@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   food_desc_rsc = "%s\n\nThis will cure the munchies.%s"
+   food_desc_rsc = "%s\n\nDies wird den Hunger stillen.%s"
 
-   food_use = "Yum-yum good!"
-   food_cant_use_on = "You can't feed %s%s"
+   food_use = "Lecker, lecker, lecker!"
+   food_cant_use_on = "Du kannst %s%s nicht füttern"
 
    food_eat_wav = eat.wav
 
@@ -87,3 +87,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

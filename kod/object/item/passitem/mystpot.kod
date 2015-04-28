@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   MysteryPotion_name_rsc = "mysterious potion"
+   MysteryPotion_name_rsc = "Mysteriöser Trank"
    MysteryPotion_icon_rsc = potion01.bgf
-   MysteryPotion_desc_rsc = \
-      "This is an odd potion of a type you have not seen before.  It certainly doesn't look like "
-      "something you would want to drink willingly."
+   MysteryPotion_desc_rsc = "Dies ist eine merkwürdige Flasche, von einer Art, die Du noch nie zuvor gesehen hast. Es sieht bestimmt nicht aus wie etwas, was Du freiwillig trinken möchtest."
+
+
 
 classvars:
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

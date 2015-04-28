@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   NecromancerWarningLetter_name_rsc = "letter"
+   NecromancerWarningLetter_name_rsc = "Brief"
    NecromancerWarningLetter_icon_rsc = scr08.bgf
-   NecromancerWarningLetter_desc_rsc = \
-      "This letter is scribbled mostly illegibly in a winding, chaotic script.  You can make out "
-      "the following phrases amongst its ramblings:\n"
-      "\"...There are things older than the ground on which we live.  There are beings ancient beyond your "
-      "wildest...\"\n"
-      "\"...no wisdom or sanctity in these beings.  There is only hunger.  They are here.\"\n"
-      "\"...hungry and all life is their prey.  Be warned.\""
+   NecromancerWarningLetter_desc_rsc = "Dieser Brief ist hektisch in einer meist unleserlichen, chaotischen Schrift geschrieben. Du kannst folgende Textabschnitte entziffern:\n\"...Es gibt Dinge, älter als der Boden, auf dem wir wandeln. Es gibt Kreaturen, älter als Deine schlimmsten...\"\n\"...keine Weisheit oder Gnade wohnt diesen Monstern inne. Da gibt es nur Hunger. Sie sind hier.\"\n\"...hungrig, und alles, was da lebendig ist, wird zu ihrem Opfer. Sei gewarnt.\""
+
+
+
+
+
+
 
 classvars:
 
@@ -42,3 +42,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

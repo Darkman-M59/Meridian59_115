@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   goblet_name_rsc = "goblet of ale"
+   goblet_name_rsc = "Bierkelch"
    goblet_icon_rsc = goblet.bgf
-   goblet_desc_rsc = \
-      "Ale from the Duke's own private kegs,brewed to his exacting specifications."
-   goblet_name_plural_rsc = "goblets of ale"
+   goblet_desc_rsc = "Bier aus den Privatfässern des Herzogs, gebraut nach seinen exakten Vorgaben."
 
-   goblet_disp_name = "pitcher of ale"
+   goblet_name_plural_rsc = "Bierkelche"
+
+   goblet_disp_name = "Bierkrug"
    goblet_disp_icon = pitcher.bgf
-   goblet_disp_desc = \
-     "A heavy metal pitcher, filled to the rim with fresh ale from the Duke's cellars, "
-	 "and served at room temperature for maximum potency."
-   goblet_got_one = "You fill your goblet with frothy ale from the pitcher."
+   goblet_disp_desc = "Ein schwerer Metallkrug, bis zum Rand mit frischem Bier aus dem Keller des Herzogs gefüllt und bei Zimmertemperatur serviert, damit sich seine volle Kraft entfaltet."
+
+
+   goblet_got_one = "Du füllst Deinen Kelch mit schäumendem Bier aus dem Krug."
 
    goblet_eat_wav = drink.wav
-   goblet_use = "This watered down and paltry ale is thin, and unassuming."
+   goblet_use = "Dieses verwässerte und armselige Bier ist dünn und nichtssagend."
 
 classvars:
 
@@ -86,3 +86,4 @@ messages:
    }
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

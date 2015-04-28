@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsF4 = F4.roo
-   room_name_OutdoorsF4 ="East Merchant Way"
-   OutdoorsF4_music = forest.mid
+   room_name_OutdoorsF4 = "Östliche Handelsroute"
+   OutdoorsF4_music = forest.mp3
 
 classvars:
 
@@ -76,3 +76,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

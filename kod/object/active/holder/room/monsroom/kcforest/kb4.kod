@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OutdoorsKB4 ="Path to the Ruins"
+   room_name_OutdoorsKB4 = "Pfad zu den Ruinen"
    room_OutdoorsKB4 = KB4.roo
-   OutdoorsKB4_music = orcbeg.mid
+   OutdoorsKB4_music = orcbeg.mp3
 
 classvars:
 
@@ -130,3 +130,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

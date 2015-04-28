@@ -23,29 +23,29 @@ constants:
 
 resources:
 
-   token_name_rsc = "Token"
+   token_name_rsc = "Das Artefakt"
    token_icon_rsc = rat.bgf
-   token_desc_rsc = "A Token of the Meridian Council"
-   token_used_desc_rsc = \
-      "The token is very heavy, and you feel your vigor drain away as you hold it."
+   token_desc_rsc = "Ein Artefakt des königlichen Hofs."
+   token_used_desc_rsc = "Das Artefakt ist unglaublich schwer. Du spürst Deine Ausdauer sinken, während Du es mit zitternden Händen hältst."
 
-   token_use_rsc = \
-      "You feel drained and out of breath from carrying the token."
-   token_unuse_rsc = \
-      "You are relieved to feel your vigor begin returning as you let go of the token."
-   token_cantuse_rsc = \
-      "You are unable to hold so many items in your hands, and the token slips to the ground."
-   token_noteligible_rsc = \
-      "The token recognizes you are beneath notice of the Royal Court, and writhes in your hands. You cannot hold it."
 
-   token_realized_rsc = "~IYou are astonished to see %s%s in the loot from your kill.~n"
-   token_was_realized_rsc = "~IYour nerves jangle, and you suddenly know that %s%s has recovered %s%s from %s%s.~n"
+   token_use_rsc = "Vom Herumtragen des Artefakts fühlst Du Dich erschöpft und atemlos."
 
-   token_was_delivered_rsc = "~IAll hail %s%s who has returned %s%s to the Meridian Council.~n"
+   token_unuse_rsc = "Nachdem Du vom Artefakt abgelassen hast, verspürst Du sofortige Linderung. Deine Ausdauer kehrt allmählich zurück."
 
-   tok_faction_too_strong = "I am sorry, but my current followers provide all the support I need. Perhaps if you were to try again later, I will have need of you."
+   token_cantuse_rsc = "So viele Dinge kannst Du nicht auf einmal in den Händen halten. Das Artefakt gleitet zu Boden."
 
-   token_drops = "%s%s slips from your grasp and falls to the ground!"
+   token_noteligible_rsc = "Das Artefakt spürt, dass Du nicht in der Gunst des königlichen Hofes stehst, und entwindet sich Deinen Händen."
+
+
+   token_realized_rsc = "~IIn der Beute Deines letzten Gegners findest Du ein Artefakt: %s%s.~n"
+   token_was_realized_rsc = "~IPlötzlich weißt Du, dass %s%s ein Artefakt gefunden hat: %s%s! %s%s mußte dafür das Leben lassen.~n"
+
+   token_was_delivered_rsc = "~IAlle sollen %s%s preisen. %s%s wurde zum Rat von Meridian zurückgebracht!~n"
+
+   tok_faction_too_strong = "Ich bin untröstlich - aber meine derzeitige Gefolgschaft unterstützt mich bereits zu vollster Zufriedenheit. Vielleicht kannst Du mir etwas später einen Gefallen tun."
+
+   token_drops = "%s%s entwindet sich Deinen Händen und fällt zu Boden!"
 
 classvars:
 
@@ -578,4 +578,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   guilddisband_name_rsc = "disband"
+   guilddisband_name_rsc = "Auflösen"
    guilddisband_icon_rsc = light.bgf
-   guilddisband_desc_Rsc = "This is how to delete a guild."
+   guilddisband_desc_Rsc = "So löscht man eine Gilde."
 
-   guilddisband_disband_master = "~BYou disband %s%q."
-   guilddisband_disband_users = "~BYour guild has been disbanded by %s%s."
+   guilddisband_disband_master = "~BDu löst die Gilde %s%q auf."
+   guilddisband_disband_users = "~BDeine Gilde wurde von %s%s aufgelöst."
 
-   guilddisband_necro_nak = "~BThe Order of the Necromancers is bound by a blood oath.  "
-      "It cannot simply be disbanded."
+   guilddisband_necro_nak = "~Bder Orden der Nekromanten ist durch einen Blutsschwur gebunden. Er kann nicht einfach aufgelöst werden."
+
 
 classvars:
 
@@ -84,3 +84,4 @@ messages:
   
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

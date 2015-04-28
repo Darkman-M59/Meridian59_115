@@ -16,12 +16,12 @@ constants:
    
 resources:
 
-   pawnman_name_rsc = "Pawn man"
+   pawnman_name_rsc = "Pfandleiher"
    pawnman_icon_rsc = pawnman.bgf
-   pawnman_desc_rsc = "This is a pawn broker."
+   pawnman_desc_rsc = "Dies ist ein Pfandleiher."
 
-   pawnman_offer_busy = "%s is busy right now with another customer" 
-   pawnman_no_value = "I can't even give you a shillin' fer that"
+   pawnman_offer_busy = "%s ist gerade mit einem anderen Kunden beschäftigt."
+   pawnman_no_value = "Ich kann Dir noch nicht einmal einen Schilling dafür geben"
 
 classvars:
    vrName = pawnman_name_rsc
@@ -163,3 +163,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

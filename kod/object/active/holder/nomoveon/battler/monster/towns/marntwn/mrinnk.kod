@@ -19,28 +19,28 @@ resources:
 
    MarionInnkeep_name_rsc = "Morrigan"
    MarionInnkeep_icon_rsc = mrinnk.bgf
-   MarionInnkeep_desc_rsc = "A silly little man, Morrigan maintains a modest business alternately "
-      "buying and selling reagents and other various notions.  Although his heart doesn't seem to be in "
-      "commerce, there can be little doubt Morrigan loves his job. "
+   MarionInnkeep_desc_rsc = "Morrigan, ein dummer kleiner Mann, handelt in bescheidenem Rahmen, er kauft und verkauft Reagenzien und verschiedene andere Dinge. Obwohl er sein Geschäft nicht mit Leib und Seele betreibt, gibt es doch kaum Zweifel, dass er seine Arbeit liebt. "
 
-   MrIk_entry_welcome = "Pardon me for saying so, but you look like you could use a rest, %s%s."
 
-   MarionInnkeeper_room_rented = "Here ya go then.  Hope you enjoy your stay, if you have any problems Tova will be glad to help you."
 
-   MarionInnkeeper_cost1 = "Oh, good, you should rest.  Let me see....  I charge "
-   MarionInnkeeper_cost2 = " shillings to ~Irent~n a nice ~Iroom~n here for 85 days.  If you wish to stay longer, I charge "
-   MarionInnkeeper_cost3 = " per day if you pre-pay.  Key copies, uh, key copies....  Oh, they cost "
-   MarionInnkeeper_cost4 = " shillings to make.  I know you'll like your room."
+   MrIk_entry_welcome = "Entschuldigt, Ihr seht so aus, als könntet Ihr ein wenig Ruhe vertragen, %s%s."
 
-   MarionInnkeeper_days_left = "You like it here, I see.  There are %q days until you should pay me again."
-   MarionInnkeeper_too_long = "Oh, I can't be responsible for holding so much money!  Pay me again later when you don't have so many days left on your tab."
+   MarionInnkeeper_room_rented = "Auf gehts! Hoffentlich genießt Du Deinen Aufenthalt, wenn Du irgendwelche Probleme hast, wird Tova Dir gerne helfen."
 
-   MarionInnkeeper_destroy_key_copy = "~kMorrigan tells you, \"Oh, yes. I can get rid of this key for you.  No problem.\""
+   MarionInnkeeper_cost1 = "Oh, gut. Du solltest ausruhen. Lass mich schauen. Ich nehme"
+   MarionInnkeeper_cost2 = " Schillinge wenn Du hier ein ~IZimmer~n für 85 Tage ~Imieten~n willst. Wenn Du länger bleiben willst,"
+   MarionInnkeeper_cost3 = " berechne ich die Miete pro Tag Deiner Vorauszahlung. Schlüsselduplikate... Ohh die kosten"
+   MarionInnkeeper_cost4 = " Schillinge. Ich bin sicher, Dein Zimmer wird Dir gefallen."
 
-   MrIk_room_command = "room"
-   MrIk_rent_command = "rent"
-   MrIk_cost_command = "cost"
-   MrIk_copy_key_command = "copy key"
+   MarionInnkeeper_days_left = "Ich sehe, Dir gefällt es hier. Es sind noch %q Tage übrig, bis Du mich wieder bezahlen solltest."
+   MarionInnkeeper_too_long = "Oh, ich möchte nicht für soviel Geld verantwortlich sein! Bezahle mich später, wenn du nicht mehr so viele Tage übrig hast."
+
+   MarionInnkeeper_destroy_key_copy = "~kMorrigan sagt zu dir, \"Oh ja, ich kann für dich diesen Schlüssel loswerden. Kein Problem.\""
+
+   MrIk_room_command = "Zimmer"
+   MrIk_rent_command = "mieten"
+   MrIk_cost_command = "Kosten"
+   MrIk_copy_key_command = "kopiere Schlüssel"
 
 classvars:
 
@@ -225,4 +225,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

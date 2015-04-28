@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   BarloqueBanker_name_rsc = "Setag'lib"
+   BarloqueBanker_name_rsc = "Setack"
    BarloqueBanker_icon_rsc = banker.bgf
-   BarloqueBanker_desc_rsc = "A small, pecuniarily oriented man."
+   BarloqueBanker_desc_rsc = "Einer kleiner, unscheinbar wirkender Mann."
 
 classvars:
 
@@ -42,4 +42,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

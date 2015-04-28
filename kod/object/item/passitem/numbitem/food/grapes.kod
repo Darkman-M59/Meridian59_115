@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   grapes_name_rsc = "bunch of grapes"
+   grapes_name_rsc = "Die Traubenstaude"
    grapes_icon_rsc = grapes.bgf
-   grapes_desc_rsc = \
-   "Pietro's secret recipes usually involve spicy wine grapes from the west. "
-   "These particular grapes are extra plump and succulent."
+   grapes_desc_rsc = "Pietro verwendet für seine geheimen Rezepte meist geschmackvolle Trauben aus dem Westen. Diese speziellen Trauben sind besonders fleischig und saftig."
 
-   grapes_name_plural_rsc = "bunches of grapes"
 
-   grapes_disp_name = "platter of grapes"
+
+   grapes_name_plural_rsc = "Traubenstauden"
+
+   grapes_disp_name = "Die Platte mit Trauben"
    grapes_disp_icon = grapepla.bgf
-   grapes_disp_desc = \
-   "These succulent grapes come from the vineyards of Marion, "
-   "and are renowned for their remarkable flavor. "
-	"Their taste is such a favorite that few actually "
-	"manage to survive to become wine."
+   grapes_disp_desc = "Diese saftigen Trauben stammen aus dem Weinberg von Marion und sind für ihren bewundernswerten Geschmack berühmt. Ihr Geschmack ist so einzigartig, dass nur wenige schlußendlich für Wein verwendet werden."
+
+
+
+
 
 classvars:
 
@@ -58,3 +58,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

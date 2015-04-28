@@ -19,26 +19,26 @@ constants:
 resources:
 
    ghost_koc_name_rsc = "far'nohl kotezleoc"
-   ghost_name_rsc = "ghost of Far'Nohl"
-   ghost_generic_name_rsc = "ghost"
+   ghost_name_rsc = "Far'Nohls Geist"
+   ghost_generic_name_rsc = "Der Geist"
    ghost_icon_rsc = ghost.bgf
-   ghost_desc_rsc = \
-      "Rags and rotten flesh hang on the bones of this magical "
-      "apparition.  This is the ghost of a former tyrant "
-      "of Meridian, Far'Nohl, who gave his life and his soul "
-      "to the dark arts."
+   ghost_desc_rsc = "Lumpen und verfaultes Fleisch hängen an den Knochen dieser magischen Erscheinung. Es ist der Geist eines früheren Tyrannen Meridians mit dem Namen Far'Nohl, der Leben und Seele an die schwarzen Künste vergab."
 
-   ghost_normal_desc_rsc = \
-      "Lost souls of unending wrath, these fearsome undead are "
-      "amongst the most feared creatures to walk the mainlands "
-      "of Meridian.  The torture and pain necessary to create one "
-      "means that their occurance is relatively rare - which is a "
-      "blessing for the living."
+
+
+
+
+   ghost_normal_desc_rsc = "Als verlorene Seelen voll unendlicher Wut gehören diese schrecklichen Untoten zu den am meisten gefürchteten Geschöpfen, die das Festland von Meridian bevölkern. Die Schmerzen und Qualen, die nötig sind, um einen zu schaffen, bewirken, dass sie nur recht selten auftreten - was ein Segen für die Lebenden ist."
+
+
+
+
+
 
    ghost_eyes_rsc = gheye.bgf
 
    ghost_dead_icon_rsc = ghostX.bgf
-   ghost_dead_name_rsc = "dead ghost"
+   ghost_dead_name_rsc = "Die Überreste des Geists"
 
    ghost_sound_hit = gst_atkh.wav
    ghost_sound_miss = gst_atkm.wav
@@ -221,3 +221,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

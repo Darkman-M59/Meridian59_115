@@ -633,6 +633,10 @@ void GamePlaySound(ID sound_rsc, ID source_obj, BYTE flags, WORD y, WORD x, WORD
       }
       //distance = GetLongSqrt(dx * dx + dy * dy);
       distance = Distance(dx, dy);
+      #ifndef M59_MSS
+	  if (flags & SF_LOOP)
+		  distance = cutoff / 2;
+      #endif
       if (distance < cutoff)
       {
 	 volume = maxvolume - (distance * maxvolume / cutoff) ;

@@ -353,7 +353,7 @@ void StatsListLButtonDblClk(HWND hwnd, BOOL fDoubleClick, int x, int y, UINT key
    {
       if( StatsGetCurrentGroup() == STATS_SPELLS )
       {
-	 strcpy( pszCommand, "cast " );
+	 strcpy( pszCommand, "zaubern " );
       }
       else if (StatsGetCurrentGroup() == STATS_SKILLS)
       {
@@ -541,7 +541,7 @@ Bool StatListKey(HWND hwnd, UINT key, Bool fDown, int cRepeat, UINT flags)
 				if( StatsGetCurrentGroup() == STATS_SPELLS )
 				{
 					pszCommand = (char*)SafeMalloc( ( iLabelLen + 6 ) * sizeof( char ) );
-					strcpy( pszCommand, "cast " );
+					strcpy( pszCommand, "zaubern " );
 				}
 				else
 				{

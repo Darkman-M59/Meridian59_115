@@ -23,57 +23,57 @@ constants:
 
 resources:
 
-   BlackDagger_name_rsc = "black dagger"
+   BlackDagger_name_rsc = "Der Schwarze Dolch"
    BlackDagger_icon_rsc = bkswd.bgf
-   BlackDagger_desc_rsc = \
-   "This elegant blade looks like it would fit snugly between a pair of shoulder blades. \n\n%s%s%s"
+   BlackDagger_desc_rsc = "Diese elegante Klinge dürfte ziemlich gut zwischen zwei Schulterblätter passen. \n\n%s%s%s"
+
    
-   BlackDagger_gamestart_glow = "~IYour dagger gains an unearthly glow about it."
+   BlackDagger_gamestart_glow = "~IDein Dolch leuchtet in einem unirdischen Licht auf."
 
-   BlackDagger_impact = "~IThe black blade shatters upon impact!"
-   BlackDagger_cant_use = "~IYou try to wield the dark blade, but somehow, your heart is not quite in it."
-   BlackDagger_shiver = "~IThe black dagger suddenly shivers ominously in your hand."
+   BlackDagger_impact = "~IDer Schwarze Dolch zerbricht beim ersten Stich!"
+   BlackDagger_cant_use = "~IDu versuchst, die dunkle Klinge zu führen, aber Dein Herz scheint sich noch nicht mit ihr vereinigt zu haben."
+   BlackDagger_shiver = "~IDer Schwarze Dolch zittert plötzlich merkwürdig in Deiner Hand."
 
-   BlackDagger_notches = "There are %i notches carved in the handle."
-   BlackDagger_one_notch = "There is a single elegant notch carved in the handle."
-   BlackDagger_no_notches = "The handle is smooth and flawless."
+   BlackDagger_notches = "Insgesamt %i Kerben sind in den Griff eingeritzt."
+   BlackDagger_one_notch = "Du siehst im Griff eine einzige, elegante Kerbe."
+   BlackDagger_no_notches = "Der Griff ist glatt und in einwandfreiem Zustand. "
 
-   BlackDagger_4_gems = "All four gems in the pommel shine with unparalleled brilliance.  "
-   BlackDagger_3_gems = "Three of the gems in the pommel glow with a healthy luster.  "
-   BlackDagger_2_gems = "Two of the gems in the pommel seem to be brighter than the others.  "
-   BlackDagger_1_gems = "Only one of the four gems has any glow in it at all, and even that seems to be flickering.  "
+   BlackDagger_4_gems = "Alle vier Edelsteine im Griff leuchten mit unvergleichlicher Brillanz. "
+   BlackDagger_3_gems = "Drei der Edelsteine im Griff strahlen einen erfrischenden Glanz aus. "
+   BlackDagger_2_gems = "Zwei der Edelsteine im Griff scheinen heller als die anderen zu leuchten. "
+   BlackDagger_1_gems = "Nur einer der vier Edelsteine leuchtet, und selbst dieser scheint zu flimmern. "
 
-   BlackDagger_runes = "There seem to be some runes carved in the blade, but you can't make heads or tails of them.  "
-   BlackDagger_name = "There is, very clearly, a name carved into the blade.  It reads, '%q'.  "
+   BlackDagger_runes = "In der Klinge scheinen Runen eingraviert zu sein; Du kannst Dir allerdings keinen Reim daraus machen. "
+   BlackDagger_name = "In der Klinge ist sehr deutlich ein Name eingraviert. Er lautet: %q! "
    BlackDagger_window_overlay_rsc = povbkswd.bgf
    BlackDagger_player_overlay = bkswdov.bgf
 
-   BlackDagger_miss = "You miss %s%s with your black dagger."
-   BlackDagger_miss_target = "%s%s misses you with %s black dagger."
+   BlackDagger_miss = "%s%s wird von Deinem Schwarzen Dolch verfehlt."
+   BlackDagger_miss_target = "%s%s verfehlt Dich mit dem %sSchwarzen Dolch."
 
-   BlackDagger_hit = "You hit %s%s with your black dagger, but the blade seems to weaken as you do so."
-   BlackDagger_hit_target = "%s%s hits you with the black dagger, but leaves nary a wound."
+   BlackDagger_hit = "%s%s wird von Deinem Schwarzen Dolch getroffen, aber die Klinge scheint dabei ihre Kraft zu verlieren."
+   BlackDagger_hit_target = "%s%s trifft Dich mit dem Schwarzen Dolch, fügt Dir aber fast keine Verletzung zu."
 
-   BlackDagger_surehit = "You hit %s%s with your black dagger, and sink it in to the hilt!"
-   BlackDagger_surehit_target = "%s%s hits you with %s black dagger, and you feel your soul being invaded!"
-                             BlackDagger_dies = "You have been slain at the hands of %s%s!"
-   BlackDagger_dies_killer = "You have slain %s%s with your black dagger!"
+   BlackDagger_surehit = "%s%s wird von Deinem Schwarzen Dolch getroffen. Die ganze Klinge bohrt sich in den Gegner."
+   BlackDagger_surehit_target = "%s%s trifft Dich mit dem %sSchwarzen Dolch, und Du spürst, wie nach Deiner Seele gegriffen wird!"
+   BlackDagger_dies = "%s%s hat Dich erschlagen!"
+   BlackDagger_dies_killer = "%s%s wurde durch Deinen Schwarzen Dolch ermordet!"
 
-   BlackDagger_no_leave = "As you release hold of the black dagger, it seems to cling to your hand!"
-   BlackDagger_glows = "~IOne of the gemstones in the hilt of your blade flickers back to life."
+   BlackDagger_no_leave = "Als Du den Schwarzen Dolch loslässt, scheint er an Deiner Hand zu kleben!"
+   BlackDagger_glows = "~IEiner der Edelsteine im Griff Deiner Klinge flackert und erwacht wieder zum Leben."
 
-   BlackDagger_mail_logoff = "Subject: You ignored your gems, coward.\n"
-      "You logged off while one or more of your gems was not aglow, and therefore you were "
-      "kicked out of the Assassin's Game.\n\n-- Roq, the Dark Blade"
+   BlackDagger_mail_logoff = "Betreff: Nur Feiglinge ignorieren ihre Edelsteine.\n\nDu hast die Verbindung gelöst, während mindestens einer Deiner Edelsteine nicht leuchtete. Deswegen wirst Du aus dem Spiel der Meuchelmörder verbannt.\n\n-- Roq"
 
-   BlackDagger_mail_warning = "Subject: I watch you, absent one.\n"
-      "You have not been spending enough time online to compete in the "
-      "Assassin's game.  If I am forced to make this conclusion again, I will "
-      "unceremoniously kick you out of the game.\n\n-- Roq, the Dark Blade"
 
-   BlackDagger_roq = "Roq, the Dark Blade"
 
-   bkswd_dead_name_rsc = "assassinated adventurer"
+   BlackDagger_mail_warning = "Betreff: Ich beobachte Dich, Unwürdiger.\n\nDu warst nicht lange genug online, um am Spiel der Meuchelmörder teilzunehmen. Sofern ich das nochmals feststellen muss, werde ich Dich ohne Vorwarnung aus dem Spiel verbannen. \n\n-- Roq"
+
+
+
+
+   BlackDagger_roq = "Roq, die dunkle Klinge"
+
+   bkswd_dead_name_rsc = "Ermordeter Abenteurer"
 
 classvars:
 
@@ -686,3 +686,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

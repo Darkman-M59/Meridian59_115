@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   SimpleHelm_name_rsc = "helm"
+   SimpleHelm_name_rsc = "Der Helm"
    SimpleHelm_icon_rsc = helm.bgf
-   SimpleHelm_desc_rsc = \
-      "Steel and chain links give moderate protection to the wearer of this padded helmet."   
+   SimpleHelm_desc_rsc = "Stahl und Kettenringe geben dem Tr‰ger dieses gepolsterten Helms einen m‰ﬂigen Schutz."
+
 
 classvars:
 
@@ -73,3 +73,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -21,18 +21,18 @@ constants:
 
 resources:
 
-   flag_name_rsc = "flagpole"
-   flag_desc_rsc = "This flagpole lies empty, unclaimed in the struggle between the factions for "
-      "territorial rights.%s%s%s%s%s%s"
-   flag_duke_desc_rsc = "This flagpole flies the royal colors of Duke Akardius, protector of Tos.%s%s%s%s%s%s"
-   flag_princess_desc_rsc = "This flagpole flies the royal colors of Princess Kateriina, "
-      "sovereign of Barloque.%s%s%s%s%s%s"
-   flag_rebel_desc_rsc = "This flagpole flies the colors of the rebel forces based in Jasper.%s%s%s%s%s%s"
+   flag_name_rsc = "Flaggenmast"
+   flag_desc_rsc = "Dieser Flaggenmast ist leer und nicht erobert im Kampf um die Gebietsansprüche.%s%s%s%s%s%s"
 
-   flag_append_desc = "  %s%s is currently attempting to stake a claim to this territory in the name of %s."
+   flag_duke_desc_rsc = "Auf diesem Flaggenmast wehen die königlichen Farben von Herzog Arkadius, Beschützer von Tos.%s%s%s%s%s%s"
+   flag_princess_desc_rsc = "An diesem Flaggenmast wehen die königlichen Farben von Prinzessin Kateriina, Hoheit von Barloque.%s%s%s%s%s%s"
+
+   flag_rebel_desc_rsc = "Auf diesem Flaggenmast wehen die Farben der Rebellenarmee aus Jasper.%s%s%s%s%s%s"
+
+   flag_append_desc = " %s%s erhebt bereits Anspruch auf dieses Gebiet im Namen von %s."
    flag_append_desc_empty = ""
-   flag_append_desc2a = "  "
-   flag_append_desc2b = " is currently attempting to stake a claim to this territory in the name of "
+   flag_append_desc2a = " "
+   flag_append_desc2b = " versucht gerade, dieses Gebiet in Besitz zu nehmen im Namen "
    flag_append_desc2c = "."
 
    flag_icon_rsc = flagpole.bgf
@@ -40,33 +40,33 @@ resources:
    flag_princess_icon_rsc = flagprnc.bgf
    flag_rebel_icon_rsc = flagjspr.bgf
 
-   flag_claim_attempt = "~I%s%s has bravely staked a claim to %s%s in the name of %s!"
-   flag_claim_plugin_duke = "Duke Akardius"
-   flag_claim_plugin_princess = "Princess Kateriina"
-   flag_claim_plugin_rebel = "the rebel forces"
-   flag_claim_plugin_unfactioned = "the unfactioned"
-   flag_claim_attempt_succeeded = "~IAll hail %s%s, who has successfully claimed %s%s in the name of %s!"
-   flag_claim_attempt_failed_flee = "~I%s%s has fled the battlefield, abandoning the claim to %s%s in "
-         "the name of %s!"
-   flag_claim_attempt_failed_killed = "~I%s%s has valiantly defended %s%s against %s%s's attempt to claim "
-         "it in the name of %s!"
-   flag_claim_attempt_failed_dropped_flag = "~I%s%s has surrendered the claim to %s%s in the name of %s!"
-   flag_claim_attempt_failed_generic = "~I%s%s has failed to claim %s%s in the name of %s!"
-   flag_claim_attempt_failed_happyland = "~I%s%s's attempt to claim %s%s in the name of %s has been "
-         "lost due to a lack of political support in the area!"
+   flag_claim_attempt = "~I%s%s erhebt Anspruch auf %s%s im Namen %s!"
+   flag_claim_plugin_duke = "Herzog Akardius"
+   flag_claim_plugin_princess = "Prinzessin Kateriina"
+   flag_claim_plugin_rebel = "der Rebellenfraktion"
+   flag_claim_plugin_unfactioned = "die Fraktionslosen"
+   flag_claim_attempt_succeeded = "~IAlle sollen %s%s preisen! %s%s wurde im Namen %s erobert!"
+   flag_claim_attempt_failed_flee = "~I%s%s hat feige das Schlachtfeld verlassen! %s%s wurde nicht im Namen %s erobert!"
 
-   flag_failed_yours = "This territory has already been claimed in the name of your faction."
-   flag_failed_not_soldier = "By the laws of the Council, you must be a recognized soldier of your faction."
-   flag_failed_in_progress = "A claim to this territory staked by %s%s is already in progress."
-   flag_failed_too_recent = "By the laws of the Council, this territory has been in dispute too "
-         "recently to stake another claim."
-   flag_failed_not_enough_users = "By the laws of the Council, there are not enough citizens awake to stake "
-         "a legitimate claim to any territory."
-   flag_failed_no_flag = "You do not possess a flag of your colors to raise up the pole!"
-   flag_failed_not_enough_allies = "By the laws of the Council, you do not have enough political supporters "
-         "in the area to lay a legitimate claim."
-   flag_failed_no_adjacent = "By the laws of the Council, a faction member may only stake a claim to a "
-         "territory which is adjacent to a territory which has already been claimed for that faction."
+   flag_claim_attempt_failed_killed = "~I%s%s hat tapfer %s%s gegen %s%ss verteidigt! Der Eroberungsversuch im Namen  %s ist gescheitert!"
+
+   flag_claim_attempt_failed_dropped_flag = "~I%s%s hat den Eroberungsversuch von %s%s im Namen %s aufgegeben!"
+   flag_claim_attempt_failed_generic = "~I%s%s hat versagt! %s%s wurde nicht im Namen %s erobert!"
+   flag_claim_attempt_failed_happyland = "~I%s%ss Versuch, %s%s im Namen %s zu erobern, wurde verloren durch einen Mangel an politischem Einfluß in diesem Gebiet!"
+
+
+   flag_failed_yours = "Dieses Gebiet wurde bereits im Namen Deiner Fraktion in Besitz genommen."
+   flag_failed_not_soldier = "Nach den Gesetzen des Rates musst du ein anerkannter Soldat deiner Fraktion sein."
+   flag_failed_in_progress = "%s%s kämpft bereits um dieses Gebiet."
+   flag_failed_too_recent = "Nach den Gesetzen des Rates ist auf dieses Gebiet zu kurze Zeit zuvor Anspruch erhoben worden, um erneut einen Besitzanspruch geltend zu machen."
+
+   flag_failed_not_enough_users = "Nach den Gesetzen des Rates sind nicht genügend Leute aktiv, um einen legitimen Besitzanspruch über ein Gebiet zu erheben."
+
+   flag_failed_no_flag = "Du hast keine Flagge mit Deinen Farben, um sie zu am Mast hochzuziehen!"
+   flag_failed_not_enough_allies = "Nach dem Gesetz des Rates hast Du nicht genug politische Unterstützung in diesem Gebiet, um es rechtmäßig zu erobern."
+
+   flag_failed_no_adjacent = "Nach dem Gesetz des Rates kann ein Fraktionsmitglied nur ein Gebiet erobern, das an ein bereits von der Fraktion erobertes Gebiet grenzt."
+
 
 classvars:
 
@@ -882,3 +882,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

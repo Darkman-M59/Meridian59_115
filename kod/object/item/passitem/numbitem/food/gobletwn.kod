@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   wineGoblet_name_rsc = "goblet of wine"
+   wineGoblet_name_rsc = "Der Weinkelch"
    wineGoblet_icon_rsc = Goblet.bgf
-   wineGoblet_desc_rsc = \
-      "A fine and exquisite drink.  Only the commoners would find this distasteful."
-   wineGoblet_name_plural_rsc = "goblets of wine"
+   wineGoblet_desc_rsc = "Ein guter und außergewöhnlicher Tropfen. Nur das einfache Volk wird ihn nicht mögen."
+
+   wineGoblet_name_plural_rsc = "Weinkelche"
 
    wineGoblet_eat_wav = drink.wav
-   wineGoblet_use_rich = "A full and flavorful drink, obviously from a very good year."
-   wineGoblet_use_poor = "Ugh!  What is this swill?"
+   wineGoblet_use_rich = "Ein Tropfen mit einem vollen Aroma, ganz offensichtlich ein guter Jahrgang."
+   wineGoblet_use_poor = "Pfui! Was ist das denn für ein Gesöff?"
 
 classvars:
 
@@ -74,3 +74,4 @@ messages:
    }
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

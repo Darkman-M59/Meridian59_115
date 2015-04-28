@@ -24,16 +24,16 @@ constants:
 
 resources:
 
-   PoisonFogCloud_name_rsc = "thick fog"
+   PoisonFogCloud_name_rsc = "Dichter Nebel"
    PoisonFogCloud_icon_rsc = poisoncl.bgf
-   PoisonFogCloud_desc_rsc = "You choke just looking at the thick putrid fog."
+   PoisonFogCloud_desc_rsc = "Du würgst, als Du nur auf den dichten fauligen Nebel blickst."
 
-   PoisonFogCloud_poisoned = "You suddenly feel sick as you inhale the vapors of the fog."
+   PoisonFogCloud_poisoned = "Ein Teil des Giftes läßt nach, verschwindet ganz."
 
    PoisonFogCloud_poison_snd = psncough.wav
 
-   PoisonFog_dissipates = "Some of the poison fog fades, then clears."
-   PoisonFog_unaffected = "You hold your breath and the noxious cloud does not affect you."
+   PoisonFog_dissipates = "Ein wenig von dem Giftnebel löst sich auf und verschwindet dann ganz."
+   PoisonFog_unaffected = "Du hälst deinen Atem an und die schädliche Wolke tut dir nichts."
    
 classvars:
 
@@ -114,3 +114,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

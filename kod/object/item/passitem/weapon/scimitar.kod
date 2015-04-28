@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   scimitar_name_rsc = "scimitar"
+   scimitar_name_rsc = "Der Säbel"
    scimitar_icon_rsc = scimitar.bgf
-   scimitar_desc_rsc = \
-      "This elegant weapon, heavy yet finely formed, is both beautiful and "
-      "deadly.  Runes of war decorate its golden hilt."
+   scimitar_desc_rsc = "Diese elegante Waffe ist leicht und kunstvoll geschmiedet. Sie ist zauberhaft und tödlich. Kampfesrunen zieren ihren goldenen Griff."
+
+
 
    scimitar_window_overlay_rsc = povscim.bgf
    scimitar_player_overlay = scimov.bgf
@@ -56,6 +56,7 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 

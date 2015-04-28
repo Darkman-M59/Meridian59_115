@@ -26,208 +26,208 @@ constants:
 
 resources:
 
-   TosWatcher_name_rsc = "Watcher"
+   TosWatcher_name_rsc = "Der Meister der Arena"
    TosWatcher_icon_rsc = tswatch.bgf
-   TosWatcher_desc_rsc = \
-      "The son of Priestess Qerti'nya and General Cylill, young Cort has been "
-      "appointed the Watcher of the Glorious Arena of Kraanan.  A calm smile "
-      "graces his face as he oversees the mock combats held in the name of "
-      "Kraanan the Fist."
+   TosWatcher_desc_rsc = "Der Sohn der Priesterin Qertina und des Generals Zylill, der junge Cort, wurde zum Meister der Arena von Kraanan ernannt. Ein leichtes Lächeln ziert sein Gesicht, während er die Scheinwettkämpfe, die im Namen von Kraanan der Faust abgehalten werden, beaufsichtigt."
 
-   TosWatcher_ad_need_champion1 = \
-      "Have we no warrior who would be our champion?"
-   TosWatcher_ad_need_champion2 = \
-      "Is there no one who dares to wear the mantle of Kraanan?"
-   TosWatcher_ad_need_champion3 = \
-      "Prove yourself before the critical eyes of Kraanan!"
-   TosWatcher_ad_need_champion4 = \
-      "Read my banners for instructions on how to start a match."
-   TosWatcher_ad_need_challenger = "Would no warrior dare to challenge %s%s?"
-   TosWatcher_ad_good_fight1 = \
-      "A vengeful bloodmatch always makes my toes curl!"
-   TosWatcher_ad_good_fight2 = "Hip-hip-Huzzah!"
-   TosWatcher_ad_good_fight3 = "Let's see some blood!"
 
-   TosWatcher_no_need = "We have no need of new combatants at this time."     
-   TosWatcher_need_champion = \
-      "We do not yet have a Champion!  Would you be that brave soul?"     
-   TosWatcher_dont_need_challenger = \
-      "We have no need of challengers at this time."
-   TosWatcher_fight_in_progress = \
-      "A match is currently in progress.  Try again after this battle is over."
 
-   TosWatcher_already_combatant = "But you are already a combatant!"
-   TosWatcher_already_champion = "But, you are already our champion!"
-   TosWatcher_already_have_champion = \
-      "We already have a champion:  %s%s.  Would you dare to challenge %s?"
 
-   TosWatcher_challenge_offered = \
-      "%s%s has challenged you.  Will you trade blows with %s?"
-   TosWatcher_must_accept = \
-      "You only have %i seconds left to accept %s%s's challenge."
 
-   TosWatcher_cant_renege = "You cannot renege unless you are a combatant!"
-   TosWatcher_commence = "Fight!!!!"
-   TosWatcher_last_minute = "There is only one minute left in this match."
-   TosWatcher_draw = "This match is a draw.  No one wins."
+   TosWatcher_ad_need_champion1 = "Ist hier niemand, der sich als Champion stellt?"
 
-   TosWatcher_victor = "~BWe have a victor!~B"
-   TosWatcher_new_champion = "~BAll hail %s%s, the new Champion of Kraanan!~B"
-   TosWatcher_killed_champion = "%s%s has slain the Champion of Kraanan, %s%s!"
-   TosWatcher_retain_title = \
-      "%s%s, Champion of Kraanan, has valiantly defended %s title!"
-   TosWatcher_champion_killed = "The Champion has slain %s%s!"
-   TosWatcher_someone_killed = "%s%s has slain %s%s!"
+   TosWatcher_ad_need_champion2 = "Ist hier wirklich niemand, der für Kraanan kämpfen möchte?"
 
-   TosWatcher_champ_reneges = \
-      "%s%s, Champion of Kraanan, has surrendered %s title."
-   TosWatcher_ready_to_fight = "%s%s vs %s%s.  Prepare to fight on my mark."
-   TosWatcher_combatant_reneges = "%s%s has chosen to fight no longer."
+   TosWatcher_ad_need_champion3 = "Beweise Dich vor dem kritischen Auge Kraanans!"
 
-   TosWatcher_cant_leave = \
-      "Combatants can't just leave in the middle of a match!"
-   TosWatcher_pitifully_fled = \
-      "%s%s has pitifully fled from the field of battle."
-   TosWatcher_wont_fight = \
-      "Apparently, %s%s won't be fighting for us today after all."
-   TosWatcher_only_combatants = "Only combatants may trade blows here!"
-   TosWatcher_no_fighting_yet = "Stay your hand; the battle has yet to begin!"
-   TosWatcher_only_combatants_cast = "Only combatants may cast spells here!"
-   TosWatcher_only_target_combatants = \
-      "You may only target other combatants with your mystical attacks!"
+   TosWatcher_ad_need_champion4 = "Lese die Schilder, um weitere Instruktionen zu bekommen."
 
-   TosWatcher_spell_banned = \
-      "The %s spell has been banned from the Arena of Kraanan; it is the "
-      "tactic of a coward."
+   TosWatcher_ad_need_challenger = "Wagt kein Krieger, %s%s herauszufordern?"
+   TosWatcher_ad_good_fight1 = "Ein Kampf auf Leben und Tod macht mich immer ganz nervös!"
 
-   TosWatcher_must_choose_style = \
-      "A style of combat must be chosen before we may choose combatants."
-   TosWatcher_cant_switch = \
-      "You cannot change combat styles until all current combatants have been "
-      "defeated or reneged."
-   TosWatcher_new_combat_style = \
-      "The name of the game is: %s.  Now, would any warrior be our champion?"
+   TosWatcher_ad_good_fight2 = "Hip-Hip-Hurrah!"
+   TosWatcher_ad_good_fight3 = "Laß ein bißchen Blut sehen!"
 
-   TosWatcher_style_one_on_one = "traditional"
-   TosWatcher_style_last_man_standing = "last man standing"
-   TosWatcher_style_guild_vs_guild = "guild vs guild"
-   TosWatcher_style_battle_royale = "battle royale"
+   TosWatcher_no_need = "Wir brauchen momentan keine neuen Teilnehmer."
+   TosWatcher_need_champion = "Wir haben noch keinen Champion. Willst Du diese Rolle übernehmen?"
 
-   TosWatcher_new_combatant = "%s%s will also be a combatant in this match!"
-   TosWatcher_more_combatants = \
-      "Additional combatants only have %i seconds to join into this match."
-   TosWatcher_ready_last_man = \
-      "The game is last man standing.  Combat will begin on my mark."
-   TosWatcher_ready_guild_vs_guild = "%s%q vs %s%q:  combat begins on my mark."
-   TosWatcher_ready_battle_royale = \
-      "Battle Royale:  Kill anyone in any guild but yours.  Combat begins on "
-      "my mark."
+   TosWatcher_dont_need_challenger = "Wir brauchen momentan keine Herausforderer."
 
-   TosWatcher_welcome = \
-      "~kThe Watcher tells you, \"Welcome to the Arena of Kraanan.  Read the "
-      "banners for help.\""
-   TosWatcher_worship_admin = \
-      "All hail the mighty %s, and pray that %s chooses not to smite us for "
-      "our impudence!"
-   TosWatcher_worship_dm = "Bow down before %s %s of Meridian!"
-   TosWatcher_welcome_champion = "All hail %s%s, a Champion of Kraanan!"
-   TosWatcher_welcome_champion_guild = \
-      "All hail %s%s, member of %s%q, favored guild of Kraanan!"
+   TosWatcher_fight_in_progress = "Der Kampf hat schon begonnen. Versuch es noch mal, wenn er entschieden ist."
 
-   TosWatcher_new_champion_guild = \
-      "%s%s has registered %s%q as the new Champions of Kraanan!"
-   TosWatcher_new_guild_combatant = \
-      "%s%s has registered %s%q as challengers in the upcoming fray."
-   TosWatcher_need_guild = \
-      "You cannot engage in guild vs. guild combat unless you join a guild!"
-   TosWatcher_only_two = \
-      "Only two guilds may face each other in guild v guild combat."
-   TosWatcher_not_more_members_yet = \
-      "Other members of %s%q may not enter the fray until a second guild has "
-      "committed to combat."
-   TosWatcher_new_champion_guild_win = "%s%q are the new Champions of Kraanan!"
-   TosWatcher_defended_guild_title = "%s%q remain the Champions of Kraanan!"
 
-   TosWatcher_invalid_fight = \
-      "This fight was invalid for certain reasons, and therefore it has been "
-      "cancelled."
+   TosWatcher_already_combatant = "Aber Du bist bereits ein Kämpfer!"
+   TosWatcher_already_champion = "Aber Du bist bereits unser Champion!"
+   TosWatcher_already_have_champion = "Wir haben bereits einen Champion: %s%s. Wagst Du es zu kämpfen?"
 
-   TosWatcher_cant_start_end = \
-      "You can't end a tournament while any combatants exist!"
 
-   TosWatcher_tournament_win = "%s%s has claimed victory in this bout!"
-   TosWatcher_tournament_win_guild = "%s%q has claimed victory in this bout!"
-   TosWatcher_tournament_style = \
-      "%s%s has decreed that the style of combat will be %s."
-   TosWatcher_tournament_combatant = "%s%s will be a combatant in this bout."
-   TosWatcher_tournament_cancelled = \
-      "With a wave of %s hand, %s%s dismisses the current proceedings and "
-      "starts anew."
+   TosWatcher_challenge_offered = "%s%s hat Dich herausgefordert. Bist Du bereit zu kämpfen?"
 
-   TosWatcher_only_grand_marshal = \
-      "~kThe Watcher tells you, \"Only the Tourney Judge can give commands "
-      "during a tournament.  If you wish to be included in the proceedings, "
-      "you must let the Tourney Judge know.\""
-   TosWatcher_not_during_fight = \
-      "~kThe Watcher tells you, \"You cannot offer me commands while a fight "
-      "is still going on.\""
+   TosWatcher_must_accept = "Du hast nur noch %i Sekunden, um die Herausforderungen von %s%s anzunehmen."
 
-   TosWatcher_speed_up = "Let's see if we can't speed this up a little bit."
-   TosWatcher_quit_guild = \
-      "Due to a change in guild status, %s%s has forfeited %s role in the "
-      "upcoming battle."
-   TosWatcher_no_guild_tourny = \
-      "%s%s may not participate in a guild scenario because %s is a member "
-      "of no guild."
-   TosWatcher_wrong_guild_tourny = \
-      "%s%s is not a member of either guild registered for this match."
-   Toswatcher_already_tourny_combatant = \
-      "%s%s is already a combatant in this match!"
-   TosWatcher_tournament_over_guild_limit = \
-      "%s%s was not added to the proceedings, because %s%q already have too "
-      "many members on the floor.  A guild may only have %i members in a "
-      "fight of this style at a time."
-   TosWatcher_over_guild_limit = \
-      "You may not join your comrades on the floor because there are already "
-      "%i set to fight in this match.  Read the banners for more details."
-   TosWatcher_not_more = \
-      "There may not be more than 25 combatants in a single fight."
-   TosWatcher_tourny_invalid = \
-      "This fight is not yet valid.  You may want to cancel the fight by "
-      "saying 'Clear all', or add combatants to ensure a valid fight."
-   TosWatcher_killed_by_spell = "%s%s was just killed by the %s spell!"
 
-   TosWatcher_arena_help = \
-      "Proceed all subcommands with the DM command.  'Start Tournament' "
-      "begins the tournament. 'End tournament' ends the tournament.  'Fight' "
-      "starts a bout (although traditional bouts start on their own).  "
-      "'Clear All' resets the tournament and starts anew.  DM followed by a "
-      "person's name will attempt to make him a combatant in the next round."
-      "The name of the combat style chooses the style the players will have "
-      "to use.  'Booth' teleports you to the watcher's booth."
+   TosWatcher_cant_renege = "Du kannst nur aufgeben, wenn Du ein Teilnehmer bist."
+   TosWatcher_commence = "Kämpft!!!"
+   TosWatcher_last_minute = "Nur noch eine Minute... Dann beende ich den Kampf!"
+   TosWatcher_draw = "Ein Unentschieden. Keiner gewinnt."
 
-   TosWatcher_no_assgame = \
-      "I'll have none of these shenanigans during an officially sanctioned "
-      "tournament!"
-   TosWatcher_unwanted_give = "~k%s%s ignores your bribe.~n~k"
-   TosWatcher_spell_cast = "~B~r%s ~kcast ~b%s ~kon ~g%s."
-   TosWatcher_nothing_string = "nothing"
+   TosWatcher_victor = "~BWir haben einen Sieger!~B"
+   TosWatcher_new_champion = "~BAlle sollen %s%s bejubeln, Champion von Kraanan!~B"
+   TosWatcher_killed_champion = "%s%s hat den Champion von Kraanan, %s%s, besiegt!"
+   TosWatcher_retain_title = "%s%s, Champion von Kraanan, hat den Titel tapfer verteidigt!"
+
+   TosWatcher_champion_killed = "Der Champion hat %s%s getötet!"
+   TosWatcher_someone_killed = "%s%s hat %s%s besiegt."
+
+   TosWatcher_champ_reneges = "%s%s, der Champion von Kraanan, hat den Titel abgegeben."
+
+   TosWatcher_ready_to_fight = "%s%s gegen %s%s. Bereitet euch vor, auf mein Kommando mit dem Kampf zu beginnen."
+   TosWatcher_combatant_reneges = "%s%s hat sich entschlossen, nicht weiter zu kämpfen."
+
+   TosWatcher_cant_leave = "Kein Teilnehmer darf die Arena mitten im Gefecht verlassen!"
+
+   TosWatcher_pitifully_fled = "%s%s ist ängstlich vom Kampffeld geflüchtet."
+
+   TosWatcher_wont_fight = "Anscheinend wird %s%s heute nicht für uns kämpfen."
+
+   TosWatcher_only_combatants = "Nur Kampfteilnehmer können hier Schläge austeilen!"
+   TosWatcher_no_fighting_yet = "Halte Dich zurück; der Kampf hat noch nicht begonnen!"
+   TosWatcher_only_combatants_cast = "Nur Kampfteilnehmer können hier Zauber aussprechen!"
+   TosWatcher_only_target_combatants = "Du kannst mit Deinen mystischen Kräften nur andere Kämpfer angreifen!"
+
+
+   TosWatcher_spell_banned = "Der %s Zauberspruch ist aus der Arena von Kraanan verbannt, vor allem, weil es die Taktik eines Feiglings ist."
+
+
+
+   TosWatcher_must_choose_style = "Bevor sich Teilnehmer melden, muss erst ein Kampfstil festgelegt werden."
+
+   TosWatcher_cant_switch = "Der Kampfstil kann nicht geändert werden, bevor der laufende Kampf entschieden wurde."
+
+
+   TosWatcher_new_combat_style = "Momentan tragen wir Schlachten nach den %s-Regeln aus. Nun, wer wird unser Champion?"
+
+
+   TosWatcher_style_one_on_one = "traditionell"
+   TosWatcher_style_last_man_standing = "kampf bis zum letzten mann"
+   TosWatcher_style_guild_vs_guild = "gilde gegen gilde"
+   TosWatcher_style_battle_royale = "königlicher kampf"
+
+   TosWatcher_new_combatant = "%s%s wird auch ein Mitstreiter bei diesem Kampf sein!"
+   TosWatcher_more_combatants = "Weitere Krieger haben nur noch %i Sekunden, um an diesem Kampf teilzunehmen."
+
+   TosWatcher_ready_last_man = "Die Regeln: Kampf bis zum letzten Mann. Die Schlacht beginnt auf mein Kommando!"
+
+   TosWatcher_ready_guild_vs_guild = "%s%q gegen %s%q: Der Kampf beginnt auf mein Zeichen."
+   TosWatcher_ready_battle_royale = "Königlicher Kampf: Erledigt jedes Mitglied einer fremden Gilde. Die Schlacht beginnt auf mein Kommando."
+
+
+
+   TosWatcher_welcome = "~kDer Meister der Arena sagt zu Dir, \"Willkommen in der Arena von Kraanan. Lies die Banner, wenn Du Hilfe brauchst.\""
+
+
+   TosWatcher_worship_admin = "Alle sollen %s huldigen und beten, dass wir nicht für unwürdig erachtet werden!"
+
+
+   TosWatcher_worship_dm = "Verbeugt Euch vor %s %s von Meridian!"
+   TosWatcher_welcome_champion = "Alle bejubeln %s%s, den Champion von Kraanan!"
+   TosWatcher_welcome_champion_guild = "Alle bejubeln %s%s, das Mitglied von %s%q, der bevorzugten Gilde von Kraanan!"
+
+
+   TosWatcher_new_champion_guild = "%s%s hat %s%q als die neuen Champions von Kraanan registriert!"
+
+   TosWatcher_new_guild_combatant = "%s%s hat %s%q als die Herausforderer beim nächsten Kampf registriert."
+
+   TosWatcher_need_guild = "Du kannst nicht am Kampf 'Gilde gegen Gilde' teilnehmen. Du musst erst einer Gilde beitreten!"
+
+   TosWatcher_only_two = "Im Kampf 'Gilde gegen Gilde' dürfen nur zwei Gilden gegeneinander antreten."
+
+   TosWatcher_not_more_members_yet = "Andere Mitglieder von %s%q dürfen nicht teilnehmen, solange keine zweite Gilde gegen sie antritt."
+
+
+   TosWatcher_new_champion_guild_win = "%s%q sind die neuen Champions von Kraanan!"
+   TosWatcher_defended_guild_title = "%s%q bleiben die Champions von Kraanan!"
+
+   TosWatcher_invalid_fight = "Dieser Kampf war aus bestimmten Gründen ungültig und wird deshalb gestrichen."
+
+
+
+   TosWatcher_cant_start_end = "Du kannst ein Turnier nicht beenden, solange noch Teilnehmer vorhanden sind!"
+
+
+   TosWatcher_tournament_win = "%s%s hat den Sieg in dieser Schlacht an sich gerissen!"
+   TosWatcher_tournament_win_guild = "%s%q hat den Sieg in dieser Schlacht an sich gerissen!"
+   TosWatcher_tournament_style = "%s%s hat verkündet, dass die Disziplin des nächsten Kampfes %s ist."
+
+   TosWatcher_tournament_combatant = "%s%s wird auch ein Teilnehmer in dieser Schlacht sein."
+   TosWatcher_tournament_cancelled = "Mit einem Winken %s Hand beendet %s%s die gegenwärtigen Vorgänge und fängt neu an."
+
+
+
+   TosWatcher_only_grand_marshal = "~kDer Meister der Arena sagt zu Dir, \"Nur der Turnierrichter kann während des Kampfes Befehle geben. Wenn Du an den Kämpfen teilnehmen möchtest, musst Du das den Turnierrichter wissen lassen.\""
+
+
+
+   TosWatcher_not_during_fight = "~kDer Meister der Arena sagt zu Dir, \"Während eines Kampfes werden keine Befehle ausgesprochen.\""
+
+
+
+   TosWatcher_speed_up = "Vielleicht können wir das ein wenig beschleunigen..."
+   TosWatcher_quit_guild = "Aufgrund einer Änderung im Gildenstatus hat %s%s %s Rolle im kommenden Kampf verloren."
+
+
+   TosWatcher_no_guild_tourny = "%s%s ist in keiner Gilde. Nur Gildenangehörige dürfen bei dieser Turnierart teilnehmen."
+
+
+   TosWatcher_wrong_guild_tourny = "%s%s ist kein Mitglied irgendeiner Gilde, die für diesen Kampf registriert ist."
+
+   Toswatcher_already_tourny_combatant = "%s%s ist bereits an diesem Kampf beteiligt!"
+
+   TosWatcher_tournament_over_guild_limit = "%s%s nimmt nicht an den Kämpfen teil, weil %s%q schon zu viele Mitglieder in den Ring geschickt hat. Eine Gilde darf nur %i Mitglieder zur Zeit an einem Kampf in dieser Disziplin teilnehmen lassen."
+
+
+
+   TosWatcher_over_guild_limit = "Du kannst Deinen Kameraden nicht beistehen, weil bereits %i an dieser Schlacht teilnehmen. Lese die Banner für weitere Details."
+
+
+   TosWatcher_not_more = "Es dürfen nicht mehr als 25 Krieger an dieser Schlacht teilnehmen."
+
+   TosWatcher_tourny_invalid = "Dieser Kampf ist noch nicht gültig. Vielleicht möchtest Du den Kampf abbrechen, indem Du sagst 'Alles löschen', oder Kämpfer hinzufügen, um sicherzustellen, dass der Kampf gültig ist."
+
+
+   TosWatcher_killed_by_spell = "%s%s wurde durch den %s Zauberspruch getötet!"
+
+   TosWatcher_arena_help = "Proceed all subcommands with the DM command.  'Start Tournament' begins the tournament. 'End tournament' ends the tournament.  'Fight' starts a bout (although traditional bouts start on their own).  'Clear All' resets the tournament and starts anew.  DM followed by a person's name will attempt to make him a combatant in the next round.The name of the combat style chooses the style the players will have to use.  'Booth' teleports you to the watcher's booth."
+
+
+
+
+
+
+
+
+   TosWatcher_no_assgame = "So einen Quatsch dulde ich nicht während eines offiziellen Turniers!"
+
+
+   TosWatcher_unwanted_give = "~k%s%s beachtet Dein Bestechungsgeschenk nicht.~n~k"
+   TosWatcher_spell_cast = "~B~r%s ~kzaubert ~b%s ~kauf ~g%s."
+   TosWatcher_nothing_string = "nichts"
 
    TosWatcher_arena_help_command = "arena help"
    TosWatcher_start_tournament_command = "start tournament"
-   TosWatcher_end_tournament_command  = "end tournament"
-   TosWatcher_champion_command  = "champion"
-   TosWatcher_challenge_command  = "challenge"
-   TosWatcher_accept_command  = "accept"
-   TosWatcher_renege_command  = "renege"
-   TosWatcher_traditional_command  = "traditional"
-   TosWatcher_last_man_standing_command  = "last man standing"
-   TosWatcher_guild_vs_guild_command  = "guild vs guild"
-   TosWatcher_battle_royale_command  = "battle royale"
-   TosWatcher_fight_command  = "fight"
-   TosWatcher_clear_all_command  = "clear all"
+   TosWatcher_end_tournament_command = "end tournament"
+   TosWatcher_champion_command = "champion"
+   TosWatcher_challenge_command = "herausfordern"
+   TosWatcher_accept_command = "akzeptieren"
+   TosWatcher_renege_command = "aufgeben"
+   TosWatcher_traditional_command = "traditionell"
+   TosWatcher_last_man_standing_command = "kampf bis zum letzten mann"
+   TosWatcher_guild_vs_guild_command = "gilde gegen gilde"
+   TosWatcher_battle_royale_command = "königlicher kampf"
+   TosWatcher_fight_command = "kämpft"
+   TosWatcher_clear_all_command = "clear all"
 
-   TosWatcher_battle_midi_rsc = pk_sb16.mid
+   TosWatcher_battle_midi_rsc = pk_sb16.mp3
 
 classvars:
 
@@ -2474,3 +2474,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

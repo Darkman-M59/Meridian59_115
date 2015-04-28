@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   HazarApothecary_name_rsc = "Ravi"
+   HazarApothecary_name_rsc = "Ravin"
    HazarApothecary_icon_rsc = kcshopk.bgf
-   HazarApothecary_desc_rsc = \
-   "A strange man of unknown origin, Ravi is always willing to buy reagents and gems for his inventory-poor shop."
+   HazarApothecary_desc_rsc = "Ein unheimlicher Mann von unbekannter Herkunft. Ravin ist ständig auf der Suche nach Reagenzien und Edelsteinen."
 
-   HzAp_entry_welcome = "Have you anything to sell me?  I'm willing to buy almost anything."
+
+   HzAp_entry_welcome = "Willst Du mir irgendetwas verkaufen? Ich interesse mich nahezu für alles."
 
 
 classvars:
@@ -64,4 +64,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

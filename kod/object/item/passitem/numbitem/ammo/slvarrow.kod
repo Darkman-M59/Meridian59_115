@@ -19,13 +19,13 @@ constants:
 
 resources:
 
-   silver_arrow_name_rsc = "silver arrows"
+   silver_arrow_name_rsc = "Die Silberpfeile"
    silver_arrow_icon_rsc = arrowsil.bgf
-   silver_arrow_desc_rsc = \
-      "The sharp clean edge of the arrowhead makes for nasty wounds.  "
-      "Some archers have found these to be the nock of choice for battling the undead."
+   silver_arrow_desc_rsc = "Die scharfen, glatten Kanten der Pfeilspitzen sorgen für tiefe Wunden. Einige Bogenschützen haben herausgefunden, dass sie besonders wirkungsvoll im Kampf gegen Untote sind."
 
-   silver_arrow_burns_you = "The silver arrowhead stings your undead flesh!"
+
+
+   silver_arrow_burns_you = "Der Silberpfeil bohrt sich in Dein untotes Fleisch!"
 
 classvars:
 
@@ -85,3 +85,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsC7 = C7.roo
-   room_name_OutdoorsC7 ="Faronath, home of the TreeFolk"
-   OutdoorsC7_music = walk5.mid
+   room_name_OutdoorsC7 = "Faronath, Heimat der Waldschrate"
+   OutdoorsC7_music = walk5.mp3
 
 classvars:
 
@@ -91,3 +91,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

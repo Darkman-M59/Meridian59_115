@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   LightningWall_name_rsc = "lightning wall"
+   LightningWall_name_rsc = "Die Blitzwand"
    LightningWall_icon_rsc = iwalllit.bgf
-   LightningWall_desc_rsc = \
-      "Creates a crackling barrier of electricity.  One who entered such a "
-      "field would certainly feel more than thunder.  "
-      "Requires blue mushrooms and yxrl to cast."
+   LightningWall_desc_rsc = "Erschafft eine Blitzwand. Jene die sie durchschreiten erleben jedenfalls mehr als Donner. Benötigt blaue Pilze und yxrl."
 
-   LightningWall_cast_rsc = "A wall of lightning appears before you!"
-   LightningWall_failed_rsc = \
-      "There is too much summoning magic focused here to create a wall of "
-      "lightning."
+
+
+
+   LightningWall_cast_rsc = "Eine Wand aus Blitzen erscheint vor dir!"
+   LightningWall_failed_rsc = "Es gibt zu viel konzentrierte Beschwörungsmagie hier um eine Blitzwand zu erschaffen."
+
+
 
    LightningWall_sound = faren.wav
 
@@ -277,3 +277,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

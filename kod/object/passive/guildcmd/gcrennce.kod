@@ -17,16 +17,16 @@ constants:
 
 resources:
 
-   guildrenounce_name_rsc = "renounce guild"
+   guildrenounce_name_rsc = "Gilde auflösen"
    guildrenounce_icon_rsc = light.bgf
-   guildrenounce_desc_text_rsc = "Use this command to quit your guild.  You never liked them anyway.  Guildmasters must transfer their title before using this command."
+   guildrenounce_desc_text_rsc = "Mit diesem Befehl verläßt Du die Gilde. Du mochtest sie sowieso noch nie. Gildenführer müssen ihren Titel übergeben, bevor sie diesen Befehl ausführen können."
 
-   renounce_no_gms = "Guildmasters may not renounce their ties before abdicating their titles."
-   renounce_ties_renouncer = "~BYou renounce your ties to %s%q."
-   renounce_ties_others = "~B%s%s renounces all ties to %s%q!"
+   renounce_no_gms = "Gildenführer können ihre Verbindung nicht lösen, bevor sie ihren Titel nicht aufgegeben haben."
+   renounce_ties_renouncer = "~BDu löst die Verbindung zur Gilde %s%q auf."
+   renounce_ties_others = "~B%s%s schwört allen Verbindungen zu %s%q ab!"
 
-   guildrenounce_necro_nak = "~BYou have sworn a blood oath to The Order of the Necromancers.  "
-      "Death is your only way out."
+   guildrenounce_necro_nak = "~BDu hast dem Orden der Nekromanten einen Blutsschwur geleistet. Der Tod ist Deine einzige Möglichkeit auszutreten."
+
 
 
 classvars:
@@ -104,3 +104,4 @@ messages:
   
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -19,16 +19,16 @@ resources:
    KocatanCaptainGood_name_rsc = "Cital ko'Manca"
    KocatanCaptainGood_icon_rsc = kcguardG.bgf
 
-   KocatanCaptainGood_desc_rsc = "As the one of the highest ranking officers in the Ko'catan "
-      "Army, Cital ko'Manca is serious and crisp in his duties. In peacetime these duties "
-      "include supervising the main gatehouse during daylight against actions by enemies "
-      "unknown. Cital ko'Manca is extraordinarily young to have achieved such a high rank, "
-      "but he is well respected for his fairness and his adherence to military law."
+   KocatanCaptainGood_desc_rsc = "Als einer der höchsten Beamten in Ko'catan Armee nimm Cital ko'Manca die Erfüllung seiner Pflichten sehr ernst. In Friedenszeiten beinhalten diese Pflichten die Bewachung des Haupttorhauses bei Tage gegen unbekannte Gegner. Cital ko'Manca ist ungewöhnlich jung für jemanden, der bereits einen derartig hohen Rang erreicht hat, doch er wird allgemein für seine Fairness und die Einhaltung militärischer Richtlinien respektiert."
 
-   goodguard_thanks = "A less understanding officer might see this offer as a bribe, "
-      "which is very serious in Ko'catan. Bribing a gate officer is a capital offense. "
-	  "But I know that all you really wanted to do is make is a generous donation to the "
-	  "Kici'ca widows and orphans. I'll see that this goes there, and you'll be on your way."
+
+
+
+
+   goodguard_thanks = "Ein weniger verständnisvoller Beamter könnte dieses Angebot als Bestechung interpretieren, und in Bezug darauf versteht man in Ko'catan keinen Spaß. Einen Toroffizier zu bestechen ist eine schwere Straftat. Doch ich weiß, dass Du in Wirklichkeit eine Spende für die Witwen und Waisen von Kici'ca abgeben wolltest. Ich sorge dafür, dass sie an sie geht, und Du geh' Deines Wegs."
+
+
+
 
 classvars:
 
@@ -83,3 +83,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

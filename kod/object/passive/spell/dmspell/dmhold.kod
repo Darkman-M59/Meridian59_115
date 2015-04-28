@@ -18,21 +18,21 @@ constants:
 
 resources:
 
-   DMHold_name_rsc = "superior hold"
+   DMHold_name_rsc = "Superlähmung"
    DMHold_icon_rsc = ihold.bgf
-   DMHold_desc_rsc = \
-      "Holds the victim for 10 minutes or until you cast "
-      "superior hold on them again, releasing them."
-   
-   DMHold_already_enchanted = "%s%s is freed from your grip."
-   
-   DMHold_caster = "%s%s is now held in place by a magical force."
+   DMHold_desc_rsc = "Legt das Opfer für 10 Minuten - oder bis Du den Spruch Superlähmung erneut anwendest - lahm."
 
-   DMHold_on = \
-      "A magical tingling pulses through your body.  You are unable to move."
 
-   DMHold_off = \
-      "The superior hold lifts and you are able to move once more."
+   
+   DMHold_already_enchanted = "%s%s wird aus der Lähmung befreit."
+   
+   DMHold_caster = "%s%s wird von einer magischen Kraft festgehalten."
+
+   DMHold_on = "Ein magischer Schauer pulsiert durch Deinen Körper. Du bist unfähig, auch nur einen Finger zu rühren."
+
+
+   DMHold_off = "Die Superlähmung lässt nach und Du kannst Dich wieder bewegen."
+
 
 classvars:
 
@@ -196,3 +196,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

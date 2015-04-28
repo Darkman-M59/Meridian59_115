@@ -19,11 +19,11 @@ constants:
 
 resources:
 
-   robe_name_rsc = "robes"
+   robe_name_rsc = "Die Robe"
    robe_icon_rsc = robe.bgf
-   robe_desc_rsc = \
-   	"Heavy and warm, these full length robes generally denotes one's dedication to " 
-      "the higher arts of knowledge, spell craft or religion."
+   robe_desc_rsc = "Schwer und warm, wie sie sind, verraten diese langen Roben im allgemeinen, dass sich ihre Träger der hohen Kunst des Wissens, der Zauberei oder der Religion widmen."
+
+
 
    robe_male_icon_rsc = btc.bgf
    robe_female_icon_rsc = btd.bgf
@@ -32,16 +32,16 @@ resources:
    robe_legs_female = bfd.bgf
 
    robe_leftarm_male = blc.bgf
-   robe_rightarm_male =brc.bgf
+   robe_rightarm_male = brc.bgf
    robe_leftarm_female = bld.bgf
-   robe_rightarm_female =brd.bgf
+   robe_rightarm_female = brd.bgf
 
-   robe_condition_exc = " are in immaculate condition."
-   robe_condition_exc_mended = " are in excellent condition, but have been patched before.."
-   robe_condition_good = " are scuffed and slightly worn."
-   robe_condition_med = " have a few unsightly rips."
-   robe_condition_poor = " are in tatters, and barely holding together."
-   robe_condition_broken = " are covered in filth and ripped beyond use."
+   robe_condition_exc = " ist in makellosem Zustand."
+   robe_condition_exc_mended = " ist in hevorragendem Zustand, wurde aber bereits ausgebessert."
+   robe_condition_good = " ist leicht abgetragen."
+   robe_condition_med = " hat ein paar Risse."
+   robe_condition_poor = " besteht nur noch aus Fetzen und hält kaum noch zusammen."
+   robe_condition_broken = " ist mit Dreck bedeckt und zerrissen, so dass man sie nicht mehr benutzen kann."
 
 classvars:
 
@@ -191,3 +191,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

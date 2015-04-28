@@ -17,8 +17,8 @@ constants:
 resources:
 
    PrincessFlag_icon_rsc = flagpinv.bgf
-   PrincessFlag_name_rsc = "flag of the Princess"
-   PrincessFlag_desc_rsc = "This flag bears the royal colors of the Princess, sovereign of Barloque."
+   PrincessFlag_name_rsc = "Eine Flagge der Prinzessin"
+   PrincessFlag_desc_rsc = "Die Flagge zeigt die königlichen Farben der Prinzessin, Herrscherin von Barloque."
 
 classvars:
    
@@ -40,4 +40,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

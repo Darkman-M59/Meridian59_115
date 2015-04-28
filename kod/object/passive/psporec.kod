@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   SporeCloud_name_rsc = "thick fog"
+   SporeCloud_name_rsc = "Dichter Nebel"
    SporeCloud_icon_rsc = poisoncl.bgf
-   SporeCloud_desc_rsc = "You choke just looking at the thick putrid fog."
+   SporeCloud_desc_rsc = "Du würgst, als Du nur auf den dichten fauligen Nebel blickst."
 
 classvars:
 
@@ -115,3 +115,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

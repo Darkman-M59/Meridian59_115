@@ -23,16 +23,16 @@ constants:
 
 resources:
 
-   torch_name_rsc = "torch"
+   torch_name_rsc = "Die Fackel"
    torch_icon_rsc = torch.bgf
-   torch_desc_rsc = \
-      "A shaft of crudely hewn rough timber is topped by oily rags.  "
-      "When used it will provide limited illumination."
+   torch_desc_rsc = "Ein Stück unverarbeitetes Holz mit einem öligen Lappen am oberen Ende. Wenn die Fackel benutzt wird, spendet sie eine geringe Menge Licht."
+
+
   
    torch_flame_rsc = torchflm.bgf
    torch_overlay_rsc = torchov.bgf
 
-   torch_dead_rsc = "This torch is blackened and burned beyond use."
+   torch_dead_rsc = "Die Fackel ist rußgeschwärzt und hat ihre beste Zeit lange hinter sich."
 
 classvars:
 
@@ -301,4 +301,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

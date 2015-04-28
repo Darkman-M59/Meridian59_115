@@ -7,21 +7,21 @@ constants:
 
 resources:
 
-   summonEvilTwin_name_rsc = "evil twin"
+   summonEvilTwin_name_rsc = "Böser Zwilling"
    summonEvilTwin_icon_rsc = ievltwin.bgf
-   summonEvilTwin_desc_rsc = \
-      "Summons the darker side of an adventurer to attack them.  Note that "
-      "you are responsible for any of your evil twins' actions, and that they "
-      "are notoriously hard to control.  "
-      "Requires solagh and web moss to cast."
+   summonEvilTwin_desc_rsc = "Beschwört die dunkle Seite des Zieles und lässt sie angreifen. Du bist übrigens verantwortlich für jede Aktion Deiner bösen Zwillinge - normalerweise sind sie unheimlich schwer zu kontrollieren. Benötigt Phiolen mit Solagh und Moosnetze zum Zaubern. "
 
-   summonEvilTwin_cast_rsc = \
-      "An evil twin mysteriously appears beside your target."
-   summonEvilTwin_failed_rsc = \
-      "There is already an evil twin lurking in this room."
-   summonEvilTwin_bad_target = "You can't cast evil twin on %s%s"
-   summonEvilTwin_no_self = \
-      "You decide you really don't want to summon your evil against yourself."
+
+
+
+
+   summonEvilTwin_cast_rsc = "Ein böser Zwilling erscheint auf mysteriöse Weise neben Deinem Ziel."
+
+   summonEvilTwin_failed_rsc = "Es gibt hier zuviel Beschwörungsmagie, um einen bösen Zwilling zu erschaffen."
+
+   summonEvilTwin_bad_target = "%s%s kann nicht mit dem Böser-Zwilling-Zauber belegt werden."
+   summonEvilTwin_no_self = "Du beschliesst, dass du nicht wirklich dein Böses gegen dich selbst beschwören willst."
+
 
    summonEvilTwin_sound = rmirrimg.wav
 
@@ -151,3 +151,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

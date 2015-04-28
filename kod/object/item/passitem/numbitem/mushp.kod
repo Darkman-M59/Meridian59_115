@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   purplemushroom_name_rsc = "purple mushroom"
+   purplemushroom_name_rsc = "Der Lila Pilz"
    purplemushroom_icon_rsc = mushroom.bgf
-   purplemushroom_desc_rsc = \
-      "These magical mushrooms make your hand tingle with magical energy."
+   purplemushroom_desc_rsc = "Diese magischen Pilze lassen Deine Hände durch ihre Energie zittern."
 
-   purplemushroom_name_plural_rsc = "purple mushrooms"
+
+   purplemushroom_name_plural_rsc = "Lila Pilze"
 
 classvars:
 
@@ -52,3 +52,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

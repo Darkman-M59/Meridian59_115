@@ -18,13 +18,13 @@ constants:
    
 resources:
 
-   brazierswitch_name_rsc = "brazier"
+   brazierswitch_name_rsc = "Das Feuer"
    brazierswitch_icon_rsc = brazier.bgf
-   brazierswitch_desc_on = \
-      "The flame burns bright, offering welcome light to the surroundings."
-   brazierswitch_desc_off = "The cold metal brazier yields no light."
+   brazierswitch_desc_on = "Eine einladende Flamme erhellt mit ihrem Licht freundlich die Umgebung."
 
-   brazierswitch_not_in_range = "You are not close enough to the brazier to light it."
+   brazierswitch_desc_off = "Das kalte, metallene Feuer strahlt kein Licht aus."
+
+   brazierswitch_not_in_range = "Du bist dem Feuer nicht nahe genug, um es anzuzünden."
 
 classvars:
 
@@ -112,3 +112,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

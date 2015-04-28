@@ -16,22 +16,22 @@ constants:
 
 resources:
 
-   enchantedweapon_cast_rsc = "Your %s is now dedicated to Kraanan."
-   enchantweapon_no_can = "You may not enchant %s%s."
-   enchantweapon_fails = "The %s is strangely unaffected by the spell."
-   enchantweapon_already_done = \
-      "This weapon is already dedicated to Kraanan."
+   enchantedweapon_cast_rsc = "%s ist jetzt Kraanan geweiht."
+   enchantweapon_no_can = "Du darfst %s%s nicht verzaubern."
+   enchantweapon_fails = "%s zeigt keine Veränderungen durch den Zauber."
+   enchantweapon_already_done = "Diese Waffe wurde schon von Kraanan gesegnet."
 
-   enchantweapon_name_rsc = "enchant weapon"
+
+   enchantweapon_name_rsc = "Waffe segnen"
    enchantweapon_icon_rsc = ienchant.bgf
-   enchantweapon_desc_rsc = \
-      "Dedicates your weapon to Kraanan.  "
-      "Requires plenty of elderberry, some orc teeth, and time."
+   enchantweapon_desc_rsc = "Weiht Deine Waffe Kraanan. Der Zauber benötigt viele Holunderbeeren, einige Orkzähne und Zeit."
 
-   enchantweapon_resists = "%s%s resists your attempts to enchant it."
-   enchantweapon_spell_intro = "Kraanan Lv. 2: Graces your weapon with a touch of magic, improving its damage."
 
-   enchantweapon_lable_rsc = "blood-letter."
+
+   enchantweapon_resists = "%s%s widersteht Deinen Versuchen, den Segen-Zauber anzuwenden."
+   enchantweapon_spell_intro = "Kraanan Zirkel 2: Veredelt Deine Waffe mit einem Zauber und verbessert dadurch den Schaden."
+
+   enchantweapon_lable_rsc = "Blutklinge."
 
 classvars:
 
@@ -148,3 +148,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

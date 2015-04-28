@@ -21,16 +21,16 @@ constants:
 
 resources:
 
-   book_name_rsc = "book"
+   book_name_rsc = "Das Buch"
    book_icon_rsc = book1.bgf
-   book_desc_rsc = \
-      "A thick leather cover binds this book, darkened with age and wear.  "
-      "It appears to come from some ancient time."
+   book_desc_rsc = "Ein speckiger Ledereinband umgibt das Buch. Die dunklen Flecken und Risse deuten auf jahrhundertelangen Gebrauch hin."
 
-   book_emote_open_rsc = "You flip open %s%s and thumb to a good page."
-   book_emote_open_third_rsc = "%s%s flips open %s%s and thumbs through the pages."
-   book_emote_close_rsc = "You close %s%s with a satisfying thump."
-   book_emote_close_third_rsc = "%s%s closes %s%s."
+
+
+   book_emote_open_rsc = "%s%s wird von Dir aufgeschlagen und Du blätterst zu einer interessanten Seite."
+   book_emote_open_third_rsc = "%s%s öffnet %s%s und geht die Seiten durch."
+   book_emote_close_rsc = "%s%s wird von Dir zufrieden wieder zugeschlagen."
+   book_emote_close_third_rsc = "%s%s schließt zufrieden %s%s."
 
 classvars:
 
@@ -158,3 +158,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

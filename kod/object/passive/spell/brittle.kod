@@ -15,21 +15,21 @@ constants:
 
 resources:
 
-   brittle_name_rsc = "brittle"
+   brittle_name_rsc = "Spröde"
    brittle_icon_rsc = ibrittle.bgf
-   brittle_desc_rsc = \
-      "Ages the target's weapon by many years, making it "
-      "frail and prone to breaking.  "
-      "Requires magic mushrooms and purple mushrooms to cast."
+   brittle_desc_rsc = "Lässt die Waffe des Zieles um Jahre altern und macht sie zerbrechlich und alt. Für diesen Zauber benötigst Du Pilze und Lila Pilze."
 
-   brittle_nothing = "For all of your mystic concentration, nothing seems to happen."
+
+
+
+   brittle_nothing = "Trotz all Deiner magischen Konzentration scheint nichts zu passieren."
 
    brittle_sound = fbrit.wav
 
-   brittle_no_weapon = "%s%s isn't wielding anything that you can damage."
-   brittle_hunter_sword = "%s%s's Sword of the Hunt repells your spell."
-   brittle_cast_rsc = "%s%s's eyes focus intensely on your weapon.  Your %s takes on a duller cast."
-   brittle_succeed = "You focus your eyes intensely on %s%s's %s, and it dulls."
+   brittle_no_weapon = "%s%s hat nichts bei sich, was Du zerstören könntest."
+   brittle_hunter_sword = "%s%ss Jagdschwert widersteht Deinem Zauber."
+   brittle_cast_rsc = "%s%ss Augen richten sich wie gebannt auf Deine Waffe. %s in Deinem Besitz wird durch Farens Magie geschwächt."
+   brittle_succeed = "Deine Augen richten sich gebannt auf %s%s. %s wird durch Farens Magie schwächer."
 
 classvars:
 
@@ -164,3 +164,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

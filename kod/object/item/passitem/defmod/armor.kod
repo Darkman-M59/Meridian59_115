@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   armor_condition_exc = " is without blemish or flaw."
-   armor_condition_exc_mended = " is in great condition, but has been repaired before."
-   armor_condition_good = " has a dent or two."
-   armor_condition_med = " is nicked and scarred from battle."
-   armor_condition_poor = " has been rent and torn by fierce attacks and may not last much longer."
-   armor_condition_broken = " is useless.  It has been torn into several pieces from the wear and strain of battle."
+   armor_condition_exc = " ist ohne einen Fehler oder Makel."
+   armor_condition_exc_mended = " ist in hevorragendem Zustand, wurde aber bereits ausgebessert."
+   armor_condition_good = " hat ein oder zwei Dellen."
+   armor_condition_med = " hat Risse und Dellen vom Kampf."
+   armor_condition_poor = " ist durch viele Angriffe aufgerissen und hält nicht mehr lange."
+   armor_condition_broken = " ist in Stücke zerfallen und bietet keinerlei Schutz mehr."
 
 classvars:
 
@@ -122,3 +122,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

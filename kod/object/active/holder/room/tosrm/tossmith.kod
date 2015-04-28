@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_tossmith = "The Freelance Merchant and Menders Shop"
+   room_name_tossmith = "Laden Freier Händler und Flicker"
    room_tossmith = tossmith.roo
-   tossmith_music = smithy.mid
+   tossmith_music = smithy.mp3
 
    TosSmithy_forge_sound = fireplac.wav
 
@@ -106,3 +106,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

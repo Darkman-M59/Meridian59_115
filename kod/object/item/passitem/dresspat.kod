@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   DressPattern_name_rsc = "dress pattern"
+   DressPattern_name_rsc = "Schnittmuster"
    DressPattern_icon_rsc = scr10.bgf
-   DressPattern_desc_rsc = \
-      "This appears to be a pattern for some sort of elaborate gown.  The most "
-      "complicated of the versions is stitched together of more than two thousand "
-      "separate pieces of cloth, delicately darted and ruffled, and requires the "
-      "use of exotic fabrics such as queen spider silk and yeti fur."
+   DressPattern_desc_rsc = "Dies scheint das Schnittmuster für ein kompliziertes Kleid zu sein. Die komplizierteste Version besteht aus mehr als tausend unterschiedlichen Stoffteilen, die mit Abnähern versehen und eingehalten sind und die die Verwendung eines exotischen Gewebes wie Spinnenköniginseide oder Yetifell erfordern."
+
+
+
+
 
 classvars:
 
@@ -40,3 +40,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

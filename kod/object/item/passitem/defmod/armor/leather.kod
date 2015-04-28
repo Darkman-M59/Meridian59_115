@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   leatherarmor_name_rsc = "leather armor"
+   leatherarmor_name_rsc = "Die Lederrüstung"
    leatherarmor_icon_rsc = leathamr.bgf
-   leatherarmor_desc_rsc = \
-      "This armor is made from thick, cured troll hides "
-      "roughly stitched together.  Despite a smell reminiscent "
-      "of rotting troll meat, the armor provides some "
-      "protection."
+   leatherarmor_desc_rsc = "Diese Rüstung wurde aus dicker, getrockneter Trollhaut geschneidert. Obwohl sie einen strengen Geruch hat, bietet die Lederrüstung zumindest ein wenig Schutz."
+
+
+
+
 
    leatherarmor_male_icon_rsc = btg.bgf
    leatherarmor_female_icon_rsc = bth.bgf
@@ -72,3 +72,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

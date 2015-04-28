@@ -15,15 +15,15 @@ constants:
 
 resources:
 
-   createweapon_cast_rsc = "%s%s appears."
-   createweapon_inv_full_rsc = "%s%s appears in the air before you, "
-   "but before you can drop something and grab it, it vanishes."
-   createweapon_name_rsc = "create weapon"
-   createweapon_icon_rsc = icremace.bgf
-   createweapon_desc_rsc = \
-      "Materializes a weapon.  Requires nothing but a violent will."
+   createweapon_cast_rsc = "%s%s wird erschaffen."
+   createweapon_inv_full_rsc = "%s%s löst sich in der Luft auf, bevor Du etwas ablegen kannst, verschwindet die Waffe."
 
-   createweapon_spell_intro = "Kraanan Lv. 1: Creates a variety of weapons for use in defeating your foes." 
+   createweapon_name_rsc = "Waffe erschaffen"
+   createweapon_icon_rsc = icremace.bgf
+   createweapon_desc_rsc = "Erschafft eine Waffe. Benötigt nur einen starken Willen."
+
+
+   createweapon_spell_intro = "Kraanan Zirkel 1: Erschafft unterschiedliche Waffen."
 
    createweapon_sound = kraanan.wav
 
@@ -145,3 +145,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

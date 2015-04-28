@@ -29,12 +29,12 @@ constants:
 
 resources:
 
-   weapattpunisher_desc = "  The emblem of a fist holding an ankh rests in the pommel of this weapon, promising "
-   weapattpunisher_desc2 = " advantage in the fight for justice."
-   punisher_fail_use = "As you grab the hilt of %s%s, you scream out in pain and let go!"
-   weapattpunisher_name = "%s of the just"
+   weapattpunisher_desc = " Das Emblem von Hagens Faust, die ein Henkelkreuz hält, ist auf dem Knauf dieser Waffe und verspricht einen "
+   weapattpunisher_desc2 = " Vorteil beim Kampf für Gerechtigkeit."
+   punisher_fail_use = "%s%s brennt wie glühende Kohlen in Deiner Hand und Du ziehst schnell die Finger zurück!"
+   weapattpunisher_name = "%s der Gerechten"
 
-   punisher_dm = "punisher"
+   punisher_dm = "Bestrafer"
 
 classvars:
 
@@ -175,3 +175,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -19,30 +19,30 @@ constants:
 
 resources:
 
-   Hunt_name_rsc = "hunt"
+   Hunt_name_rsc = "Verfolgung"
    Hunt_icon_rsc = ihunt.bgf
-   Hunt_desc_rsc = \
-      "Allows the casters to use a prism to focus on a player's trail "
-      "and track him or her for a limited time.  The hunted player's name "
-      "must be spoken during the initial trance.  When the enchantment "
-      "is completed, for the duration of the spell the hunters will receive "
-      "periodic notification of the hunted player's whereabouts.  "
-      "Requires all of the claws from one kriipa paw, and the casters' "
-      "mystical energies must be focused through a prism."
+   Hunt_desc_rsc = "Erlaubt den Zaubernden, ein Prisma zu benutzen, um sich auf die Fährte eines Spielers zu begeben und ihn für eine begrenzte Zeit zu jagen. Die Namen der verfolgten Spieler müssen während der beginnenden Trance ausgesprochen werden. Sobald sich die Verzauberung ergibt, erhalten die Jäger für die Dauer des Zaubers stets wiederkehrende Benachrichtigungen über den Aufenthaltsort des Spielers. Erfordert alle Klauen einer Kriipa-Tatze und die magischen Energien des Zauberers müssen durch ein Prisma gebündelt werden."
+
+
+
+
+
+
+
    
    Hunt_sound = khunt.wav
 
-   hunt_cold_trail = "Your trail for %s%s seems to have gone cold."
-   hunt_no_target = \
-      "You try to find a trail, but since you aren't looking for "
-      "anyone in particular, you find nothing."
-   hunt_target_is_dm = \
-      "~IImmortals leave no trail that can be followed by this spell.  "
-      "Try another target."
-   hunt_is_on = "~BThe hunt is on!"
+   hunt_cold_trail = "Deine Spur des %s%s scheint sich verloren zu haben."
+   hunt_no_target = "Du versuchst eine Spur zu finden, aber solange Du keine Anhaltspunkte hast, wirst Du nichts finden."
 
-   hunt_lost_trackers = "You seem to have managed to lose your trackers!"
-   hunt_gain_trackers = "You sense that someone knows where you are..."
+
+   hunt_target_is_dm = "~IUnsterbliche hinterlassen keine Spuren, die von diesem Zauber verfolgt werden können. Wähle ein anderes Ziel!"
+
+
+   hunt_is_on = "~BDie Jagd beginnt!"
+
+   hunt_lost_trackers = "Es scheint, als hättest Du Deine Verfolger abschütteln können!"
+   hunt_gain_trackers = "Du spürst, dass jemand weiß, wo Du bist..."
 
 classvars:
 
@@ -221,3 +221,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

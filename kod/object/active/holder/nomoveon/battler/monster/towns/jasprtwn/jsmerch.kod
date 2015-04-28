@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   jaspermerchant_name_rsc = "Zhieu B'hob"
+   jaspermerchant_name_rsc = "Bob"
    jaspermerchant_icon_rsc = jsmerch.bgf
-   jaspermerchant_desc_rsc = \
-      "Zhieu B'hob works very hard to make his business thrive in this depressed "
-      "community.  He is eager, and busy with the appearances."
+   jaspermerchant_desc_rsc = "Bob arbeitet hart, damit sein Geschäft in diesem Ort gut läuft. Er ist eifrig um das Erscheinungsbild bemüht."
 
-   JsMer_entry_welcome = "Might I interest you in some fine merchandise?"
 
-   JsMer_ruby_sale = "Yes, I do have %s%s.  They are the pride of my small store."
+
+   JsMer_entry_welcome = "Kann ich Dich vielleicht für eine meiner Waren interessieren?"
+
+   JsMer_ruby_sale = "Aber ja, ich habe %s%s. Sie sind der Stolz meines kleinen Ladens."
 
 classvars:
 
@@ -131,4 +131,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

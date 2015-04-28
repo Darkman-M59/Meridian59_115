@@ -20,8 +20,8 @@ constants:
 resources:
 
    room_barlsew2 = barlsew2.roo
-   room_name_barsew2 = "The Sewers of Barloque"
-   barsew2_music = cave.mid
+   room_name_barsew2 = "Kanalisation von Barloque"
+   barsew2_music = cave.mp3
 
    waterfall_soundbsew2 = wfall2.wav
 
@@ -97,3 +97,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

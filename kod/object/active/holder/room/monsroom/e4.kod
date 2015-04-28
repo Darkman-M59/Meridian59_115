@@ -17,8 +17,8 @@ constants:
 resources:
    waterfall_sounde4 = wfall2.wav
    room_OutdoorsE4 = E4.roo
-   room_name_OutdoorsE4 ="East Merchant Way through Ilerian Woods"
-   OutdoorsE4_music = forest.mid
+   room_name_OutdoorsE4 = "Östliche Handelsroute durch die Ilerischen Wälder"
+   OutdoorsE4_music = forest.mp3
 
 classvars:
 
@@ -146,3 +146,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

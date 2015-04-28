@@ -24,17 +24,17 @@ resources:
 
    kocatanShopkeeper_name_rsc = "Pacal ix'Anoak"
    kocatanShopkeeper_icon_rsc = kcshopk.bgf
-   kocatanShopkeeper_desc_rsc =  \
-      "This somewhat scattered man runs a very scattered store set in an abandoned "
-      "arsenal.  Regardless of his apparent lack of organization, Pacal has a remarkable "
-      "understanding of exactly what is here and where."
-   
-   kocatanShopkeeper_entry_welcome = "I probably got what you're looking for.... somewhere...."
+   kocatanShopkeeper_desc_rsc = "Dieser etwas zerstreute Mann betreibt einen ziemlich zerstreuten Laden in einem verlassenen Waffenlager. Obwohl offensichtlich jegliche Organisation zu fehlen scheint, weiss Pacal bemerkenswerterweise immer, was wo zu finden ist."
 
-   JunkMan_AlreadyHaveOne_rsc = "I've already got one of them to unload, I don't need another right now."
-   JunkMan_NumberItem_rsc = "Sorry, my friend, trinkets like those are things I `Bwon't`n take."
-   JunkMan_Full_rsc = "I wish I could take that off of your hands for you, but mine are all full too!"  
-   JunkMan_Not_Interested = "I thank ye, but I am not interested."
+
+
+   
+   kocatanShopkeeper_entry_welcome = "Wahrscheinlich habe ich das, nach dem du suchst ... irgendwo ...."
+
+   JunkMan_AlreadyHaveOne_rsc = "Ich hab' schon einen davon zum Abladen, ich brauch' im Moment keinen anderen."
+   JunkMan_NumberItem_rsc = "Tut mir leid, mein Freund, solchen Krimskrams nehme ich ~Bnicht~n."
+   JunkMan_Full_rsc = "Ich wünschte, ich könnte dir das abnehmen, aber meine Hände sind auch voll!"
+   JunkMan_Not_Interested = "Ich danke Dir, aber ich bin nicht interessiert."
 
 classvars:
 
@@ -323,3 +323,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

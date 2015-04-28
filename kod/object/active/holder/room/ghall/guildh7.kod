@@ -36,7 +36,7 @@ constants:
 
 resources:
 
-   room_name_guildh7 = "The Old Dwarven Hall"
+   room_name_guildh7 = "Die Zwergenbinge"
    room_guildh7 = guildh7.roo
 
 classvars:
@@ -395,3 +395,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

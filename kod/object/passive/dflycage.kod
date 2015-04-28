@@ -27,10 +27,10 @@ constants:
 
 resources:
 
-   DragonflyCage_name_rsc = "wire cage"
+   DragonflyCage_name_rsc = "Der Drahtkäfig"
    DragonflyCage_icon_rsc = roomcage.bgf
-   DragonflyCage_desc_rsc = "This is a delicately crafted wire cage, suitable for "
-      "housing a small avian creature."
+   DragonflyCage_desc_rsc = "Die ist ein kunstvoll gefertigter Drahtkäfig zur Haltung von kleinen vogelähnlichen Kreaturen."
+
 
 classvars:
 
@@ -88,3 +88,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

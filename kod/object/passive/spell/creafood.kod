@@ -15,19 +15,19 @@ constants:
 
 resources:
 
-   createfood_name_rsc = "create food"
+   createfood_name_rsc = "Essen erschaffen"
    createfood_icon_rsc = icrefood.bgf
-   createfood_desc_rsc = \
-      "The power of Kraanan is summoned to materialize various nourishing foods.  "
-      "Requires elderberries and herbs to cast."
+   createfood_desc_rsc = "Die reine Kraft Kraanans wird angerufen, um verschiedene Nahrungsmittel zu erschaffen. Der Zauber benötigt Kräuter und Holunderbeeren."
 
-   createfood_spell_intro = "Kraanan Lv. 1: Turns basic elderberries into food for you to eat and increase your vigor."
+
+
+   createfood_spell_intro = "Kraanan Zirkel 1: Verwandelt einfache Holunderbeeren in Nahrung, die Du essen und damit Deine Ausdauer erhöhen kannst."
 
    createfood_sound = kcreatef.wav
 
-   createfood_cast_rsc = "%s%s appears."
-   createfood_inv_full_rsc = \
-      "%s%s appears in the air before you, but before you can drop something and grab it, it vanishes."
+   createfood_cast_rsc = "%s%s erscheint."
+   createfood_inv_full_rsc = "%s%s erscheint in der Luft vor Dir, doch bevor Du etwas ablegen und ihn greifen kannst, verschwindet er."
+
 
 classvars:
 
@@ -150,3 +150,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

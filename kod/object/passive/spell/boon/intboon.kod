@@ -20,13 +20,13 @@ constants:
 
 resources:
 
-   intboon_name_rsc = "intellect effect"
+   intboon_name_rsc = "Intellekt"
    intboon_icon_rsc = iboonint.bgf
-   intboon_desc_rsc = "Your intellect seems oddly affected."
-   intboon_intro_rsc = "The intellect of the victim is boosted temporarily."
+   intboon_desc_rsc = "Dein Verstand scheint seltsam beeinflusst zu sein."
+   intboon_intro_rsc = "Die Intelligenz des Betroffenen steigt vorübergehend deutlich an."
    
-   intboon_inc = "You suddenly feel wiser!"
-   intboon_dec = "Your intellect fails you."
+   intboon_inc = "Du fühlst Dich plötzlich weiser!"
+   intboon_dec = "Dein Verstand setzt aus."
 
 classvars:
    viPersonal_ench = True
@@ -64,3 +64,4 @@ messages:
    }
 
 end
+

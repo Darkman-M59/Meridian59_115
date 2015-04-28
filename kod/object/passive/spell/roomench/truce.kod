@@ -16,25 +16,25 @@ constants:
 
 resources:
 
-   truce_name_rsc = "truce"
+   truce_name_rsc = "Waffenruhe"
    truce_icon_rsc = itruce.bgf
-   truce_desc_rsc = \
-      "The spirit of Shal'ille calls upon her ally Faren, forming a truce with creatures of nature for "
-      "several minutes.  "
-      "Requires emerald and yrxl sap to cast."
+   truce_desc_rsc = "Der Geist von Sha-Lill legt sich auf die Umgebung, beruhigt alle anwesenden Gemüter und verhindert so für mehrere Minuten den Kampf. Der Zauber benötigt Smaragde und ein Yrxl Harz."
 
-   truce_unnecessary = "Combat with monsters is already impossible here."
 
-   truce_on = \
-      "A numbing calm settles upon your mind. You find yourself unable to lift a weapon against nature."
-   truce_off = \
-      "The calm that had gripped your mind departs.  You feel ready for "
-      "battle once more."
 
-   truce_guardian = \
-      "Your guardian angel tells you, \"You are not ready to cast this spell "
-      "so it hinders other players or logoff ghosts.\""
-   truce_no_towns = "Shal'ille does not permit you to interfere right now."
+
+   truce_unnecessary = "Hier ist ein Kampf bereits unmöglich."
+
+   truce_on = "Eine große Gelassenheit befällt Dein Gemüt und vertreibt alle Gedanken an Zwietracht und Krieg. Du bist nicht in der Lage, auch nur eine Waffe zu führen."
+
+   truce_off = "Die Ruhe, die Dein Gemüt ergriffen hatte, entschwindet. Du fühlst Dich wieder für den Kampf bereit."
+
+
+
+   truce_guardian = "Dein Schutzengel teilt Dir mit, \"Du bist noch nicht erfahren genug, um einen Spruch zu wirken, der andere Spieler behindert oder gegen deren seelenlose Körper gerichtet ist.\""
+
+
+   truce_no_towns = "Sha Lill erlaubt dir noch nicht dich einzumischen."
 
    truce_sound = shalille.wav
 
@@ -228,3 +228,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

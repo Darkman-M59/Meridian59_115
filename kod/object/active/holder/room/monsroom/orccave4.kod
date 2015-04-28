@@ -17,9 +17,9 @@ constants:
 resources:
 
    room_orccave4 = oc04.roo
-   room_name_orccave4 = "Aqueducts of Merb"
+   room_name_orccave4 = "Die Aquädukte von Merb"
 
-   orccave4_music = orc2.mid
+   orccave4_music = orc2.mp3
 
 classvars:
 
@@ -80,3 +80,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

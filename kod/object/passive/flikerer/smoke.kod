@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   SmokeColumn_name = "smoke column"
-   SmokeColumn_desc = \
-      "This is a column of smoke, reaching like a finger for the sky. "
-      "The acrid hickory scent wafts through the air and fills your lungs."
+   SmokeColumn_name = "Die Rauchsäule"
+   SmokeColumn_desc = "Dies ist eine Rauchsäule, die sich wie ein Finger zum Himmel streckt. Der beißende Hickoryholzrauch zieht durch die Luft und füllt Deine Lungen."
+
+
    SmokeColumn_icon = smoke.bgf
 
 classvars:
@@ -56,3 +56,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

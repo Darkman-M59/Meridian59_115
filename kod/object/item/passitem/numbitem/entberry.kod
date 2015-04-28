@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   entrootberry_name_rsc = "entroot berry"
+   entrootberry_name_rsc = "Wurzelknolle"
    entrootberry_icon_rsc = darkber.bgf
-   entrootberry_desc_rsc = \
-      "These 'berries' are not actually berries at all, but rather dark yet "
-      "colorful protrusions that sometimes grow from the roots of the living "
-      "trees.  Despite their name, they are bitter, chalky in texture, "
-      "and ultimately inedible."
+   entrootberry_desc_rsc = "Diese Wurzelknollen sind keine wirklichen Beeren. Sie wachsen manchmal an den Wurzeln von Waldschraten. Sie schmecken bitter und kalkig und sind völlig ungenießbar."
 
-   entrootberry_name_plural_rsc = "entroot berries"
+
+
+
+
+   entrootberry_name_plural_rsc = "Wurzelknollen"
 
 classvars:
 
@@ -49,3 +49,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

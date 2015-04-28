@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   NodeBurstPotion_name_rsc = "pungent elixir"
+   NodeBurstPotion_name_rsc = "Stechender Trank"
    %NodeBurstPotion_icon_rsc = potion01.bgf
-   NodeBurstPotion_desc_rsc = "This is a glass vial of colored liquid.  "
-                        "It has an extremely pungent odor; one whiff is enough to leave your head spinning.  "
-                        "Not surprisingly, it has a large warning label attached to it.  Apparently, this "
-                        "strange elixir has the power to open all of your mana node links to the maximum, "
-                        "supplying you with an instant burst of mana, but permanently severing one node link."
-   NodeBurstPotion_bad_desc_rsc = "This is a glass vial of slightly cloudy colored liquid.  "
-                        "It has an extremely pungent, acrid odor; one whiff is almost enough to make you pass "
-                        "out.  You would be well advised to heed the large warning label and avoid drinking "
-                        "it."
+   NodeBurstPotion_desc_rsc = "Dies ist eine Glasphiole mit einer farbigen Flüssigkeit. Sie hat einen extrem beißenden Geruch; ein einziger Schnupperer reicht, um Dich schwindlig zu machen. Nicht gerade überraschend, dass ein großes Warnetikett aufgeklebt ist. Es scheint, dass dieses Elixier die Kraft hat, alle Deine Verbindungen zu den Zauberquellen auf einmal zu öffnen und Dich auf einen Schlag mit zusätzlichen Zauberenergien zu füllen. Dies hat allerdings zur Folge, dass danach die Verbindung zu einer Quelle gelöst werden."
+
+
+
+
+   NodeBurstPotion_bad_desc_rsc = "Dies ist eine Glasphiole mit einer leicht trüben Flüssigkeit. Sie hat einen extrem beißenden Geruch; ein einziger Schnupperer reicht, um Dich würgen zu lassen. Du tust gut daran, dass Warnschild zu beachten und es zu vermeiden, aus der Flasche zu trinken."
+
+
+
 
 
 classvars:
@@ -54,3 +54,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

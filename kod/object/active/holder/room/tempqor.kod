@@ -21,10 +21,10 @@ constants:
 resources:
 
    room_QorTemple = tempqor.roo
-   room_name_QorTemple = "The Temple of Qor"
-   tempqor_music = temple.mid
+   room_name_QorTemple = "Der Qor Tempel"
+   tempqor_music = temple.mp3
 
-	templeqor_sound = down2.wav
+   templeqor_sound = down2.wav
 
 classvars:
 
@@ -222,3 +222,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

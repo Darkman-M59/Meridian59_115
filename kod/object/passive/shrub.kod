@@ -17,8 +17,8 @@ constants:
 resources:
 
    shrub_icon_rsc = shrub.bgf
-   shrub_name_rsc = "shrub"
-   shrub_desc_rsc = "This is a woody plant with multiple permanent stems branching near the ground."
+   shrub_name_rsc = "Der Busch"
+   shrub_desc_rsc = "Dies ist eine hölzerne Pflanze mit mehreren Stämmen, die nahe am Boden verzweigen."
 
 classvars:
 
@@ -38,6 +38,7 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 

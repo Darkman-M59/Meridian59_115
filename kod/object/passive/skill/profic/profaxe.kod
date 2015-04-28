@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   axeproficiency_name_rsc = "axe wielding"
+   axeproficiency_name_rsc = "Axtkampf"
    axeproficiency_icon_rsc = axeico.bgf
-   axeproficiency_desc_rsc = "Allows the user to become more efficient with any axe."
+   axeproficiency_desc_rsc = "Ermöglicht es dem Anwender, effizienter mit jeder Axt umzugehen."
 
 classvars:
 
@@ -42,3 +42,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

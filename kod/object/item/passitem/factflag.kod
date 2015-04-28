@@ -19,10 +19,10 @@ constants:
 resources:
 
    FactionFlag_icon_rsc = dukeflag.bgf
-   FactionFlag_name_rsc = "flag"
-   FactionFlag_desc_rsc = "This is the flag of neutrality."
-   FactionFlag_drops = "%s%s slips from your grasp and falls to the ground!"
-   FactionFlag_not_soldier = "The flag can only be used by an officially recognized soldier of this faction!"
+   FactionFlag_name_rsc = "Die Fahne"
+   FactionFlag_desc_rsc = "Dies ist die Flagge der Neutralität."
+   FactionFlag_drops = "%s%s entwindet sich Deinen Händen und fällt zu Boden!"
+   FactionFlag_not_soldier = "Die Flagge kann nur von offiziell anerkannten Soldaten dieser Fraktion benutzt werden!"
 
 classvars:
    
@@ -201,4 +201,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

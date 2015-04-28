@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OldBarloqueSouth = "Historic South Barloque"
+   room_name_OldBarloqueSouth = "Das historische Süd Barloque"
    room_OldBarloqueSouth = obarls.roo
-   OldBarloqueSouth_music = corloth.mid
+   OldBarloqueSouth_music = corloth.mp3
 
 classvars:
 
@@ -81,3 +81,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

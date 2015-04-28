@@ -21,25 +21,25 @@ constants:
 
 resources:
 
-   ringoflethargy_name_rsc = "ring of lethargy"
+   ringoflethargy_name_rsc = "Der Ring aus exotischem Metall"
    ringoflethargy_icon_rsc = ring3.bgf
 
-   ringoflethargy_desc_rsc = \
-      "The ring looks dangerous even from here.  Perhaps you should not wear it."
+   ringoflethargy_desc_rsc = "Dieser goldene Ring pulsiert voll magischer Kraft."
 
-   ringoflethargy_desc_used_rsc = \
-      "The ring seems to pulse upon your finger--almost as if it were feeding."
 
-   ringoflethargy_use_rsc = \
-      "After putting on the ring you feel drained and out of breath."
+   ringoflethargy_desc_used_rsc = "Der Ring scheint an Deinem Finger zu pulsieren -- fast als würde er ernährt."
+
+
+   ringoflethargy_use_rsc = "Als Du den Ring anziehst, fühlst Du Dich niedergeschlagen und atemlos."
+
   
-   ringoflethargy_try_unuse_rsc = \
-      "As you remove the ring, you suddenly feel your strength flow from your body!  "
-      "Involuntarily you place the ring back on-- you are linked to it, and need special help to remove it."
+   ringoflethargy_try_unuse_rsc = "Als Du den Ring abziehst, fühlst Du plötzlich all Deine Kraft aus Deinem Körper entweichen! Unfreiwillig ziehst Du den Ring wieder an - Du bist mit ihm verbunden und benötigst besondere Hilfe, um ihn zu entfernen."
 
-   ringoflethargy_unuse_rsc = \
-      "The ring pops off of your finger of its own volition.  "
-      "Air fills your lungs!  At last you can breathe freely again!"
+
+
+   ringoflethargy_unuse_rsc = "Der Ring springt mit eigener Kraft von Deinem Finger. Luft füllt Deine Lungen! Endlich kannst Du wieder frei atmen!"
+
+
 
 classvars:
 
@@ -175,4 +175,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

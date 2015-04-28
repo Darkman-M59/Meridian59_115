@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   DragonflyEye_name_rsc = "dragonfly eye"
+   DragonflyEye_name_rsc = "Drachenfliegenauge"
    DragonflyEye_icon_rsc = dflyeye.bgf
-   DragonflyEye_desc_rsc = \
-   "Once belonging to a dragonfly, these eyes are uncommon, "
-   "but much desired magical fare."
+   DragonflyEye_desc_rsc = "Diese Augen, die einst einer Drachenfliege gehörten, sind ungewöhnliche, doch sehr begehrte magische Kostbarkeiten."
 
-   DragonflyEye_name_plural_rsc = "dragonfly eyes"
+
+
+   DragonflyEye_name_plural_rsc = "Drachenfliegenaugen"
 
 classvars:
 
@@ -45,3 +45,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

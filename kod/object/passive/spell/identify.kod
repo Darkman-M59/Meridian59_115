@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   identify_name_rsc = "identify"
+   identify_name_rsc = "Identifizieren"
    identify_icon_rsc = iidentif.bgf
-   identify_desc_rsc = \
-     "Reveals any special properties of an item to the caster.  "
-     "Requires orc teeth to cast."
+   identify_desc_rsc = "Enttarnt die besonderen Eigenschaften eines Gegenstandes. Dafür braucht man Orkzähne."
 
-   identify_cant = "You can't seem to gain a proper focus on %s%s."
-   identify_working = "You concentrate on %s%s and see..."
+
+
+   identify_cant = "Wie es scheint, kannst Du %s%s nicht richtig anpeilen."
+   identify_working = "%s%s ist Ziel Deiner Konzentration und Du siehst...."
 
    identify_sound = sident.wav
 
@@ -100,3 +100,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   chandelier_name_rsc = "Chandelier"
+   chandelier_name_rsc = "Ein Kronleuchter"
    chandelier_icon_rsc = chandelr.bgf
-   chandelier_desc_rsc = "This decorative chandelier does not look as though it could hold the weight of a swinging swashbuckler."
+   chandelier_desc_rsc = "Dieser dekorative Kronleuchter sieht nicht so aus, als ob er das Gewicht eines schwingenden Schwadroneurs tragen könnte."
 
 classvars:
 
@@ -43,3 +43,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

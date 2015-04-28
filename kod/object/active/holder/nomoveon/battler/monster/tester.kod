@@ -26,7 +26,7 @@ resources:
    icon_test3 = test3.bgf
    icon_test4 = test4.bgf
 
-   tester_desc = "Graphic tester.  Bonk me to cycle to the next bgf set."
+   tester_desc = "Grafiktester. Verprügle mich, um zu dem nächsten bfg-Set zu schalten."
 
 classvars:
    
@@ -176,4 +176,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

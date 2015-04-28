@@ -17,25 +17,25 @@ constants:
 resources:
 
    room_Kocatanhall = Kochoh.roo
-   room_name_Kocatanhall = "The Hall of Heroes"
+   room_name_Kocatanhall = "Die Halle der Helden"
 
-   Kocatanhall_music = extra01.mid
+   Kocatanhall_music = extra01.mp3
 
-   news_Kocatan_hall = "General News"
-   news_Kocatan_hall_desc = "Find out what's happening around Meridian."
+   news_Kocatan_hall = "Allgemeine Nachrichten"
+   news_Kocatan_hall_desc = "Finde heraus, was um Kocatan herum vor sich geht."
 
-   hoh_best_adventurer = \
-      "This is a statue of %q, greatest adventurer in the land."
-   hoh_best_warrior = "This is a statue of %q, mightiest warrior in the land."
-   hoh_best_wizard = \
-      "This is a statue of %q, most powerful wizard in the land."
+   hoh_best_adventurer = "Das ist eine Statue von %q, dem größten Abenteurer des Landes."
 
-   hoh_best_faren = "This is a statue of %q, master of Faren."
-   hoh_best_qor = "This is a statue of %q, master of Qor."
-   hoh_best_shalille = "This is a statue of %q, master of Shalille."
-   hoh_best_riija = "This is a statue of %q, master of Riija."
-   hoh_best_kraanan = "This is a statue of %q, master of Kraanan."
-   hoh_best_jala = "This is a statue of %q, master of Jala."
+   hoh_best_warrior = "Das ist eine Statue von %q, dem mächtigsten Krieger des Landes."
+   hoh_best_wizard = "Das ist eine Statue von %q, dem mächtigsten Zauberer des Landes."
+
+
+   hoh_best_faren = "Dies ist eine Statue von %q, dem Meister von Faren."
+   hoh_best_qor = "Dies ist eine Statue von %q, dem Meister von Qor."
+   hoh_best_shalille = "Dies ist eine Statue von %q, dem Meister von Shalille."
+   hoh_best_riija = "Dies ist eine Statue von %q, dem Meister von Riija."
+   hoh_best_kraanan = "Dies ist eine Statue von %q, dem Meister von Kraanan."
+   hoh_best_jala = "Dies ist die Statue von %q, Meister von Jala."
 
 classvars:
 
@@ -289,3 +289,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

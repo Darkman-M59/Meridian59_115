@@ -15,21 +15,21 @@ constants:
 
 resources:
 
-   holyweapon_cast_rsc = "Your %s is now dedicated to Shal'ille."
-   holyweapon_no_can = "You cannot dedicate %s%s to Shal'ille."
-   holyweapon_fails = "The %s is strangely unaffected by the spell."
-   holyweapon_already_done = \
-   "This weapon is already dedicated to Shal'ille."
+   holyweapon_cast_rsc = "%s ist nun Sha-Lill geweiht."
+   holyweapon_no_can = "%s%s kannst Du nicht Sha-Lill weihen."
+   holyweapon_fails = "%s zeigt keine Veränderungen durch den Zauber."
+   holyweapon_already_done = "Die Waffe wurde bereits von Sha-Lill gesegnet."
 
-   holyweapon_name_rsc = "holy weapon"
+
+   holyweapon_name_rsc = "Heilige Waffe"
    holyweapon_icon_rsc = iholywpn.bgf
-   holyweapon_desc_rsc = \
-      "Dedicates your weapon to Shal'ille, enhancing its "
-      "effectiveness against the unholy.  "
-	   "Requires fairy wings and orc teeth to cast."
+   holyweapon_desc_rsc = "Deine Waffe wird von Sha-Lill gesegnet und verstärkt ihre Wirkung gegen die Unheiligen. Der Zauber benötigt eine Weile Konzentration, Feenflügel und Orkzähne."
 
-   holyweapon_spell_intro = "Shal'ille Lv. 2: Dedicates your  weapon to Shal'ille, enhancing its effectiveness against the unholy."
-   holyweapon_lable_rsc = "sanctifier."
+
+
+
+   holyweapon_spell_intro = "Sha-Lill Zirkel 2: Deine Waffe wird von Sha-Lill gesegnet und verstärkt ihre Wirkung gegen alles Unheilige."
+   holyweapon_lable_rsc = "Heilsklinge."
 
 classvars:
 
@@ -146,3 +146,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

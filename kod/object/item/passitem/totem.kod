@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   totem_name_rsc = "totem"
+   totem_name_rsc = "Totem"
    totem_icon_rsc = totem.bgf
-   totem_desc_rsc = \
-      "This feathered totem is oft the objective of quests set "
-      "upon mortals by the Bards of the world of Meridian. "
-      "\n\n"
-      "The totem must be held when in possession, and is dropped when "
-      "removed from use."
+   totem_desc_rsc = "Nach diesem gefiederten Totem wird häufig im Auftrag der Barden aus der Welt von Meridian von den Sterblichen gesucht. \n\nWenn man in den Besitz des Totems kommt, muss man es halten, und wenn es seinen Zweck erfüllt hat, verschwindet es."
 
-   totem_cantuse_rsc = \
-      "You are unable to hold so many items in your hands, and %s%s slips to the ground."
-   totem_unuse_rsc = \
-      "You drop %s%s to the ground to free your hands."
 
-   totem_drops = "%s%s slips from your grasp and falls to the ground!"
+
+
+
+
+   totem_cantuse_rsc = "Du kannst nicht so viele Gegenstände in Deinen Händen halten. %s%s fällt deshalb auf den Boden."
+
+   totem_unuse_rsc = "%s%s wird von Dir auf den Boden gelegt, um Deine Hände freizubekommen."
+
+
+   totem_drops = "%s%s entwindet sich Deinen Händen und fällt zu Boden!"
 
 classvars:
 
@@ -233,3 +233,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

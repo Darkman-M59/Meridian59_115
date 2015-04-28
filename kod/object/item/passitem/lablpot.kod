@@ -16,29 +16,29 @@ constants:
 
 resources:
 
-   LabeledPotion_name0_rsc = "liquid digestive"
-   LabeledPotion_name1_rsc = "potion of corn removal"
-   LabeledPotion_name2_rsc = "vial of plant fertilizer"
-   LabeledPotion_name3_rsc = "bottle of eye makeup"
-   LabeledPotion_name4_rsc = "bottle of insect repellant"
-   LabeledPotion_name5_rsc = "nerve-calming elixir"
-   LabeledPotion_name6_rsc = "potion of ambidexerity"
-   LabeledPotion_name7_rsc = "bottle of cleaning solution"
-   LabeledPotion_name8_rsc = "skin softening lotion"
-   LabeledPotion_name9_rsc = "vial of perfume"
-   LabeledPotion_name10_rsc = "bottle of eye drops"
-   LabeledPotion_name11_rsc = "bottle of artificial flavoring"
-   LabeledPotion_name12_rsc = "bottle of natural flavoring"
-   LabeledPotion_name13_rsc = "vial of weed killer"
-   LabeledPotion_name14_rsc = "potion of hair regrowth"
-   LabeledPotion_name15_rsc = "vial of onion extract"
-   LabeledPotion_name16_rsc = "lubricating oil"
-   LabeledPotion_name17_rsc = "bottle of hair dye"
+   LabeledPotion_name0_rsc = "Abführmittel"
+   LabeledPotion_name1_rsc = "Hühneraugenentfernungstrank"
+   LabeledPotion_name2_rsc = "Phiole mit Pflanzendünger"
+   LabeledPotion_name3_rsc = "Fläschchen mit Schminke"
+   LabeledPotion_name4_rsc = "Flasche mit Insektenmittel"
+   LabeledPotion_name5_rsc = "Beruhigungsmittel"
+   LabeledPotion_name6_rsc = "Wahrheitsdroge"
+   LabeledPotion_name7_rsc = "Fläschchen mit Reinigungsflüssigkeit"
+   LabeledPotion_name8_rsc = "Fläschchen mit Hautlotion"
+   LabeledPotion_name9_rsc = "Ein Fläschchen mit Parfüm"
+   LabeledPotion_name10_rsc = "Fläschchen mit Augentropfen"
+   LabeledPotion_name11_rsc = "Fläschchen mit künstlichen Aromastoffen"
+   LabeledPotion_name12_rsc = "Fläschchen mit natürlichen Aromastoffen"
+   LabeledPotion_name13_rsc = "Phiole mitUnkrautvernichtungsmittel"
+   LabeledPotion_name14_rsc = "Flasche mit Haarwuchsmittel"
+   LabeledPotion_name15_rsc = "Phiole mit Zwiebelextrakt"
+   LabeledPotion_name16_rsc = "Schmieröl"
+   LabeledPotion_name17_rsc = "Flasche mit Haarfärbemittel"
 
    LabeledPotion_icon_rsc = potion01.bgf
-   LabeledPotion_desc_rsc = \
-      "This is an odd potion with a hand-written label attached to it.  You are not sure if "
-      "you can trust the label on the bottle or not...."
+   LabeledPotion_desc_rsc = "Dies ist eine merkwürdige Flasche mit einem handgeschriebenen Etikett darauf. Du bist Dir nicht sicher, ob Du der Aufschrift vertrauen kannst oder nicht... "
+
+
 
 classvars:
 
@@ -151,3 +151,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

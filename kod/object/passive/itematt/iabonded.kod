@@ -28,7 +28,7 @@ constants:
 
 resources:
 
-ItemAttBonded_desc = ""
+   ItemAttBonded_desc = ""
 
 classvars:
 
@@ -151,3 +151,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

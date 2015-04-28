@@ -21,75 +21,75 @@ constants:
 
 resources:
 
-   parliament_price_up = "~IYour association with %s gets you the best possible price."
-   parliament_dam_up = "~ITechniques learned from %s help your attack do more damage."
-   parliament_hit_up = "~ITechniques learned from %s help guide your attack."
-   parliament_learn_up = "~IInspired by %s, you take a moment to study your actions for ways to improve."
-   parliament_spell_up = "~ITechniques learned from %s give your spells more power."
-   parliament_defense_up = "~I%s's techniques help you to defend yourself from harm."
-   parliament_regen_up = "~I%s's guidance helps you to recuperate faster."
-   parliament_vigor_up = "~I%s's guidance helps you retain some of your vigor."
+   parliament_price_up = "~IDeine Beziehungen mit %s verschaffen Dir den bestmöglichen Preis."
+   parliament_dam_up = "~ITechniken, erlernt von %s, helfen Dir, mehr Schaden anzurichten."
+   parliament_hit_up = "~ITechniken, erlernt am Hof von %s, lassen Dich besser treffen."
+   parliament_learn_up = "~IInspiriert von %s, denkst Du einen Moment darüber nach, wie du Dich verbessern könntest."
+   parliament_spell_up = "~ITechniken, erlernt am Hof von %s, verbessern die Effektivität Deiner Zaubersprüche."
+   parliament_defense_up = "~I%ss Techniken helfen Dir, Dich besser zu verteidigen."
+   parliament_regen_up = "~I%ss Führung hilft Dir dabei, Dich schneller zu erholen."
+   parliament_vigor_up = "~I%ss Führung hilft Dir dabei, Dich schneller zu erholen."
    
-   parliament_price_down = "~IPerhaps if %s were more favored, merchant's prices would be better."
-   parliament_dam_down = "~IPerhaps if %s were more favored, you would be shown ways to do more damage."
-   parliament_hit_down = "~IIf %s were more favored, you might learn ways to hit more often."
-   parliament_learn_down = "~IPerhaps if %s were more favored, you would learn faster."
-   parliament_spell_down = "~IIf %s were more favored, your spells would have more power."
-   parliament_defense_down = "~IIf %s were more favored, you could defend yourself better."
-   parliament_regen_down = "~IPerhaps if %s were more favored, you could recuperate faster."
-   parliament_vigor_down = "~IPerhaps if %s were more favored, you use your vigor slower."
+   parliament_price_down = "~IMöglicherweise wären die Preise besser, wenn %s mehr Einfluß hätte."
+   parliament_dam_down = "~IMöglicherweise würdest Du mehr Schaden anrichten, wenn %s mehr Einfluß hätte."
+   parliament_hit_down = "~IMöglicherweise würdest Du häufiger treffen, wenn %s mehr Einfluß hätte."
+   parliament_learn_down = "~IMöglicherweise würdest Du schneller lernen, wenn %s mehr Einfluß hätte."
+   parliament_spell_down = "~IMöglicherweise hätten Deine Zaubersprüche mehr Effektivität, wenn %s mehr Einfluß hätte."
+   parliament_defense_down = "~IMöglicherweise könntest Du Dich besser verteidigen, wenn %s mehr Einfluß hätte."
+   parliament_regen_down = "~IMöglicherweise könntest Du Dich besser erholen, wenn %s mehr Einfluß hätte."
+   parliament_vigor_down = "~IMöglicherweise könntest Du Dich besser erholen, wenn %s mehr Einfluß hätte."
 
-   parliament_sell_to_murderer = "I normally don't sell to ~Iyour~n type, but since you are on business from %s I guess I have no choice."
+   parliament_sell_to_murderer = "Normalerweise verkaufe ich nichts an An Leute ~IDeines~n Typs. Aber da Du im Auftrag von %s handelst, habe ich wohl keine andere Chance."
 
-   parliament_Duke_name = "Duke Akardius"
-   parliament_Princess_name = "Princess Kateriina"
+   parliament_Duke_name = "Herzog Akardius"
+   parliament_Princess_name = "Prinzessin Kateriina"
    parliament_Rebel_name = "Jonas D'Accor"
 
    % Not used currently
-   parliament_nodukeprice_down = "~IPerhaps if you served %s, you would obtain better prices."
-   parliament_nodukedam_down = "~IIf you served %s, you might get shown tricks to help you do more damage."
-   parliament_noprinhit_down = "~IIf you followed Princess Kateriina, you might get shown tricks to help you hit more often."
-   parliament_noprinlearn_down = "~IPerhaps if you followed Princess Kateriina, she would show you how to learn faster."
+   parliament_nodukeprice_down = "~IAls Anhänger von %s würdest Du bessere Preise bekommen."
+   parliament_nodukedam_down = "~IAls Anhänger von %s würde man Dir Tricks zeigen, um mehr Schaden anzurichten."
+   parliament_noprinhit_down = "~IAls Anhänger der Prinzessin würdest Du vielleicht besser treffen."
+   parliament_noprinlearn_down = "~IWenn Du ein Anhänger der Prinzessin wärst, würdest Du möglicherweise schneller lernen."
 
-   neutral_faction_preface="Currently at the Court, the unfactioned %s."
-   duke_faction_preface="I've heard that the Duke and his servants now %s."
-   princess_faction_preface="Have you heard that lately Princess Kateriina and her followers %s?"
-   rebel_faction_preface="The rumors about Jonas say his rebels %s"
+   neutral_faction_preface = "Im Moment sollen Leute, die weder dem Herzog noch der Prinzessin dienen, %s."
+   duke_faction_preface = "Ich habe gehört, dass der Herzog und seine Anhänger %s."
+   princess_faction_preface = "Hast Du gehört, dass die Prinzessin und ihre Gefolgsleute %s?"
+   rebel_faction_preface = "Gerüchte über Jonas sagen, seine Rebellen %s"
 
-   strongly_in_suffix="wield unsurpassable influence with the Meridian Council"
-   in_power_suffix="show considerable influence in the decisions of the Meridian Council"
-   normal_suffix="are back to normal levels in their influence with the Meridian Council"
-   out_power_suffix="just don't seem to have much influence with the Meridian Council"
-   strongly_out_suffix="completely lack any influence with the Meridian Council"
+   strongly_in_suffix = "starken Druck auf den Rat ausüben"
+   in_power_suffix = "beträchtlichen Einfluß auf die Entscheidungen des Rates haben"
+   normal_suffix = "nur noch mittelmäßigen Einfluß auf die Entscheidungen des Rates ausüben"
+   out_power_suffix = "auf den Rat nur noch wenig Einfluß haben\""
+   strongly_out_suffix = "keinerlei Einfluß mehr auf die Entscheidungen des Rates haben"
 
-   parliament_rumor_number = "Ah, followers of %s are %s"
-   parliament_liege_number = "mine"
+   parliament_rumor_number = "Ah, die Anhänger von %s sind %s"
+   parliament_liege_number = "mir"
 
-   parliament_few_number = "few but get much direct instruction."
-   parliament_small_number = "small but growing in power."
-   parliament_average_number = "an average sized group that is given many advantages."
-   parliament_large_number = "large in number but not given much individual attention."
-   parliament_huge_number = "an incredibly large and unruly group."
+   parliament_few_number = "wenige, die aber sehr direkte Instruktionen bekommen."
+   parliament_small_number = "wenige. Aber sie gewinnen an Macht."
+   parliament_average_number = "eine durchschnittlich große Gruppe, die viele Vorteile genießt."
+   parliament_large_number = "sind anzahlmäßig sehr groß, bekommen aber nicht viel individuelle Aufmerksamkeit."
+   parliament_huge_number = "eine unglaublich große und unbändige Gruppe."
 
-   faction_power_shift = "~IYou sense a shift in the balance of power at the Royal Court."
+   faction_power_shift = "~IDu fühlst eine Verschiebung der Machtverhältnisse am königlichen Hof."
    faction_shift_wav = kaliorup.wav
 
-   parliament_scandalous_behavior = "There are rumors that someone on the Meridian Council is accepting favors from a faction in exchange for his vote. Oh, scandal!"
+   parliament_scandalous_behavior = "Es gibt Gerüchte, dass ein Ratsmitglied Bestechungen von Fraktionsmitgliedern annimmt. Was für ein Skandal!"
 
-   parliament_name = "Parliament Report"
+   parliament_name = "Gerichtsbericht"
 
-   parliament_info_mail = \
-       "Report:\n"
-       "Princess members: %i\n"
-       "Duke members: %i\n"
-       "Rebel members: %i\n"
-       "Unfactioned members: %i\n"
-       "Total intriguers: %i\n\n"
-       "Princess power: %i\n"
-       "Duke power: %i\n"
-       "Rebel power: %i\n"
-       "Unfactioned power: %i\n"
-       "-----"
+   parliament_info_mail = "Report:\n\nGefolgschaft der Prinzessin: %i\nGefolgschaft des Herzogs: %i\nRebellenanhänger: %i\nFraktionslose: %i\nIntriganten gesamt: %i\n\nKraft der Prinzessin: %i\nKraft des Herzogs: %i\nKraft der Rebellen: %i\nKraft der Fraktionslosen: %i\n-----"
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -1505,3 +1505,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

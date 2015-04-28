@@ -32,20 +32,20 @@ constants:
 
 resources:
 
-   weapatt_faction_princess = "  The princess' sigil is embossed on the weapon, promising "
-   weapatt_faction_princess2 = " advantage in the defense of her honor."
-   weapatt_faction_duke = "  The duke's family crest is embossed on the weapon, offering "
-   weapatt_faction_duke2 = " advantage in his quest for the throne."
-   weapatt_faction_rebel = "  The rebel army flag is embossed on the weapon, giving "
-   weapatt_faction_rebel2 = " advantage for the rebellion."
+   weapatt_faction_princess = " Das in die Waffe eingelassene Siegel der Prinzessin verspricht einen "
+   weapatt_faction_princess2 = " Vorteil bei der Verteidigung ihrer Ehre."
+   weapatt_faction_duke = " Das Wappen des Herzogs ist in die Waffe eingraviert und bietet "
+   weapatt_faction_duke2 = " Vorteil bei seinem Streben nach dem Thron."
+   weapatt_faction_rebel = " Die Rebellenflagge ist auf diese Waffe geprägt und gibt einen "
+   weapatt_faction_rebel2 = " Vorteil für die Rebellion."
 
-   weapatt_faction_duke_name = "%s of the duke"
-   weapatt_faction_princess_name = "the princess' %s"
-   weapatt_faction_rebel_name = "the rebel %s"
+   weapatt_faction_duke_name = "%s des Herzogs"
+   weapatt_faction_princess_name = "%s der Prinzessin"
+   weapatt_faction_rebel_name = "der Rebell %s"
 
-   iafaction_duke_dm = "duke"
-   iafaction_princess_dm = "princess"
-   iafaction_rebel_dm = "rebel"
+   iafaction_duke_dm = "Herzog"
+   iafaction_princess_dm = "Prinzessin"
+   iafaction_rebel_dm = "Rebell"
 
 classvars:
 
@@ -385,3 +385,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

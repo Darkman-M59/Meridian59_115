@@ -18,15 +18,15 @@ constants:
 
 resources:
 
-   Animate_name_rsc = "animate"
+   Animate_name_rsc = "Untoten erwecken"
    Animate_icon_rsc = ianimate.bgf
-   Animate_desc_rsc = \
-      "Animates the corpse of another human, that they may do your bidding.  "
-      "Requires the blood of a shaman to cast."
+   Animate_desc_rsc = "Belebt die Leiche eines anderen Menschen, auf dass er deinem Befehl Folge leiste. Der Zauber benötigt Schamanenblut."
+
+
    
-   Animate_bad_target = "You can't cast animate on %s%s!"
-   Animate_failed_rsc = "%s's corpse remains inanimate on the gound."
-   Animate_cast_rsc = "%s's corpse pulls itself up off of the ground."
+   Animate_bad_target = "Du kannst %s%s nicht wiederbeleben!"
+   Animate_failed_rsc = "%ss Leiche bleibt unbelebt auf dem Boden liegen."
+   Animate_cast_rsc = "%ss Leiche erhebt sich selbst vom Boden."
 
    Animate_sound = qanimate.wav
 
@@ -207,3 +207,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

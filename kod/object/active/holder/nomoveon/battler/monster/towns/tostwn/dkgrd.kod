@@ -18,13 +18,13 @@ constants:
 
 resources:
 
-   duke_guard_name_rsc = "Keep Guard"
+   duke_guard_name_rsc = "Die Palastwache"
    duke_guard_icon_rsc = dukegard.bgf
-   duke_guard_desc_rsc = \
-      "Although dressed very regally in his best officer's uniform, "
-	  "this guard of the keep probably wouldn't be a serious challenge "
-	  "should war break out.  He's nowhere near as big and burly as "
-	  "the members of the Duke's Honor Guard."
+   duke_guard_desc_rsc = "Obwohl sie sich in seine beste Parade-Uniform geworfen hat, kann Dich diese Wache nicht täuschen. Sollte ein Krieg ausbrechen, wird sie keine große Hilfe darstellen. Sie ist auf keinen Fall so breit und stark wie ein Mitglied der königlichen Leibgarde."
+
+
+
+
 
 
 classvars:
@@ -46,3 +46,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

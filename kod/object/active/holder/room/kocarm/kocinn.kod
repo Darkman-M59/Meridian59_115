@@ -17,19 +17,19 @@ constants:
 resources:
   
    room_kocinn = kocinn.roo
-   room_name_kocinn = "The Aerie Guest House"
+   room_name_kocinn = "Das Gästehaus"
 
-   kocinn_waz_locked = "Room waz is locked."
-   kocinn_wazwaz_locked = "Room wazwaz is locked."
-   kocinn_zik_locked = "Room zik is locked."
-   kocinn_zikzik_locked = "Room zikzik is locked."
-   kocinn_katalin_locked = "Room katalin is locked."
-   kocinn_katalinwaz_locked = "Room katalinwaz is locked."
+   kocinn_waz_locked = "Raum waz ist verschlossen."
+   kocinn_wazwaz_locked = "Raum wazwaz ist verschlossen."
+   kocinn_zik_locked = "Raum zik ist verschlossen."
+   kocinn_zikzik_locked = "Raum zikzik ist verschlossen."
+   kocinn_katalin_locked = "Raum katalin ist verschlossen."
+   kocinn_katalinwaz_locked = "Raum katalinwaz ist verschlossen."
 
-   kocnews_god_name = "Designers' News"
-   kocnews_god_desc = "Check here for information from the game administrators."
+   kocnews_god_name = "Neues von den Designern"
+   kocnews_god_desc = "Neueste Informationen von den Administratoren."
 
-   kocinn_music = song12.mid
+   kocinn_music = song12.mp3
 
 classvars:
 
@@ -136,3 +136,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

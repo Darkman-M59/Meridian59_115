@@ -19,16 +19,16 @@ constants:
 
 resources:
 
-   Hazar_innkeep_name_rsc = "Marcus"
+   Hazar_innkeep_name_rsc = "Markus"
    Hazar_innkeep_icon_rsc = jsmerch.bgf
-   Hazar_innkeep_desc_rsc = \
-   "A veteran of the Orc Wars, Marcus now seems content to settle into his new life running a small and quiet country inn."
-
-   HazarInnkeeper_nothing_for_sale = "I don't have anything to sell myself, but ask around - some of the other "
-         "folks around here do."
+   Hazar_innkeep_desc_rsc = "Ein Veteran der Ork-Kriege. Markus scheint aber ein wenig ruhiger geworden zu sein und führt nun eine idyllische Kneipe."
 
 
-   HazarInnkeeper_welcome = "Hello, %s, and welcome to Meridian 59!  Read the sign to start the tutorial."
+   HazarInnkeeper_nothing_for_sale = "Ich selbst habe nichts zu verkaufen, doch fragt herum - einige der anderen Leute hier tun es."
+
+
+
+   HazarInnkeeper_welcome = "Sei gegrüßt, %s, und herzlich willkommen in Meridian 59! Auf den Schildern findest Du hilfreiche Hinweise. Die Inschriften der Schilder kannst Du lesen, indem Du sie mit einem Rechtsclick mit der Maus anwählst."
    
 classvars:
    vrName = Hazar_innkeep_name_rsc
@@ -48,3 +48,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

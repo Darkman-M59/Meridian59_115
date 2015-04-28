@@ -27,7 +27,7 @@ constants:
 
 resources:
 
-   room_name_guildh2 = "The Hall of Explorers"
+   room_name_guildh2 = "Halle der Entdecker"
    room_guildh2 = guildh2.roo
 
    guildhall2_sound = down2.wav
@@ -415,3 +415,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

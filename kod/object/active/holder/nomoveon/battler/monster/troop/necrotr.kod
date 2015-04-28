@@ -19,15 +19,15 @@ include blakston.khd
 
 resources:
 
-   NecromancerTroop_name_rsc = "necromancer"
+   NecromancerTroop_name_rsc = "Ein Nekromant"
 
-   NecromancerTroop_desc_rsc = \
-   "Transfixed under the unearthly stare of this foul being, your mind skitters "
-   "fearfully around the thought of the dark rituals which must have transformed it "
-   "into what it is.  Indeed, the necromancer is an unliving testimonial to the "
-   "terrible price of magical power."
+   NecromancerTroop_desc_rsc = "Versteinert unter dem unheimlichen Blick dieses widerlichen Wesens, flattert Dein Verstand ängstlich um die dunklen Rituale, die es in das transformiert haben, was es jetzt ist. In der Tat ist der Nekromant ein lebloser Beweis für den schrecklichen Preis der magischen Kraft."
 
-   NecromancerTroop_dead_name_rsc = "dead necromancer"
+
+
+
+
+   NecromancerTroop_dead_name_rsc = "Ein toter Nekromant"
    NecromancerTroop_sound_aware = skl2_awr.wav
 
 classvars:
@@ -99,3 +99,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

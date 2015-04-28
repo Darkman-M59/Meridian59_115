@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsH7 = H7.roo
-   room_name_OutdoorsH7 ="Western border of the Twisted Wood"
-   OutdoorsH7_music = walk7.mid
+   room_name_OutdoorsH7 = "Die westliche Grenze des Dickichts"
+   OutdoorsH7_music = walk7.mp3
 
 classvars:
 
@@ -101,3 +101,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,13 +17,13 @@ constants:
 
 resources:
 
-   deadbody_desc_rsc = "This is a dead, decomposing %s, slain by %q."
+   deadbody_desc_rsc = "%s ist regungslos und verschwindet langsam. %q war der Mörder."
 
-   deadbody_player_desc_rsc = \
-      "The dead body of %q, decomposing quickly in the living air of Meridian."
+   deadbody_player_desc_rsc = "%q wurde getötet und der Körper beginnt sich schnell in der Luft von Meridian aufzulösen."
 
-   deadbody_assassinated_rsc = \
-      "Here lies %q, slain by an unknown assassin."
+
+   deadbody_assassinated_rsc = "%q liegt hier, erschlagen von einem unbekannten Meuchelmörder."
+
 
 classvars:
 
@@ -265,3 +265,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

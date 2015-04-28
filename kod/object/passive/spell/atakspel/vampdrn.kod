@@ -19,13 +19,13 @@ constants:
 
 resources:
 
-   VampiricDrain_name_rsc = "vampiric drain"
+   VampiricDrain_name_rsc = "Vampirischer Griff"
    VampiricDrain_icon_rsc = ivamptou.bgf
-   VampiricDrain_desc_rsc = \
-      "Draws out the very life force of the target and converts the energy into "
-      "life for the caster.  Reagents unknown."
+   VampiricDrain_desc_rsc = "Zieht die Lebenskraft aus dem Opfer und verwandelt sie in Lebensenergie für den Zaubernden. Die Zutaten sind unbekannt."
 
-   VampiricDrain_death = "You drain the last bit of %s%s's life force."
+
+
+   VampiricDrain_death = "Du trinkst das letzte bisschen aus %s%ss Lebenskraft."
 
    VampiricDrain_sound = qvtouch.wav
 
@@ -103,3 +103,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

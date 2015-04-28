@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   barloque_merch_name_rsc = "Herbutte"
+   barloque_merch_name_rsc = "Herbut"
    barloque_merch_icon_rsc = bqmerch.bgf
-   barloque_merch_desc_rsc = \
-   "Fancying himself a connoisseur of the finer things, Herbutte is little more than a old "
-      "school aristocratic snob.  Within him is a dark streak of contempt for nearly all save "
-      "royalty.  He will never run out of bad things to say about the other towns and the low "
-      "life transients that wander between them."
+   barloque_merch_desc_rsc = "Sich für einen Kenner der feinen Lebensart haltend, ist Herbut doch nicht mehr als ein Snob alter Schule. Er verachtet fast alles bis auf das Königliche. Ihm wird niemals der Gesprächsstoff über die negativen Seiten der anderen Städte und über das einfache Leben der Reisenden zwischen ihnen ausgehen."
 
-   Bqmerch_unwanted_give = "~k%s%s tells you, \"Wherefore dost thou offer to me such common baubles?!  I have servants who go to market to buy such things for me.~n~k\""
+
+
+
+
+   Bqmerch_unwanted_give = "~k%s%s sagt zu Dir, \"Warum bietet Ihr mir solch gewöhnlichen Tand an?! Ich habe Diener, die zum Markt gehen, um mir solche Sachen zu besorgen.~n~k\""
 
 classvars:
    vrName = barloque_merch_name_rsc
@@ -139,3 +139,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,8 +16,8 @@ constants:
 
 resources:
 
-   orctorch_name = "orc torch"
-   orctorch_desc = "This offers an ominous, eerie glow."
+   orctorch_name = "Die Ork-Fackel"
+   orctorch_desc = "Dies verbreitet ein unheimliches Glühen."
    orctorch_icon = orcfire.bgf
 
 classvars:
@@ -45,3 +45,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

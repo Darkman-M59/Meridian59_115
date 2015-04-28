@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OldJasper = "Historic Jasper"
+   room_name_OldJasper = "Das historische Jasper"
    room_OldJasper = ojas.roo
-   OldJasper_music = city03.mid
+   OldJasper_music = city03.mp3
 
 classvars:
 
@@ -63,3 +63,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

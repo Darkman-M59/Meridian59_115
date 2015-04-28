@@ -20,13 +20,13 @@ constants:
 
 resources:
 
-   agilboon_name_rsc = "agility effect"
+   agilboon_name_rsc = "Gewandtheit"
    agilboon_icon_rsc = iboonagi.bgf
-   agilboon_desc_rsc = "Your physical agility is not natural."
-   agilboon_intro_rsc = "The agility of the victim is boosted temporarily."
+   agilboon_desc_rsc = "Deine körperliche Beweglichkeit ist nicht normal."
+   agilboon_intro_rsc = "Die Beweglichkeit des Betroffenen wird vorübergehend deutlich gesteigert."
 
-   agilboon_inc = "You suddenly feel much quicker!"
-   agilboon_dec = "You suddenly feel more sluggish."
+   agilboon_inc = "Plötzlich fühlst Du Dich viel wendiger!"
+   agilboon_dec = "Plötzlich fühlst Du Dich wie gebremst."
 
 classvars:
    viPersonal_ench = True
@@ -64,3 +64,4 @@ messages:
    }
 
 end
+

@@ -17,8 +17,8 @@ constants:
 resources:
 
    Rose_icon_rsc = rose.bgf
-   rose_name_rsc = "rose"
-   rose_desc_rsc = "This is a simple, yet elegant and delicate, rose."
+   rose_name_rsc = "Die Rose"
+   rose_desc_rsc = "Dies ist eine einfache, doch elegante und zarte Rose."
 
 classvars:
    
@@ -38,4 +38,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -68,16 +68,16 @@ constants:
 resources:
 
    room_SewerKingLair = sewking.roo
-   room_name_SewerKingLair = "The Ancient Smuggler's Crossing"
+   room_name_SewerKingLair = "Die uralte Schmuggler-Kreuzung"
 
-   SewerKingLair_music = cave.mid
+   SewerKingLair_music = cave.mp3
    SewerKingLair_door_sound = down2.wav
    SewerKingLair_water_sound = wfall2.wav
    SewerKingLair_drowning_sound = ouchf2.wav
 
-   SewerKingLair_lever_desc = "This lever is caked with years' worth of accumulated rust and slime."
-   SewerKingLair_drowning = "You gasp for breath in the last half-inch of air left near the ceiling, "
-                           "taking as much water as air into your lungs."
+   SewerKingLair_lever_desc = "Dieser Hebel ist mit Rost und Schleim bedeckt und seit Jahren nicht abgewischt worden."
+   SewerKingLair_drowning = "Du ringst in den letzten Millimetern Luft nahe der Decke nach Atem und saugst dabei ebenso viel Wasser wie Luft in Deine Lungen."
+
 
 %   sewking_bones_name = "pile of bones"
 %   sewking_bones_icon = skelX.bgf
@@ -475,3 +475,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

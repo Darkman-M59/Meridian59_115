@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   ghostItem_name_rsc = "illusionary item"
+   ghostItem_name_rsc = "Das illusionäre Bild"
    ghostItem_icon_rsc = music.bgf
-   ghostItem_desc_rsc = \
-      "An insubstantial image sits on the ground, unable to be picked up.  "
-      "The illusion appears to be "
+   ghostItem_desc_rsc = "Ein nicht greifbares Abbild hängt in der Luft und kann trotz aller Mühen nicht berührt oder gar aufgenommen werden. Die schimmernde Erscheinung sieht aus wie "
+
+
 
 classvars:  
 
@@ -80,4 +80,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   OfferingKraanan_name_rsc = "sweat of the warrior king"
+   OfferingKraanan_name_rsc = "Der Schweiß des Kriegskönigs"
    OfferingKraanan_icon_rsc = sweat.bgf
-   OfferingKraanan_desc_rsc = "This bottle of liquid holds some ominous purpose you can only guess at."
+   OfferingKraanan_desc_rsc = "Diese Flasche mit Flüssigkeit hat eine ominöse Wirkung, die du nur erraten kannst."
 
 classvars:         
 
@@ -37,4 +37,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

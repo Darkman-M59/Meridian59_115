@@ -24,9 +24,9 @@ constants:
 
 resources:
 
-   room_name_canyons2 = "Martyr's Battleground"
+   room_name_canyons2 = "Schlachtfeld der Märtyrer"
    room_canyons2 = canyons2.roo
-   canyon2_music = walk1.mid
+   canyon2_music = walk1.mp3
 
    canyon2_portal_icon_rsc = teleport.bgf
 
@@ -187,3 +187,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

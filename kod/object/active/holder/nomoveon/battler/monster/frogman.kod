@@ -20,12 +20,12 @@ constants:
 resources:
 
    frogman_koc_name_rsc = "yozotz"
-   frogman_name_rsc = "frogman"
+   frogman_name_rsc = "Der Froschmensch"
    frogman_icon_rsc = frogman.bgf
-   frogman_desc_rsc = "This is a frogman, a gentle race of amphibioids. They are known for their hatred of those who follow the evil path."
+   frogman_desc_rsc = "Dies ist ein Froschmensch, eine freundliche Rasse von Amphibien. Sie sind bekannt für ihren Haß auf jene, die den Weg des Bösen gehen."
 
    frogman_dead_icon_rsc = frogmanX.bgf
-   frogman_dead_name_rsc = "dead frogman"
+   frogman_dead_name_rsc = "Ein toter Froschmensch"
 
    frogman_sound_hit = frg_atkh.wav
    frogman_sound_miss = frg_atkm.wav
@@ -134,3 +134,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

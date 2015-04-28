@@ -17,8 +17,8 @@ constants:
 resources:
 
    stool_icon_rsc = stool.bgf
-   stool_name_rsc = "stool"
-   stool_desc_rsc = "This stool is wobbly and heavily marred from years of use."
+   stool_name_rsc = "Der Hocker"
+   stool_desc_rsc = "Dieser Hocker ist wackelig und schwer beschädigt von langen Jahren der Benutzung."
 
 classvars:
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

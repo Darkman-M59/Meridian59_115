@@ -35,14 +35,14 @@ constants:
 
 resources:
 
-   minigame_name_rsc = "game board"
+   minigame_name_rsc = "Das Schachbrett"
    minigame_icon_rsc = marblplr.bgf
-   minigame_desc_rsc = "A game."
+   minigame_desc_rsc = "Das Spiel"
    minigame_module_rsc = chess.dll
 
-   minigame_not_playing = "You're not even playing this game!"
-   minigame_game_full   = "The game is full; you are an observer."
-   minigame_cant_pickup = "Only players can pick up a game in progress."
+   minigame_not_playing = "Du bist an diesem Spiel nicht beteiligt!"
+   minigame_game_full = "Das Spiel ist bereits voll. Du bist nur Zuschauer."
+   minigame_cant_pickup = "Nur Spieler können in ein laufendes Spiel eingreifen."
 
    % Initial state of game, before anyone has moved
    minigame_default_state = ""
@@ -407,3 +407,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

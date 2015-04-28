@@ -17,18 +17,18 @@ constants:
 
 resources:
 
-   manafocus_name_rsc = "mana focus"
+   manafocus_name_rsc = "Konzentration"
    manafocus_icon_rsc = imanafoc.bgf
-   manafocus_desc_rsc = \
-      "Focuses your magical energy, "
-      "regenerating your mana at an accelerated rate and "
-      "increasing the damage of natural elemental attack spells. "
-      "Dissipates if your concentration is broken.  "
-      "Requires mushrooms to cast."
+   manafocus_desc_rsc = "Bündelt Deine magische Energie, den Schaden von Element-Angriffszaubern erhöhend. Verschwindet, sobald die Konzentration unterbrochen wird. Der Zauber benötigt Pilze."
 
-   manafocus_on = "You feel newly focused magic raging through your body."
-   manafocus_break_trance = "You have lost your mana focus."
-   manafocus_already_enchanted = "You already have %s%s."
+
+
+
+
+
+   manafocus_on = "Du fühlst, wie die magische Energie in Deinem Körper brennt."
+   manafocus_break_trance = "Du hast Deine Konzentration verloren."
+   manafocus_already_enchanted = "Du hast den %s%ss-Zauber bereits ausgeführt."
 
 classvars:
 
@@ -134,3 +134,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

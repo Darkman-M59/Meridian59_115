@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   ProfaneResonance_name_rsc = "profane resonance"
+   ProfaneResonance_name_rsc = "Sha-Lill bannen"
    ProfaneResonance_icon_rsc = iprofres.bgf
-   ProfaneResonance_desc_rsc = \
-      "The foreboding sound of this song hinders the casting the holy spells of Shal'ille.  "
-      "A ruby and some herbs are required to begin performing this song."
+   ProfaneResonance_desc_rsc = "Der dunkle, drohende Klang dieses Liedes behindert die Magie Sha-Lills. Benötigt Rubine und Kräuter. "
 
-   ProfaneResonance_song = nec02.mid
+
+
+   ProfaneResonance_song = nec02.mp3
  
 classvars:
 
@@ -61,3 +61,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

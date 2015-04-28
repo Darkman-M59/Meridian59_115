@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   MysteryWand_name_rsc = "mysterious wand"
+   MysteryWand_name_rsc = "Mysteriöser Stab"
    MysteryWand_icon_rsc = joltstaf.bgf
-   MysteryWand_desc_rsc = \
-      "This is an odd looking wand of a type you have never seen before.  It doesn't look very "
-      "reliable to you."
+   MysteryWand_desc_rsc = "Dies ist ein seltsam aussehender Stab, wie Du ihn noch nie zuvor gesehen hast. Er macht keinen sehr zuverlässigen Eindruck auf Dich."
+
+
 
 classvars:
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

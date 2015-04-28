@@ -17,8 +17,8 @@ constants:
 resources:
 
    Pillow_icon_rsc = roompilo.bgf
-   Pillow_name_rsc = "goosefeather pillow"
-   Pillow_desc_rsc = "This soft, enveloping pillow looks mighty inviting."
+   Pillow_name_rsc = "Das Kopfkissen"
+   Pillow_desc_rsc = "Dieses leicht hervorstehende Kissen sieht sehr einladend aus."
    
 classvars:
 
@@ -48,3 +48,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

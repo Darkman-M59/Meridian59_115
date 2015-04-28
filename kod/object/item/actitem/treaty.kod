@@ -18,17 +18,17 @@ constants:
 
 resources:
 
-   treaty_name_rsc = "treaty"
+   treaty_name_rsc = "Der Vertrag"
    treaty_icon_rsc = light.bgf
 
-   treaty_desc_rsc = "This treaty will create an alliance between %s%s and %s%s."
+   treaty_desc_rsc = "Dieser Vertrag besiegelt ein Bündnis zwischen %s%s und %s%s."
 
-   treaty_cant_ditch = "You may not discard this treaty."
+   treaty_cant_ditch = "Diesen Vertrag kannst Du nicht lösen."
 
-   treaty_expires = "Your treaty with %s%s has expired."
-   treaty_vanishes = "The treaty with %s%s vanishes in a puff of smoke!"
+   treaty_expires = "Dein Vertrag mit %s%s ist abgelaufen."
+   treaty_vanishes = "Der Vertrag mit %s%s löst sich schlagartig in Rauch auf!"
 
-   treaty_fell_apart = "Your attempts to forge an alliance with %s%s have fallen apart."
+   treaty_fell_apart = "Deine Anstrengungen, eine Allianz mit %s%s einzugehen, erweisen sich als wirkungslos."
 
 classvars:
 
@@ -182,4 +182,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

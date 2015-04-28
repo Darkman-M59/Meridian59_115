@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   majorheal_name_rsc = "major heal"
+   majorheal_name_rsc = "Größere Heilung"
    majorheal_icon_rsc = imajheal.bgf
-   majorheal_desc_rsc = \
-      "The compassionate power of Shal'ille heals severe "
-      "wounds in the caster or another player.  Casting this powerful magic "
-      "on evil souls will reduce your own karmic standing.  "
-      "Requires herbs to cast."
+   majorheal_desc_rsc = "Die mitfühlende Kraft Sha-Lills heilt ernstere Wunden bei dem Anwender selbst oder bei einem anderen Spieler. Wenn Du diesen mächtigen Zauber auf missratene Seelen anwendest, reduzierst Du damit Dein eigenes Karma-Niveau. Dazu braucht man Kräuter."
 
-   majorheal_cast_rsc = "You are amazed to see your wounds close up and begin to heal, as if by magic."
-   majorheal_cast_on_other = "You heal %s%s."
-   majorheal_unnecessary_rsc = "%s%s is perfectly healthy."
+
+
+
+
+   majorheal_cast_rsc = "Du bist erstaunt, als Du siehst, wie Deine Wunden sich scheinbar auf magische Weise schließen und verheilen."
+   majorheal_cast_on_other = "Du heilst %s%s."
+   majorheal_unnecessary_rsc = "%s%s ist vollkommen gesund."
 
 
 classvars:
@@ -121,3 +121,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

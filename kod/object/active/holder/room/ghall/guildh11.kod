@@ -22,7 +22,7 @@ constants:
 
 resources:
 
-   room_name_guildh11 = "The home of the Friends of the Forest"
+   room_name_guildh11 = "Versteck der Waldläufer"
    room_guildh11 = guildh11.roo
 
    guildh11_forest_sound = ambcntry.wav
@@ -221,3 +221,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,133 +16,133 @@ constants:
 
 resources:
 
-   room_name_tosapoth = "Frisconar's Mysticals"
+   room_name_tosapoth = "Frisconars Kräuterladen"
    room_tosapoth = tosapoth.roo
-   tosapoth_music = song02.mid
+   tosapoth_music = song02.mp3
 
-   tosapoth_book_name = "The Legacy of Konima"
-   tosapoth_book_text = \
-      "Chapter 1: Waves of Blood\n"
-      "\n"
-      "\n"
-           "   And so they came.\n"
-      "\n"
-           "   At first a trickle, and then a flood.  Waves upon waves of them, in an orgy "
-      "of never-ending bloodthirst, they conquered with ease, plundering with malice "
-      "and burning everything left behind them with subhuman glee.  The Twisted Wood, "
-      "once merely a wary place to tread, became a deathtrap overnight as the "
-      "encroaching Orc armies crept closer to the walls of Tos, until the evil ilk set "
-      "up their moth-ridden tents within kissing distance the gates themselves, in a "
-      "shameless mockery of civilized man.\n"
-           "   Our men fought with valor, with desperation and with their backs to the "
-      "city walls, and the masonry was deeply stained with the blood of orc and man.  "
-      "Finally, our generals realized that we had barely enough men left to man the "
-      "walls, and the retreat was sounded.  We ran for the city gates like craven dogs.  "
-      "I was the last one in.  I watched in horror, as we closed the gates on the "
-      "stragglers.  Their fates were sealed, but at least most of them had the "
-      "satisfaction of a quick and painless death.  Those of us inside were not so lucky.\n"
-      "\n"
-      "¶"
-      "Chapter 2: the Siege of Tos\n"
-      "\n"
-      "   Tos is the oldest of the great cities, formed by settlers weary of the barbarity "
-      "that ruled the land before we were blessed with civilization.  Since the enemy of "
-      "man was other men, our ancestors chose a place that was defensible to the north, in "
-      "hopes that the Badlands to our north would thwart our enemies.  Not twenty years "
-      "ago, we proved these defenses were still strong, when we used magic to make the "
-      "canyon walls collapse on our Barloqian enemies.  Hundreds died.\n"
-      "   Now that we faced a threat from the south, though, this advantage was turned "
-      "against us.  The other great cities had heard of our plight, and sent aid, from "
-      "Jasper, from Cor Noth, even from our mistrustful brothers of Barloque.  But the "
-      "orcs had the city of Tos surrounded, and were quick to move a contingent north, "
-      "where they defended the border of the badlands by hurling rocks from the canyon "
-      "walls.\n"
-      "  Meanwhile, in the city walls, we found ourselves on the losing end of the waiting "
-      "game.  Once the orcs had forced our armies into the city walls, they blockaded "
-      "the gates, and seemed quite willing to sit outside until the time was proper.  "
-      "Inside, we had nothing better to do, but to tend the wounded, weep, pray, and die.  "
-      "Mostly, we died.\n"
-      "¶"
-      "   Water was the first thing to go.  Tos was not built near a river - it gets its "
-      "water from deep wells fed from mountain streams.  The orcs found those streams, "
-      "and poisoned them with rotting flesh. We found out when our children died.\n" 
-      "   Then the plague came.  Orcs don't believe in burying their dead on the "
-      "battlefield when they die, much less ours.  And so the smell, and the disease that "
-      "came with it, piled over the city walls.  We realized this was happening when our "
-      "wives and elders died.\n"
-      "   We were sick, tired, grieving, and one shade away from death.  Several times, "
-      "we spoke of surrender, and we would have, too, if we weren't so absolutely certain "
-      "that they would have killed us all.\n"
-      "\n"
-      "¶"
-      "Chapter 3: Konima's Return\n"
-      "\n"
-      "   On the third night of the seventh week, in the middle of the night, an explosion, "
-      "followed by an earthquake rocked the town of Tos.  I sat up, certain it was the "
-      "orc's final offensive, somewhat thankful that the end was finally here, when a "
-      "child ran up to where we were sleeping, and shouted, \"It's him! It's him!\"\n"
-      "\n"
-      "   And so it was.\n"
-      "\n"
-      "   From the city walls, we watched, as our saviors, a band of no more than twenty "
-      "men, took on the orcish army who had been taken mostly by surprise.  And our "
-      "saviors brought with them the sword of vengeance, the magics of the Gods, and an "
-      "unrestrained fierceness.  Bursts of flame leapt across the sky, leaving ashes where "
-      "whole squads of orcish armies had once been.  The sun mysteriously shone at the "
-      "pitch of night, and the orcs seemed to wither before its purity.  The earth opened "
-      "up, and swallowed the tent of the orcish leaders whole.\n"
-      "\n"
-      "   But the most incredible thing on the field was him.  Him!\n"
-      "\n"
-      "¶"
-      "   I had never met Konima.  I was a mere lad when he had left his homeland of Tos "
-      "on his great pilgrimage, and yet, there was still no doubting that this was Konima.  "
-      "He waded through the orcish hordes, standing a head above the tallest of them, an "
-      "ebon blade in each hand that seemed to strike effortlessly through anything that "
-      "stood in their way.  He was magnificent.\n"
-      "   And we, those of us in Tos, were inspired.  So inspired that we, starving, "
-      "thirsting, weary, sick and hopeless, somehow found the strength to pick up our "
-      "swords and rush outside and press the attack from another flank.  In retrospect, "
-      "it was a horribly foolhardy thing to do, seeing as is Konima had the task well in "
-      "hand, but at this point the orcs were in full retreat.  Furthermore, the main "
-      "force had retreated to the south, leaving an auxiliary force to the north - we "
-      "could take them from behind, and we could once again get fresh supplies through "
-      "the badlands from the rest of the world.  Tos was saved.\n"
-      "   We cheered, we clapped each other's heads, and we embraced our saviors, each "
-      "other, even the trees, and the green foliage of which we thought we'd never seen "
-      "again.  But Konima wasn't smiling, on this, the day of his greatest victory.\n"
-      "   He raised his hand, and we all were quiet.  And then he spoke.  He said, "
-      "\"Those orcs didn't just appear.  They had to come from someplace.  We have to "
-      "find out where.\"\n"
-      "¶"
-      "Chapter 4: Sacrifice\n"
-      "\n"
-      "   The next night, Konima took back the northern pass.  He didn't kill them all, "
-      "though.  He let them escape to the south, and then he followed them.  We watched "
-      "him go by as we buried the dead on the battlefield.  I didn't expect to see him "
-      "again, not for months, perhaps ever.  But he came back the next night.  He got all "
-      "of us from Tos together in the Town Square, and he said, \"I want you to bury me "
-      "alive.\"\n"
-      "   He led us to where the orcs had led him - to a cave on the eastern rim of the "   
-      "Twisted Wood, where I had played often as a child.  He said, \"There is a gate in "
-      "there - a doorway into the depths that was somehow opened.  We must close it.\"  He "
-      "paused, and then he said, \"but first, I must go in.\"\n"
-      "   He was certain that the brunt of the orcish army was within, and that it was "
-      "now reinforcing itself.  \"We can close the gate, but then they will merely open "
-      "it again.  My comrades and I must strike in the heart of the orcish warrens.  You "
-      "must seal the door, in case we fail.\"\n"
-      "   I said, \"but we can't bury you alive!\"  He smiled, and said, \"Tos is my "
-      "homeland, nothing is nearer to my heart.  If Tos falls, I am not truly alive "
-      "anymore.\"  And then he threw me a wink, and said, \"besides, do you think a mere "
-      "wall of rock can keep my sorcerers out?\"\n"
-      "\n"
-      "¶"
-      "   And so he gathered the strongest men and women he had. Jeremiah of Cor Noth. "
-      "Shal'ille's High Priestess Marianna. Raph Korsten. Melissa Ravenblade. Garron "
-      "Damodred.  Even old man Froz himself stumbled into the darkness.  And, ever "
-      "dutifully, a mage mystically closed and warded the gates behind them.  There was "
-      "weeping, there were best wishes, there were fervent prayers to Shal'ille.\n"
-      "   All of which must have gone unheard, because we never saw any of them again."
+   tosapoth_book_name = "Das Vermächtnis von Konima"
+   tosapoth_book_text = "Kapitel 1: Wogen von Blut\n\n\n  Und so kamen sie.\n\n  Zuerst nur ein Sprühen, dann eine ganze Flut. Wogen um Wogen, in einer Orgie unendlichen Blutdurstes eroberten sie ohne Mühe, plünderten sie voller Bosheit und brannten alles, was sie hinterließen, nieder mit einem unmenschlichen Leuchten in den Augen. Das Dickicht, einst nur ein zu meidender Ort, ward über Nacht zur Todesfalle geworden, als die Ork-Armeen immer näher an die Mauern von Tos herankamen und schließlich ihre mottenzerfressenen Zelte fast schon neben den Toren der Stadt errichteten und schamlos aller Zivilisation spotteten.\n  Unsere Männer kämpften tapfer, verzweifelt und mit den Rücken an der Stadtmauer und das Mauerwerk war bald getränkt vom Blute der Orks und Männer. Unsere Generäle mußten einsehen, dass sie kaum noch genügend Männer hatten, um die Wände zu halten, und bliesen zum Rückzug. Wir liefen zu den Toren der Stadt wie tollwütige Hunde. Ich rannte als Letzter hinein. Ich sah mit Grauen zu, als wir das Tor vor den Nachzüglern schlossen.¶Ihnen war der Tod gewiß, doch immerhin hatten die meisten von ihnen das Glück, schnell und schmerzlos zu Tode zu kommen. Wir im Inneren der Stadt hatten dieses Glück nicht.\n\n¶Kapitel 2: Die Belagerung von Tos\n\n  Tos ist die älteste der großen Städte, gegründet von Siedlern, die der Barbarei überdrüssig waren, die im Land herrschte, bevor wir mit der Zivilisation gesegnet wurden. Da der Feind des Menschen andere Menschen sind, wählten unsere Vorfahren einen Ort, der nach Norden verteidigt werden konnte - in der Hoffnung, dass das Ödland im Norden unseren Feinden einen Strich durch die Rechnung machen würde. Vor nur 20 Jahren bewiesen wir, dass unsere Verteidigung noch immer stark war, als wir Magie nutzten, um die Wände der Schlucht auf die Barloque-Armee stürzen zu lassen. Hunderte starben.\n  Nun, da wir vom Süden her bedroht werden, hat sich unser einstiger Vorteil gegen uns gewendet. Die anderen Städte hatten von unserer Not gehört und Hilfe geschickt: Jasper, Cor Noth und selbst unsere mißtrauischen Brüder aus Barloque.¶Doch die Orks hatten Tos vollständig umzingelt und sandten schnell eine Division nach Norden, wo sie die Grenze des Ödlands verteidigten, indem sie Felsen von den Rändern der Schlucht warfen.\nWährenddessen waren wir im Inneren der Stadt die klaren Verlierer des Wartespiels. Gleich nachdem die Orks unsere Armeen in die Stadt zurückgedrängt hatten, verbarrikadierten sie die Tore - und es schien, als wären sie willens, zu sitzen und zu warten, bis die Zeit reif war. Wir drinnen hatten nichts Besseres zu tun, als unsere Wunden zu versorgen, zu klagen, beten und zu sterben. Die meisten von uns starben.\n¶  Zuerst gab es kein Wasser mehr. In der Nähe von Tos gab es keinen Fluß - das Wasser kommt aus tiefen Brunnen, die von Bergströmen gespeist werden. Die Orks fanden diese Ströme und vergifteten sie mit verrottendem Fleisch. Das wurde uns klar, als unsere Kinder starben.\n  Dann kam die Seuche. Orks begraben ihre Toten auf dem Schlachtfeld nicht und noch viel weniger die unseren.¶Und so kamen der Gestank und die Seuche in die Stadt. Uns war klar, was passieren würde. Nach und nach starben unsere Alten und unsere Frauen.\n  Wir waren krank, müde, siechend und nur einen Tag vom Tode entfernt. Mehrere Male sprachen wir von Aufgabe und wir hätten es getan, wären wir nicht sicher gewesen, dass sie uns alle getötet hätten.\n\n¶Kapitel 3: Konimas Rückkehr\n\n  In der dritten Nacht der siebten Woche schüttelten eine schwere Explosion und ein Beben der Erde Tos durch. Ich stand auf, sicher, dass es die letzte Offensive der Orks war. Ich war dankbar, dass es nun zu Ende ging, als ein Kind auf unsere Schlafstätte zurannte und rief, \"Er kommt! Er ist es!\"\n\n  Und so war es.\n\n  Von den Stadtmauern aus sahen wir zu, wie eine Gruppe von nicht mehr als zwanzig Mann es mit der Ork-Armee aufnahm, die völlig überrascht war. Unsere Retter kämpften mit dem Schwert der Vergeltung, der Magie der Götter und einer unglaublichen Tapferkeit und Wildheit. Flammensäulen stoben in den Himmel und nur Asche blieb, wo zuvor ganze Geschwader von Orks standen. Die Sonne schien strahlend hell mitten in der Nacht und die Orks schienen in ihrer Reinheit zu verrotten. Die Erde tat sich auf und verschlang das Zelt der Anführer der Orks.\n\n  Was daran aber das Unglaublichste war, das war... ER!\n\n¶  Ich hatte Konima nie getroffen. Ich war ein Kind, als er seine Heimatstadt Tos verließ, um seine Wallfahrt anzutreten, und doch gab es keinen Zweifel daran, dass es Konima war. Er schritt duch die Ork-Horden, überragte deutlich selbst die Größten von ihnen, bewaffnet mit Ebenholz-Klingen, die ohne Mühe alles durchtrennten, was in ihrem Weg war. Er war unglaublich.\n  Und wir, die wir in Tos saßen, wurden mitgerissen. So sehr, dass wir, dem Hungertod nahe, verdurstend, müde, krank und bis vor wenigen Minuten verzweifelt, die Kraft fanden, unsere Schwerter zu packen und zum Angriff übergingen, um eine weitere Flanke von ihnen anzugreifen.¶Es war irrwitzig, besonders, da Konima die Lage vollständig in der Hand hatte, doch zu dem Zeitpunkt waren die Orks bereits auf der Flucht. Zudem hatte sich die Hauptarmee nach Süden zurückgezogen und eine zweite Gruppe im Norden zurückgelassen - wir konnten hinter sie gelangen, sie überraschen und von den anderen Städten frischen Proviant holen. Tos war gerettet.\n  Wir jubelten, fielen uns in die Arme, umarmten unsere Retter, alle, die noch am Leben waren, selbst die Bäume und Sträucher, die wir beinahe nie wiedergesehen hätten. Nur Konima lächelte noch nicht einmal, am Tage seines größten Sieges.\n  Er erhob die Hand, und alle waren still. Und dann sprach er zu uns. Er sagte, \"Die Orks sind nicht einfach so erschienen. Von irgendwo her müssen sie kommen. Diesen Ort müssen wir finden.\"\n\n¶Kapitel 4: Das Opfer\n\n  In der nächsten Nacht eroberte Konima den nördlichen Paß zurück. Er tötete sie nicht alle. Einige ließ er nach Süden entkommen und folgte ihnen. Wir sahen ihm nach, während wir unsere Toten begruben.¶Ich nahm an, dass ich ihn erst Monate später, vielleicht nie, wiedersehen würde. Doch in der nächsten Nacht war er zurück. Er holte alle aus Tos auf dem Marktplatz zusammen und sagte, \"Ich möchte, dass Ihr mich lebendig begrabt.\"\n  Er führte uns zu dem Ort, zu dem er den Orks gefolgt war - zu einer Höhle am östlichen Ausläufer des Dickichts, wo ich als Kind oft gespielt hatte. Er sprach, \"Dort drinnen ist ein Tor - ein Übergang in die Tiefe, der irgendwie geöffnet wurde. Wir müssen ihn schließen.\"Er hielt inne, dann sagte er, \"Doch zuerst muss ich hinein.\"\n  Er war sicher, dass der größte Teil der Ork-Armee dort drinnen war und dass sie sich verstärkte und erneut rüstete. \"Wir können das Tor schließen, aber dann werden sie es einfach wieder öffnen. Meine Kameraden und ich müssen im Herzen der Orkhöhlen angreifen. Ihr müßt den Eingang versiegeln, für den Fall, dass wir scheitern.\"\n  Ich fragte, \"Doch wie können wir das tun?\" Er lächelte und sagte, \"Tos ist meine Heimat, nichts ist meinem Herzen näher. Wenn Tos fällt, lebe ich nicht mehr wirklich.\"¶Er zwinkerte mir zu und sagte, \"Und Du glaubst doch nicht, dass einfache Felsen meine Zauberer und mich halten können?\"\n\n¶  Und so versammelte er seine stärksten Männer und Frauen. Jeremiah aus Cor Noth. Sha-Lill's Hohepriesterin Marianna. Raph Korsten. Melissa Ravenblade. Garron Damodred. Selbst der alte Froz schritt in die Dunkelheit hinein. Als sie im Dunkel verschwunden waren, versiegelte ein Magier das Tor. Es gab Wehklagen, Segnungen und fieberhafte Gebete zu Sha-Lill.\n  Das alles muss auf taube Ohren gestoßen sein, denn wir haben sie nie wiedergesehen."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -230,3 +230,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

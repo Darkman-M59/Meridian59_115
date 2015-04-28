@@ -16,7 +16,7 @@ constants:
 
 resources:
 
-   room_name_newb4 = "Ravi's Magicks of Raza"
+   room_name_newb4 = "Ravins Zaubersachen von Raza"
 
 classvars:
 
@@ -54,3 +54,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

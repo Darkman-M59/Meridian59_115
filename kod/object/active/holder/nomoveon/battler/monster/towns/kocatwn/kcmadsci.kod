@@ -17,9 +17,9 @@ resources:
 
    KocatanMadScientist_name_rsc = "Bahal zax'Ot"
    KocatanMadScientist_icon_rsc = kcmadsci.bgf
-   KocatanMadScientist_desc_rsc = "Leering at you as if you were a potential subject "
-      "for some twisted experiment, Bahal smiles and chortles to himself.  The moody "
-      "little man seems unnaturally obsessed with the horrific and the bizarre."
+   KocatanMadScientist_desc_rsc = "Auf Dich starrend, als ob Du ein mögliches Opfer für seine bizarren Experimente wärest, grinst Bahal und spricht zu sich selbst. Dieser launische kleine Mann scheint unnatürlich besessen zu sein von dem Entsetzlichen und Bizarren."
+
+
 
    %KocatanMadScientist_entry_welcome = ""
    
@@ -82,5 +82,6 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

@@ -18,13 +18,13 @@ constants:
 
 resources:
 
-   barloque_urchin_name_rsc = "urchin"
+   barloque_urchin_name_rsc = "Der Urlan"
    barloque_urchin_icon_rsc = urchin.bgf
-   barloque_urchin_desc_rsc = \
-   "This is a young, dirty urchin, living on the street, yet causing no trouble."
+   barloque_urchin_desc_rsc = "Dies ist ein junger, dreckiger Urlan, der auf der Straße lebt, aber bis jetzt noch keinen Ärger macht."
+
 
    barloque_urchin_dead_icon_rsc = urchinX.bgf
-   barloque_urchin_dead_name_rsc = "dead urchin"
+   barloque_urchin_dead_name_rsc = "Ein toter Urlan"
 
 classvars:
 
@@ -107,3 +107,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

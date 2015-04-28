@@ -20,21 +20,21 @@ constants:
 
 resources:
 
-   summonapparition_name_rsc = "apparition"
+   summonapparition_name_rsc = "Illusionsgeschöpf"
    summonapparition_icon_rsc = iapparit.bgf
-   summonapparition_desc_rsc = \
-      "Summons an illusory creature to attack your enemies.  "
-      "The creature does good damage, but is easily banished.  "
-      "Requires web moss and rainbow fern to cast."
+   summonapparition_desc_rsc = "Ruft ein illusionistisches Geschöpf, deine Feinde anzugreifen. Das Geschöpf fügt großen Schaden zu, kann jedoch leicht vertrieben werden. Für diesen Zauberspruch werden Moosnetze und Regenbogenfarne benötigt."
 
-   summonapparition_cast_rsc = \
-      "You smile as %s%s raises from the ground next to %s%s!"
-   summonapparition_failed_rsc = \
-      "There is already too much summoning magic focused here to summon an "
-      "apparition."
-   summonapparition_failed_inanimate = \
-      "%s%s has no mind to be tinkered with by your illusion magic."
-   apparition_fizzle = "Your apparition spell fizzles!"
+
+
+
+   summonapparition_cast_rsc = "Du lächelst, als %s%s sich neben %s%s vom Boden erhebt!"
+
+   summonapparition_failed_rsc = "Es ist bereits zuviel Magie gewirkt um hier ein Illusionsgeschöpf zu erschaffen."
+
+
+   summonapparition_failed_inanimate = "%s%s ist schlau genug, um sich nicht von Deiner Illusionsmagie täuschen zu lassen."
+
+   apparition_fizzle = "Dein Illusionsgeschöpf-Zauber schlägt fehl!"
 
    summonapparition_sound = rapparit.wav
 
@@ -247,3 +247,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

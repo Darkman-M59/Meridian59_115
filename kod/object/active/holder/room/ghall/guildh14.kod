@@ -57,73 +57,73 @@ constants:
 
 resources:
 
-   room_name_guildh14 = "The Bookmaker's Guild House"
+   room_name_guildh14 = "Das Gildenhaus der Buchmacher"
    room_guildh14 = guildh14.roo
 
-   guildh14_book_text1 = \
-      "\n"
-      "\n"
-      "   Let me get right to the point if I may.  Running a game house is no walk through the "
-      "King's Way.  I'm writing in this journal to let my next of kin, presumably you, know "
-      "the secrets that my predecessors have passed down to me.  Through the history of this house, "
-      "the Kings of the land have outlawed gambling, outlawed brew, outlawed, well … other aspects of "
-      "our business, just to be followed by a King who revokes all those banns.  Legal or not, you "
-      "have a responsibility to the people of the world to keep this joint going.  It's tradition.  "
-      "Don't make me come back as a ghost from my Jala willing final rest and put the spooks to you.  "
-      "To make it easier, I'll tell you how I ran things in my day.\n"
-      "\n"
-      "¶"
-      "   Here's how the operation works.  Open the doors to the public as much as you can, once "
-      "a day (so long as we got someone to watch the door and someone to back him up if there's "
-      "trouble).  We charge a flat 100 shillings at the door for anyone who wants to get in (Ladies "
-      "get in for 50 shillings).  Most everybody gets in except our enemies.  You want it to feel "
-      "like a public place, but don't take dumb risks by letting ten of your worst relations past "
-      "your door, maybe just one or two.  I put the word to the street when we're open.  Nobody wants "
-      "to stay if they're the only one here."
-      "¶"
-      "   Once they're in the door, encourage them to socialize, gamble, whatever they want.  We "
-      "usually buy drinks in bulk (or raid Blackstone's reserves), and charge 10 shillings a drink.  "
-      "One thing I can't stand is a messy room.  There are ways to get on top of every table, so I "
-      "make sure drinks, chessboards, and other things are not just dropped on the floor.  We've even "
-      "got a secret step up at the south side of the two big tables. Our biggest fear is someone "
-      "getting up here who's not supposed to.  Generally, we station a bouncer at the bottom of the "
-      "stairs, but we also modified the upstairs door so we could hear when someone was opening it."
-      "¶"
-      "   Aside from the brew and festive atmosphere, people come to be entertained.  So hire top "
-      "performers.  We had this one comedian named La Flame who could roast the royalty like never "
-      "been done before.  He was qordamned funny, well, until King Zarcos put the screws to him, "
-      "literally.  But the best crowd pleasers are the games.  We have two tables of dice set up, "
-      "one with two six sided and one with a single die.  All sorts of games can be played with "
-      "simple dice.  Craps, high roller, low roller, we just got creative.  We set the odds, we "
-      "decided whether they play against the house or just each other.  When the dancers aren't "
-      "using it, I like to have a chessboard or two set up on the marble top table, just to add "
-      "some class.  One of our bigger draws was a lottery.  Every one would put in 500 shillings "
-      "and get one number, then we would randomly pick a number and give the winner 3/4s of the pot."
-      "¶"  
-      "   The Bookmaker's House, a name that just stuck with us, has been open for three generations "
-      "previous to me.  We've made some serious shillings and we've also had some serious raids by "
-      "the Royal Guards.  But no matter what, we knew we were THE place to be.  If you're looking for "
-      "a boarded up base to hide your guild, rent the abandoned warehouse by the docks."
-      "¶"
-      "   To allow ourselves freedom in our business practices, my first official act was to give "
-      "extra 'incentive' to the property owner to avoid unnecessary run ins with the Royal Guard.  "
-      "In exchange, an arrangement was made where he gets a cut of the profits.  Later, we "
-      "renegotiated and to this day pay him a very generous rent.  It may seem excessive to you, but "
-      "once you get your doors open to the public, you can't help but make shillings."
-      "¶"
-      "   Now don't let anyone including me tell you how to run your joint.  I'll just tell you "
-      "this, if you keep this placed closed up from the public for too long, you will acquire a "
-      "lot of unnecessary enemies.  The public needs their nightclub.  Why, the guild hall property "
-      "owner has even threatened to resell the guildhall if we didn't keep her open enough.  That's "
-      "not an idle threat either, keep it running or you may lose it.\n\n"
-      "Lon'Gottelli\n\n"
-      "Guild Master 643 MY"
+   guildh14_book_text1 = "  Ich will gleich zum Punkt kommen. Ein Spielhaus zu betreiben ist kein Zuckerschlecken. Ich schreibe dieses Tagebuch, um meinen Nachfolger, vermutlich Dich, jene Geheimnisse zu lehren, die meine Vorgänger bereits mich gelehrt haben. In der Geschichte dieses Hauses haben die Könige das Spielen verboten, das Brauen verboten, ebenso wie ... nun, sagen wir einfach \"gewisse andere Teile\" unserer Geschäfte, nur damit der nächste König all diese Verbote wieder aufheben kann. Aber ob erlaubt oder nicht, Du hast die Verpflichtung den Völkern dieser Welt gegenüber, das Geschäft weiterzuführen. Aus Tradition. Aus Passion. Aus Hingabe. Wage es also nicht, dieses Etablissement verkommen und lassen. Um es Dir leichter zu machen, verate ich Dir nun, wie ich die Dinge stets gehandhabt habe und wie der Laden läuft.\n\n  Halte die Türen solange wie möglich geöffnet - jeden Tag (solange jemand aufpassen kann und wir jemanden haben, der ihm hilft, wenn es Ärger gibt). Der Eintritt kostet 100 Schillinge pro Kopf (Damen müssen nur 50 Schillinge bezahlen). Die meisten Leute dürfen herein, abgesehen von unseren Feinden. Es sollte alles wie ein öffentlicher Ort wirken, aber geh' besser keine Risiken ein, indem Du zehn Leute hereinläßt, die Dich nicht mögen - einen, vielleicht zwei. Ich habe auf der Straße herumerzählt, wann wir geöffnet haben. Niemand möchte hier alleine sein.¶  Sobald die Gäste im Hause sind, ermutige sie, sich zu unterhalten, zu spielen, was auch immer sie wollen. Wir kaufen Getränke in großen Mengen (oder klauen sie aus Schwarzsteins Reserve) und verlangen 10 Schillinge pro Getränk. Was ich persönlich überhaupt nicht ertrage, das ist Unordnung. Es gibt immer die Möglichkeit, Ordnung zu halten. Ich achte darauf, dass Getränke, Spielbretter und anderes nicht auf dem Boden herumliegen. Wir haben sogar eine Geheimtreppe südlich der beiden großen Tische. Diese Treppe sollte niemand, ich wiederhole NIEMAND betreten, der nicht unser Vertrauen geniesst. Gewöhnlich steht ein Rausschmeißer unten an der Treppe, doch wir haben auch die Tür oben bearbeitet, so dass man hört, wenn jemand sie öffnet.¶  Außer Trank und Geselligkeit suchen die Leute hier aber auch Unterhaltung. Verpflichte also Unterhalter. Wir hatten diesen Komiker namens \"Hollee\" im Programm, der die Edlen abkochte wie keiner vor ihm. Es war verdammt lustig, nun ja, bis König Zarcos ihn im wahrsten Sinne des Wortes hat nageln lassen. Doch am besten kommen die Spiele an. Wir haben zwei Würfeltische, einen mit zwei sechsseitigen und einen mit einem einzelnen Würfel. Mit Würfeln können alle Arten von Spielen gespielt werden. Wir sind da sehr kreativ. Wir bestimmen die Chancen, wir entscheiden, ob sie gegen das Haus oder gegeneinander spielen. Oder - wenn die Tänzer ihn nicht benutzen - stelle ich auch gern mal ein Schachbrett oder zwei auf den Marmortisch - nur um dem Laden etwas Klasse zu verleihen. Einer unserer größeren Würfe war eine Lotterie. Jeder setzt 500 Schillinge ein und erhält eine Nummer, dann wird eine Nummer zufällig gezogen und der Gewinner erhält drei Viertel der Einnahmen.¶  Das Buchmacher-Haus, der Name, der sich für uns eingebürgert hat, gibt es seit drei Generationen vor meiner. Wir haben eine Menge Geld verdient und und sind schon einige Male von den Königlichen Wachen hochgenommen worden. Aber was auch war, wir waren DER Ort für gute Unterhaltung. Wenn Du einen sicheren Ort für ein Gildentreffen suchst, miete das verlassene Zeughaus an den Docks.¶  Um uns die nötige Freiheit zum Ausüben unseres Gewerbes zu verschaffen, war meine erste Amtshandlung, unserem Vermieter eine 'Prämie' zu geben, um unnötige Besuche der Königlichen Wachen zu vermeiden. Im Gegenzug dafür erhält er einen Teil unserer Gewinne. Später haben wir neu verhandelt und ausgemacht, dass er eine sehr gute Miete bekommt. Die scheint zwar übertrieben, doch sobald Du Deine Türen öffnest, strömen die Schillinge nur so herein.¶  Und lasse Dir von niemanden erzählen, wie Du Deinen Laden zu leiten hast. Ich sage nur soviel: Wenn Du den Laden zu lange schließt, hast Du schnell eine Menge Feinde, wo keine sein müßten. Das Volk braucht eine Wirtschaft. Der Eigner der Gildenhalle hat sogar gedroht, die Gildenhalle zu verkaufen, wenn sie nicht oft genug geöffnet ist. Und das, mein Freund, sind gewiss keine leeren Drohungen. Also sieh zu, dass der Laden läuft, oder Du verlierst ihn.\n\nLon'Gottelli\n\nGildenmeister im 643. Meridianischen Jahr."
 
-   guildh14_book_name1 = "\"Log of Master Lon'Gottelli\"" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   guildh14_book_name1 = "\"Tagebuch von Meister Lon'Gottelli\""
 
 
    guildh14_alarm1 = splearn.wav
-   guildh14_music = forest.mid
+   guildh14_music = forest.mp3
 
    guildh14_entrancedoor_open_sound = doorrsup.wav
    guildh14_entrancedoor_close_sound = doordown.wav
@@ -619,3 +619,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

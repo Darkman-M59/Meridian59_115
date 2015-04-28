@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   bluemushroom_name_rsc = "blue mushroom"
+   bluemushroom_name_rsc = "Der Blaue Pilz"
    bluemushroom_icon_rsc = mushroom.bgf
-   bluemushroom_desc_rsc = \
-      "These magical mushrooms pulse with energy."
+   bluemushroom_desc_rsc = "Diese magischen Pilze pulsieren voller Energie."
 
-   bluemushroom_name_plural_rsc = "blue mushrooms"
+
+   bluemushroom_name_plural_rsc = "blaue Pilze"
 
 classvars:
 
@@ -51,3 +51,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

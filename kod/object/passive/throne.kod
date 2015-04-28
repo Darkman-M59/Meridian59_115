@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   throne_name_rsc = "throne"
+   throne_name_rsc = "Der Thron"
    throne_icon_rsc = throne.bgf
-   throne_desc_rsc = "This looks like a very uncomfortable place to sit, even if it means you get to boss people around."
+   throne_desc_rsc = "Es hat den Anschein, dass es sich hier um einen sehr unbequemen Sitzplatz handelt, auch wenn man von hier aus Leute herumkommandieren kann."
 
 classvars:
 
@@ -44,3 +44,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -30,55 +30,55 @@ constants:
 
 resources:
 
-   HunterSword_name_rsc = "Sword of the Hunt"
+   HunterSword_name_rsc = "Das Jagdschwert"
    HunterSword_icon_rsc = huntswrd.bgf
-   HunterSword_desc_rsc = \
-      "This weapon is truly a fine piece of workmanship.  Intricate organic carvings "
-      "intertwine along the hilt, enclosing an exquisitely beautiful gem, almost as "
-      "if it were an eye gazing calmly back at you.  Indeed, every now and then out "
-      "of the corner of your eye you almost catch it blinking."
+   HunterSword_desc_rsc = "Diese Waffe wurde mit allergrößter Handwerkskunst geschmiedet. Der Griff ist mit verschlungen Ornamenten verziert,die einen wertvollen Edelstein einschließen. Dieser Stein scheint Dich wie ein Auge auf allen Deinen Wegen zu beobachten.Ab und zu wirst Du aus den Augenwinkeln sogar ein kleines Zwinkern sehen können."
+
+
+
+
 
    HunterSword_window_overlay_rsc = povhunts.bgf
    HunterSword_player_overlay = huntswov.bgf
 
 
-   HunterSword_holding_damage = \
-      "As you pick up the Sword of the Hunt, the carven tendrils on the hilt ~Ibite~I "
-      "your hand!  Taken aback, you fling it to the ground.  That sword does not like "
-      "you;  you'd best leave it alone."
-   HunterSword_holding_damage_using = \
-      "The Sword of the Hunt's roots writhe painfully inside your chest with "
-      "displeasure.  You have done something to invoke the Sword's disapproval!"
+   HunterSword_holding_damage = "Als Du versuchst das Jagdschwert aufzuheben, ~Ibeißt~I Dich die Schnitzerei im Griff in die Hand. Erstaunt wirfst Du das Jagdschwert wieder auf den Boden. Das Schwert scheint Dich nicht zu mögen. Am besten läßt du es liegen."
+
+
+
+   HunterSword_holding_damage_using = "Das Jagdschwert verursacht in Deiner Brust ein großes Gefühl von Verdruß. Du hast irgendetwas getan, was das Schwert nicht billigen kann."
+
+
    
-   HunterSword_warning = \
-      "You prepare to pick up the mighty Sword of the Hunt, but it twitches and you "
-      "hesitate for a moment.  This sword appears to be alive, and it may not allow "
-      "you to part with it once you have claimed it as your own.  Are you truly "
-      "prepared for that commitment?"
-   HunterSword_used_rsc = \
-      "You steel your nerve and bravely pick up the Sword of the Hunt.  The hilt "
-      "immediately comes alive, writhing against the palm of your hand.  You gasp "
-      "as you feel invisible roots snaking into your chest and wrapping themselves "
-      "around your heart.  Strangely, you feel no pain throughout this process, "
-      "only a greatly pleasurable feeling of power and a nagging sense of hunger."
+   HunterSword_warning = "Du bist nun bereit, das mächtige Jagdschwert aufzunehmen. Als es in Deiner Hand zu zucken anfängt, zögerst Du einen Moment. Dieses Schwert scheint lebendig zu sein. Du wirst Dich nicht mehr von ihm trennen können, wenn Du es erst einmal zu Deinem Eigentum erklärt hast. Bist Du für dieses Zugeständnis wirklich bereit?"
 
-   HunterSword_try_unuse_rsc = \
-      "As you try to drop the sword, you feel it tug painfully on the roots that have "
-      "snaked their way inside your body.  This is not likely to be a productive exercise."
 
-   HunterSword_hunger_1 = "Your sword thirsts for the hunt."
-   HunterSword_hunger_2 = "Your sword is growing impatient for a hunt."
-   HunterSword_hunger_3 = "Your sword hungers for impure blood.  It is time to hunt."
-   HunterSword_hunger_4 = "Your sword hungers for impure blood.  Its roots are beginning to draw sustenance "
-      "from your body to compensate."
-   HunterSword_hunger_5 = "Your sword hungers for impure blood.  Its roots twitch painfully inside your chest "
-      "as they suck at your life-essence."
 
-   HunterSword_hunger_assuaged = "Your sword drinks in %s%s's impure blood.  You can feel it course along its roots "
-      "into your body, filling you with energy."
 
-   HunterSword_lose_sword = "Your unworthiness has offended your sword of the hunt.  "
-      "Writhing violently in your hands for a few moments, the sword suddenly springs up and away out of sight."
+   HunterSword_used_rsc = "Du nimmst all Deinen Mut zusammen und hebst das Jagdschwert auf. Der Griff erwacht sofort zum Leben und paßt sich Deiner Handfläche an. Dir entfährt ein Keuchen, als sich die unsichtbaren Wurzeln des Griffs bis in Deine Brust schlängeln und Dein Herz umschlingen. Seltsamerweise spürst Du bei diesem Prozeß keinerlei Schmerz, nur ein überwältigendes Gefühl der Kraft und einen großen Hunger."
+
+
+
+
+
+
+   HunterSword_try_unuse_rsc = "Als Du versuchst, das Schwert abzulegen, fühlst Du einen ziehenden Schmerz in Deiner Brust, der von den Wurzeln stammt, die sich in Deinen Körper gewunden haben. Das ist nicht gerade eine nette Erfahrung."
+
+
+
+   HunterSword_hunger_1 = "Dein Schwert wartet begierig auf die Jagd."
+   HunterSword_hunger_2 = "Dein Schwert wartet immer ungeduldiger auf die Jagd."
+   HunterSword_hunger_3 = "Dein Schwert dürstet nach unreinem Blut. Auf zur Jagd."
+   HunterSword_hunger_4 = "Dein Schwert hungert nach unreinem Blut. Seine Wurzeln beginnen, Deinem Körper Substanz zu entziehen. "
+
+   HunterSword_hunger_5 = "Dein Schwert hungert nach unreinem Blut. Seine Wurzeln schlagen sich schmerzhaft in Deinen Brustkorb und beginnen Deine Lebensessenz aufzusaugen. "
+
+
+   HunterSword_hunger_assuaged = "%s%s vergießt unreines Blut, das von der Klinge aufgesogen wird. Du kannst ein Pulsieren feststellen, als das Schwert Deinem Körper Energie zuführt."
+
+
+   HunterSword_lose_sword = "Deine Unwürdigkeit hat das Jagdschwert erzürnt. Das Schwert windet sich brutal in Deinen Händen und springt plötzlich aus Deinem Griff und aus Deiner Sicht."
+
 
 classvars:
 
@@ -810,6 +810,7 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 

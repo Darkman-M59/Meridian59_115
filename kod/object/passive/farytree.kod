@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   feytree_name_rsc = "tree"
+   feytree_name_rsc = "Die Kiefer"
    feytree_icon_rsc = feytree.bgf
-   feytree_desc_rsc = "These trees offer cool shade and interesting scenery."
+   feytree_desc_rsc = "Diese Bäume bieten Schatten und sehen irgendwie interssant aus."
 
 classvars:
    vrName = feytree_name_rsc
@@ -165,3 +165,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

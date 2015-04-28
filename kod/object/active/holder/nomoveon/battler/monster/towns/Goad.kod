@@ -27,86 +27,86 @@ constants:
 
 resources:
 
-   Goad_name_rsc = "The Goad"
+   Goad_name_rsc = "Goad"
    Goad_icon_rsc = GoadX.bgf
-   Goad_desc_rsc = "As a mortal man Goad betrayed his Queen, sending her to her death.  To his dismay, she was only temporarily inconvenienced and now she has bound him here, to serve for all eternity.  His twisted form writhes in constant agony, relieved only briefly by the wash of ecstasy he feels when he oversees the death of another."
+   Goad_desc_rsc = "Als ein sterblicher Mensch hat Goad seine Königin betrogen und sie in den Tod geschickt. Zu seinem Entsetzen war sie nur für kurze Zeit in Schwierigkeiten und jetzt ist er gezwungen hier zu bleiben, um ihr für alle Ewigkeiten zu dienen. Seine gekrümmte Gestalt windet sich in ständiger Qual, nur manchmal kurz erleichtert durch einen Strudel der Extase, den er beim Anblick des Tod eines anderen empfindet."
 
-   Goad_ad_need_champion1 = "Come my prettys, be not afriad . . . "
-   Goad_ad_need_champion2 = "I can taste your desire  . . . give in to it, there is so much power to be gained."
-   Goad_ad_need_champion3 = "It is such a small thing to kill another, won't you dance for me?"
-   Goad_ad_need_champion4 = "I must have death!"
-   Goad_ad_need_challenger = "Come . . . won't you dance with %s%s?"
-   Goad_ad_good_fight1 = "YES!! Oh God yes!!!  Die you fools die!!!"
-   Goad_ad_good_fight2 = "I can taste your soul."
-   Goad_ad_good_fight3 = "So sweet . . . your blood is so sweet."
+   Goad_ad_need_champion1 = "Kommt meine Schönen, habt keine Angst . . ."
+   Goad_ad_need_champion2 = "Ich kann Dein Verlangen spüren . . . gib ihm nach, Du kannst so viel Kraft gewinnen."
+   Goad_ad_need_champion3 = "Es ist so einfach, jemanden zu töten. Willst Du nicht für mich tanzen?"
+   Goad_ad_need_champion4 = "Ich muss einen Tod haben!"
+   Goad_ad_need_challenger = "Komm her... willst du nicht mit %s%s tanzen?"
+   Goad_ad_good_fight1 = "JA!! Oh Gott, ja!!! Sterbt, ihr Narren, sterbt!"
+   Goad_ad_good_fight2 = "Ich kann Deine Seele schmecken."
+   Goad_ad_good_fight3 = "So süß . . . Dein Blut ist so süß!"
 
-   Goad_no_need = "Be calm little one, your time to die will come."     
-   Goad_need_champion = "By ancient law I must first have a Champion.  Give yourself to me."     
-   Goad_dont_need_challenger = "Later my sweet, later.  Enough blood flows through the viens of these fools, I can wait for yours."
-   Goad_fight_in_progress = "Yes!  As soon as I have feasted upon these fools you may follow them."
+   Goad_no_need = "Sei ruhig Kleines, deine Zeit zu sterben wird kommen."
+   Goad_need_champion = "Gemäß dem alten Gesetz, muss ich zuerst einen Champion haben. Geb Dich mir hin."
+   Goad_dont_need_challenger = "Später mein Süßer, später! Durch die Adern dieser Narren fließt genug Blut, auf Deines kann ich warten."
+   Goad_fight_in_progress = "Ja! Sobald ich mich an diesen Narren gütlich getan habe, wirst Du ihnen folgen,"
 
-   Goad_already_combatant = "So generous . . . but, you are already mine."
-   Goad_already_champion = "So generous . . . but, you are already mine."
-   Goad_already_have_champion = "So you would be champion?  Nothing could be easier, simply challenge and kill %s%s.  Would you dare to challenge %s?"
+   Goad_already_combatant = "Sehr großzügig . . . aber Du gehörst mir bereits."
+   Goad_already_champion = "Sehr großzügig . . . aber Du gehörst mir bereits."
+   Goad_already_have_champion = "Du willst Champion sein? Nichts leichter als das! Vernichte %s%s! Bist du mutig genug für die Herausforderung?"
 
-   Goad_challenge_offered = "%s%s has challenged you.  Will you crush %s's like the bug %s is?"
-   Goad_must_accept = "Hurry fool!! You only have %i seconds left to accept %s%s's challenge."
+   Goad_challenge_offered = "%s%s hat Dich herausgefordert. Willst Du Deinen Gegner wie einen Wurm zerquetschen?%s%s"
+   Goad_must_accept = "Worauf wartest Du Narr? Du hast nur noch %i Sekunden, um die Herausforderung von %s%s anzunehmen!"
 
-   Goad_cant_renege = "You cannot renege unless you are a combatant!"
-   Goad_commence = "Fight!!!!  Kill!!!  Die!!!!"
-   Goad_last_minute = "You have one minute  . . . then I take you both."
+   Goad_cant_renege = "Du kannst nur aufgeben, wenn Du ein Teilnehmer bist."
+   Goad_commence = "Kämpfe! Töte! Sterbe!"
+   Goad_last_minute = "Ihr habt eine Minute . . . Dann nehme ich euch beide."
 
-   Goad_victor = "~BCurse you %s%s!  Today you live, but not forever!~B"
-   Goad_new_champion = "~B%s%s is our new Champion, ripe for the killing.~B"
-   Goad_killed_champion = "%s%s has slain the Champion, %s%s . . . such sweet blood!"
-   Goad_retain_title = "%s%s retains the Championship, won't someone give me %s blood?"
-   Goad_champion_killed = "The Champion has slain %s%s!"
-   Goad_someone_killed = "%s%s has slain %s%s!"
+   Goad_victor = "~BVerflucht sollst Du sein, %s%s! Heute wirst Du leben, aber nicht für immer!~B"
+   Goad_new_champion = "~BSeht: %s%s ist der neue Champion. Bereit zu sterben?~B"
+   Goad_killed_champion = "%s%s hat den Champion %s%s besiegt!  . . . frisches Blut!"
+   Goad_retain_title = "%s%s bleibt Champion! Wer wagt es, den Champion herauszufordern?"
+   Goad_champion_killed = "Der Champion hat %s%s getötet!"
+   Goad_someone_killed = "%s%s hat %s%s besiegt."
 
-   Goad_champ_reneges = "%s%s, Champion of Kraanan, has surrendered %s title."
-   Goad_ready_to_fight = "%s%s vs %s%s.  Prepare to die  . . ."
-   Goad_combatant_reneges = "%s%s has chosen to fight no longer."
+   Goad_champ_reneges = "%s%s, der Champion von Kraanan, hat den Titel abgegeben."
+   Goad_ready_to_fight = "%s%s gegen %s%s. Seid bereit zu sterben. . ."
+   Goad_combatant_reneges = "%s%s hat sich entschlossen, nicht weiter zu kämpfen."
 
-   Goad_cant_leave = "Sorry fool, there's no escape!"
-   Goad_pitifully_fled = "%s%s has pitifully fled.  If they're not back in 10 seconds I think I'll have to kill them, yes?"
-   Goad_only_combatants = "You have to come into my embrace if you want to kill here!"
-   Goad_no_fighting_yet = "Not yet my sweet little blood bag, not yet."
-   Goad_only_combatants_cast = "You have to come into my embrace if you want to cast spells here!"
-   Goad_only_target_combatants = "You have to come into my embrace if you want to fight here!"
+   Goad_cant_leave = "Du Narr, es gibt kein Entkommen."
+   Goad_pitifully_fled = "%s%s ist auf erbärmliche Weise geflohen! Ich denke, es wird hier jemand sterben, sollte der Kampf nicht in 10 Sekunden weitergehen."
+   Goad_only_combatants = "Du musst in meine Arme kommen, wenn Du hier töten willst."
+   Goad_no_fighting_yet = "Noch nicht, mein süßer kleiner Blutbeutel, noch nicht."
+   Goad_only_combatants_cast = "Du musst in meine Arme kommen, wenn Du hier Zauber einsetzen willst."
+   Goad_only_target_combatants = "Du musst in meine Arme kommen, wenn Du hier kämpfen willst."
 
-   Goad_spell_banned = "So sorry you can't cast %s here.  Why?  Because I say so."
+   Goad_spell_banned = "Oh, das tut mir leid. Du kannst %s hier nicht benutzen. Warum? Weil ich es sage!."
 
-   Goad_must_choose_style = "First things first . . . are we to have a duel or a bloodbath?"     
-   Goad_cant_switch = "You can't change that now, worm."
-   Goad_new_combat_style = "Excellent.  I've been thristing for a good %s.  Now, who'll say the magic word, \"champion\"?"
+   Goad_must_choose_style = "Die wichtigen Dinge zuerst . . . Wollen wir ein Duell haben oder ein Blutbad?"
+   Goad_cant_switch = "Du kannst das jetzt nicht ändern, Wurm."
+   Goad_new_combat_style = "Sehr gut. Ich sehne mich lange nach einem guten %s. Wer sagt das Zauberwort, \"Champion\"?"
 
-   Goad_style_one_on_one = "duel"
-   Goad_style_last_man_standing = "bloodbath"
+   Goad_style_one_on_one = "Duell"
+   Goad_style_last_man_standing = "Blutbad"
 
-   Goad_new_combatant = "%s%s will also be a combatant in this match!"
-   Goad_more_combatants = "Additional combatants only have %i seconds to join into this match."
-   Goad_ready_last_man = "The game is last man standing.  Combat will begin on my mark."
+   Goad_new_combatant = "%s%s wird auch ein Mitstreiter bei diesem Kampf sein!"
+   Goad_more_combatants = "Weitere Krieger haben nur noch %i Sekunden, um an diesem Kampf teilzunehmen."
+   Goad_ready_last_man = "Die Regeln: Kampf bis zum letzten Mann. Die Schlacht beginnt auf mein Kommando!"
 
-   Goad_welcome = "~kGoad tells you, \"Welcome to my hell, worm.\""
-   Goad_worship_admin = "Oh how exciting . . . it's %s, %s is sooo important."
-   Goad_worship_dm = "Don't except me to grovel to %s, I could care less about a %s of Meridian!"
-   Goad_welcome_champion = "All hail %s%s, spiller of blood."
-   Goad_welcome_champion_guild = "Bug.  This message should never occur!"
+   Goad_welcome = "~kGoad teilt Dir mit, \"Willkommen in meiner Hölle, Wurm!\""
+   Goad_worship_admin = "Oh wie dramatisch. . . es ist %s, %s ist sooo wichtig."
+   Goad_worship_dm = "Erwartet nicht, dass ich vor Euch am Boden krieche, mich beeindruckt Ihr nicht!"
+   Goad_welcome_champion = "Beachtet %s%s, den blutigen Metzler."
+   Goad_welcome_champion_guild = "Bug. Diese Nachricht sollte niemals auftreten!"
 
-   Goad_invalid_fight = "This fight was invalid for certain reasons, and therefore it has been cancelled."
+   Goad_invalid_fight = "Dieser Kampf war aus bestimmten Gründen ungültig und wird deshalb gestrichen."
 
-   Goad_not_during_fight = "~kThe Goad tells you, \"You cannot offer me commands while a fight is still going on.\""
+   Goad_not_during_fight = "~kDer Meister der Arena sagt zu Dir, \"Während eines Kampfes werden keine Befehle ausgesprochen.\""
 
-   Goad_speed_up = "Let's see if we can't speed this up a little bit."
-   Goad_not_more = "There may not be more than 6 combatants in a single fight."
-   Goad_killed_by_spell = "%s%s was just killed by the %s spell!"
+   Goad_speed_up = "Vielleicht können wir das ein wenig beschleunigen..."
+   Goad_not_more = "Es dürfen nicht mehr als 25 Krieger an dieser Schlacht teilnehmen."
+   Goad_killed_by_spell = "%s%s wurde durch den %s Zauberspruch getötet!"
 
-   Goad_unwanted_give = "~k%s%s ignores your bribe.~n~k"
+   Goad_unwanted_give = "~k%s%s beachtet Dein Bestechungsgeschenk nicht.~n~k"
 
-   Goad_Draw = "`rFight is a draw.  This is a bug.  Please report it and specify combat type and all actions which led to this message."
-   Goad_wont_fight = "`kApparently %s%s is too cowardly to fight.  Cowards should die . . . slowly."
+   Goad_Draw = "~rDer Kampf ist unentschieden. Dies ist ein Fehler. Bitte melde den Fehler und spezifiziere die Kampfart und alle Aktionen, die zu dieser Meldung geführt haben."
+   Goad_wont_fight = "~kOffenbar ist %s%s zu feige für einen Kampf. Feiglinge sollten sterben. . . qualvoll sterben."
 
-   Goad_battle_midi_rsc = pk_sb16.mid
+   Goad_battle_midi_rsc = pk_sb16.mp3
 
 classvars:
 
@@ -1285,3 +1285,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

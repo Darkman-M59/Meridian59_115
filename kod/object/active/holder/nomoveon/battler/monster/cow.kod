@@ -20,20 +20,20 @@ constants:
 resources:
 
    cow_koc_name_rsc = "nahyijoa"
-   cow_name_rsc = "cow"
+   cow_name_rsc = "Die Kuh"
    cow_icon_rsc = cow.bgf
-   cow_desc_rsc = \
-	"Alchemists and farmers endeavored to breed the perfect cow for sweet "
-	"milk and tender meat.  Unfortunately their experiments went too far and " 	
-	"eventually created the utterly useless Pygmy Cow.  Disappointed by their " 
-	"failure, they let loose their entire herd.  The undomesticated pygmy cow "
-	"is rarely seen anymore."
+   cow_desc_rsc = "Alchemisten und Bauern bemühten sich, die vollkommene Kuh mit süßer Milch und zartem Fleisch zu züchten. Unglücklicherweise gingen ihre Experimente zu weit und sie schufen schließlich die völlig nutzlose Pygmäenkuh. Enttäuscht angesichts ihrer Niederlage, ließen sie die ganze Herde frei. Die wildlebende Pygmäenkuh ist kaum mehr zu sehen."
 
-   cow_cant_attack = "You can't attack the ~Ipoor~I cow!"
+
+
+
+
+
+   cow_cant_attack = "Du kannst die ~Iarme~I Kuh nicht angreifen!"
    cow_dead_icon_rsc = cowX.bgf
-   cow_dead_name_rsc = "dead cow"
+   cow_dead_name_rsc = "Die tote Kuh"
    
-   cow_dung = "Startled, the poor cow deposits a steaming heap of dung onto the ground."
+   cow_dung = "Überrascht und erschrocken lässt die arme Kuh einen Fladen Dung auf den Boden fallen."
    
 classvars:
    vrKocName = cow_koc_name_rsc
@@ -101,3 +101,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

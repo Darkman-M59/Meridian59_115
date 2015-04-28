@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   feigndeath_name_rsc = "feign death"
+   feigndeath_name_rsc = "Tod vortäuschen"
    feigndeath_icon_rsc = ifeignde.bgf
-   feigndeath_desc_rsc = \
-      "Makes you appear to be deceased, that hopefully someone won't really make you as such.  "
-      "Requires solagh and rainbow ferns to cast."
+   feigndeath_desc_rsc = "Läßt Dich so aussehen, als ob Du tot seist. Das hilft dass Dich nicht wirklich jemand sterben läßt. Der Zauber benötigt Solagh und Regenbogenfarn."
 
-   feigndeath_user_killed = "### %s was just killed by %s%s."
-   feigndeath_angrymocker = "an angry guy named Mocker"
-   feigndeath_fallingpiano = "a falling piano"
-   feigndeath_firebunny = "a fire breathing bunny"
-   feigndeath_giantrat = "a giant rat"
+
+
+   feigndeath_user_killed = "### %s ist gerade gestorben. %s%s war im Kampf siegreich."
+   feigndeath_angrymocker = "Ein ärgerlich aussehendes Wesen namens Baar"
+   feigndeath_fallingpiano = "Ein fallendes Klavier"
+   feigndeath_firebunny = "Das feuerspeiende Karnikel"
+   feigndeath_giantrat = "Die Riesenratte"
    feigndeath_nuthin = ""
 
 classvars:
@@ -519,3 +519,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

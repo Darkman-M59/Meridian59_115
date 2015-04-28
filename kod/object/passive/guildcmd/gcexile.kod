@@ -17,22 +17,22 @@ constants:
 
 resources:
 
-   guildexile_name_rsc = "exile"
+   guildexile_name_rsc = "Verbannung"
    guildexile_icon_rsc = light.bgf
-   guildexile_desc_Rsc = "Use this to kick someone out of your guild.  Will not affect those of other guilds, or those of higher rank than you."
+   guildexile_desc_Rsc = "So kannst Du jemanden aus Deiner Gilde werfen. Dieser Vorgang bleibt ohne Auswirkungen auf andere Gilden oder Mitglieder höheren Rangs."
 
-   exile_non_user = "%s%s doesn't seem at all hurt by your cold-hearted rejection."
-   exile_not_member = "%s%s is not a member of %s%q!"
+   exile_non_user = "%s%s scheint von Deiner kaltherzigen Abweisung keineswegs verletzt zu sein."
+   exile_not_member = "%s%s ist kein Mitglied von %s%q!"
 
-   exile_cant_self = "You may not exile yourself - use the renounce command instead."
-   exile_cant_self_gm = "A %s must first abdicate his position before he leaves the guild."
-   exile_cant_too_high = "You may not exile someone unless they are of a lower rank than yourself."
+   exile_cant_self = "Du kannst Dich nicht selbst verbannen - nimm stattdessen den Befehl ABTRETEN."
+   exile_cant_self_gm = "%s muss erst die Position in der Gilde aufgeben, um sie zu verlassen."
+   exile_cant_too_high = "Du kannst niemanden verbannen, außer er hat einen niedrigeren Rang als Du selbst."
 
-   exile_to_exiled = "~B%s has expelled you from the ranks of %s%q!"
-   exile_to_others = "~B%s has exiled %q from the ranks of %s%q!"
+   exile_to_exiled = "~B%s hat Dich aus den Rängen der Gilde %s%q verwiesen!"
+   exile_to_others = "~B%s hat %q aus den Rängen der Gilde %s%q verwiesen!"
 
-   guildexile_necro_nak = "~BEvery member of The Order is bound by a blood oath.  The only way "
-      "out is death."
+   guildexile_necro_nak = "~BJedes Mitglied des Ordens ist durch einen Blutsschwur gebunden. Der einzige Weg, auszutreten, ist der Tod."
+
 
 classvars:
 
@@ -126,3 +126,4 @@ messages:
   
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

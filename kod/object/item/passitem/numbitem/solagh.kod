@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   Solagh_name_rsc = "vial of solagh"
+   Solagh_name_rsc = "Phiole mit Solagh"
    Solagh_icon_rsc = solagh.bgf
-   Solagh_desc_rsc = \
-   "No one knows what this milky white liquid is, or where it comes from, "
-   "save for a handful of the world's alchemists. It is rumored that its "
-   "ingredients are cheap and its distillation fairly simple, but the "
-   "secret to its creation is closely guarded, mostly just to keep the "
-   "price shored up." 
+   Solagh_desc_rsc = "Keiner weiß, was das für eine weiße Flüssigkeit ist oder woher sie kommt, außer einer Handvoll Alchemisten. Es wird gemunkelt, dass die Zutaten billig und die Herstellung ziemlich einfach sei, doch das Geheimnis der Herstellung wird streng gehütet, vor allem, um den Preis hoch zu halten."
 
-   Solagh_name_plural_rsc = "vials of solagh"
+
+
+
+
+
+   Solagh_name_plural_rsc = "Phiolen mit Solagh"
 
 classvars:
 
@@ -62,3 +62,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

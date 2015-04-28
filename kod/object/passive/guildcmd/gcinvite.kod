@@ -17,22 +17,22 @@ constants:
 
 resources:
 
-   guildInvite_name_rsc = "Invite"
+   guildInvite_name_rsc = "Einladen"
    guildInvite_icon_rsc = light.bgf
-   guildinvite_desc_text_rsc = "Used to invite prospective members into the guild.  Invited person has 1 minute to accept the invitation."
+   guildinvite_desc_text_rsc = "So kannst Du potentielle Mitglieder in die Gilde einladen. Die eingeladene Person hat eine Minute Zeit, um die Einladung anzunehmen."
 
-   guildinvite_already_your_guild = "This person already belongs to your guild."
-   invite_cant_invite_self = "You cannot invite yourself to join your guild!"
+   guildinvite_already_your_guild = "Diese Person gehört bereits zu Deiner Gilde."
+   invite_cant_invite_self = "Du kannst Dich nicht selbst in Deine eigene Gilde einladen!"
 
-   invite_non_user = "%s%s respectfully declines your tempting offer."
+   invite_non_user = "%s%s lehnt Dein Angebot respektvoll ab."
 
-   guildinvitation_to_inductor = "~BYou extend to %s%q the opportunity to join %s%q."
-   guildinvitation_to_inductee = "~B%s%s extends to you an invitation to join %s%q!"
+   guildinvitation_to_inductor = "~BDu bietest %s%q die Möglichkeit, sich %s%q anzuschließen."
+   guildinvitation_to_inductee = "~B%s%s bietet dir eine Einladung an, dich %s%q anzuschließen!"
 
-   guildinvitation_guild_full = "%s%q's ranks are full, and may not take new members."
-   guildinvitation_cannot_rejoin = "~BThis player may not rejoin your guild's ranks at this time."
-   guildinvitation_necro_no_amulet = "~BOnly a necromancer may join the Order!  This player is only fit for "
-      "consumption."
+   guildinvitation_guild_full = "Alle Ränge der Gilde %s%q sind besetzt, und sie nehmen keine neue Mitglieder mehr auf."
+   guildinvitation_cannot_rejoin = "~BDieser Spieler kann zur Zeit nicht wieder in Deine Gilde eintreten."
+   guildinvitation_necro_no_amulet = "~BNur ein Nekromant kann dem Orden beitreten. Dieser Spieler eignet sich nur zum Verzehr. "
+
 
 classvars:
 
@@ -123,3 +123,4 @@ messages:
   
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

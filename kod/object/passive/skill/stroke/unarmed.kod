@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   unarmed_name_rsc = "Unarmed Combat"
+   unarmed_name_rsc = "Der waffenlose Kampf"
    unarmed_icon_rsc = light.bgf
-   unarmed_desc_rsc = "This is a hand to hand combat move."
+   unarmed_desc_rsc = "Dies ist eine Kampfhandlung ohne Waffen."
 
 classvars:
 
@@ -108,3 +108,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

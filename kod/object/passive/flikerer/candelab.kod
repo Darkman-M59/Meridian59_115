@@ -18,14 +18,14 @@ constants:
 
 resources:
 
-   candelabra_name_rsc = "candelabra"
+   candelabra_name_rsc = "Ein Kerzenständer"
    candelabra_icon_rsc = candelab.bgf
-   candelabra_desc_on = \
-      "An ornate brass five-candle stand.  The candles are flickering softly."
-   candelabra_desc_off = \
-      "An ornate brass five-candle stand.  The candles are unlit."
+   candelabra_desc_on = "Ein fünfarmiger Kerzenständer aus Messing. Die Kerzen flackern leicht."
 
-   candelabra_not_in_range = "You are not close enough to the candelabra to use it."
+   candelabra_desc_off = "Ein fünfarmiger Kerzenständer aus Messing. Die Kerzen sind erloschen."
+
+
+   candelabra_not_in_range = "Du bist nicht nah genug am Kerzenständer um ihn zu benutzen."
 
 classvars:
 
@@ -101,3 +101,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   SecondWind_name_rsc = "second wind"
+   SecondWind_name_rsc = "Zweiter Atem"
    SecondWind_icon_rsc = isecwind.bgf
-   SecondWind_desc_rsc = "Second wind will give a mighty adventurer the vigor to do strenuous activity "
-                         "even when exhausted.  When near exhaustion, this skill will give a boost to "
-                         "vigor.  It is useless to rest or eat food to regain stamina for a while after "
-                         "gaining a second wind."
+   SecondWind_desc_rsc = "Der zweite Atem gibt dem starken Abenteurer die nötige Ausdauer um weiterzukämpfen selbst wenn er erschöpft ist. Kurz vor der völligen Erschöpfung gibt diese Fähigkeit neue Energie. Für eine kurze Zeit danach kann man sich allerdings weder durch Essen noch Rasten erholen."
 
-   SecondWind_skill_intro = "Weaponcraft Lv. 4: The ability to press on even when exhausted."
 
-   SecondWind_success = "You catch your second wind!"
+
+
+   SecondWind_skill_intro = "Waffenzirkel 4: Die Fähigkeit, selbst bei völliger Erschöpfung weiterzumachen."
+
+   SecondWind_success = "~BAls Dich die Erschöpfung packt, holst Du tief Luft und frische Energie durchströmt Deinen Körper!~B"
    SecondWind_sound = wscndwnd.wav
 
 classvars:
@@ -128,3 +128,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

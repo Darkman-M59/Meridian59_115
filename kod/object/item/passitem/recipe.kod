@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   RecipeScroll_name_rsc = "Recipe for a Stunted Dwarf"
+   RecipeScroll_name_rsc = "Das Rezept für einen zu kurz geratenen Zwerg"
    RecipeScroll_icon_rsc = scr05.bgf
-   RecipeScroll_desc_rsc = \
-      "This is a recipe for what looks to be a mighty stiff drink.  The list of ingredients includes "
-      "scorpion venom, gall of troll, and dark angel ichor.  Certainly not for the faint of heart!"
+   RecipeScroll_desc_rsc = "Dies ist das Rezept für etwas, das nach einem ziemlich harten Getränk aussieht. An Zutaten enthält es Gift von einem Skorpion, Trollgalle und das Blut von einem gefallenen Engel. Sicherlich nichts für Feiglinge!"
+
+
 
 classvars:
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

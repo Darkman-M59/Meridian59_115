@@ -255,11 +255,11 @@ keymap interface_key_table[] = {
 { VK_SPACE,       KEY_ANY,              A_GO },
 { VK_RETURN,      KEY_ANY,              A_LOOK },
 { VK_SINGLEQUOTE, KEY_ANY,              A_TEXTINSERT,   "say " },
-{ '1',            KEY_SHIFT,            A_TEXTINSERT,   "yell " },
-{ '3',            KEY_SHIFT,            A_TEXTINSERT,   "who" },
+{ '1',            KEY_SHIFT,            A_TEXTINSERT,   "rufen " },
+{ '3',            KEY_SHIFT,            A_TEXTINSERT,   "wer spielt?" },
 { VK_SEMICOLON,   KEY_ANY,              A_TEXTINSERT,   "emote " },
-{ VK_PERIOD,      KEY_ANY,              A_TEXTINSERT,   "tell " },
-{ VK_SLASH,       KEY_SHIFT,            A_TEXTINSERT,   "help" },
+{ VK_PERIOD,      KEY_ANY,              A_TEXTINSERT,   "telepathie " },
+{ VK_SLASH,       KEY_SHIFT,            A_TEXTINSERT,   "hilfe" },
 
 { VK_ADD,         KEY_ANY,              A_MAPZOOMIN },
 { VK_SUBTRACT,    KEY_ANY,              A_MAPZOOMOUT },
@@ -299,55 +299,52 @@ static keymap default_key_table[] = {
 };
 
 static TypedCommand commands[] = {
-{ "say",         CommandSay, },
-{ "yell",        CommandYell, },
-{ "broadcast",   CommandBroadcast, },
-{ "emote",       CommandEmote, },
-{ "who",         CommandWho, },
-{ "quit",        CommandQuit, },
-{ "tell",        CommandTell, },
-{ "hel",         CommandHel, },
-{ "help",        CommandHelp, },
-{ "put",         CommandPut, },
-{ "use",         CommandActivate, },
-{ "addgroup",    CommandGroupAdd, },
-{ "agroup",      CommandGroupAdd, },
-{ "delgroup",    CommandGroupDelete, },
-{ "dgroup",      CommandGroupDelete, },
-{ "newgroup",    CommandGroupNew, },
-{ "ngroup",      CommandGroupNew, },
-{ "buy",         CommandBuy, },
-{ "drop",        CommandDrop, },
-{ "get",         CommandGet, },
-{ "look",        CommandLook, },
-{ "offer",       CommandOffer, },
-{ "cast",        CommandCast, },
-{ "map",         CommandMap, },
-{ "wave",        CommandWave, },
-{ "point",       CommandPoint, },
-{ "dance",       CommandDance, },
-{ "alias",       CommandAlias, },
-{ "cmdalias",    CommandVerbAlias, },
-{ "rest",        CommandRest, },
-{ "stand",       CommandStand, },
-{ "suicid",      CommandSuicid, },
-{ "suicide",     CommandSuicide, },
-{ "neutral",     CommandNeutral, },
-{ "happy",       CommandHappy, },
-{ "sad",         CommandSad, },
-{ "wry",         CommandWry, },
-{ "guild",       CommandGuild, },
-{ "password",    CommandPassword, },
-{ "withdraw",    CommandWithdraw, },
-{ "deposit",     CommandDeposit, },
-{ "balance",     CommandBalance, },
-{ "group",       CommandGroup, },
-{ "appeal",      CommandAppeal, },
-{ "tellguild",   CommandTellGuild, },
-{ "tguild",      CommandTellGuild, },
-{ "safetyon",    CommandSafetyOn, },
-{ "safetyoff",   CommandSafetyOff, },
-{ NULL,          NULL},    // Must end table this way
+	{ "sagen", CommandSay, },
+	{ "rufen", CommandYell, },
+	{ "mitteilen", CommandBroadcast, },
+	{ "ego", CommandEmote, },
+	{ "wer spielt?", CommandWho, },
+	{ "beenden", CommandQuit, },
+	{ "telepathie", CommandTell, },
+	{ "hil", CommandHel, },
+	{ "hilfe", CommandHelp, },
+	{ "ablegen", CommandPut, },
+	{ "benutzen", CommandActivate, },
+	{ "gruppehinzufügen", CommandGroupAdd, },
+	{ "gruppelöschen", CommandGroupDelete, },
+	{ "gruppeneu", CommandGroupNew, },
+	{ "kaufen", CommandBuy, },
+	{ "wegwerfen", CommandDrop, },
+	{ "nehmen", CommandGet, },
+	{ "anschauen", CommandLook, },
+	{ "anbieten", CommandOffer, },
+	{ "zaubern", CommandCast, },
+	{ "karte", CommandMap, },
+	{ "winken", CommandWave, },
+	{ "deuten", CommandPoint, },
+	{ "tanzen", CommandDance, },
+	{ "ftasten", CommandAlias, },
+	{ "kurzbefehle", CommandVerbAlias, },
+	{ "rasten", CommandRest, },
+	{ "aufstehen", CommandStand, },
+	{ "selbstmord", CommandSuicid, },
+	{ "harakiri", CommandSuicide, },
+	{ "neutral", CommandNeutral, },
+	{ "glücklich", CommandHappy, },
+	{ "traurig", CommandSad, },
+	{ "grimmig", CommandWry, },
+	{ "gilde", CommandGuild, },
+	{ "passwort", CommandPassword, },
+	{ "abheben", CommandWithdraw, },
+	{ "einzahlen", CommandDeposit, },
+	{ "kontostand", CommandBalance, },
+	{ "gruppe", CommandGroup, },
+	{ "anrufen", CommandAppeal, },
+	{ "telgilde", CommandTellGuild, },
+	{ "tgilde", CommandTellGuild, },
+	{ "sicherheitan", CommandSafetyOn, },
+	{ "sicherheitaus", CommandSafetyOff, },
+	{ NULL, NULL },    // Must end table this way
 };
 
 typedef struct action_label
@@ -444,10 +441,10 @@ static action_label	gActionLabels[] =
 	{"open",			A_GO,				NULL},
 	{"flip",			A_FLIP,				NULL},
 	{"lookstraight",	A_LOOKSTRAIGHT,		NULL},
-	{"offer",			A_OFFER,			NULL},
-	{"buy",				A_BUY,				NULL},
-	{"deposit",			A_DEPOSIT,			NULL},
-	{"withdraw",		A_WITHDRAW,			NULL},
+	{"anbieten",			A_OFFER,			NULL},
+	{"kaufen",				A_BUY,				NULL},
+	{"einzahlen",			A_DEPOSIT,			NULL},
+	{"abheben",		A_WITHDRAW,			NULL},
 	{"mousetarget",		A_ATTACK,			NULL},
 	{"targetnext",		A_TARGETNEXT,		NULL},
 	{"targetprevious",	A_TARGETPREVIOUS,	NULL},
@@ -455,7 +452,7 @@ static action_label	gActionLabels[] =
 	{"targetself",		A_TARGETSELF,		NULL},
 	{"look",			A_LOOK,				NULL},
 	{"pickup",			A_PICKUP,			NULL},
-	{"map",				A_MAP,				NULL},
+	{"karte",				A_MAP,				NULL},
 	{"examine",			A_LOOKMOUSE,		NULL},
 	{"textcommand",		A_TEXTCOMMAND,		NULL},
 	{"mapzoomin",		A_MAPZOOMIN,		NULL},
@@ -465,12 +462,12 @@ static action_label	gActionLabels[] =
 
 	// chat
 	{"chat",			A_GOTOSAY,			NULL},
-	{"say",				A_TEXTINSERT,		"say "},
-	{"tell",			A_TEXTINSERT,		"tell "},
-	{"yell",			A_TEXTINSERT,		"yell "},
-	{"broadcast",		A_TEXTINSERT,		"broadcast "},
+	{"sagen",				A_TEXTINSERT,		"sagen "},
+	{"telepathie",			A_TEXTINSERT,		"telepathie "},
+	{"rufen",			A_TEXTINSERT,		"rufen "},
+	{"mitteilen",		A_TEXTINSERT,		"mitteilen "},
 	{"emote",			A_TEXTINSERT,		"emote "},
-	{"who",				A_WHO,				NULL},
+	{"wer spielt?",				A_WHO,				NULL},
 
 	// end
 	{"\0", -1, NULL},
@@ -523,9 +520,9 @@ keymap	gCustomKeys[] =
 	// chat
 	{-1,				-1,				A_GOTOSAY,			NULL},
 	{-1,				-1,				A_TEXTINSERT,		"say "},
-	{-1,				-1,				A_TEXTINSERT,		"tell "},
-	{-1,				-1,				A_TEXTINSERT,		"yell "},
-	{-1,				-1,				A_TEXTINSERT,		"broadcast "},
+	{-1,				-1,				A_TEXTINSERT,		"telepathie "},
+	{-1,				-1,				A_TEXTINSERT,		"rufen "},
+	{-1,				-1,				A_TEXTINSERT,		"mitteilen "},
 	{-1,				-1,				A_TEXTINSERT,		"emote "},
 	{-1,				-1,				A_WHO,				NULL},
 
@@ -723,26 +720,26 @@ void CustomConfigInit(void)
 		WritePrivateProfileString("keys", "lookdown", "pagedown", "./config.ini");
 		WritePrivateProfileString("keys", "attack", "e+any", "./config.ini");
 		WritePrivateProfileString("keys", "open", "space", "./config.ini");
-		WritePrivateProfileString("keys", "say", "f", "./config.ini");
+		WritePrivateProfileString("keys", "sagen", "s", "./config.ini");
 		WritePrivateProfileString("keys", "chat", "enter", "./config.ini");
-		WritePrivateProfileString("keys", "tell", "t", "./config.ini");
-		WritePrivateProfileString("keys", "yell", "y", "./config.ini");
-		WritePrivateProfileString("keys", "broadcast", "b", "./config.ini");
+		WritePrivateProfileString("keys", "telepathie", "t", "./config.ini");
+		WritePrivateProfileString("keys", "rufen", "r", "./config.ini");
+		WritePrivateProfileString("keys", "mitteilen", "m", "./config.ini");
 
 		WritePrivateProfileString("keys", "lookstraight", "home", "./config.ini");
 		WritePrivateProfileString("keys", "flip", "end", "./config.ini");
-		WritePrivateProfileString("keys", "who", "w+ctrl", "./config.ini");
+		WritePrivateProfileString("keys", "wer spielt?", "w+ctrl", "./config.ini");
 		WritePrivateProfileString("keys", "look", "l", "./config.ini");
-		WritePrivateProfileString("keys", "pickup", "g", "./config.ini");
-		WritePrivateProfileString("keys", "offer", "o+ctrl", "./config.ini");
-		WritePrivateProfileString("keys", "buy", "b+ctrl", "./config.ini");
-		WritePrivateProfileString("keys", "deposit", "d+shift", "./config.ini");
+		WritePrivateProfileString("keys", "nehmen", "n", "./config.ini");
+		WritePrivateProfileString("keys", "anbieten", "o+ctrl", "./config.ini");
+		WritePrivateProfileString("keys", "kaufen", "b+ctrl", "./config.ini");
+		WritePrivateProfileString("keys", "einzahlen", "d+shift", "./config.ini");
 
-		WritePrivateProfileString("keys", "withdraw", "w+shift", "./config.ini");
+		WritePrivateProfileString("keys", "abheben", "w+shift", "./config.ini");
 		WritePrivateProfileString("keys", "targetnext", "]", "./config.ini");
 		WritePrivateProfileString("keys", "targetprevious", "[", "./config.ini");
 		WritePrivateProfileString("keys", "emote", ";", "./config.ini");
-		WritePrivateProfileString("keys", "map", "m+shift", "./config.ini");
+		WritePrivateProfileString("keys", "karte", "m+shift", "./config.ini");
 		WritePrivateProfileString("keys", "examine", "mouse1+any", "./config.ini");
 		WritePrivateProfileString("keys", "mouselooktoggle", "c+any", "./config.ini");
 		WritePrivateProfileString("keys", "mousetarget", "mouse0", "./config.ini");

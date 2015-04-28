@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   resistcold_name_rsc = "resist cold"
+   resistcold_name_rsc = "Kälte widerstehen"
    resistcold_icon_rsc = irescold.bgf
-   resistcold_desc_rsc = \
-      "Infuses the target with the magical fire of Faren, "
-      "reducing damage from cold attacks for several minutes.  "
-      "Requires mushrooms and red mushrooms to cast."
-   
-   resistcold_already_enchanted = "You are already resistant to cold."
+   resistcold_desc_rsc = "Der Körper Deines Ziels füllt sich mit dem magischen Feuer von Faren, das den Schaden von Kälteangriffen für mehrere Minuten verringert. Der Zauber benötigt gewöhnliche und rote Pilze."
 
-   resistcold_on = "The magical fire of Faren enters your body."
-   resistcold_off = "Your body cools noticeably as the resist cold enchantment wears off."
-   resistcold_success = "%s%s's body burns with Faren's magical fire."
-   resistcold_spell_intro = "Faren Lv. 2: Infuses your body with the magical fire of Faren, reducing damage from cold attacks."
+
+
+   
+   resistcold_already_enchanted = "Du bist bereits kälteunempfindlich."
+
+   resistcold_on = "Das magische Feuer von Faren dringt in Deinen Körper."
+   resistcold_off = "Dein Körper kühlt deutlich ab, als der Kälte-widerstehen-Zauber abklingt."
+   resistcold_success = "%s%s's Körper brennt mit dem magischen Feuer von Faren."
+   resistcold_spell_intro = "Faren Zirkel 2: Dein Körper füllt sich mit dem magischen Feuer von Faren, das den Schaden von Kälteangriffen für mehrere Minuten verringert."
 
 classvars:
 
@@ -88,3 +88,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

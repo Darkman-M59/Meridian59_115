@@ -20,17 +20,17 @@ constants:
 resources:
 
    EvilEnt_koc_name_rsc = "teotezmecya"
-   EvilEnt_name_rsc = "diseased tree"
+   EvilEnt_name_rsc = "Kranker Baum"
    EvilEnt_icon_rsc = res0003a.bgf
-   EvilEnt_desc_rsc = \
-      "Feeding upon the dredges of the tainted soil in the land, this "
-      "living tree exudes evil, its sap blackened with hate."
+   EvilEnt_desc_rsc = "Genährt durch die verdorbene Erde in diesem Land, verströhmt dieser lebende Baum das Böse mit seinem von Hass geschwärztem Saft."
+
+
       
    EvilEnt_leaves_sparse_rsc = res0003c.bgf
 
    EvilEnt_dead_icon_rsc = res0003d.bgf
    EvilEnt_dead_leaves_sparse_rsc = res0003f.bgf
-   EvilEnt_dead_name_rsc = "dead remains of diseased tree"
+   EvilEnt_dead_name_rsc = "Überreste des kranken Baums"
 
    EvilEnt_sound_hit = tr_atkh.wav
    EvilEnt_sound_miss = tr_atkm.wav
@@ -246,3 +246,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

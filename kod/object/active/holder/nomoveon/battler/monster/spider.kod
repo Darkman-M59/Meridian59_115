@@ -20,13 +20,13 @@ constants:
 resources:
 
    spider_koc_name_rsc = "teotkauilkinich"
-   spider_name_rsc = "spider"
+   spider_name_rsc = "Die Riesenspinne"
    spider_icon_rsc = spider.bgf
-   spider_desc_rsc = \
-   "This strangely delicate creature moves with stealth and strikes with deadly precision."
+   spider_desc_rsc = "Diese außergewöhnliche Kreatur schleicht sich getarnt an und schlägt mit tödlicher Präzision zu."
+
 
    spider_dead_icon_rsc = spiderX.bgf
-   spider_dead_name_rsc = "dead spider"
+   spider_dead_name_rsc = "Eine tote Riesenspinne"
 
    spider_sound_hit = spd_atkh.wav
    spider_sound_miss = spd_atkm.wav
@@ -146,3 +146,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

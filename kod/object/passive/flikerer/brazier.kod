@@ -18,9 +18,9 @@ constants:
 
 resources:
 
-   brazier_name_rsc = "brazier"
+   brazier_name_rsc = "Das Feuer"
    brazier_icon_rsc = brazier.bgf
-   brazier_desc_rsc = "The flame burns bright, offering welcome light to the surroundings."
+   brazier_desc_rsc = "Eine einladende Flamme erhellt mit ihrem Licht freundlich die Umgebung."
 
 classvars:
 
@@ -85,3 +85,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

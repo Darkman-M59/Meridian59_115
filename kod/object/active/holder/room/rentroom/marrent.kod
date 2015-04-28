@@ -16,7 +16,7 @@ constants:
    
 resources:
 
-   MarionRentableRoom_name = "A comfortable room"
+   MarionRentableRoom_name = "Ein gemütlicher Raum"
    MarionRentableRoom_roo = marrent.roo
 
    MarionRentableRoom_landlord = "Morrigan"
@@ -102,3 +102,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

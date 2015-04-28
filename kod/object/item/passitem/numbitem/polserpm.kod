@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   PolishedSeraphym_name_rsc = "polished seraphym"
+   PolishedSeraphym_name_rsc = "geschliffene Seraph"
    PolishedSeraphym_icon_rsc = serappol.bgf
-   PolishedSeraphym_desc_rsc = \
-      "They say that a perfect seraphym gem can be used to capture "
-      "the souls of your beaten enemies, damning them to an eternal "
-      "hell of torture and agony. However, it should be noted that "
-      "\"they\" are complete idiots who know nothing about magic." 
+   PolishedSeraphym_desc_rsc = "Man sagt, dass ein vollkommener Seraph-Edelstein benutzt werden kann, um damit die Seelen unserer geschlagenen Feinde gefangen zu nehmen und sie in eine ewige Hölle aus Schmerz und Agonie zu verdammen. Man sollte jedoch dazu sagen, dass \"sie\" komplette Idioten sind, die keine Ahnung von Magie haben."
 
-   PolishedSeraphym_name_plural_rsc = "polished seraphym"
+
+
+
+
+   PolishedSeraphym_name_plural_rsc = "geschliffene Seraph"
 
 classvars:
 
@@ -68,3 +68,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

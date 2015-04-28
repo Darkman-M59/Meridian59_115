@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   IllusionaryFireWall_name_rsc = "illusionary firewall"
+   IllusionaryFireWall_name_rsc = "Illusionsfeuerwand"
    IllusionaryFireWall_icon_rsc = iwallill.bgf
-   IllusionaryFireWall_desc_rsc = \
-      "Creates an illusionary wall of fire.  This wall will cause illusionary "
-      "wounds, which are never lethal, to victims walking through it.  "
-      "Requires rainbow ferns and firesand to cast."
+   IllusionaryFireWall_desc_rsc = "Erzeugt eine Illusionsfeuerwand. Diese Wand fügt jedem der Opfer, die sie durchschreiten, Illusionswunden bei. Dazu braucht man Feuersand und Regenbogenfarne."
 
-   IllusionaryFireWall_cast_rsc = \
-      "An illusionary wall of fire appears before you!"
-   IllusionaryFireWall_failed_rsc = \
-      "There is too much summoning magic focused here to create a wall of "
-      "fire."
+
+
+
+   IllusionaryFireWall_cast_rsc = "Eine Illusionsfeuerwand erscheint vor Dir!"
+
+   IllusionaryFireWall_failed_rsc = "Hier ist zu viel magische Energie versammelt, um eine Feuerwand zu erschaffen."
+
+
    IllusionaryFireWall_sound = farenwala822m.wav
 
 classvars:
@@ -278,3 +278,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

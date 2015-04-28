@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   poison_start = "Fresh poison courses through your veins like fire."
-   poison_stop  = "The poison abates somewhat."
+   poison_start = "Frisches Gift zirkuliert brennend wie Feuer durch Deine Venen."
+   poison_stop = "Die Wirkung des Gifts l‰ﬂt nach."
    poison_icon = iposoned.bgf
-   poison_name = "poison"
+   poison_name = "Das Gift"
 
-   poison_kraanan = "~IKraanan's magic fortifies you against the accursed venom!"
-   poison_desc = \
-   "Like fire under your skin, the poison burns with dangerous "
-   "strength, slowly sapping away at your strength, your health, "
-   "and your will to live."
+   poison_kraanan = "~IKraanans Zauber st‰rkt Dich gegen das verfluchte Blut!"
+   poison_desc = "Wie Feuer unter der Haut brennt das Gift mit gef‰hrlicher St‰rke. Seine Wirkung raubt Dir die Kraft, die Gesundheit und den Willen zu leben."
+
+
+
 
    poison_sound = poisoned.wav
 
@@ -87,3 +87,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

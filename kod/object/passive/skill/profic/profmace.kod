@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   Maceproficiency_name_rsc = "mace fighting"
+   Maceproficiency_name_rsc = "Streitkolbenkampf"
    Maceproficiency_icon_rsc = maceico.bgf
-   Maceproficiency_desc_rsc = "Allows one to become more proficient at Meridian's most common weapon."
+   Maceproficiency_desc_rsc = "Dies ermöglicht es, vertrauter mit einer der gebräuchlichsten Waffen Meridians zu werden."
 
-   Maceprof_skill_intro = "Weaponcraft Lv. 1: Skills in the land's most common, but least powerful, weapon."
+   Maceprof_skill_intro = "Waffenfertigkeiten Zirkel 2: Verbessert die Fähigkeiten mit der gebräuchlichsten, aber auch schwächsten Waffe des Landes."
 
 classvars:
 
@@ -47,3 +47,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   meatpie_name_rsc = "meat pie"
+   meatpie_name_rsc = "Der Trollkeks"
    meatpie_icon_rsc = meatpie.bgf
-   meatpie_desc_rsc = \
-   "A golden brown crust tops this gigantic pie.  "
-   "It is filled with stewed troll meat, cheese, and spices from far "
-   "lands."
+   meatpie_desc_rsc = "Diese Trollkekse sind mit einer goldbraunen Kruste überbacken und gefüllt mit geschmortem Trollfleisch, Käse und exotischen Gewürzen aus fernen Landen."
 
-   meatpie_name_plural_rsc = "meat pies"
+
+
+
+   meatpie_name_plural_rsc = "Trollkekse"
 
 classvars:
 
@@ -49,3 +49,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

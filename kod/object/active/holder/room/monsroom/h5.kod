@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsH5 = H5.roo
-   room_name_OutdoorsH5 ="The border of the Badlands"
-   OutdoorsH5_music = forest.mid
+   room_name_OutdoorsH5 = "Die Grenze zum Ödland"
+   OutdoorsH5_music = forest.mp3
 
 classvars:
 
@@ -71,3 +71,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

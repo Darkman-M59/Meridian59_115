@@ -15,13 +15,13 @@ constants:
 
 resources:
 
-   lightning_name_rsc = "lightning bolt"
+   lightning_name_rsc = "Blitzschlag"
    lightning_icon_rsc = lightnin.bgf
    lightning_look_icon = ilitning.bgf
-   lightning_hit_rsc = "Lightning strikes %s%s!"
-   lightning_desc_rsc = \
-      "Hurls a bolt of lightning at the target.  "
-      "Requires blue mushrooms and orc teeth to cast."
+   lightning_hit_rsc = "%s%s wird von einem Blitz getroffen!"
+   lightning_desc_rsc = "Schleudert einen Blitz auf das Ziel. Der Zauber benötigt Blaue Pilze und Orkzähne."
+
+
 
    lightning_sound = fbolt.wav
 
@@ -102,3 +102,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

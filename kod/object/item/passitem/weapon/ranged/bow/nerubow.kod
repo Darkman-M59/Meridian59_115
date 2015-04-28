@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   NeruditeBow_name_rsc = "nerudite bow"
-   NeruditeBow_desc_rsc = \
-      "They DO exist!  This bow was forged from the notoriously brittle nerudite "
-      "instead of carved from wood.  The bow doesn't look very flexible."
+   NeruditeBow_name_rsc = "Der Nerudit Bogen"
+   NeruditeBow_desc_rsc = "Und es gibt sie DOCH! Dieser Bogen wurde aus dem spröden Nerudit geformt, anstatt ihn aus Holz zu schnitzen. Der Bogen sieht nicht sehr flexibel aus."
 
-   NeruditeBow_shatters = "The nerudite bow shatters into a flurry of splinters!"
+
+
+   NeruditeBow_shatters = "Der Nerudit Bogen zerbirst in einem Hagel aus Splittern!"
 
 classvars:
 
@@ -86,3 +86,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

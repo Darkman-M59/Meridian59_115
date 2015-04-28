@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   longsword_name_rsc = "long sword"
+   longsword_name_rsc = "Das Langschwert"
    longsword_icon_rsc = sword.bgf
 
-   longsword_desc_rsc = \
-      "This blade of steel is the weapon of choice for both cutthroats and "
-      "noblemen.  Nearly four feet long, its heft is impressive.  The name "
-      "of its maker, Fehr'Loi Qan, is inscribed on its blade."
+   longsword_desc_rsc = "Diese Klinge aus Stahl ist die beste Waffe für Halsabschneider und Adlige. Sie besitzt eine Länge von mehr als einem Meter und ein eindruckvolles Gewicht. Der Name des Schmieds, Ferloi Qan, ist in die Klinge eingraviert."
+
+
+
 
    longsword_window_overlay_rsc = povsword.bgf
    longsword_player_overlay = swordov.bgf
@@ -58,3 +58,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -25,18 +25,18 @@ constants:
 
 resources:
 
-   room_name_MarionCrypt2 = "Resting place of Marion's ancestors"
+   room_name_MarionCrypt2 = "Die Ruhestätte der Ahnen Marions"
    room_MarionCrypt2 = MarDun02.roo
-   MarionCrypt2_music = Song.mid
+   MarionCrypt2_music = Song.mp3
 
-   MarionCrypt2_boss_message = \
-      "~kAn eerie voice echos, \"~IYou may not pass yet!~I\""
+   MarionCrypt2_boss_message = "~kDu hörst das Echo einer unheimlichen Stimme, \"~IDu darfst noch nicht vorbei!~I\""
 
-   MarionCrypt2_warning_sign_name = "Warning!"
-   MarionCrypt2_warning_sign = \
-      "By order of the King Far'Nohl none are to venture beyond this point.  "
-      "This place is lost to civility and those that enter are likely to "
-      "die.  No pity shall be given to those that cross this order. "
+
+   MarionCrypt2_warning_sign_name = "Warnung!"
+   MarionCrypt2_warning_sign = "Auf Geheiss von König Far'Nohl soll niemand diesen Punkt passieren.  Dieser Ort ist verloren und jene die ihn betreten werden höchstwahrscheinlich sterben.  Kein Mitleid für jene die diese Grenze überschreiten."
+
+
+
   
    MarionCrypt2_door_sound = stoneup2.wav
 
@@ -226,5 +226,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

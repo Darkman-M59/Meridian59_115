@@ -17,15 +17,15 @@ constants:
 resources:
 
    centipede_koc_name_rsc = "puuckinich"
-   centipede_name_rsc = "centipede"
+   centipede_name_rsc = "Der Tausendfüßler"
    centipede_icon_rsc = centip.bgf
-   centipede_desc_rsc = \
-   "Bright red plates make up the exoskeleton of this "
-   "giant centipede.  Instinct, not intellect, guides its "
-   "quest for nourishment."
+   centipede_desc_rsc = "Glänzende rote Schuppen umhüllen das Exoskelett des riesigen Tausendfüßlers. Instinkt, nicht Intelligenz, leiten diesen Allesfresser."
+
+
+
 
    centipede_dead_icon_rsc = centipX.bgf
-   centipede_dead_name_rsc = "dead centipede"
+   centipede_dead_name_rsc = "Ein toter Tausendfüßler"
 
    centipede_sound_hit = cnt_atkh.wav
    centipede_sound_miss = cnt_atkm.wav
@@ -117,3 +117,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

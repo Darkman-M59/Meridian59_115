@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   SmallBox_name_rsc = "personal chest"
+   SmallBox_name_rsc = "Die persönliche Truhe"
    SmallBox_icon_rsc = smwbox.bgf
 
-   SmallBox_desc_rsc = "This small wooden chest is just large enough to store a few things."
+   SmallBox_desc_rsc = "Die kleine hölzerne Truhe ist gerade groß genug, um ein paar Dinge darin zu lagern."
 
 classvars:
 
@@ -37,3 +37,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

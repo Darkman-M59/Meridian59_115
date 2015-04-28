@@ -16,31 +16,31 @@ constants:
 
 resources:
 
-   room_name_guest3 = "The Blacksmith of Hazar"
+   room_name_guest3 = "Der Schmied von Hazar"
    room_guest3 = guest3.roo
-   guest3_music = smithy.mid
+   guest3_music = smithy.mp3
 
    fire_sound_guest3 = fireplac.wav
 
-   guest3_signname = "buying items"   
-   guest3_sign = \
-      "You've come into this world virtually empty handed.  Fortunately, "
-      "you also started with a bit of cash, so that you might "
-      "buy some of the items you need to get started.  Go up to the blacksmith, "
-      "press return to enter the chat window, type BUY and press return again. "
-      "A list of items that the blacksmith has for sale will appear.  Choose the "
-      "items you want, and then press [OK].  First buy a weapon, and then "
-      "some armor.  If you have enough money "
-      "to pay for them all, they will appear in your inventory.\n\n"
-      "However, you're still unarmed.  Right-click on the weapon that you "
-      "purchased, and then press the [USE] button.  A yellow glow will "
-      "appear around it, meaning that you're wielding it.  Repeat this for "
-      "the armor. To remove an object from use, simply "
-      "right-click the object and press the [UNUSE] button.\n"
-      "You may also just double-click on an item in your inventory to use or unuse it."
-      "-------------\n" 
-      "When you're done here you should go to the tavern, the large brown "
-      "building at the east end of town."
+   guest3_signname = "Einkaufen"
+   guest3_sign = "Du bist in diese Welt fast ohne Hab und Gut gekommen. Glücklicherweise besitzt Du etwas Geld, um einige der Gegenstände zu erwerben, die Du für den Anfang brauchst. Begib Dich zum Schmied, gebe KAUFEN ein und drücke die Return-Taste. Daraufhin erscheint eine Liste der Gegenstände, die der Schmied zum Kauf anbietet. Wähle die gewünschten Waren aus und drücke [OK]. Kaufe zuerst eine Waffe und dann eine Rüstung. Wenn Du genug Geld besitzt, um für alles zu bezahlen, werden die Gegenstände anschließend in Deinem Gepäck auftauchen.\n\nTrotzdem bist Du immer noch unbewaffnet. Klicke mit der rechten Maustaste die Waffe an und drücke dann den [BENUTZEN]-Button. Ein gelbes Leuchten um sie herum zeigt Dir an, dass Du sie in Händen hältst. Wiederhole diesen Vorgang auch für die Rüstung. Um einen Gegenstand zu deaktivieren, einfach das Objekt anwählen (Rechtsklick) und den [ABLEGEN]-Button drücken.\nDu kannst einen Gegenstand in Deinem Inventar auch doppelt anklicken, um ihn zu benutzen oder wieder zurückzulegen.\nWenn Du damit fertig bist, solltest Du Dich in die Taverne begeben, das große braune Gebäude im Osten der Stadt."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -118,3 +118,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

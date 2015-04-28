@@ -19,17 +19,17 @@ constants:
 
 resources:
 
-   illusionaryform_name_rsc = "illusionary form"
+   illusionaryform_name_rsc = "Illusionsform"
    illusionaryform_icon_rsc = iillufrm.bgf
-   illusionaryform_desc_rsc = \
-      "The touch of Riija shifts your appearance to another at random.  "
-      "Requires web moss and rainbow fern to cast."
+   illusionaryform_desc_rsc = "Der Hauch des Riija ändert Dein Aussehen in irgendein anderes. Man braucht dazu Moosnetze und Regenbogenfarne."
 
-   illusionaryform_already_affected = "Your form is already modified."
 
-   illusionaryform_on = "You take the shape of %s%s."
-   illusionaryform_off = \
-      "Your illusionary form wears off; you appear to be yourself."
+
+   illusionaryform_already_affected = "Dein Körper hat sich bereits verwandelt."
+
+   illusionaryform_on = "%s%s ist nun Deine neue Gestalt."
+   illusionaryform_off = "Deine Illusionsform löst sich auf; Du scheinst wieder Du selbst zu sein."
+
 
 classvars:
 
@@ -533,3 +533,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

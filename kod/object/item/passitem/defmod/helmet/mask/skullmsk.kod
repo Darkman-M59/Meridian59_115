@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   SkullMask_name_rsc = "skull mask"
+   SkullMask_name_rsc = "Eine Totenkopfmaske"
    SkullMask_icon_male_rsc = mmskl.bgf
    SkullMask_icon_female_rsc = mfskl.bgf
-   SkullMask_desc_rsc = \
-      "An odd skull mask originally crafted in Ko'catan.  It's used to "
-      "represent death in certain island ceremonies."
+   SkullMask_desc_rsc = "Eine seltsame Maske, die ursprünglich in Ko'catan gefertigt wird. Sie repräsentiert den Tod in manchen Zeremonien der Insel."
+
+
 
 classvars:
 
@@ -40,5 +40,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

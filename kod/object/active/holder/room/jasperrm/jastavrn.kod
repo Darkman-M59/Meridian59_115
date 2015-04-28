@@ -17,12 +17,12 @@ constants:
 resources:
 
    room_jasperTavern = jastavrn.roo
-   room_name_JasperTavern = "Pietro's Wicked Brews"
+   room_name_JasperTavern = "Pietros süffiges Gebräu"
 
-   jasbar_music = bar.mid
+   jasbar_music = bar.mp3
    jastav_adv_icon = jbook.bgf
-   jastav_adv_name = "Tales of Adventure"
-   jastav_adv_desc = "Stories from the people of Meridian, collected by Bards"
+   jastav_adv_name = "Die Abenteurererzählungen"
+   jastav_adv_desc = "Geschichten des Volkes von Meridian, von Barden gesammelt"
 classvars:
 
    vrName = room_name_jaspertavern
@@ -136,3 +136,4 @@ messages:
       
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -15,25 +15,25 @@ constants:
 
 resources:
 
-   GlowWeapon_name_rsc = "glow"
+   GlowWeapon_name_rsc = "Glühen"
    GlowWeapon_icon_rsc = iglow.bgf
-   GlowWeapon_desc_rsc = \
-      "Enchants a weapon to glow like a torch. "
-      "Requires elderberries and mushrooms to cast."
+   GlowWeapon_desc_rsc = "Bringt eine Waffe dazu, wie eine Fackel zu glühen. Dieser Zauber benötigt Holunderbeeren und Pilze."
+
+
 
    GlowWeapon_sound = kglow.wav
 
-   GlowWeapon_spell_intro = "Kraanan Lv. 1: Enchants a weapon to glow like a torch."
+   GlowWeapon_spell_intro = "Kraanan Zirkel 1: Bringt eine Waffe dazu, wie eine Fackel zu glühen."
 
-   GlowWeapon_label_rsc = "illuminator."
+   GlowWeapon_label_rsc = "Leuchtklinge"
 
-   GlowWeapon_cast_rsc = "%s%s now glows like a torch."
-   GlowWeapon_no_can = "You cannot enchant %s%s to glow."
-   GlowWeapon_no_weapon = "%s%s has no wielded weapon."
-   GlowWeapon_broken = "You cannot enchant %s%s. It's broken."
-   GlowWeapon_already_stronger = \
-      "The weapon already has a stronger glow enchantment upon it."
-   GlowWeapon_cap_your = "Your "
+   GlowWeapon_cast_rsc = "%s%s glüht jetzt wie eine Fackel."
+   GlowWeapon_no_can = "Du kannst %s%s nicht zum Glühen bringen."
+   GlowWeapon_no_weapon = "%s%s hält keine Waffe."
+   GlowWeapon_broken = "Du kannst %s%s nicht verzaubern. Es ist kaputt."
+   GlowWeapon_already_stronger = "Diese Waffe glüht bereits."
+
+   GlowWeapon_cap_your = "Dein "
 
 classvars:
 
@@ -214,3 +214,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

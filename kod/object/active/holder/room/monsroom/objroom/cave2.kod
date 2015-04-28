@@ -17,9 +17,9 @@ constants:
 resources:
 
    room_cave2 = cave2.roo
-   room_name_cave2 = "A Deep, Dark, Spooky, Icky Cave"
+   room_name_cave2 = "Eine tiefe, dunkle und unheimliche Höhle"
 
-   cave2_music = song.mid
+   cave2_music = song.mp3
 
 classvars:
 
@@ -164,3 +164,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

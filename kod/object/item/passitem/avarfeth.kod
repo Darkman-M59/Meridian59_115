@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   AvarShamanFeather_name_rsc = "feather of an avar shaman"
+   AvarShamanFeather_name_rsc = "Die Feder eines Avar-Schamanen"
    AvarShamanFeather_icon_rsc = avfeathr.bgf
-   AvarShamanFeather_desc_rsc = \
-      "This is an undamaged tail feather from an avar shaman.  The strong barbs "
-	"of the feather would make excellent guides for an arrow shaft."
+   AvarShamanFeather_desc_rsc = "Diese ist die heile Schwanzfeder eines Avar-Schamanen. Die starken Spitzen der Feder würden hervorragende Lenkhilfen für einen Pfeilschaft abgeben."
+
+
 
 classvars:
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

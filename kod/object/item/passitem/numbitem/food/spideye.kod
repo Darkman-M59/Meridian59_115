@@ -16,25 +16,25 @@ constants:
 
 resources:
 
-   spideye_name_rsc = "spider eye"
+   spideye_name_rsc = "Das Spinnenauge"
    spideye_icon_rsc = spideye.bgf
-   spideye_desc_rsc = \
-      "Twice the size of an olive, and many times more tasty. "
-      "The eye of a giant spider has been known as a "
-      "delicacy, especially to the older residents of Marion."
+   spideye_desc_rsc = "Zweimal so groß wie eine Olive und mehrfach so lecker. Das Auge einer Riesenspinne ist als Delikatesse bekannt, vor allem unter den älteren Bewohnern von Marion."
 
-   spideye_name_plural_rsc = "spider eyes"
 
-   spideye_disp_name = "platter of raw spider eyes"
+
+
+   spideye_name_plural_rsc = "Spinnenaugen"
+
+   spideye_disp_name = "Die Platte mit rohen Spinnenaugen"
    spideye_disp_icon = eyeplate.bgf
-   spideye_disp_desc = "The giant spider is greatly feared by the commoner,"
-      " and is greatly prized by the nobles and adventurers of Meridian.  "
-      "The eyes of the spider are a rare but favorite delicacy, "
-      "especially given the difficulty of removing them from the spider intact."
+   spideye_disp_desc = "Die Riesenspinne wird gemeinhin gefürchtet sowohl von Edelleuten als auch von Abenteurern. Die Augen der Spinne sind eine seltene, aber begehrte Delikatesse, vor allem aufgrund der Schwierigkeit, sie aus der lebenden Spinne herauszuschneiden."
+
+
+
       
-   spideye_use = \
-      "The eyeball pops against your tongue "
-      "and gushes with sweet internal juices."
+   spideye_use = "Der Augapfel stößt gegen Deine Zunge, mit einem Schwall süßer Flüssigkeit."
+
+
 
 classvars:
 
@@ -68,3 +68,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

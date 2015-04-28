@@ -23,54 +23,54 @@ constants:
 resources:
 
    room_TosArena = tosarena.roo
-   name_TosArena = "The Arena of Kraanan"
+   name_TosArena = "Die Arena von Kraanan"
 
-   TosArena_music = pk_fm.mid
+   TosArena_music = pk_fm.mp3
 
    TosArena_commence_wav = forest.wav
    wind_sound_tosarena = ambcntry.wav
    wind1_sound_tosarena = rs_wind.wav
 
-   TosArena_no_offer = "The Watcher says, \"Spectators and combatants may not exchange goods during matches."
-   TosArena_no_attack = "You may not fight here unless you are a combatant."
-   TosArena_no_spell = "Only the combatants may cast spells."
-   TosArena_no_rescue = "No chickening out!"
-   TosArena_no_target = "That's awfully rude of you!"
-   TosArena_between_bouts = "No horseplay between bouts!"
+   TosArena_no_offer = "Der Meister der Arena sagt, \"Zuschauer und Teilnehmer dürfen während der Kämpfe keine Gegenstände austauschen."
+   TosArena_no_attack = "Du darfst hier nicht kämpfen, wenn Du kein Teilnehmer bist."
+   TosArena_no_spell = "Nur teilnehmende Kämpfer dürfen hier Zaubersprüche aussprechen."
+   TosArena_no_rescue = "Du kannst Dich nicht in Sicherheit bringen."
+   TosArena_no_target = "Das ist sehr unverschämt von Dir!"
+   TosArena_between_bouts = "Kein Unfug zwischen den Kampfrunden!"
 
-   TosArena_cant_go = "The Watcher says, \"You can't leave!  You're a combatant!\""
+   TosArena_cant_go = "Der Meister der Arena sagt, \"Ihr könnt nicht gehen! Ihr seid einer der Kämpfer!\""
 
-   TosArena_traditional = "Traditional"
-   TosArena_traditional_rules = "Traditional bouts are those between only two combatants, a champion "
-      "and a challenger.  If there is no champion, say CHAMPION to claim the title.  A potential "
-      "fighter then says CHALLENGE to challenge the champion.  The champion may then choose to either ACCEPT the "
-      "challenge or RENEGE his title."
-   TosArena_lastman = "Last Man Standing"
-   TosArena_lastman_rules = "Last man standing bouts may have up to 25 combatants.  First, a CHAMPION "
-      "must be declared.  Once someone CHALLENGES him, others have 30 seconds to also CHALLENGE.  "
-      "After the Watcher has begun the match, it's every man for himself.  The last gladiator left in "
-      "the ring wins the glory of Kraanan."
-   TosArena_guildvguild = "Guild Vs Guild"
-   TosArena_guildvguild_rules = "Two guilds may choose to combat each other.  A representative "
-      "from one guild registers that guild as the CHAMPION, and then a member of "
-      "the challenging guild proffers a CHALLENGE.  At this point, other guild members "
-      "from both guilds have 30 seconds to join in, although no more than 10 "
-      "people from any one guild may participate."
-   TosArena_battleRoyale = "Battle Royale"
-   TosArena_battleRoyale_rules = "A mix between last man standing and guild vs guild, "
-      "first a CHAMPION is needed, and then other guild members from other guilds may "
-      "CHALLENGE.  Any number of guilds may take part in the proceedings, but there may "
-      "be no more than 5 members of any one guild in the pit, and no more than 25 combatants total."
+   TosArena_traditional = "Traditionell"
+   TosArena_traditional_rules = "In traditionellen Kämpfen gibt es nur zwei Teilnehmer, einen Champion und einen Herausforderer. Wenn es keinen Champion gibt, sage CHAMPION, um den Titel für Dich zu beanspruchen. Ein weiterer Krieger sagt dann HERAUSFORDERN, um Dich herauszufordern. Der Champion kann die Herausforderung AKZEPTIEREN oder seinen Titel AUFGEBEN."
 
-   TosArena_rules = "Rules"
-   TosArena_rules_rules = \
-      "* Between bouts, any person may say the name of a combat style to change combat styles.  "  
-      "However, all matches must be over and any current champions must RENEGE their titles.\n"
-      "* Magic and combat are limited to between combatants on the arena pit.  Players in the "
-      "stands cannot be harmed by wayward combatants.\n"
-      "* The Watcher reserves the right to make the proceedings more... interesting... if "
-      "he so desires.\n"
-      "* Matches are 'to the death'.  However, combatants suffer no ill effects from arena death."
+
+
+   TosArena_lastman = "Kampf bis zum letzten Mann"
+   TosArena_lastman_rules = "Kämpfe bis auf den letzten Mann haben bis zu 25 Teilnehmer. Zunächst muss ein CHAMPION ausgerufen werden. Sobald es einen Herausforderer gibt, haben die anderen 30 Sekunden Zeit, um ebenfalls herauszufordern. Nachdem der Meister der Arena die Schlacht eröffnet hat, ist jeder auf sich allein gestellt. Der letzte Gladiator im Ring erntet den Ruhm Kraanans."
+
+
+
+   TosArena_guildvguild = "Gilde gegen Gilde"
+   TosArena_guildvguild_rules = "Zwei Gilden können sich gegenseitig herausfordern. Ein Repräsentant der einen Gilde erklärt seine Gruppe zum CHAMPION. Anschließend kann ein Mitglied der anderen Gilde mit HERAUSFORDERN am Kampf teilnehmen. Zu diesem Zeitpunkt können weitere Gildenmitglieder innerhalb von 30 Sekunden einsteigen - allerdings insgesamt nicht mehr als 10 Teilnehmer pro Gilde."
+
+
+
+
+   TosArena_battleRoyale = "Königlicher Kampf"
+   TosArena_battleRoyale_rules = "Eine Mischung aus Kampf bis zum letzten Mann und Gilde gegen Gilde, bei der zunächst ein CHAMPION bestimmt wird. Anschließend können Mitglieder anderer Gilden mit HERAUSFORDERN am Kampf teilnehmen. Die Anzahl der teilnehmenden Gilden ist nicht beschränkt, aber pro Gilde dürfen nur 5 Mitglieder teilnehmen und insgesamt nicht mehr als 25 Kämpfer."
+
+
+
+
+   TosArena_rules = "Regeln"
+   TosArena_rules_rules = "* Zwischen den Kämpfen kann jeder Teilnehmer den Kampfstil durch Eingabe eines neuen Stils ändern. Allerdings müssen alle Kämpfe entschieden sein und alle amtierenden Champions müssen ihre Titel AUFGEBEN. \n* Die Anwendung von Magie und Kampf ist nur den Teilnehmern erlaubt. Zuschauer auf den Tribünen können von versprengten Teilnehmern nicht verletzt werden.\n* Der Meister der Arena hat das Recht, den Kampf etwas ...interessanter... zu gestalten, wenn er dies wünscht.\n* Die Kämpfe werden bis zum Tod gefochten. Allerdings erleiden die Teilnehmer keinen dauerhaften Schaden aus einem Tod innerhalb der Arena."
+
+
+
+
+
+
+
 
    TosArena_traditional_icon = arsign01.bgf
    TosArena_lastman_icon = arsign02.bgf
@@ -78,10 +78,10 @@ resources:
    TosArena_guild_icon = arsign04.bgf
    TosArena_battleroyale_icon = arsign05.bgf
 
-   TosArena_start_tournament = "Banners unfurl and bugles warble to signify the beginning of the Royal Tournament!"
-   TosArena_end_tournament = "The Royal Tournament has come to an end."
-   TosArena_doors_locked = "You lock the doors of the Arena of Kraanan.  Players may now only enter if a Guardian brings them here."
-   TosArena_doors_unlocked = "You unlock the doors to the Arena, so that all may enter once again."
+   TosArena_start_tournament = "Die Banner werden gehißt und die Hörner erklingen, um das Königliche Turnier zu eröffnen!"
+   TosArena_end_tournament = "Das Königliche Turnier ist beendet."
+   TosArena_doors_locked = "Du verschließt die Pforten der Arena von Kraanan. Spieler können jetzt nur eintreten, wenn ein Wächter sie geleitet."
+   TosArena_doors_unlocked = "Du entriegelst die Pforten der Arena. Der Weg ist jetzt für alle Spieler frei."
 
    TosArena_Fanfare_Sound = fanfare1.wav
    TosArena_Combat_Sound = arena1.wav
@@ -755,3 +755,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

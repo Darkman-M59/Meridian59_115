@@ -20,13 +20,13 @@ constants:
 
 resources:
 
-   vigorboon_name_rsc = "vigor effect"
+   vigorboon_name_rsc = "Ausdauer"
    vigorboon_icon_rsc = iboonvig.bgf
-   vigorboon_desc_rsc = "Your vigor seems unnaturally affected."
-   vigorboon_intro_rsc = "The vigor of the victim is boosted temporarily."
+   vigorboon_desc_rsc = "Deine Ausdauer scheint unnatürlich verändert zu sein."
+   vigorboon_intro_rsc = "Die Ausdauer des Betroffenen ist vorübergehend stark gesteigert."
 
-   vigorboon_inc = "You suddenly feel more energetic!"
-   vigorboon_dec = "You feel less energetic."
+   vigorboon_inc = "Du fühlst Dich energiegeladen!"
+   vigorboon_dec = "Du fühlst, dass Deine Energie nachgelassen hat."
 
 classvars:
    viPersonal_ench = True
@@ -76,3 +76,4 @@ messages:
    }
 
 end
+

@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   BrittleWand_label_name_rsc = "wand of weapon weakening"
+   BrittleWand_label_name_rsc = "Stab der Waffenschwächung"
    BrittleWand_icon_rsc = wand6.bgf
-   BrittleWand_desc_rsc = "Magical energy crackles about this slender wand."
+   BrittleWand_desc_rsc = "Magische Energien umströmen diesen dünnen Stab."
 
 classvars:
 
@@ -35,3 +35,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

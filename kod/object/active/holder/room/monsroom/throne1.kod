@@ -19,13 +19,13 @@ constants:
 
 resources:
 
-   name_throne1 = "The Throne Room of Victoria Castle" 
+   name_throne1 = "Der Thronsaal von Schloss Viktoria"
    room_throne1 = throne1.roo
 
-   throne1_music = castle2.mid
+   throne1_music = castle2.mp3
 
-   throne1_ghost_spawn = \
-      "~kA raspy voice moans, \"~r~IWitness my revenge, tresspasser!~I~k\""
+   throne1_ghost_spawn = "~kEine kratzende Stimme ächzt, \"~r~IErwarte meine Rache, Eindringling!~I~k\""
+
    ghost_spawn_wav_rsc = ghost_respawn.wav
 
 classvars:
@@ -183,3 +183,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

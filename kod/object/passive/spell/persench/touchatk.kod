@@ -20,13 +20,13 @@ constants:
 
 resources:
 
-   TouchAttackSpell_name_rsc = "Touch Spell"
+   TouchAttackSpell_name_rsc = "Berührungszauber"
    TouchAttackSpell_icon_rsc = light.bgf
-   TouchAttackSpell_desc_rsc = "This is a touch spell that does damage."
+   TouchAttackSpell_desc_rsc = "Dies ist ein Berührungszauber, der Schaden verursacht."
 
-   TouchAttack_Succeed_rsc = \
-      "You have cast a touch attack on another player.  This is a bug.  "
-      "Please report it.  Have a nice day."
+   TouchAttack_Succeed_rsc = "Du hast einen Griffzauber auf einen anderen Spieler gesprochen. Dies ist ein Bug. Bitte melde ihn."
+
+
    TouchAttack_missed1_sound = swswish1.wav
    TouchAttack_missed2_sound = swswish2.wav
    TouchAttack_missed3_sound = swswish3.wav
@@ -407,3 +407,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

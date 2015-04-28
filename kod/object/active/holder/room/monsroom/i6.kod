@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsI6 = I6.roo
-   room_name_OutdoorsI6 ="Outskirts of Tos"
-   OutdoorsI6_music = walk1.mid
+   room_name_OutdoorsI6 = "Auﬂenbezirk von Tos"
+   OutdoorsI6_music = walk1.mp3
 
 classvars:
 
@@ -74,3 +74,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

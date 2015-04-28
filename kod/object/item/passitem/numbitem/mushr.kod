@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   redmushroom_name_rsc = "red mushroom"
+   redmushroom_name_rsc = "Der Rote Pilz"
    redmushroom_icon_rsc = mushroom.bgf
-   redmushroom_desc_rsc = \
-      "These magical mushrooms singe your nostrils with a mysterious, acrid odor."
+   redmushroom_desc_rsc = "Diese magischen Pilze füllen Deine Nase mit einem merkwürdigen, beißenden Geruch."
 
-   redmushroom_name_plural_rsc = "red mushrooms"
+
+   redmushroom_name_plural_rsc = "Rote Pilze"
 
 classvars:
 
@@ -52,3 +52,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

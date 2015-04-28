@@ -17,19 +17,19 @@ constants:
 resources:
    
    dark_fairy_koc_name_rsc = "teotimixlal"
-   dark_fairy_name_rsc = "fey dirhai"
+   dark_fairy_name_rsc = "Der Fey Dirhai"
 	
    dark_fairy_icon_rsc = faerie-e.bgf
-   dark_fairy_desc_rsc = \
-	   "Dark, mischievious and ultimately malicious, these imps have but "
-	   "one goal - to bring the Quilicia wood into permanent darkness, so "
-	   "they can claim the Vale of Sorrows as their own.  They hate their "
-	   "kinsmen, the fey elhai, with a fervent passion."
+   dark_fairy_desc_rsc = "Dunkel, boshaft und heimtückisch: Diese Kobolde haben nur ein Ziel - die Wälder von Qulicia in ewige Dunkelheit zu stürzen, um das Tal der Trauer selbst in Besitz zu nehmen. Sie hassen ihre Artgenossen, die Fey Elhai, mit verzehrender Leidenschaft."
+
+
+
+
 
    darkfairy_fireball = feyball.bgf
 
    darkfairy_dead_icon_rsc = faerieXE.bgf
-   darkfairy_dead_name_rsc = "dead fey"
+   darkfairy_dead_name_rsc = "Ein toter Fey"
 	
    darkfairy_sound_hit = evl_atkh.wav
    darkfairy_sound_miss = evl_atkm.wav
@@ -197,3 +197,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

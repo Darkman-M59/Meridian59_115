@@ -21,14 +21,14 @@ constants:
 
 resources:
 
-   LichMaze_room_name = "The Dungeon of Castle Brax"
+   LichMaze_room_name = "Das Verlies von Brax"
    LichMaze_room = lichmaze.roo
-   LichMaze_music = nec03.mid
+   LichMaze_music = nec03.mp3
 
    LichMaze_door_sound = necmaze.wav
    LichMaze_loop = necloop2.wav
 
-   LichMaze_guildwarning = "Your amulet vibrates for a moment, startling you."
+   LichMaze_guildwarning = "Du erschrickst, als Dein Amulett kurz vibriert."
 
 classvars:
 
@@ -248,4 +248,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -19,51 +19,51 @@ constants:
 
 resources:
 
-   PrincessShield_name_rsc = "shield of the Princess' army"
+   PrincessShield_name_rsc = "Ein Schild der Armee der Prinzessin."
 
-   PrincessShield_desc_rsc = \
-      "This shield identifies you as a proud member of the Princess' army."
+   PrincessShield_desc_rsc = "Dieser Schild identifiziert dich als stolzes Mitglied der Armee der Prinzessin."
 
-   PrincessShield_ArmyName = "the Royal army"
+
+   PrincessShield_ArmyName = "der königlichen Armee"
 
    PrincessShield_emblem_over = gshprov.bgf
    PrincessShield_emblem_drop = gshpr.bgf
    PrincessShield_emblem_back = gshprbk.bgf
 
-   PrincessShield_welcome_mail = "Subject: Welcome to the Royal army.\n"
-      "Greetings.  I welcome you as a new ally in our fight to keep the throne from the "
-      "forces that would see us come to harm.\n\n"
-      "There are a few rules you must observe while acting as a soldier.\n\n"
-      "SOLDIER SHIELD: Your shield is the sign that you are an official part of the "
-      "Royal army.  You must keep this equipped at all times in order to demonstrate "
-      "your position.\n\n"
-      "ENEMY SOLDIERS: As agreed, you can be attacked by any enemy soldier in any place "
-      "that is not a haven (such as a inn or hall).  Your attacker will not be recognized "
-      "as a criminal for attacking or killing you.  Likewise, you can attack enemies "
-      "without fear of penalty.  Note that attacking any fellow soldiers will vex me "
-      "greatly, and I will remove you as a soldier and a member of my faction.  Also, our "
-      "righteousness allows you to do additional damage with all your attacks to these "
-      "enemy soldiers.  Please realize that deaths at the hands of enemy soldiers are "
-      "real, and you will suffer the usual penalties.\n\n"
-      "RANKS: Your position within the army is determined by your actions.  Killing enemy "
-      "soldiers will allow you promotion within the ranks of the army.  Being killed or "
-      "remaining inactive for long periods of time will show you a decrease in rank.  "
-      "Do not try to escape combat by leaving this world in unsafe areas as this will "
-      "also lower your rank.\n\n"
-      "ABILITIES: With your status as a faction soldier, I will show you additional ways "
-      "to increase your power.  I will make you more intelligent and able to comprehend "
-      "all things mystical.  I will also teach you ways to reduce the cost of your "
-      "spells.  The potence of these abilities will increase as you gain ranks.\n\n"
-      "THE COUNCILORS: The councilors have declared that the tokens are too delicate to "
-      "be entrusted to the hands of soldiers.  Therefore, you are instructed not to pick "
-      "up any tokens you may find.  I encourage you to find an ally to take the token to "
-      "the proper councilor should you find one.  Likewise, the councilos have declared "
-      "that only faction soldiers may claim territory now.  The flags in my chambers may "
-      "now only be carried by recognized soldiers of my faction.\n\n"
-      "LOYALTY: While in the service of the royal army, I will not ask you to prove your "
-      "loyalty as before.  You should concentrate on maintaining your rank.\n\n"
-      "May Shal'ille guide your actions to ensure our victory!\n\n"
-      "Signed, The Princess Kateriina, regent to Meridian."
+   PrincessShield_welcome_mail = "Betreff: Willkommen in der königlichen Armee.\n\nGrüße. Ich heiße dich als neuen Verbündeten in unserem Kampf, den Thron gegen Mächte, die uns schaden wollen zu verteidigen willkommen.\n\nEs gibt einige Regeln, die du in deiner Rolle als Soldat einhalten musst.\n\n\nDER FRAKTIONSSCHILD: Dein Schild ist das Zeichen, dass du offiziell ein Teil der königlichen Armee bist. Du musst es immer tragen, um deine Position zu demonstrieren.\n\nFEINDLICHE SOLDATEN: Du hast dich damit einverstanden erklärt, dass du jederzeit von gegnerischen Soldten in unsicheren Gebieten angegriffen werden kannst. Dein Angreifer wird für solch einen Angriff, selbst wenn er dich tötet nicht als Krimineller bestraft werden. Genauso kannst du Feinde angreifen, ohne eine Strafe dafür befürchten zu müssen. Beachte, dass ein Angriff auf unsere eigenen Soldaten mich sehr ärgern würde. In solch einem Fall werde ich dich sowohl als Soldat als auch als Mitglied unserer Fraktion entlassen. Unsere Rechtschaffenheit birgt für dich die Möglichkeit, mit jedem Angriff feindlichen Soldaten zusätzlichen Schaden zuzufügen. Denke auch daran, dass der Tod durch die Hand feindlicher Soldaten echt ist, du wirst die üblichen Strafen erleiden müssen.\n\nRÄNGE: Deine Position innerhalb der Armee wird durch deine Handlungen bestimmt. Das Töten von feindlichen Soldaten erlaubt deinen Aufstieg in den Rängen der Armee. Wenn du getötet wirst oder wenn du für eine längere Zeit inaktiv bleibst wirst du einen Abstieg in den Rängen erfahren. Versuche nicht, Kämpfen zu entgehen indem du diese Welt in unsicheren Gebieten verlässt, denn das wird deinen Rang ebefalls vermindern.\n\nFÄHIGKEITEN: Mit deinem Status als Fraktionssoldat werde ich dir zusätzliche Wege aufzeigen, deine Macht zu vergrößern. Ich werde dich intelligenter machen und dich in die Lage versetzen, alle mystischen Dinge zu verstehen. Ich werde dich auch Wege lehren, die Kosten deiner magischen Sprüche zu reduzieren. Das Potenzial dieser Fähigkeiten steigt mit deinem Rang.\n\nDIE RATSMITGLIEDER: Die Ratsmitlgieder haben festgelegt, dass die Artefakte zu sensibel sind, um sie den Händen von Soldaten anzuvertrauen. Daher wirst du instruiert, keine Artefakte aufzuheben, die du finden könntest. Ich ermutige dich dazu, einen Verbündeten zu suchen, der das Artefakt zum richtigen Ratsmitglied bringt, solltest du eines finden. Zusätzlich haben die Ratsmitglieder festgesetzt, dass von nun an nur noch Soldaten Gebiete erobern dürfen. Die Flaggen in meinem Saal dürfen nur von anerkannten Soldaten meiner Fraktion getragen werden.\n\nLOYALITÄT: Solange du der königlichen Armee dienst, werde ich dich nicht dazu auffordern, mir deine Loyalität zu beweisen, wie ich es sonst tue. Du solltest dich darauf konzentrieren deinen Rang zu erhalten.\n\n\nMöge Sha Lill unsere Taten führen und unseren Sieg sichern!\n\n\nGezeichnet, Prinzessin Kateriina, Regentin Meridians."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -161,3 +161,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

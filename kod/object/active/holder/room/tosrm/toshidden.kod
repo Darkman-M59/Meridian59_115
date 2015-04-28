@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_TosHidden = "Secret Passage"
+   room_name_TosHidden = "Der geheime Durchgang"
    room_TosHidden = toshidden.roo
-   TosHidden_music = ksong.mid
+   TosHidden_music = ksong.mp3
 
 classvars:
 

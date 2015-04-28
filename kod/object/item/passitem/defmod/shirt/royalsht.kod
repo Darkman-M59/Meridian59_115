@@ -16,11 +16,11 @@ constants:
 
 resources:
    
-   royalshirt_name_rsc = "royal shirt"
+   royalshirt_name_rsc = "Das königliche Hemd"
  
-   royalshirt_desc_rsc = \
-      "This is a royal shirt handstitched by the famed seamstress Madelia.  It is the "
-      "latest fashion, considered the mark of high class."
+   royalshirt_desc_rsc = "Dies ist ein von der berühmten Schneiderin Madelia mit der Hand genähtes königliches Hemd. Es ist nach der neusten Mode, wenn man die hochwertigen Zeichen der auf das Kleidungsstück aufgestickten prächtigen Handschuhe in Betracht zieht."
+
+
 
 classvars:
 
@@ -77,5 +77,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

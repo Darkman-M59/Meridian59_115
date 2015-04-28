@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   Councilor_name_rsc = "Councilor"
+   Councilor_name_rsc = "Ratsmitglied"
    Councilor_icon_rsc = hermit.bgf
    Councilor_desc_rsc = ""
 
-   blank_spec_rsc=""
-   con_token_delivered_rsc = "Thank you. You have done me a great service. %s %s"
-   con_duke_delivered_rsc = "I will pay more attention to the matters which concern the Duke."
-   con_princess_delivered_rsc = "I will look with more favor on the Princess Kateriina's ideas."
-   con_rebel_delivered_rsc = "I will look upon rebellion as a sign of good change."
-   con_neutral_delivered_rsc = "I shall endeavor to be as impartial at the court as ye."
+   blank_spec_rsc = " "
+   con_token_delivered_rsc = "Danke. Du hast mir einen großen Dienst erwiesen. %s %s"
+   con_duke_delivered_rsc = "Ich werde der Sache des Herzogs mehr Aufmerksamkeit widmen."
+   con_princess_delivered_rsc = "Ich halte mehr von Prinzessin Kateriinas Ideen."
+   con_rebel_delivered_rsc = "Ich sehe die Rebellion als Zeichen für einen Wandel zum Guten an."
+   con_neutral_delivered_rsc = "Ich werde mich bemühen, am Hof so unparteiisch wie Ihr zu sein."
 
 classvars:
    
@@ -116,3 +116,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

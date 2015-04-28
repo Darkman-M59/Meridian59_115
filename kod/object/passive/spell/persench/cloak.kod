@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   Cloak_name_rsc = "cloak"
+   Cloak_name_rsc = "Verhüllen"
    Cloak_icon_rsc = icloak.bgf
-   Cloak_desc_rsc = \
-   "Qor shrouds your astral body in shifting shadows, allowing you to elude magical tracking.  "
-   "Requires entroot berries to cast."
+   Cloak_desc_rsc = "Qor hüllt Deinen Astralkörper in Schatten, und schützt Dich vor magischer Verfolgung. Der Zauber benötigt Wurzelknollen."
+
+
    
-   Cloak_on_rsc = "It feels as though your very spirit has become somehow indistinct."
-   Cloak_off_rsc = "You feel more conspicuous."
-   Cloak_already_enchanted_rsc = "You are already cloaked."
-   Cloak_Succeed_rsc = "You wrap a magical cloak around %s%s."
+   Cloak_on_rsc = "Du fühlst, wie Deine Seele irgendwie undeutlich wird."
+   Cloak_off_rsc = "Du fühlst Dich auffälliger."
+   Cloak_already_enchanted_rsc = "Du bist bereits verhüllt."
+   Cloak_Succeed_rsc = "Du legst einen magischen Mantel um %s%s."
 
    Cloak_sound = qcloak.wav
 
@@ -120,3 +120,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

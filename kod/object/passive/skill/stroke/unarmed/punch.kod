@@ -15,17 +15,17 @@ constants:
    include blakston.khd
 
 resources:
-   punch_name_rsc = "punch"
+   punch_name_rsc = "Boxen"
    punch_icon_rsc = punchico.bgf
-   punch_desc_rsc = "This is the most basic hand-to-hand combat move.  Can be very strong for a powerful warrior, but is extremely tiring."
+   punch_desc_rsc = "Dies ist die gebräuchlichste Art, waffenlos zu kämpfen. Von einem starken Krieger ausgeführt, kann es sehr effektiv sein, ist aber auch äußerst ermüdend. "
 
-   punch_player_was_hit = "%s%s connects a punch solidly on your jaw."
-   punch_player_hit_something = "%sYou hit %s%s with a hard right cross."
+   punch_player_was_hit = "%s%s trifft Dich mit einer Geraden am Kinn."
+   punch_player_hit_something = "%s%s%s wird von Dir mit einem harten, rechten Aufwärtshaken getroffen."
 
-   punch_player_killed_something = "%s%s crumples to the ground, never to rise again."
-   punch_player_was_killed = "The last thing you see is %s%s's fist speeding towards your nose."
+   punch_player_killed_something = "%s%s taumelt zu Boden, um sich nie mehr zu erheben."
+   punch_player_was_killed = "Das Letzte, was Du siehst, ist die Faust von %s%s kurz vor Deiner Nase."
 
-   punch_skill_intro = "Weaponcraft Lv. 1: The most basic of fighting skills, used by fighters and mages alike."
+   punch_skill_intro = "Waffenfertigkeit Zirkel 1: Die grundlegende Fertigkeit des Kampfes, die sowohl von Kämpfern als auch in ähnlicher Weise von Magiern angewendet wird."
 classvars:
 
    vrName = punch_name_rsc
@@ -94,3 +94,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

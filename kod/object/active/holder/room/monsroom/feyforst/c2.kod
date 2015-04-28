@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   room_name_OutdoorsC2 = "The Vale of Sorrows"
+   room_name_OutdoorsC2 = "Das Tal der Trauer"
    room_OutdoorsC2 = C2.roo
-   OutdoorsC2_music = walk7.mid
+   OutdoorsC2_music = walk7.mp3
 
-   c2_elhai_win = \
-      "~IVictorious, the elhai invite all of those pure of heart to drink "
-      "deeply from their mana node."
-   c2_dirhai_win = \
-      "~ITriumphant in their dark victory, the dirhai invite any of similiar "
-      "scruples to meld with the node."
+   c2_elhai_win = "~IDie siegreichen guten Feen laden alle Abenteurer reinen Herzens ein, sich an ihrer magischen Energiequelle zu laben."
+
+
+   c2_dirhai_win = "~INach ihrem großen Triumph laden die bösen Feen alle Gleichgesinnten ein, mit ihrer magischen Energiequelle zu verschmelzen."
+
+
    waterfall_sound_outdoorsc2 = wfall2.wav
 
 classvars:
@@ -315,3 +315,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

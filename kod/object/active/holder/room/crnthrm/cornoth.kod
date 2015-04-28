@@ -19,9 +19,9 @@ constants:
 resources:
 
    room_CorNoth = CorNoth.roo
-   room_name_CorNoth ="Cor Noth"
+   room_name_CorNoth = "Cor Noth"
 
-   cor_music = city04.mid
+   cor_music = city04.mp3
    wind_sound_cornoth = ambcntry.wav
    wind1_sound_cornoth = rs_wind.wav
 
@@ -159,3 +159,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

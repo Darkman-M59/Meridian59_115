@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   TotemFive_name_rsc = "The Emperor's Chalice"
+   TotemFive_name_rsc = "Der Kelch des Kaisers"
    TotemFive_icon_rsc = qo01.bgf
-   TotemFive_desc_rsc = "Fabricated in the 5th century, this one of a kind heirloom was meant to be delivered as "
-         "a gift to the Emperor of the old land.  Before the couriers could set out, the Nexus snapped, "
-         "destroying any possible route to the empire.  The Chalice was lost for centuries, thought to be "
-         "absconded with by thieves.\n\n"
-         "Being one of a kind, this Chalice can not be carried in one's possession for very long or tucked away "
-         "in a chest."
+   TotemFive_desc_rsc = "Dieses einzigartige Erbstück, das im fünften Jahrhundert hergestellt wurde, sollte dem Kaiser des alten Landes als Geschenk überreicht werden. Ehe die Kuriere ausgesandt werden konnten, zerstörte Nexus alle möglichen Routen ins Reich. Der Kelch war für Jahrhunderte verschollen und man nahm an, er sei von Dieben gestohlen worden.\n\nVon diesen Kelchen kann man nur einen für eine kurze Zeit besitzen. Er kann auch nicht mitgenommen oder in einer Kiste verwahrt werden."
+
+
+
+
+
 
 classvars:
 
@@ -48,3 +48,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   BrawlingProficiency_name_rsc = "brawling"
+   BrawlingProficiency_name_rsc = "Ringen"
    BrawlingProficiency_icon_rsc = brawlico.bgf
-   BrawlingProficiency_desc_rsc = "This allows the combatant to fight better unarmed."
+   BrawlingProficiency_desc_rsc = "Dies erlaubt es dem Kämpfer, unbewaffnet besser zu kämpfen."
 
-   Brawl_skill_intro = "Weaponcraft Lv. 2: Advanced tricks in unarmed combat, building on the punch skill."
+   Brawl_skill_intro = "Waffenfertigkeiten Zirkel 2: Verbesserte Tricks im waffenlosen Kampf und Ausbau der Fähigkeiten im Faustkampf."
 
 classvars:
 
@@ -51,3 +51,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

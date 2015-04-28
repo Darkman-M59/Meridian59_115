@@ -16,20 +16,20 @@ constants:
 
 resources:
 
-   ArmorOfGort_name_rsc = "armor of Gort"
+   ArmorOfGort_name_rsc = "Gorts Panzer"
    ArmorOfGort_icon_rsc = igort.bgf
-   ArmorOfGort_desc_rsc = \
-      "Surrounds the caster with a powerful field which deflects "
-      "damage from extreme blows.  "
-      "Requires blue dragon scale to cast."
+   ArmorOfGort_desc_rsc = "Umgibt den Zaubernden mit einem mächtigen Schutz, der schweren Schaden durch harte Schläge abwehrt. Der Zauber benötigt Drachenschuppen."
+
+
+
    
-   ArmorOfGort_already_enchanted_rsc = "You already have the Armor of Gort."
+   ArmorOfGort_already_enchanted_rsc = "Du hast den Gorts Panzer-Zauber bereits ausgeführt."
 
-   ArmorOfGort_on_rsc = "Your skin feels taut as the Armor of Gort forms around you."
-   ArmorOfGort_off_rsc = "Your Armor of Gort dissipates."
-   ArmorOfGort_success_rsc = "%s%s's skin tightens as the Armor of Gort forms."
+   ArmorOfGort_on_rsc = "Deine Haut fühlt sich straff an, als sich Gorts Panzer um Dich legt."
+   ArmorOfGort_off_rsc = "Gorts Panzer verflüchtigt sich."
+   ArmorOfGort_success_rsc = "%s%s's Haut strafft sich durch Gorts Panzer."
 
-   ArmorOfGort_spell_intro = "Kraanan Level 5: Magical armor that protects the caster."
+   ArmorOfGort_spell_intro = "Kraanan Zirkel 5: Begrenzt den Schaden, der angerichtet wird."
 
 classvars:
 
@@ -124,3 +124,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

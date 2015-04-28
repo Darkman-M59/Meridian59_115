@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   TotemThree_name_rsc = "Minjaka Vase"
+   TotemThree_name_rsc = "Die Minjaka-Vase"
    TotemThree_icon_rsc = qo06.bgf
-   TotemThree_desc_rsc = "Antiquarians claim there only to be a few of the priceless Minjaka Vases left in "
-         "existence.  These exquisitely mastered vases use to line the throne room of Castle Victoria during the "
-         "Minjakan dynasty of explorers in the second century.\n\n"
-         "Being one of a kind, this vase can not be carried in one's possession for very long or tucked away in "
-         "a chest."
+   TotemThree_desc_rsc = "Antiquitätensammler behaupten, dass es nur noch ein paar dieser unbezahlbaren Minjaka-Vasen gäbe. Diese exquisit ausgeführten Vasen schmückten den Thronsaal von Schloss Viktoria in der Minjaka-Dynastie der Forscher im zweiten Jahrhundert.\n\nVon den Vasen kann man nur eine für kurze Zeit bestizen. Sie können auch nicht mitgenommen oder in einer Kiste verwahrt werden."
+
+
+
+
 
 classvars:
 
@@ -47,3 +47,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

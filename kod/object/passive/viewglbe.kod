@@ -15,17 +15,17 @@ constants:
    include blakston.khd
 
 resources:
-ViewPointGlobe_name = "Globe of Seeing"
-ViewPointGlobe_icon = necglobe.bgf
-ViewPointGlobe_desc = "Gazing into this globe will allow you to see out of the globe to which it is magically "
-      "linked.  While your viewpoint is thus magically transferred, you will be unable to cast spells or "
-      "attack.  When you wish to stop gazing into the globe, simply press the Esc key "
-      "and your viewpoint will return to normal."
+   ViewPointGlobe_name = "Beobachtungskugel"
+   ViewPointGlobe_icon = necglobe.bgf
+   ViewPointGlobe_desc = "In diese Kugel zu starren, erlaubt Dir, durch diejenige Kugel zu sehen, mit der sie magisch verbunden ist. Während Dein Blickfeld magisch transferiert ist, kannst Du keine Zauber sprechen oder angreifen. Wenn Du nicht mehr in die Kugel starren möchtest, drücke die ESC-Taste und Dein Blickfeld wird wieder normal."
 
-ViewPointGlobe_not_in_range = "You are not close enough to the globe to see into it."
-ViewPointGlobe_used = "You gaze deep into the globe, and find that you can see through "
-   "into a different location!\n"
-   "[Press Esc when you are ready to return to your normal viewpoint.]"
+
+
+
+   ViewPointGlobe_not_in_range = "Du bist nicht nahe genug an der Kugel, um in sie hineinzusehen."
+   ViewPointGlobe_used = "Du starrst tief in die Kugel und stellst fest, dass Du durch sie zu einem fernen Ort blicken kannst!\n[Drücke ESC, wenn Du bereit bist, in die normale Welt zurückzukehren.]"
+
+
 
 classvars:
 
@@ -67,3 +67,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

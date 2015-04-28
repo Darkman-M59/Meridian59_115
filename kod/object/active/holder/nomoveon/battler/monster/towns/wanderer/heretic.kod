@@ -23,14 +23,14 @@ resources:
    Heretic_name_rsc = "Miriana"
    Heretic_icon_rsc = wnhereti.bgf
    Heretic_possessed_icon_rsc = wnheret2.bgf
-   Heretic_desc_rsc =  \
-      "Outcast by the religious community due to her blasphemous views of the gods, "
-      "Miriana dances by herself far from the rigid walls of civilization.  Some call her a "
-      "heretic, others a child, but all seem to find something dangerous about the distant "
-      "girl."
+   Heretic_desc_rsc = "Ausgestoßen von der religiösen Gemeinde wegen Ihrer blasphemischen Ansichten über die Götter, tanzt Miriana alleine, weit weg von aller Zivilisation. Einige nennen sie eine Ketzerin, andere ein Kind, dennoch, etwas scheint sehr gefährlich an diesem seltsamen Mädchen."
 
-   heretic_inexperienced = "I will not teach these arts to one so weak."
-   Heretic_already_have_spell = "Silly!  You already know the %s spell."
+
+
+
+
+   heretic_inexperienced = "Ich werde diese Künste niemanden lehren, der so schwach ist."
+   Heretic_already_have_spell = "Dummerchen! Du beherrschst den %s-Spruch bereits."
 
 classvars:
 
@@ -172,3 +172,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

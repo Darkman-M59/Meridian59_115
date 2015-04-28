@@ -18,17 +18,17 @@ resources:
 
    Cornoth_grocer_name_rsc = "Solomon"
    Cornoth_grocer_icon_rsc = cngrocer.bgf
-   Cornoth_grocer_desc_rsc = "This shop reflects the fine and exotic tastes of its proprietor.  "
-      "Solomon has collected goods and art from unimaginable corners of the known world, and is "
-      "rumored to have relics and artifacts from even beyond that."
+   Cornoth_grocer_desc_rsc = "Dieses Geschäft reflektiert den feinen und ausgefallenen Geschmack seines Besitzers.Solomon hat Waren und Kunstgegenstände aus aller Herren Länder gesammelt und man munkelt, dass er sogar Relikte und Artefakte aus noch weiter entfernten Gegenden hat."
 
-   CnGro_entry_welcome = "Oh welcome, welcome, welcome!"
 
-   CnGro_unwanted_keep = "~k%s%s tells you, \"What a generous friend I have!  "
-         "You bless me with your kindness!~n~k\""
-   CnGro_unwanted_pay = "~k%s%s tells you, \"I will pay what it is worth, and not a shilling more.~n~k\""
-   CnGro_unwanted_give = "~k%s%s tells you, \"Surely you are making a small joke at my expense!  "
-         "You must know that Solomon deals only in quality, and that is garbage!~n~k\""
+
+   CnGro_entry_welcome = "Oh, willkommen, willkommen, willkommen!"
+
+   CnGro_unwanted_keep = "~k%s%s sagt zu Dir, \"Was für einen großzügigen Freund ich habe! Du machst mich glücklich mit Deiner Freundlichkeit!~n~k\""
+
+   CnGro_unwanted_pay = "~k%s%s sagt zu Dir, \"Ich werde zahlen, was es wert ist, und keinen Schilling mehr.~n~k\""
+   CnGro_unwanted_give = "~k%s%s sagt zu Dir, \"Sicherlich machst Du gerade einen Scherz auf meine Kosten! Du musst wissen, dass Solomon nur mit wertvollen Gegenständen handelt, und das hier ist Müll!~n~k\""
+
 
 classvars:
 
@@ -120,3 +120,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

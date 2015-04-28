@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   tosnews_god_name = "Designers' News"
-   tosnews_god_desc = "Check here for information from the game administrators."
+   tosnews_god_name = "Neues von den Designern"
+   tosnews_god_desc = "Neueste Informationen der Administratoren."
 
    room_tosinn = tosinn.roo
-   room_name_tosinn = "Familiars"
+   room_name_tosinn = "Brunnenkneipe"
 
-   tosinn_music = bar.mid
+   tosinn_music = bar.mp3
 
-   tosinn_no_rooms = "~kPaddock calls out, \"Sorry, we don't have any vacant rooms right now.\""
-   tosinn_locked_basement = "The basement door is locked."
-   tosinn_locked_cabinet = "~kPaddock says, \"Hey, keep out of my pantry!\""
-   tosinn_locked_confused = "~kPaddock mumbles, \"Where do you think you're gonna go?\""
+   tosinn_no_rooms = "~kPaddock sagt, \"Es tut mir leid, zur Zeit habe ich keine freien Zimmer.\""
+   tosinn_locked_basement = "Die Kellertür ist verschlossen."
+   tosinn_locked_cabinet = "~kPaddock sagt, \"Hey, bleib aus meiner Vorratskammer!\""
+   tosinn_locked_confused = "~kPaddock murmelt, \"Hey, was meinst du, wo du da hingehst?\""
 
 classvars:
 
@@ -134,3 +134,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

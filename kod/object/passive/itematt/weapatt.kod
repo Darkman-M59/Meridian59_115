@@ -35,16 +35,16 @@ constants:
 
 resources:
 
-   weapatt_slight = "a slight"
-   weapatt_small = "a small"
-   weapatt_swift = "a swift"
-   weapatt_moderate = "a moderate"
-   weapatt_damaging = "a damaging"
-   weapatt_solid = "a solid"
-   weapatt_potent = "a potent"
-   weapatt_severe = "a severe"
-   weapatt_enormous = "an enormous"
-   weapatt_crushing = "a crushing"
+   weapatt_slight = "geringen"
+   weapatt_small = "kleinen"
+   weapatt_swift = "flinken"
+   weapatt_moderate = "mäßigen"
+   weapatt_damaging = "schädigenden "
+   weapatt_solid = "soliden"
+   weapatt_potent = "mächtigen"
+   weapatt_severe = "ernsten"
+   weapatt_enormous = "enormen"
+   weapatt_crushing = "zermalmenden"
       
 classvars:
 
@@ -262,3 +262,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

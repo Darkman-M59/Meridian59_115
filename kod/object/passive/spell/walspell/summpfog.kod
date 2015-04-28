@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   SummonPoisonFog_name_rsc = "poison fog"
+   SummonPoisonFog_name_rsc = "Giftnebel"
    SummonPoisonFog_icon_rsc = ipoiscld.bgf
-   SummonPoisonFog_desc_rsc = \
-      "Creates a pungent cloud of poisonous fog.  "
-      "Requires entroot berries to cast."
+   SummonPoisonFog_desc_rsc = "Erschafft eine Wolke beißenden Giftnebels. Benötigt Wurzelknollen."
+
+
                               
-   SummonPoisonFog_cast_rsc = \
-      "A thick, pungent fog rises from the ground before you."
-   SummonPoisonFog_failed_rsc = \
-      "There is too much summoning magic focused here to create fog." 
+   SummonPoisonFog_cast_rsc = "Ein dichter, beißender Nebel kommt aus dem Boden vor Dir."
+
+   SummonPoisonFog_failed_rsc = "Es gibt hier zuviel Beschwörungsmagie, um einen Giftnebel zu erschaffen."
+
 
    SummonPoisonFog_sound = qor.wav
 
@@ -201,3 +201,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

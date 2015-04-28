@@ -16,22 +16,22 @@ constants:
 
 resources:
 
-   KaraholsCurse_name_rsc = "Kara'hol's curse"
+   KaraholsCurse_name_rsc = "Kara'hols Fluch"
    KaraholsCurse_icon_rsc = ikarahol.bgf
-   KaraholsCurse_desc_rsc = \
-      "Your body is possessed by the spirit of the warrior "
-      "Kara'hol for a brief period, enhancing the ferocity of "
-      "your attacks.  When the spirit departs, your body "
-      "is temporarily paralyzed from shock.  "
-      "Requires the sacrifice of a few entroot berries to cast."
-   
-   KaraholsCurse_on = \
-      "The spirit of Kara'hol descends upon you making your "
-      "blood boil and your muscles twitch with newfound vigor."
-   KaraholsCurse_off = "Your body freezes as total exhaustion grips your limbs."
-   KaraholsCurse_already_enchanted_rsc = "Your blood already boils with Kara'hol's spirit!"
+   KaraholsCurse_desc_rsc = "Dein Körper wird für eine kurze Zeit vom Geist des Kriegers Kara'hol in Besitz genommen, der die Härte deiner Attacken erhöht. Wenn Kara'hols Geist dich wieder verlässt, wird er deinen Körper für kurze Zeit lähmen. Benötigt das Opfer einiger Wurzelknollen."
 
-   Karahols_spell_intro = "Qor Lv. 2: Temporarily gives you berserker combat abilities, but with a price to pay later."
+
+
+
+
+   
+   KaraholsCurse_on = "Der Geist Kara'hols senkt sich auf Dich herab und läßt Dein Blut kochen und die Muskeln mit neuer Kraft anschwellen. "
+
+
+   KaraholsCurse_off = "Dein Körper erstarrt, als totale Erschöpfung in Deine Glieder fährt."
+   KaraholsCurse_already_enchanted_rsc = "Dein Blut kocht bereits vom Geist Karahols!"
+
+   Karahols_spell_intro = "Qor Zirkel 2: Gibt Dir vorübergehend Berserker-Kräfte, jedoch zu einem Preis, den Du später zu zahlen hast."
 
    KaraholsCurse_sound = qkcurse.wav
 
@@ -135,3 +135,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

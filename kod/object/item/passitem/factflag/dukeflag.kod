@@ -17,8 +17,8 @@ constants:
 resources:
 
    DukeFlag_icon_rsc = flagdinv.bgf
-   DukeFlag_name_rsc = "flag of the Duke"
-   DukeFlag_desc_rsc = "This flag bears the royal colors of the Duke, protector of Tos."
+   DukeFlag_name_rsc = "Eine Flagge des Herzogs"
+   DukeFlag_desc_rsc = "Die Flagge zeigt die königlichen Farben des Herzogs, des Beschützers von Tos."
 
 classvars:
    
@@ -40,4 +40,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

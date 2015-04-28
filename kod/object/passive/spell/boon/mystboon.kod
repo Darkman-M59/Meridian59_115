@@ -20,13 +20,13 @@ constants:
 
 resources:
 
-   mystboon_name_rsc = "mysticism effect"
+   mystboon_name_rsc = "Magie"
    mystboon_icon_rsc = iboonmys.bgf
-   mystboon_desc_rsc = "You feel a change in your natural mysticism."
-   mystboon_intro_rsc = "The mysticism of the victim is boosted temporarily."
+   mystboon_desc_rsc = "Du spürst eine Veränderung Deiner eigenen mystischen Begabung."
+   mystboon_intro_rsc = "Die mystische Begabung des Betroffenen ist vorübergehend deutlich größer."
 
-   mystboon_inc = "You feel more magically powerful!"
-   mystboon_dec = "You suddenly feel less magically powerful."
+   mystboon_inc = "Du fühlst Dich auf dem Gebiet der Magie mächtiger!"
+   mystboon_dec = "Du spürst, dass Du plötzlich weniger magische Kräfte hast."
 
  
 classvars:
@@ -66,3 +66,4 @@ messages:
    }
 
 end
+

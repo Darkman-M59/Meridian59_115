@@ -20,12 +20,12 @@ constants:
 resources:
 
    room_temple = temple.roo
-   room_name_temple = "The Temple of Shal'ille"
+   room_name_temple = "Der Sha-Lill Tempel"
 
-   temple_open = "Open"
-   temple_close = "Close"
+   temple_open = "Offen"
+   temple_close = "Geschlossen"
 
-   temple_music = temple.mid
+   temple_music = temple.mp3
 
 classvars:
 
@@ -135,3 +135,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

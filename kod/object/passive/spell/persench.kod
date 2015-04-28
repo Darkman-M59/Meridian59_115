@@ -16,20 +16,20 @@ constants:
 
 resources:
 
-   PersonalEnchantment_name_rsc = "personal enchantment"
+   PersonalEnchantment_name_rsc = "Persönlicher Zauber"
    PersonalEnchantment_icon_rsc = iheat.bgf
-   PersonalEnchantment_desc_rsc = \
-      "An enchantment which is attached to a particular player."
+   PersonalEnchantment_desc_rsc = "Eine Verzauberung, die auf einen bestimmten Spieler gerichtet ist."
 
-   PersonalEnchantment_already_enchanted_rsc = "You are already enchanted."
-   PersonalEnchantment_On_rsc = "Your body tingles with magical energy."
-   PersonalEnchantment_Off_rsc = "You feel your magical field crackle and dissipate."
-   PersonalEnchantment_Success_rsc = "You enchant %s%s."
-   PersonalEnchantment_Target_Already_Enchanted_rsc = "%s%s tried to cast %s%s on you."
-   PersonalEnchantment_Other_Already_Enchanted_rsc = "%s%s is already affected by that magic."
-   PersonalEnchantment_bad_target = "You cannot enchant %s%s."
 
-   PersonalEnchantment_bad_location = "You cannot cast enchantments upon others here."
+   PersonalEnchantment_already_enchanted_rsc = "Du bist bereits verzaubert."
+   PersonalEnchantment_On_rsc = "Dein Körper brennt voll magischer Energie."
+   PersonalEnchantment_Off_rsc = "Das magisches Feld um Deinen Körper beginnt zu flackern und erlischt."
+   PersonalEnchantment_Success_rsc = "Du verzauberst %s%s."
+   PersonalEnchantment_Target_Already_Enchanted_rsc = "%s%s versucht %s%s auf Dich zu zaubern."
+   PersonalEnchantment_Other_Already_Enchanted_rsc = "%s%s ist schon verzaubert."
+   PersonalEnchantment_bad_target = "Du kannst %s%s nicht verzaubern."
+
+   PersonalEnchantment_bad_location = "Du kannst hier keine Zauber auf andere Spieler anwenden."
 
 classvars:
 
@@ -253,3 +253,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

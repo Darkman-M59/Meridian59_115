@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   Mint_name_rsc = "chocolate mint"
+   Mint_name_rsc = "Minzschokolade"
    Mint_icon_rsc = roommint.bgf
-   Mint_desc_rsc = \
-      "A small block of imported Kocatani chocolate infused with a strain of mint "
-      "which only grows in Faronath, this delicacy is purported to have certain "
-      "magical properties in addition to its unquestionable appeal to the taste "
-      "buds."
+   Mint_desc_rsc = "Diese kleine Tafel importierter Kocatani-Schokolade mit einem Kern aus leckerer Minze, die nur in den Wäldern von Faronath wächst, hat einen unbestritten feinen Geschmack. Diese Delikatesse soll außerdem gewisse magische Eigenschaften haben."
 
-   Mint_name_plural_rsc = "chocolate mints"
+
+
+
+
+   Mint_name_plural_rsc = "Tafeln Minzschokolade"
       
-   Mint_use = \
-      "The mint dissolves against your tongue into a mess of chocolatey goodness, "
-      "sending a thrill of pleasure down your spine."
+   Mint_use = "Die zarte Schokolade zergeht auf Deiner Zunge und vermischt sich langsam zu einer minzig-süßen Creme, die eine Welle der Ekstase durch Deinen Körper strömen läßt."
+
+
 
 classvars:
 
@@ -64,3 +64,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

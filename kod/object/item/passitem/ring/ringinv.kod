@@ -19,17 +19,17 @@ constants:
 
 resources:
 
-   ringinvisibility_name_rsc = "ring of invisibility"   
+   ringinvisibility_name_rsc = "Der Unsichtbarkeits-Ring"
    ringinvisibility_icon_rsc = ring1.bgf
-   ringinvisibility_desc_rsc = "This ring bears strange markings and seems to shimmer, making it difficult to see clearly."
+   ringinvisibility_desc_rsc = "Dieser Ring trägt seltsame Zeichen und scheint so zu schimmern, dass es schwer fällt, klar zu sehen."
 
-   ringinvisibility_use = "Your physical form shimmers and then disappears altogether."
+   ringinvisibility_use = "Deine menschliche Form beginnt zu schimmern und löst sich gleichzeitig auf."
    ringinvisibility_use_wav_rsc = invis_ring.wav
   
-   ringinvisibility_dead_rsc = "Your ring of invisibility goes cold, having expended its magical energy."
+   ringinvisibility_dead_rsc = "Dein Ring der Unsichtbarkeit erkaltet, nachdem seine magischen Kräfte aufgezehrt sind."
 
-   ringinvisibility_already_invisible_rsc = \
-   "You can't use the ring of invisibility because you are already invisible."
+   ringinvisibility_already_invisible_rsc = "Du kannst den Ring der Unsichtbarkeit nicht einsetzen, da Du bereits unsichtbar bist."
+
 
 classvars:
 
@@ -167,4 +167,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

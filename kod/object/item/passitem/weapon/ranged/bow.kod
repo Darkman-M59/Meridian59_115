@@ -19,11 +19,11 @@ constants:
 
 resources:
 
-   bow_name_rsc = "bow"
-   bow_icon_rsc = bow.bgf          
+   bow_name_rsc = "Bogen"
+   bow_icon_rsc = bow.bgf
 
-   bow_desc_rsc = \
-      "This bow offers the advantage of long ranged attacks." 
+   bow_desc_rsc = "Dieser Bogen bietet den Vorteil von Angriffen auf groﬂe Entfernungen."
+
 
    bow_top = bowaov.bgf
    bow_bottom = bowbov.bgf
@@ -289,3 +289,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

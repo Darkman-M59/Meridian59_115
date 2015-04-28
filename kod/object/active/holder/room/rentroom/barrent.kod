@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   BarloqueRentableRoom_name = "A tastefully appointed room"
+   BarloqueRentableRoom_name = "Ein geschmackvoll eingerichteter Raum"
    BarloqueRentableRoom_roo = barrent.roo
 
-   BarloqueRentableRoom_landlord = "Pritchett"
+   BarloqueRentableRoom_landlord = "Pritchet"
 
 classvars:
 
@@ -103,3 +103,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -34,210 +34,210 @@ constants:
 
 resources:
 
-   NecromancerGuild_name_rsc = "Order of Necromancers"
+   NecromancerGuild_name_rsc = "Orden der Nekromanten"
    NecromancerGuild_icon_rsc = idarknes.bgf
-   NecromancerGuild_desc_rsc = "An ancient order of evil mages who labor to bring darkness "
-      "into the world."
+   NecromancerGuild_desc_rsc = "Ein altertümlicher Orden böser Magier, die beabsichtigen, Dunkelheit über die Welt zu bringen."
 
-   NecromancerGuild_master = "Supreme Necromancer"
-   NecromancerGuild_mistress = "Supreme Necromancer"
-   NecromancerGuild_lieutenant_Male = "Deathmage"
-   NecromancerGuild_lieutenant_female = "Deathmage"
-   NecromancerGuild_lord = "Warlock"
-   NecromancerGuild_lady = "Witch"
-   NecromancerGuild_sir = "Initiate"
-   NecromancerGuild_madame = "Initiate"
-   NecromancerGuild_apprentice = "Fledgling"
-   NecromancerGuild_apprenticette = "Fledgling"
 
-   NecromancerGuild_threeperson_failing = "The Order of the Necromancers has fewer than 3 members.  "
-         "If you do not get your membership up to three in the next %i %s, "
-         "my grip on this plane of reality will slip and you will all perish along with me!"
+   NecromancerGuild_master = "Höchster Nekromant"
+   NecromancerGuild_mistress = "Höchste Nekromantin"
+   NecromancerGuild_lieutenant_Male = "Todesmagier"
+   NecromancerGuild_lieutenant_female = "Todesmagierin"
+   NecromancerGuild_lord = "Hexer"
+   NecromancerGuild_lady = "Hexe"
+   NecromancerGuild_sir = "Eingeweihter"
+   NecromancerGuild_madame = "Eingeweihte"
+   NecromancerGuild_apprentice = "Grünschnabel"
+   NecromancerGuild_apprenticette = "Grünschnabel"
 
-   NecromancerGuild_threeperson_failed = "The Order of the Necromancers has been disbanded for lack of membership."
+   NecromancerGuild_threeperson_failing = "Der Orden der Nekromanten hat weniger als 3 Mitglieder. Wenn Du die Mitgliederzahl nicht innerhalb der nächsten %i %s auf drei erhöhst, wird meine Herrschaft über diese Realitätsebene nachlassen und Ihr werdet alle mit mir umkommen!"
 
-   NecromancerGuild_welcome = "~BPlease welcome the newest member of %s%q, %s."
-   NecromancerGuild_induct_already_guilded = "You are already the member of a guild."
-   NecromancerGuild_induct_already_member = "You are already a member of this guild."
 
-   NecromancerGuild_lieut_cant_promote = "%ss cannot promote guild members above the rank of %s."
-   NecromancerGuild_cant_promote_lieut = "You cannot promote someone above %s because there may only be one %s."
-   NecromancerGuild_cant_promote_capt = "A guild may not have more than two members of rank %s."
-   NecromancerGuild_cant_promote_sire = "There are too many members of rank %s to promote another to that status."
 
-   NecromancerGuild_promotee = "~B%q has promoted you to the rank of %s!"
-   NecromancerGuild_promoter = "~BYou promote %q to the the rank of %s."
-   NecromancerGuild_promoted = "~B%s has promoted %q to the rank of %s."
-   NecromancerGuild_promotee_no_promoter = "~BYou have been promoted to the rank of %s!"
-   NecromancerGuild_promote_too_high = "You can't promote someone to a rank so high it doesn't exist!"
+   NecromancerGuild_threeperson_failed = "Der Orden der Nekromanten wurde wegen Mitgliedermangels aufgelöst."
 
-   NecromancerGuild_demotee = "~B%q has demoted you to the rank of %s!"
-   NecromancerGuild_demoter = "~BYou demote %q to the the rank of %s!"
-   NecromancerGuild_demoted = "~B%s has demoted %q to the rank of %s."
-   NecromancerGuild_demotee_no_demoter = "~BYou have been demoted to the rank of %s!"
+   NecromancerGuild_welcome = "~BHeißt das neueste Mitglied der Gilde %s%q willkommen: %s!"
+   NecromancerGuild_induct_already_guilded = "Du bist bereits Mitglied einer Gilde."
+   NecromancerGuild_induct_already_member = "Du bist bereits Mitglied dieser Gilde."
 
-   NecromancerGuild_demote_apprentice = "You can't demote someone of rank %s!  They can't go any lower!"
-   NecromancerGuild_demote_equal_higher = "You can't demote someone who is equal or better to you in rank!"
+   NecromancerGuild_lieut_cant_promote = "%ss kann Gildenmitglieder nicht über den Rang %s befördern."
+   NecromancerGuild_cant_promote_lieut = "Du kannst niemanden über %s befördern, da es nur einen %s geben kann."
+   NecromancerGuild_cant_promote_capt = "Eine Gilde darf nicht mehr als zwei Mitglieder des Ranges %s haben."
+   NecromancerGuild_cant_promote_sire = "Es gibt zu viele Mitglieder des Ranges %s, um ein weiteres Mitglied in diesen Status zu befördern."
 
-   NecromancerGuild_cant_vote_outsider = "You can't vote for %q%s, who does not belong to %s%q!"
-   NecromancerGuild_cant_vote_nonuser = "%s%s thanks you for your support.  Really."
+   NecromancerGuild_promotee = "~B%q hat Dir den Rang %s verliehen!"
+   NecromancerGuild_promoter = "~BDu beförderst %q in den Rang %s. "
+   NecromancerGuild_promoted = "~B%s hat %q den Rang %s verliehen. "
+   NecromancerGuild_promotee_no_promoter = "~BDu wurdest in den Rang %s befördert!"
+   NecromancerGuild_promote_too_high = "Du kannst niemand auf einen Rang befördern, der gar nicht existiert!"
 
-   NecromancerGuild_descension = "~BYou have been ousted as %s of %s%q!"
-   NecromancerGuild_ascension = "~BCongratulations!  You are the new %s of %s%q!"
+   NecromancerGuild_demotee = "~B%q hat Dich in den Rang %s degradiert!"
+   NecromancerGuild_demoter = "~BDu degradierst %q in den Rang %s!"
+   NecromancerGuild_demoted = "~B%s hat %q in den Rang %s degradiert."
+   NecromancerGuild_demotee_no_demoter = "~BDu wurdest in den Rang %s degradiert!"
 
-   NecromancerGuild_reassure = "~B%s promises you continued political support."
-   NecromancerGuild_talking_to_self = "~BYou reassure yourself once again that you really do like yourself."
-   NecromancerGuild_support_withers = "~BYou can feel your political support wither."
+   NecromancerGuild_demote_apprentice = "Du kannst niemanden des Ranges %s degradieren! Es geht nicht niedriger!"
+   NecromancerGuild_demote_equal_higher = "Du kannst niemand herabsetzen, der den gleichen oder höheren Rang als Du besitzt!"
 
-   NecromancerGuild_support_self = "~BYou decide to make your own bid to lead %s%q."
-   NecromancerGuild_support_other = "~BYou pledge your support to %q to lead %s%q."
-   NecromancerGuild_supported = "~B%s pledges to support you on your bid to lead %s%q."
+   NecromancerGuild_cant_vote_outsider = "Du kannst nicht für %q%s stimmen. Diese Person gehört nicht der Gilde %s%q an!"
+   NecromancerGuild_cant_vote_nonuser = "%s%s bedankt sich für Deine Unterstützung."
 
-   NecromancerGuild_new_master = "~BCongratulate %q, the new %s of %s%q!"
-   NecromancerGuild_abdicate = "~B%s has chosen to abdicate his position leading %s%q."
+   NecromancerGuild_descension = "~BDu wurdest als %s von %s%q verdrängt!"
+   NecromancerGuild_ascension = "~BGlückwunsch! Du bist %s von %s%q!"
 
-   NecromancerGuild_allies_defunct = "~BYour honorable ally, %s%q, has disbanded."
-   NecromancerGuild_enemies_defunct = "~BYour hated enemy, %s%q, has disbanded."
+   NecromancerGuild_reassure = "~B%s verspricht Dir, Dich weiterhin politisch zu unterstützen."
+   NecromancerGuild_talking_to_self = "~BDu versicherst Dir noch einmal selbst, dass Du Dich wirklich magst."
+   NecromancerGuild_support_withers = "~BDu spürst, dass Du immer weniger politische Unterstützung bekommst."
 
-   NecromancerGuild_cant_ally_enemy = "You cannot declare an alliance with %s%q!  They are your sworn enemies!"
-   NecromancerGuild_already_allies = "Your guild already has an alliance with %s%q!"
-   NecromancerGuild_not_member_currently = "You are not a member of %s%q and cannot form alliances on their behalf!"
-   NecromancerGuild_not_qualified = "You are not high enough in rank to forge alliances with other guilds!"
-   NecromancerGuild_cant_enemy_ally = "You cannot declare an allied guild an enemy without first ending the alliance!"
-   NecromancerGuild_already_enemies = "Members of %s%q are already hated enemies of %s%q!"
+   NecromancerGuild_support_self = "~BDu beschließt, selbst Deinen Führungsanspruch über %s%q anzumelden."
+   NecromancerGuild_support_other = "~BDu schwörst, %q bei der Führung der Gilde %s%q zu unterstützen."
+   NecromancerGuild_supported = "~B%s schwört, Dich bei Deinem Führungsanspruch über %s%q zu unterstützen."
 
-   NecromancerGuild_new_allies = "~BToday marks the forging of an alliance between %s%q and %s%q."
-   NecromancerGuild_new_enemies = "~BBe it known that members of %s%q are sworn enemies of %s%q!"
-   NecromancerGuild_declared_enemies = "~BBe it known that %s%q have declared themselves the enemies of %s%q!"
-   NecromancerGuild_declared_allies = "~BBe it known that %s%q have declared themselves allies to your guild, %s%q!"
+   NecromancerGuild_new_master = "~BGratuliere %q, %s von %s%q!"
+   NecromancerGuild_abdicate = "~B%s hat beschlossen, die Führung der Gilde %s%q niederzulegen."
 
-   NecromancerGuild_end_alliance = "~BBe it known that the alliance twixt %s%q and %s%q has been shattered!"
-   NecromancerGuild_not_enemies = "~BBe it known that members of %s%q are no longer the enemies of %s%q."
+   NecromancerGuild_allies_defunct = "~BDein ehrenwerter Verbündeter, die Gilde %s%q, hat sich losgesagt."
+   NecromancerGuild_enemies_defunct = "~BDein verhaßter Feind, die Gilde %s%q, hat sich aufgelöst."
 
-   NecromancerGuild_end_declared_alliance = "~BBe it known that %s%q have decided to end their alliance with %s%q."
+   NecromancerGuild_cant_ally_enemy = "Du kannst Dich mit der Gilde %s%q nicht verbünden! Sie sind Deine erklärten Feinde!"
+   NecromancerGuild_already_allies = "Deine Gilde ist bereits mit der Gilde %s%q verbündet!"
+   NecromancerGuild_not_member_currently = "Du bist kein Mitglied der Gilde %s%q und kannst in ihrem Namen keine Bündnisse abschließen!"
+   NecromancerGuild_not_qualified = "Du bist nicht hochrangig genug, um Bündnisse mit anderen Gilden abzuschließen!"
+   NecromancerGuild_cant_enemy_ally = "Du kannst eine andere Gilde nicht zum Feind erklären, bevor Du nicht das Bündnis mit ihr aufgekündigt hast!"
+   NecromancerGuild_already_enemies = "Die Mitglieder der Gilde %s%q sind bereits die verhaßten Gegner der Gilde %s%q!"
 
-   NecromancerGuild_not_declared_enemies = "~BBe it known that members of %s%q have ceased their hostilities towards %s%q."
+   NecromancerGuild_new_allies = "~BHeute ist der Tag, an dem das Bündnis zwischen den Gilden %s%q und %s%q in Kraft tritt."
+   NecromancerGuild_new_enemies = "~BHiermit wird bekanntgegeben, dass die Mitglieder der Gilde %s%q die erklärten Feinde der Gilde %s%q sind!"
+   NecromancerGuild_declared_enemies = "~BHiermit wird bekanntgegeben, dass die Gilde %s%q der Gilde %s%q feindlich gesinnt ist!"
+   NecromancerGuild_declared_allies = "~BHiermit wird bekanntgegeben, dass sich die Gilde %s%q mit Deiner Gilde %s%q verbündet hat!"
 
-   NecromancerGuild_mature = "~B%s%q is now a mature guild, meaning it can now own and conquer guild halls."
+   NecromancerGuild_end_alliance = "~BHiermit wird bekanntgegeben, dass das Bündnis zwischen den Gilden %s%q und %s%q zerbrochen ist!"
+   NecromancerGuild_not_enemies = "~BHiermit wird bekanntgegeben, dass die Mitglieder der Gilde %s%q der Gilde %s%q nicht mehr feindlich gesinnt sind."
 
-   NecromancerGuild_hour_rsc = "hour"
-   NecromancerGuild_hours_rsc = "hours"
+   NecromancerGuild_end_declared_alliance = "~BHiermit wird bekanntgegeben, dass die Gilde %s%q ihr Bündnis mit der Gilde %s%q aufkündigen will."
 
-   NecromancerGuild_rent_nonpayment = "~BYour dark queen has perished from starvation.  "
-      "Your amulet detonates, ripping your body to shreds."
-   NecromancerGuild_rent_due_5 = "~BQueen Venya'cyr tells you, \"~r~BOh, my negligent servants!  "
-      "My hunger is a burning coal within my breast, and you have abandoned me!  "
-      "If I do not feed suffienctly in the next %i %s, "
-      "I will slip back into the darkness, and you shall all follow me!~n~B\""
-   NecromancerGuild_rent_due_4 = "~BQueen Venya'cyr tells you, \"~r~BI hunger very greatly, my minions.  "
-      "You have been grossly negligent in your duties to me.  "
-      "My physical form is dissolving...  If I do not feed suffienctly in the next %i %s, "
-      "I will slip back into the darkness, and you shall all follow me!~n~B\""
-   NecromancerGuild_rent_due_3 = "~BQueen Venya'cyr tells you, \"~r~BI hunger very greatly, my minions.  "
-      "My physical form is dissolving...  If I do not feed suffienctly in the next %i %s, "
-      "I will slip back into the darkness, and you shall all follow me!~n~B\""
-   NecromancerGuild_rent_due_2 = "~BQueen Venya'cyr tells you, \"~r~BI hunger greatly, my minions.  "
-      "My physical form is dissolving...  If I do not feed suffienctly in the next %i %s, "
-      "I will slip back into the darkness, and you shall all follow me!~n~B\""
-   NecromancerGuild_rent_due_1 = "~BQueen Venya'cyr tells you, \"~r~BI hunger, my minions.  "
-      "My physical form is dissolving...  If I do not feed suffienctly in the next %i %s, "
-      "I will slip back into the darkness, and you shall all follow me!~n~B\""
+   NecromancerGuild_not_declared_enemies = "~BHiermit wird bekanntgegeben, dass die Gilde %s%q ihre Feindschaft mit der Gilde %s%q beendet hat."
 
-   NecromancerGuild_new_hall = "~B%s is the new home of %s%q!"
-   NecromancerGuild_abandon_hall = "~B%s is no longer the home of %s%q!"
-   NecromancerGuild_hall_conquered = "~B%s, home of %s%q, has been conquered!"
-   NecromancerGuild_hall_betrayed = "~B%s, home of %s%q, was betrayed from within!"
+   NecromancerGuild_mature = "~BDie Gilde %s%q ist nun eine vollwertige Gilde, die selbst Hallen besitzen und einnehmen kann."
 
-   NecromancerGuild_ranks_full = "~BYou could not be accepted into %s%q because the ranks are already full."
-   NecromancerGuild_ranks_full_inductor = "~B%s%s could not be accepted into %s%q because the ranks are already full."
+   NecromancerGuild_hour_rsc = "Stunde"
+   NecromancerGuild_hours_rsc = "Stunden"
 
-   NecromancerGuild_invitation_one = "You may only have one outstanding invitation at a time."
-   NecromancerGuild_invitation_one_inductee = "Someone in your guild has already issued %s%s an invitation."
+   NecromancerGuild_rent_nonpayment = "~BDeine dunkle Königin ist vor Hunger umgekommen.Dein Amulett explodiert und reißt Deinen Körper in Fetzen."
 
-   NecromancerGuild_cannot_rejoin = "~BThis ex-member of the Order may not rejoin yet."     
-   NecromancerGuild_you_cannot_rejoin = "~BYou may not rejoin the Order yet."     
+   NecromancerGuild_rent_due_5 = "~BKönigin Venya'cyr sagt \"~r~BOh, meine unachtsamen Diener! Mein Hunger brennt wie Kohle in meiner Brust, und Ihr habt mich verlassen! Wenn ich in den nächsten %i %s nicht ausreichend gefüttert werde, gefüttert werde, werde ich zurück in die Dunkelheit gehen, und Ihr werdet mir alle folgen!~n~B\""
 
-   NecromancerGuild_new_password = "~B%s's password has been changed."
 
-   NecromancerGuild_lich = "Venya'cyr, Queen of Brax"
-   NecromancerGuild_newly_formed = "~BThe Order of Necromancers has been reborn!"
-   NecromancerGuild_creation_mail ="Subject: The Order of Necromancers has been reborn!\n"
-                        "I congratulate you on the formation of The Order of Necromancers!  "
-                        "However, there are some rules that you should know about.\n\n"
-                        "MEMBERSHIP:  I leave you to determine the details of the Order's membership, "
-                        "but if the Order does not have at least 3 members in it, I will not be able to maintain "
-                        "my grasp on this plane.  Thus, your first priority now should be to recruit more "
-                        "necromancers to the Order.\n\n"
-                        "INVITING NEW MEMBERS:  When you invite a potential member into the fold, an "
-                        "invitation object is created in their inventory, which they may then choose "
-                        "to accept or ignore.  An invitation will always be created, even if someone may not join "
-                        "the Order for some reason.  A necromancer must be of reasonably high power before he "
-                        "may join the Order, and may not be a member of a mortal guild at the same time.\n\n"
-                        "RANKS:  You may promote people to different ranks, thus giving them more "
-                        "power as well as more responsibility.  You may also keep necromancers at low "
-                        "ranks if you do not feel prepared to trust them.  These are the ranks:\n"
-                        "  +++ %s:  have no special abilities, other than to "
-                        "vote for the leader of their choice.  They may not even open the doors to my inner "
-                        "sanctum.\n"
-                        "  +++ %s:  only have the ability to vote.\n"
-                        "  +++ %s:  have the ability to vote and invite new members into the guild.\n"
-                        "  +++ %s:  may vote, invite new members in, kick unruly members out, promote or demote "
-                        "people of lower ranks than themselves, and form or shatter alliances.\n"
-                        "  +++ %s:  has all powers associated with the Order.\n\n"
-                        "TRIBUTE:  My continued presence on this plane of reality requires that the Order provide "
-                        "me with a steady flow of life essence.  My hunger grows at a regular rate, and the rate of "
-                        "increase is affected by many factors, including the number of members in your "
-                        "guild and the number of enemies and allies you have declared.  Remember, much of your "
-                        "power originates from me - should you let me go hungry, the members of the Order will "
-                        "all suffer greatly!\n\n"
-                        "Anyone in the Order may supply me with a portion of the life essence they have stored in "
-                        "their "
-                        "own bodies, by simply approaching me and saying that they wish to pay tribute.  However, "
-                        "to avoid confusion, it is recommended that you assign one person to decide whose turn "
-                        "it is to slake my thirst.  To find out how urgent is my hunger, simply ask me.\n\n"
-                        "  -- Venya'cyr, Eternal Queen of Brax"
-   NecromancerGuild_creation2_mail ="Subject: Defend my fortress well!\n"
-                        "MY FORTRESS:  My fortress is now yours to inhabit and call your home.  Though much of it "
-                        "was destroyed when Brax was swallowed by the earth, some of my magicks have remained "
-                        "intact.  You may rest here in relative safety from the outside world, and will heal "
-                        "from being close to my center of power.  The newsglobe here allows members of the "
-                        "Order to keep each other apprised of current news, and there is a secret door outside "
-                        "with a password that you may set (until you choose one, the password "
-                        "is \"deathmage\").  The door to my inner sanctum can only "
-                        "be opened by necromancers of sufficient rank.\n"
-                        "Beware those who wield the Sword of the Hunt, my pet!  "
-                        "This weapon is truly to be feared, and must be guarded well - thanks to the accursed mage "
-                        "Tendrath, it periodically appears here in my fortress.  Luckily, "
-                        "the maze which I constructed to torment my prisoners is still functional, and is "
-                        "the only route to gain access to my inner sanctum or to the chambers where the Sword appears.  "
-                        "There are a number of levers in the secret room beyond the password-protected door "
-                        "which control the configuration of the maze.  Each lever, when pulled, will "
-                        "raise or lower a few sections of the maze's walls.  I also enchanted a number of crystal "
-                        "balls with which you may spy on the maze from a four different vantage points, so that "
-                        "you may be able to spot intruders and thwart their progress through the labyrinth.  "
-                        "You would do well to master the manipulation of the maze, for it is vital that you keep "
-                        "me safe from harm.  Your continued existence is now inextricably intertwined with my own;  "
-                        "should a band of pesky mortals break through to my inner sanctum and destroy my current "
-                        "physical manifestation, all members of the Order shall perish along with me.\n\n"
-                        "Serve me well and my power is yours to share, my dark minion!  Together, we shall sow "
-                        "the seeds of destruction and devour the world!"
-                        "  -- Venya'cyr, Eternal Queen of Brax"
 
-   NecromancerGuild_disbanded_mail = "Subject: The Order is no more\n"
-                          "The Order of the Necromancers has vanished into the night.  "
-                          "I sleep once more, my pets."
-   NecromancerGuild_deposed_mail = "Subject: Mutiny in the ranks\n"
-                        "You were deposed as %s of %s%q while you were away.  "
-                        "%q is the new %s.\n\n"
-   NecromancerGuild_new_master_mail = "Subject: Mutiny in the ranks\n"
-                           "There was a change in leadership while you were away.  "
-                           "%q is the new %s of %s%q.\n\n"
-   NecromancerGuild_new_hall_mail = "Subject: New guild hall\n"
-                         "%s was declared the new home of %s%q while you were away.\n\n"
-   NecromancerGuild_ascension_mail = "Subject: Congratulations!\n"
-                         "You were chosen to be the new %s of %s%q!\n\n"
+   NecromancerGuild_rent_due_4 = "~BQueen Venya'cyr sagt Dir, \"~r~BIch habe sehr großen Hunger, meine Untertanen. Ihr habt Eure Pflichten mir gegenüber grob vernachlässigt. Meine physische Erscheinung löst sich auf... Wenn ich in den nächsten %i %s nicht ausreichend gefüttert werde, werde ich zurück in die Dunkelheit gehen, und Ihr werdet mir alle folgen!~n~B\""
 
-   NecromancerGuild_default_password = "deathmage"
+
+
+   NecromancerGuild_rent_due_3 = "~BQueen Venya'cyr sagt Dir, \"~r~BIch habe sehr großen Hunger, meine Untertanen. Meine physische Erscheinung löst sich auf... Wenn ich in den nächsten %i %s nicht ausreichend gefüttert werde, werde ich zurück in die Dunkelheit gehen, und Ihr werdet mir alle folgen!~n~B\""
+
+
+   NecromancerGuild_rent_due_2 = "~BQueen Venya'cyr sagt Dir, \"~r~BIch habe großen Hunger, meine Untertanen. Meine physische Erscheinung löst sich auf... Wenn ich in den nächsten %i %s nicht ausreichend gefüttert werde, werde ich zurück in die Dunkelheit gehen, und Ihr werdet mir alle folgen!~n~B\""
+
+
+   NecromancerGuild_rent_due_1 = "~BQueen Venya'cyr sagt Dir, \"~r~BIch habe Hunger, meine Untertanen. Meine physische Erscheinung löst sich auf... Wenn ich in den nächsten %i %s nicht ausreichend gefüttert werde, werde ich zurück in die Dunkelheit gehen, und Ihr werdet mir alle folgen!~n~B\""
+
+
+
+   NecromancerGuild_new_hall = "~B%s ist die neue Halle der Gilde %s%q!"
+   NecromancerGuild_abandon_hall = "~B%s ist nicht mehr die Halle der Gilde %s%q!"
+   NecromancerGuild_hall_conquered = "~B%s, Halle der Gilde %s%q, wurde erobert!"
+   NecromancerGuild_hall_betrayed = "~B%s, Halle der Gilde %s%q, wurde von einem Mitglied verraten!"
+
+   NecromancerGuild_ranks_full = "~BDu konntest der Gilde %s%q nicht beitreten, weil die Gilde schon zu viele Mitglieder hat."
+   NecromancerGuild_ranks_full_inductor = "~B%s%s konnte nicht in %s%q aufgenommen werden, weil alle Ränge bereits vergeben sind."
+
+   NecromancerGuild_invitation_one = "Du kannst immer nur eine Einladung zugleich haben."
+   NecromancerGuild_invitation_one_inductee = "Jemand aus Deiner Gilde hat %s%s bereits mit einer Einladung versorgt."
+
+   NecromancerGuild_cannot_rejoin = "~BDieses Ex-Mitglied darf dem Orden noch nicht wiederbeitreten."
+   NecromancerGuild_you_cannot_rejoin = "~BDu darfst dem Orden noch nicht wiederbeitreten."
+
+   NecromancerGuild_new_password = "~BDas Paßwort der Halle %s wurde geändert."
+
+   NecromancerGuild_lich = "Venya'cyr, Königin von Brax"
+   NecromancerGuild_newly_formed = "~BDer Orden der Nekromanten wurde wiedergeboren!"
+   NecromancerGuild_creation_mail = "Betreff: Der Orden der Nekromanten wurde wiedergeboren!\nIch gratuliere Dir zur Gründung des Ordens der Nekromanten! Es gibt jedoch ein paar Regeln, die Du kennen solltest.\n\nMITGLIEDSCHAFT: Ich überlasse Dir die Details der Ordensmitgliedschaft, aber wenn der Orden nicht mindestens 3 Mitglieder besitzt, wird er meinen Zugriff auf diese Realitätsebene nicht unterstützen können. Daher wird es Deine erste Aufgabe sein, mehr Nekromanten für den Orden zu rekrutieren.\n\nNEUE MITGLIEDER ANWERBEN: Wenn Du ein potentielles Mitglied einlädst, wird in seinem Inventar eine Einladung hinterlegt, die entweder akzeptiert oder ignoriert werden kann. Eine Einladung wird immer erstellt, auch wenn jemand dem Orden nicht beitreten darf. Ein Nekromant muss bereits relativ mächtig sein, bevor er dem Orden beitreten darf, und er darf nicht zur selben Zeit Mitglied einer sterblichen Gilde sein.\n\nRÄNGE: Du kannst Leuten verschiedene Ränge zuweisen und damit auch mehr Macht und Verantwortung. Du darfst Nekromanten auch in niedrige Ränge verweisen, wenn Du das Gefühl hast, ihnen nicht trauen zu können. Es gibt folgende Ränge:\n +++ %s: haben keine speziellen Fähigkeiten, außer für den Führer ihrer Wahl zu stimmen. Sie dürfen nicht einmal die Türen zu meinem inneren Heiligtum öffnen.\n +++ %s: haben nur die Fähigkeit, zu wählen.\n +++ %s: haben die Fähigkeit zu wählen und neue Gildenmitglieder einzuladen.\n +++ %s: dürfen wählen, neue Mitglieder einladen, ungehorsame Mitglieder hinauswerfen, Mitglieder niedrigeren Ranges befördern oder degradieren sowie Bündnisse schließen oder auflösen.\n +++ %s: verfügt über alle Gewalten der Gilde.\n\nTRIBUT: Meine fortwährende Anwesenheit in dieser Realitästebene setzt voraus, dass der Orden mich mit einem ständigen Zustrom von Lebensessenz versorgt. Mein Hunger nimmt mit gleichbleibender Geschwindigkeit zu. Die Geschwindigkeit ist dabei von vielen Faktoren abhängig, u. a. der Anzahl der Gildenmitglieder und der Anzahl der Feinde und Verbündeten. Vergiß nicht, Einen Großteil Deiner Macht hast Du von mir  - solltest Du mich hungern lassen, werden alle Mitglieder des Ordens fürchterlich leiden!\n\nJeder aus dem Orden darf mich mit einer Portion Lebensessenz versorgen, die in ihren eigenen Körpern gespeichert ist, indem sie einfach vor mich treten und erklären, dass sie ihren Tribut entrichten möchten. Jedoch empfehle ich Euch um Verwirrung zu vermeiden, dass Ihr eine Person damit beauftragt, zu entscheiden, wer an der Reihe ist, meinen Durst zu löschen. Um herauszufinden, wie gross mein Hunger ist, fragt mich einfach.\n\n -- Venya'cyr, Ewige Königin von Brax"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   NecromancerGuild_creation2_mail = "Betreff: Verteidige meine Festung gut!\nMEINE FESTUNG: Du darfst nun in meiner Festung wohnen und sie als Deine Heimstatt betrachten. Obwohl viel von Brax zerstört wurde, als es die Erde verschlang, so blieben doch einige meiner Zauber intakt. Du bist hier relativ sicher vor der Außenwelt, um zu rasten und Deine Wunden durch die Nähe zum Zentrum meiner Macht heilen zu lassen. Die Nachrichtenkugel hier ermöglicht es den Mitgliedern des Ordens, sich gegenseitig zu informieren, und es gibt außerhalb eine Geheimtür mit einem Paßwort, das Du nach Belieben bestimmen kannst. (Bis Du ein neues Paßwort bestimmst, lautet es: \"Todesmagier\"). Die Türe zu meinem inneren Heiligtum kann nur von Nekromanten ab einem bestimmten Rang geöffnet werden.\nHüte Dich vor jenen, die das Jägerschwert tragen, mein Liebling! Diese Waffen sind eine Bedrohung für Unsereins und müssen gut bewacht werden - dank diesem verfluchten Magier Tendrath erscheinen sie von Zeit zu Zeit hier in meiner Festung. Glücklicherweise ist das Labyrinth, das ich erbaut habe, um meine Gefangenen zu foltern, immer noch funktionstüchtig. Es ist auch der einzige Weg um sich Zutritt zu meinem innersten Heiligtum oder den Kammern,  in denen diese unsäglichen Schwerter erscheinen, zu verschaffen. Es gibt eine Anzahl von Hebeln im geheimen Raum hinter der durch das Paßwort geschützen Tür, welche die Konfiguration des Labyrinths beeinflussen können. Jeder Hebel hebt oder senkt Teile der Labyrinthwände, wenn er betätigt wird. Ich habe auch noch ein paar Kristallkugeln verzaubert, mit deren Hilfe Du den Irrgarten von vier verschiedenen Punkten aus beobachten kannst, um Eindringlinge rechtzeitig auszumachen und ihr Vordringen durch das Labyrinth zu vereiteln. Du tust gut daran, die Möglichkeiten des Labyrinths zu beherrschen, denn es ist lebenswichtig, mich vor Unheil zu bewahren. Deine weitere Existenz ist nun unlösbar mit der meinen verbunden; denn gelingt es einer Gruppe von lästigen Sterblichen, zu meinem innersten Heiligtum vorzudringen und meine derzeitige physische Manifestation zu zerstören, so werden alle Mitglieder des Ordens mit mir in die Klauen des Todes gerissen.\n\nDiene mir gut, und ich werde meine Kräfte mit Dir teilen, mein dunkler Diener! Zusammen werden wir die Saat der Zwietracht und Zerstörung säen, um diese Welt zu verschlingen! -- Venya'cyr, Ewige Königin von Brax"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   NecromancerGuild_disbanded_mail = "Betreff: Der Orden existiert nicht mehr\nDer Orden der Nekromanten ist in die Nacht verschwunden. Erneut sinke ich in die Tiefen des Schlafes, meine Lieblinge. "
+
+
+   NecromancerGuild_deposed_mail = "Betreff: Meuterei in den Rängen\nWährend Deiner Abwesenheit wurdest Du als %s von %s%q abgesetzt. %q ist nun %s.\n\n"
+
+
+   NecromancerGuild_new_master_mail = "Betreff: Meuterei in den Rängen\nWährend Deiner Abwesenheit hat es einen Führungswechsel gegeben. %q ist nun %s von %s%q.\n\n"
+
+
+   NecromancerGuild_new_hall_mail = "Betreff: Neue Gildenhalle\n%s ist während Deiner Abwesenheit zur Halle der Gilde %s%q erklärt worden.\n\n"
+
+   NecromancerGuild_ascension_mail = "Betreff: Gratulation!\nDu bist auserwählt worden, %s von %s%q zu sein!\n\n"
+
+
+   NecromancerGuild_default_password = "Todesmagier"
 
 classvars:
 
@@ -1462,3 +1462,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

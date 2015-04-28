@@ -26,24 +26,24 @@ constants:
 
 resources:
 
-   vampireWand_name_rsc = "wand of vampiric shock"
+   vampireWand_name_rsc = "Der Stab der Vampire"
    vampireWand_icon_rsc = wand3.bgf
-   vampireWand_desc_rsc = \
-   "This ancient wand is cold to the touch.  Its dark, smooth surface seems to draw in all of the life force around it."
+   vampireWand_desc_rsc = "Dieser altertümliche Zauberstab fühlt sich kalt an. Seine dunkle, glatte Oberfläche scheint das ganze Leben um sich herum aufzusaugen."
+
    vampireWand_success_wav_rsc = vamp_wand.wav
 
-   vampirewand_target_hit_rsc = \
-   "You shiver uncontrollably as %s%s drains your life force away!"
+   vampirewand_target_hit_rsc = "Du zitterst unkontrolliert, als %s%s Deine Lebenskraft in sich aufsaugt!"
 
-   vampirewand_hit_target_rsc = "You feel giddy with energy as %s%s's life force fills your body."
-   vampirewand_hit_target_full_rsc = "You cackle with glee as %s%s's life force is sucked away."
 
-   vampirewand_used_self_rsc = "You cannot use the wand on yourself."
+   vampirewand_hit_target_rsc = "Du fühlst reine Energie. %s%s gibt etwas Lebenskraft an Dich ab."
+   vampirewand_hit_target_full_rsc = "%s%s gibt einen Teil seiner Lebenskraft an Dich ab."
 
-   vampwand_fail_rsc = "You cannot drain the life of an empty vessel!"
+   vampirewand_used_self_rsc = "Du kannst diesen Zauberstab nicht auf Dich selbst anwenden."
 
-   vampirewand_missed_target = "%s%s narrowly dodges your vampiric attack."
-   vampirewand_missed_you = "You narrowly dodge %s%s's ominous wand attack."
+   vampwand_fail_rsc = "Du kannst einem leeren Körper keinen Tropfen Lebenskraft entziehen!"
+
+   vampirewand_missed_target = "%s%s weicht Deinem vampirischen Angriff geschmeidig aus."
+   vampirewand_missed_you = "%s%s greift Dich mit einem Stab der Vampire an, aber Du weichst aus!"
 
 classvars:
 
@@ -204,4 +204,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

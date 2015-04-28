@@ -23,27 +23,27 @@ constants:
 resources:
 
    thrasher_koc_name_rsc = "teotixleoc"
-   thrasher_name_rsc = "thrasher"
+   thrasher_name_rsc = "Thrasher"
    thrasher_icon_rsc = res0001a.bgf
-   thrasher_desc_rsc = \
-      "The powerful smell of rotted flesh and embalming herbs assault your "
-      "nostrils.  This shambling horror in front of you seems like it was "
-      "crafted in madness, and birthed in nightmares. Various limbs, none of "
-      "them matching, sprout from this monster in disarray, and in its eye a "
-      "strange malignance glows.  Run for your life. "
+   thrasher_desc_rsc = "Der intensive Geruch von verfaulten Fleisch und einbalsamierten Kräuter steigen Dir in die Nase.  Dieser torkelnde Schrecken vor Dir scheint als wäre er in Wahnsinn geschmiedet und Alpträumen geboren. Verschiedenste Gliedmaßen, keines passt zum anderen, wuchern unkontrolliert aus diesem Monster und in seinen Augen glüht das Verderben.  Lauf um dein Leben."
+
+
+
+
+
    
    thrasher_shield_overlay = res0001e.bgf
    thrasher_mace_overlay = res0001c.bgf
    thrasher_scimitar_overlay = res0001d.bgf
 
    thrasher_dead_icon_rsc = res0001b.bgf
-   thrasher_dead_name_rsc = "dead thrasher"
+   thrasher_dead_name_rsc = "Toter Thrasher"
 
    thrasher_sound_attack = res0001b.wav
    thrasher_sound_death = res0001c.wav
    thrasher_sound_aware = res0001a.wav
 
-   thrasher_spin_message = "~bThe thrasher spins, damaging you with its attack."
+   thrasher_spin_message = "~bDer Thrasher schlägt um sich und verletzt Dich mit seinem Angriff."
 
 classvars:
 
@@ -515,3 +515,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   TotemOne_name_rsc = "Priceless Heirloom of Barloque"
+   TotemOne_name_rsc = "Das Unbezahlbare Familienerbstück aus Barloque"
    TotemOne_icon_rsc = qo03.bgf
-   TotemOne_desc_rsc = "This decorative piece of art was created for King Zarcos the 4th to be given to his wife "
-         "on their wedding day.  Later, when Queen Joline was convicted of treason and exiled, the king ordered "
-         "the heirloom destroyed because it reminded him of her.  Apparently, the orders were not completely "
-         "carried out.\n\n"
-         "Being one of a kind, this heirloom can not be carried in one's possession for very long or tucked away "
-         "in a chest."
+   TotemOne_desc_rsc = "Dieses dekorative Kunstwerk wurde für König Zarkos IV. hergestellt, damit dieser es seiner Frau an ihrem Hochzeitstag schenken könnte. Später, als Königin Joline des Verrats überführt und verbannt wurde, befahl der König, das Erbstück zu vernichten, weil es ihn an sie erinnerte. Offensichtlich wurde der Befehl nicht vollständig ausgeführt.\n\nVon den Erbstücken kann man nur eines für kurze Zeit besitzen. Es kann auch nicht mitgenommen oder in einer Kiste verwahrt werden."
+
+
+
+
+
 
 classvars:
 
@@ -48,3 +48,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

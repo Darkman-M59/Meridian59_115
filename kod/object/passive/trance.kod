@@ -16,8 +16,8 @@ constants:
 
 resources:
 
-   trance_begin = "You focus your whole will on casting %s."
-   trance_break = "Your concentration is broken and the %s spell fizzles."
+   trance_begin = "Du konzentrierst Deinen gesamten Willen auf den Zauberspruch %s."
+   trance_break = "Deine Konzentration wurde gestört, und der %s-Zauber schlägt fehl."
    trance_break_sound = spelfail.wav
 
 classvars:
@@ -136,3 +136,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,20 +16,20 @@ constants:
 
 resources:
 
-   shirt_condition_exc = " is in immaculate condition."
-   shirt_condition_good = " is scuffed and slightly worn."
-   shirt_condition_med = " has a few unsightly rips."
-   shirt_condition_poor = " is in tatters, and barely holding together."
-   shirt_condition_broken = " is covered in filth and ripped beyond use."
+   shirt_condition_exc = " ist in makellosem Zustand."
+   shirt_condition_good = " ist leicht abgetragen."
+   shirt_condition_med = " hat ein paar unscheinbare Risse."
+   shirt_condition_poor = " besteht nur noch aus Fetzen und hält kaum noch zusammen."
+   shirt_condition_broken = " ist mit Dreck bedeckt und zerrissen, so dass man es nicht mehr benutzen kann."
    
-   shirt_name_rsc = "shirt"
+   shirt_name_rsc = "Das Hemd"
  
-   shirt_desc_rsc = \
-   "This shirt covers the bare essentials, but offers little or no protection to the wearer."
+   shirt_desc_rsc = "Dieses Hemd bedeckt das Nötigste, bietet seinem Träger aber nur wenig oder gar keinen Schutz."
 
-   shirt_wrong_gender = "A shirt designed for a %s wouldn't fit you at all."
-   shirt_woman = "woman"
-   shirt_man = "man"
+
+   shirt_wrong_gender = "Ein Hemd, das für %s gemacht wurde, würde Dir überhaupt nicht passen."
+   shirt_woman = "Frau"
+   shirt_man = "Männer"
 
    shirt_male = bta.bgf
    shirt_female = btb.bgf
@@ -40,7 +40,7 @@ resources:
 
    shirt_ground_icon = defshirt.bgf
 
-   shirt_this = "This "
+   shirt_this = ""
 
 classvars:
 
@@ -209,5 +209,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

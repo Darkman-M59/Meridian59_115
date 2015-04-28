@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   spidereggshell_name_rsc = "egg shell"
+   spidereggshell_name_rsc = "Die Eierschale"
    spidereggshell_icon_rsc = spdreggX.bgf
-   spidereggshell_desc_rsc = \
-   "This large broken shell has a tough, leathery texture."
+   spidereggshell_desc_rsc = "Die zerbrochene Eierschale hat eine rauhe, lederne Oberfläche."
+
 
 classvars:
 
@@ -38,3 +38,4 @@ properties:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

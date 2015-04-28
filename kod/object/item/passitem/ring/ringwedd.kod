@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   ringwedding_name_rsc = "wedding ring"
+   ringwedding_name_rsc = "Der Hochzeitsring"
    ringwedding_icon_rsc = ring1.bgf
-   ringwedding_desc_rsc = "This is an elegant gold band demonstrating the bond between two people."
+   ringwedding_desc_rsc = "Das ist ein einfaches, aber durchaus elegantes Goldband."
 
-   ringwedding_one = " Inscribed with magic runes is the name "
-   ringwedding_two = " Inscribed with magic runes are the names "
-   ringwedding_and = " and "
+   ringwedding_one = " Eingraviert mit magischen Runen ist der Name "
+   ringwedding_two = " Eingraviert mit magischen Runen sind die Namen "
+   ringwedding_and = " und "
    ringwedding_dot = "."
 
 classvars:
@@ -174,4 +174,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -18,19 +18,19 @@ resources:
 
    bonkstick_proj = lightnin.bgf
 
-   BonkStick_name_rsc = "bonkstick"
+   BonkStick_name_rsc = "Der Schlagstock"
    BonkStick_icon_rsc = hammer.bgf
-   BonkStick_desc_rsc = \
-      "This wand just drips of ludicrocity."
+   BonkStick_desc_rsc = "Dieser Stab würde sich gut eignen, jemanden so richtig zu verdreschen."
 
-   bonkstick_bad_target = "You cannot use the bonkstick on %s%s."
-   bonkstick_not_self = "You wouldn't feel right hitting yourself on the head with the bonkstick!"
 
-   allinroom_bonkstick_msg1 = "~b%s%s's eyes cross momentarily as %s%s pounds %s on the noggin with %s bonkstick."
-   allinroom_bonkstick_msg2 = "~bYou wince as %s%s viciously bonks %s%s with %s bonkstick, which collapses."
+   bonkstick_bad_target = "Du kannst den Bonkstick nicht auf %s%s anwenden."
+   bonkstick_not_self = "Du würdest dich nicht wohlfühlen, Dir selbst den Bonkstick auf den Kopf zu hauen."
 
-   caster_bonkstick_msg = "~bYou viciously slam your bonkstick on %s%s's noggin."
-   bonked_bonkstick_msg = "~r~B>OUCH<~n~b  %s%s ruthlessly beats on your head with %s bonkstick!!"
+   allinroom_bonkstick_msg1 = "~b%s%s's Augen schielen für einen Moment, als %s%s mit %s Schlagstock %s auf dem Kopf herum trommelt."
+   allinroom_bonkstick_msg2 = "~bDu zuckst zusammen, als %s%s %s%s heftig mit %s Schlagstock schlägt und er zusammenbricht."
+
+   caster_bonkstick_msg = "~bDu schlägst mit Deinem Schlagstock heftig auf %s%ss Schädel ein."
+   bonked_bonkstick_msg = "~r~B>Autsch<~n~b %s%s schlägt erbarmungslos mit %s Schlagstock auf Deinen Kopf ein!!"
 
 classvars:
 
@@ -185,4 +185,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

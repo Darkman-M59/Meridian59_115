@@ -17,9 +17,9 @@ constants:
 resources:
 
    iceperson_koc_name_rsc = "atzmoch"
-   iceperson_name_rsc = "ice creature"
+   iceperson_name_rsc = "Das Frostelementar"
    iceperson_icon_rsc = iceperT.bgf
-   iceperson_desc_rsc = "This is a creature made completely from frozen water!"
+   iceperson_desc_rsc = "Dieses Geschöpf besteht völlig aus gefrorenem Wasser!"
 
    iceperson_head = iceperH.bgf
    iceperson_armor = iceperA.bgf
@@ -31,7 +31,7 @@ resources:
    iceperson_sword = icperswd.bgf
 
    iceperson_dead_icon_rsc = blank.bgf
-   iceperson_dead_name_rsc = "melting ice"
+   iceperson_dead_name_rsc = "Nur geschmolzenes Eis"
 
    iceperson_sound_hit = ice_atkh.wav
    iceperson_sound_miss = ice_atkm.wav
@@ -167,3 +167,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,47 +17,47 @@ constants:
 resources:
 
    room_jasperAB3 = jasab3.roo
-   room_name_JasperAB3 = "Old Schoolhouse"
+   room_name_JasperAB3 = "Altes Schulhaus"
 
-   JasperAB3_Necro_book_name = "The Journal of Seargant Doran"
-   JasperAB3_Necro_book_text = "\n\n\n\n\n\n\n\n\n\nThe Journal of Seargant Doran,\n"
-      "reconnaissance specialist for the army of Tos\n\n\n\n\n\n\n\n\n\n\n"
-	   "¶"
-      "The army of Brax is indeed swelling for an offensive as we had feared.  Every week "
-      "their dark Queen recruits hundreds of unsmiling youths into her horde of necromancers, each of whom "
-      "must undergo some sort of dark transformation which I have yet to infiltrate deeply enough to witness "
-      "directly.  I am convinced, however, that whatever dark rituals they perform pale in comparison to the "
-      "sacrifices Queen Venya'cyr herself has made for her powers;  she keeps her face shrouded at all times "
-      "to conceal the fact that she long ago ceased to be anything close to human.\n\n"
-      "Those personal sacrifices must be the key to their destruction, so it is vital that we learn "
-      "more about their ways.  I am not the first to attempt to infiltrate into the inner circles of the "
-      "Order of Necromancers, and I doubt that I will return alive.  My only hope is that I, too, do not "
-      "succumb to the darkness and become one of them."
-	   "¶"
-	   "Lieutenant Kyrg is dead.  He was suspected of being a spy, so he was put down in the Arena for "
-	   "public sacrifice.  I was forced to watch along with the other necromancers, crowded together on the "
-	   "huge stone platform in the middle of the Arena.  As the cloaked figures around me jostled towards the "
-	   "edge for the best view of the naked victims huddled below, I retreated to the center of the platform "
-	   "to rest my back against the cool stone pillar, gazing up at the dark roiling clouds above and "
-	   "praying for rain.  The Evil Queen emerged onto a ledge high above us, and as the crowd began to "
-	   "roar with approval I shut my eyes tight against the swell of emotion.\n"
-	   "Moments later when I opened my eyes I was already in motion, pitched forward violently as I "
-	   "dully registered the bolt of lightning slamming into the pillar and through my body.  I was "
-	   "barely aware of more lightning strikes around me, one, two, how many more I cannot say, my ears "
-	   "ringing from the blast and from the shrieks of pain all around me.  Then the platform began to move."
-	   "¶"
-	   "Through the chaos of stone grinding on stone, flailing charred bodies and screaming voices, one "
-	   "thought rang clear:  I had to save Kyrg.  But as I dragged my broken and bleeding body to the edge of "
-	   "the platform and gazed far below through the clouds of smoke, I realized there was nothing I could do "
-	   "for him now.  The platform was already a hundred feet above the Arena floor and steadily rising, and "
-	   "the enraged necromancers were summoning a horde of deformed skeletal warriors.  As I watched with horror, "
-	   "the undead fell upon their unarmed, helpless victims and rent them limb from limb.\n\n"
-	   "I shuddered and withdrew from the spectacle below, praying to my Lord Faren as I slipped into "
-	   "unconsciousness for the strength to see this abomination destroyed.  In the last moments before "
-	   "sleep, I saw Venya'cyr's radiantly beautiful face materialize above me.\n"
-	   "\"You are badly hurt, my pet.  There is only one thing for you now.\"\n"
-	   "She smiled, her hands gently caressed my face, and I felt a cold steel chain against the skin of my "
-	   "neck."
+   JasperAB3_Necro_book_name = "Das Tagebuch von Sergeant Doran"
+   JasperAB3_Necro_book_text = "\n\n\n\n\n\n\n\n\nDas Tagebuch von Sergeant Doran,\nKundschafter der Armee von Tos\n\n\n\n\n\n\n\n\n\nDie Armee von Brax ist tatsächlich auf eine Offensive aus - genau wie wir befürchtet hatten. Jede Woche rekrutiert ihre dunkle Königin Hunderte grimmiger Jünglinge in ihre Horde von Nekromanten. Jeder von ihnen muss eine seltsame Art der Transformation durchlaufen, die ich bis jetzt noch nicht am eigenen Leib erfahren habe. Ich bin jedoch überzeugt, dass diese dunklen Rituale blass aussehen gegen die Opfer, die die Königin Venya'cyr selbst um ihrer Macht willen gebracht hat; sie hält ihr Gesicht allzeit verborgen, damit niemand erkennt, dass sie schon vor langer Zeit alles Menschenähnliche verloren hat.\n\nDiese persönlichen Opfer müssen der Schlüssel zu ihrer Vernichtung sein, deshalb ist es notwendig, dass wir mehr darüber erfahren. Ich bin nicht der erste, der in die inneren Kreise des Ordens der Nekromanten vordringen will, und ich glaube nicht, dass ich lebend zurückkehren werde.¶Meine einzige Hoffnung besteht darin, dass ich nicht auch den Mächten der Dunkelheit erliege und zu einem der Ihren werde. Lieutenant Kyrg ist tot. Man verdächtigte ihn der Spionage und brachte ihn deshalb in der Arena öffentlich als Opfer dar. Ich war gezwungen, neben all den anderen Nekromanten, die zusammen auf der gewaltigen Steinplattform im Zentrum der Arena standen, zuzusehen. Als die in Mäntel gehüllten Gestalten nach vorne drängten, um eine bessere Sicht auf die zusammengekauerten nackten Opfer da unten zu haben, zog ich mich in die Mitte der Plattform zurück und lehnte mich mit dem Rücken gegen die kalte Steinsäule. Ich blickte nach oben zu den sich dunkel zusammenbrauenden Wolken und wünschte Regen herbei. Die Böse Königin erschien auf einem Vorsprung hoch über uns und als die Menschen zustimmend zu johlen begannen, verschloß ich meine Augen fest gegen diesen Gefühlsansturm.\nAls ich wenige Momente später meine Augen wieder öffnete, war ich bereits in Bewegung und wurde gewaltsam nach vorne geworfen.¶Betäubt nahm ich wahr, wie ein Blitz in die Säule schlug und durch meinen Körper fuhr. Ich bemerkte kaum, dass um mich herum noch weitere Blitze einschlugen, einer, zwei, ich kann nicht sagen, wie viele es waren. Meine Ohren taten weh von dem Lärm und den Schmerzensschreien, die von allen Seiten zu mir herdrangen. Dann begann die Plattform, sich zu bewegen. Mitten in dem Chaos aus herumfliegenden Steinen, verkohlten Körpern und lauten Schreien zeichnete sich ein Gedanke ganz klar ab: Ich mußte Kyrg retten. Aber als ich mich mit meinem geschundenen Körper an den Rand der Plattform schleppte und durch die Rauchschwaden nach unten blickte, erkannte ich, dass ich nichts mehr für ihn tun konnte. Die Plattform hatte sich bereits 30 Meter über den Boden der Arena erhoben und fuhr weiter in die Höhe. Die aufgebrachten Nekromanten riefen eine Horde von deformierten Skelettkriegern herbei. Als ich sah, wie die Untoten über ihre unbewaffneten, hilflosen Opfer herfielen und sie in Stücke rissen, erschauderte ich und zog mich von dem Spektakel zurück.¶Im Gebet flehte ich meinen Herrn Faren um Kraft an, als ich das Bewußtsein verlor. In meinen letzten wachen Momenten sah ich, wie Venya'cyrs leuchtend schönes Gesicht über mir erschien.\n\"Du bist schwer verletzt, mein Kleiner. Es gibt für Dich jetzt nur noch Eines.\"\nSie lächelte und ihre Hände berührten sanft mein Gesicht. Ich fühlte eine kalte Stahlkette an der Haut meines Nackens."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -103,3 +103,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

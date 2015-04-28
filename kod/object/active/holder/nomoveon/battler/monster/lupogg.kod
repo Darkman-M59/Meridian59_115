@@ -17,16 +17,16 @@ constants:
 resources:
 
    lupogg_koc_name_rsc = "tez"
-   lupogg_name_rsc = "lupogg"
+   lupogg_name_rsc = "Der Lupogg"
    lupogg_icon_rsc = lupogg.bgf
-   lupogg_desc_rsc = \
-      "This underwater denizen, although hideous and brutish, is rumored to be  "
-      "peaceful in nature, but there is no evidence of that now.  The "
-      "lupoggs seem upset that their territory has been trespassed upon, and "
-      "seem eager to challenge any they can find."   
+   lupogg_desc_rsc = "Dieser schreckliche und seelenlose Wasserbewohner soll Gerüchten zufolge von Natur aus friedlich sein. Beweise gibt es bislang keine. Der Lupogg scheint wütend zu werden, wenn sein Territorium durchschritten wird, und will wohl jeden herausfordern, den er finden kann."
+
+
+
+
 
    lupogg_dead_icon_rsc = lupoggX.bgf
-   lupogg_dead_name_rsc = "dead lupogg"
+   lupogg_dead_name_rsc = "Ein toter Lupogg"
 
    lupogg_sound_hit = lup_atkh.wav
    lupogg_sound_miss = lup_atkm.wav
@@ -133,3 +133,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

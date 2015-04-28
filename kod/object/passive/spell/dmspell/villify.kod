@@ -17,14 +17,14 @@ constants:
 
 resources:
 
-   villify_name_rsc = "vilify"
+   villify_name_rsc = "Verurteilen"
    villify_icon_rsc = light.bgf
-   villify_desc_rsc = "Accuses someone of being an outlaw or murderer."
+   villify_desc_rsc = "Kennzeichnet jemanden als Ausgestoßenen oder Mörder."
 
-   villify_msg_DM = "You vilify %s%."
-   villify_msg_target = "You have been vilified by %s."
-   villify_failed = "%s%s is already a murderer."
-   villify_unworthy = "You have been deemed unworthy to cast so powerful a spell, and it has been stripped from you."
+   villify_msg_DM = "Du verurteilst %s%."
+   villify_msg_target = "%s%s ist bereits ein Mörder."
+   villify_failed = "%s%s ist schon als Ausgestoßener oder Mörder bekannt."
+   villify_unworthy = "Du bist nicht würdig genug, um solch einen mächtigen Zauber zu sprechen."
 
 classvars:
 
@@ -112,3 +112,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

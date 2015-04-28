@@ -17,15 +17,15 @@ constants:
 resources:
 
    ant_koc_name_rsc = "yokinich"
-   ant_name_rsc = "ant"
+   ant_name_rsc = "Die Riesenameise"
    ant_icon_rsc = ant.bgf
-   ant_desc_rsc = \
-      "Snapping pincers, bloody from the ant's last meal, lash "
-      "out at you.  Although slow and nearly blind, ants have a "
-      "keen sense of smell and a taste for human flesh."
+   ant_desc_rsc = "Zuschnappende Zangen, noch blutig vom letzten Mahl der Ameise, greifen nach Dir. Obwohl langsam und fast blind, haben Ameisen einen feinen Geruchssinn für Menschenfleisch."
+
+
+
 
    ant_dead_icon_rsc = antX.bgf
-   ant_dead_name_rsc = "dead ant"
+   ant_dead_name_rsc = "Die tote Riesenameise"
 
    ant_sound_hit = ant_atkh.wav
    ant_sound_miss = ant_atkm.wav
@@ -144,4 +144,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

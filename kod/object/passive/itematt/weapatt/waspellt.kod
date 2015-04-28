@@ -38,28 +38,28 @@ constants:
 
 resources:
    
-   iaSpelltype_gone = "Your %s suddenly seems a little more... ordinary."
+   iaSpelltype_gone = "%s scheint plötzlich ein bißchen... normaler zu sein."
 
-   iaSpelltype_holy = "The weapon glows with a pure, white light."
-   iaSpelltype_unholy = "The weapon seems to reek of malevolence."
-   iaSpelltype_fire = "The weapon is hot to the touch."
-   iaSpelltype_cold = "It is icy cold to the touch."
-   iaSpelltype_shock = "Nearly invisible currents run the length of the blade."
-   iaSpelltype_acid = "A thin coating of acid covers the length of the blade."
+   iaSpelltype_holy = "Die Waffe erstrahlt in einem reinen, weißen Licht."
+   iaSpelltype_unholy = " Die Waffe scheint Boshaftigkeit auszuströmen."
+   iaSpelltype_fire = "Die Waffe fühlt sich heiß an."
+   iaSpelltype_cold = "Sie fühlt sich eiskalt an."
+   iaSpelltype_shock = "Fast nicht zu erkennende Wellen bewegen sich über die ganze Länge der Klinge."
+   iaSpelltype_acid = "Die ganze Klinge ist von einer dünnen Schicht Säure bedeckt."
 
-   iaSpelltype_name_holy = "holy %s"
-   iaSpelltype_name_unholy = "unholy %s"
-   iaSpelltype_name_fire = "fiery %s"
-   iaSpelltype_name_cold = "icy %s"
-   iaSpelltype_name_shock = "%s of shock"
-   iaSpelltype_name_acid = "acid %s"
+   iaSpelltype_name_holy = "heiliger %s"
+   iaSpelltype_name_unholy = "unheiliger %s"
+   iaSpelltype_name_fire = "feuriger %s"
+   iaSpelltype_name_cold = "eisiger %s"
+   iaSpelltype_name_shock = "%s des Schrecken"
+   iaSpelltype_name_acid = "%s der Säure"
 
-   iaspelltype_fire_DM = "fire"
-   iaspelltype_cold_DM = "cold"
-   iaspelltype_shock_DM = "shock"
-   iaspelltype_holy_DM = "holy"
-   iaspelltype_unholy_DM = "unholy"
-   iaspelltype_acid_DM = "acid"
+   iaspelltype_fire_DM = "Zielen"
+   iaspelltype_cold_DM = "kalt"
+   iaspelltype_shock_DM = "Schrecken"
+   iaspelltype_holy_DM = "heilig"
+   iaspelltype_unholy_DM = "unheilig"
+   iaspelltype_acid_DM = "Säure"
 
 classvars:
 
@@ -484,3 +484,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,37 +16,35 @@ constants:
 
 resources:
 
-   room_name_barloque_court = "Office of the Justicar"
+   room_name_barloque_court = "Büro des Justiziars"
    room_barloque_court = barcourt.roo
    
-   news_justicar = "Book of Jala"
-   news_justicar_desc = \
-      "Chronicling the history of the office of the Justicar."
+   news_justicar = "Das Buch von Jala"
+   news_justicar_desc = "Aufzeichnungen der Geschehnisse im Büros des Justiziars."
 
-   BarloqueCourt_sign_name = "Justicar information"
+
+   BarloqueCourt_sign_name = "Mitteilungen des Justiziars"
    BarloqueCourt_sign_icon = newbsign.bgf
 
-   BarloqueCourt_sign_desc = \
-      "Etched into the sign is the following text:\n\n"
-      "The office of Justicar is very important.  It is the duty of the "
-      "Justicar to give pardons to those who no longer deserve the scorn "
-      "of being an outlaw or a murderer.  The Justicar is elected by the "
-      "people of the land."
-      "\n\n"
-      "To vote, buy a ballot from Caramo the royal clerk.  Write the name of "
-      "the person that you wish to vote for on the ballot and hand it back to "
-      "her.  Note that outlaws, murderers, and individuals still under "
-      "Shal'ille's protection are not able to vote for or hold the office of "
-      "Justicar."
-      "\n\n"
-      "If elected Justicar, Caramo will send you a mail with details about "
-      "the abilities and responsibilities of the office."
-      "\n\n"
-      "Caramo announces when there is a new vote for Justicar.  If you wish "
-      "to be told when there is a new vote, say 'advertise' to Caramo.  If "
-      "you no longer wish to be notified, say 'no advertise' to her instead.  "
-      "Outlaws and murderers will not be notified of the vote, since they "
-      "cannot properly participate."
+   BarloqueCourt_sign_desc = "In das Schild ist eingraviert:\n\nDas Amt des Justiziars ist sehr wichtig.  Die Aufgabe des Justiziars ist es diejenigen zu begnadigen, welche nicht länger die Schande eines Kriminellen oder Mörders zu tragen haben.  Der Justiziar wird von den Bürgern des Landes gewählt.\n\nUm Abzustimmen, kaufe einem Stimmzettel von Camaro.  Schreiben darauf den Namen der Person, für welche du abstimmen möchtest und gib den Stimmzettel zurück.  Bitte beachtet das nur unbescholtene Bürger wählen dürfen.\n\nAls Justiziar bekommst du von Camaro einen Brief mit allen Rechten und Pflichten welche dieses Amt mit sich bringt.\n\nCaramo wird ankündigen wann eine Wahl stattfindet.  Falls du informiert werden möchtest wann eine neue Wahl beginnt, sage 'informieren' zu Caramo. Falls du nicht mehr informiert werden möchtest, sage zu ihr 'nicht informieren'. Gesetzlose und Mörder werden nicht informiert, da sind ohnehin nicht daran teilnehmen dürfen."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -202,3 +200,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

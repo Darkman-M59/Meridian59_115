@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   ManaConvergence_name_rsc = "mana convergence"
+   ManaConvergence_name_rsc = "Zaubereffizienz"
    ManaConvergence_icon_rsc = imanacon.bgf
-   ManaConvergence_desc_rsc = \
-      "The words of this song form an enchantment which increases the effectiveness "
-      "of all spells cast.  Requires one perfect polished seraphym."
+   ManaConvergence_desc_rsc = "Die Worte dieses Liedes bilden einen Zauber, der die Wirksamkeit aller Zaubersprüche steigert. Man benötigt erstklassig polierte Seraphyme."
 
-   ManaConvergence_song = jala5.mid
 
-   ManaConvergence_on = "The flow of magic in this place suddenly becomes stronger."
-   ManaConvergence_new_occupant = "You can feel a strong flow of magic in this place."
+
+   ManaConvergence_song = jala5.mp3
+
+   ManaConvergence_on = "Der Magiefluß an diesem Ort wird stärker."
+   ManaConvergence_new_occupant = "Du verspürst einen starken Magiefluß an diesem Ort."
  
 classvars:
 
@@ -117,3 +117,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

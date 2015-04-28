@@ -18,19 +18,19 @@ constants:
 
 resources:
 
-   invitation_name_rsc = "invitation"
+   invitation_name_rsc = "Einladung"
    invitation_icon_rsc = scroll.bgf
 
-   invitation_desc_rsc = "If you \"use\" this invitation, you will join %s%q.\n\nThis invitation will delete itself two minutes after being offered."
-   invitation_desc_cant_rsc = "If you \"use\" this invitation, you will join %s%q.  However, you cannot join without first renouncing your ties to %s%q.\n\nThis invitation will delete itself two minutes after being offered."
-   invitation_desc_toolow_rsc = "If you \"use\" this invitation, you will join %s%q. However, you cannot join until you are higher in level.\n\nThis invitation will delete itself two minutes after being offered."
+   invitation_desc_rsc = "Wenn Du diese Einladung \"benutzt\", wirst Du Dich %s%q anschließen.\n\nDiese Einladung wird sich innerhalb der nächsten zwei Minuten auflösen, solltest Du sie unangetastet lassen."
+   invitation_desc_cant_rsc = "Wenn Du diese Einladung \"benutzt\", wirst Du Dich %s%q anschließen. Du kannst jedoch nicht beitreten, ohne vorher Deine Verbindungen mit %s%q aufzulösen.\n\nDiese Einladung wird sich innerhalb der nächsten zwei Minuten auflösen, solltest Du sie unangetastet lassen."
+   invitation_desc_toolow_rsc = "Wenn du diese Einladung \"benutzt\", wirst Du Dich %s%q anschließen. Du kannst Dich jedoch erst ab einer höheren Ebene anschließen.\n\nDiese Einladung wird sich zwei Minuten nach dem Erhalt von selbst auflösen."
 
-   invitation_cant_ditch = "As you try to discard the invitation, it seems to cling to your hand."
-   invitation_cant_join = "You may not join a new guild until you renounce your old guild ties."
-   invitation_cant_join_toolow = "You may not join a guild until you are more experienced."
+   invitation_cant_ditch = "Als Du versuchst, die Einladung fallenzulassen, bemerkst Du, dass sie wie Pech an Deinen Fingern klebt."
+   invitation_cant_join = "Bevor Du einer neuen Gilde beitrittst, musst Du Deine alte Gilde verlassen."
+   invitation_cant_join_toolow = "Du kannst keiner Gilde beitreten, bevor Du mehr Erfahrung gesammelt hast."
 
-   invitation_expires = "Your invitation to %s has expired."
-   invitation_vanishes = "%s%s's invitation vanishes in a puff of smoke!"
+   invitation_expires = "Deine Einladung zu %s ist abgelaufen."
+   invitation_vanishes = "%s%ss Einladung verschwindet in einer Rauchwolke!"
 
 classvars:
 
@@ -206,4 +206,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

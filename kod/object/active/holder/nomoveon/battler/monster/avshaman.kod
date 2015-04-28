@@ -31,33 +31,33 @@ constants:
 resources:
 
    avarshaman_koc_name_rsc = "avarya"
-   avarshaman_default_name = "avar shaman"
+   avarshaman_default_name = "Der Avar-Schamane"
 
    avarshaman_icon_rsc = avsham.bgf
 
-   avarshaman_name_rsc = "peet-seeeep avar shaman"
-   avarshaman_desc_rsc = \
-      "This is a shaman of the Peet-Seeeep clan.  "
-      "Legend says that the Shaman Avar blind themselves in order to force "
-      "their third, 'magical' eye to sprout forth.  Only a fool would willingly "
-      "offend one of these fearsome warlocks."      
+   avarshaman_name_rsc = "Der Avar-Schamane des Stammes der Pi-Piep"
+   avarshaman_desc_rsc = "Die ist ein Schamane des Stammes der Pi-Piep. Der Legende nach blenden die Avar-Schamanen sich selbst, um ihr drittes, 'magisches' Auge zum Wachstum zu zwingen. Nur ein Narr w‰re willens, diese furchterregenden Krieger herauszufordern."
 
-   avarshaman_bone_name = "bone faction shaman"
-   avarshaman_bone_desc = \
-      "This is the powerful shaman of the mystic Bone faction.  "
-      "Legend says that the Shaman Avar blind themselves in order to force "
-      "their third, 'magical' eye to sprout forth.  Only a fool would willingly "
-      "offend one of these fearsome warlocks."  
 
-   avarshaman_nomagic_name = "kyip-kyip-kreeet avar shaman"
-   avarshaman_nomagic_desc = \
-      "This is a thrall shaman to the Kyip-Kyip-Kreet clan.  "
-      "Legend says that the Shaman Avar blind themselves in order to force "
-      "their third, 'magical' eye to sprout forth.  Only a fool would willingly "
-      "offend one of these fearsome warlocks."  
+
+
+
+   avarshaman_bone_name = "Der Schamane der Knochengruppe"
+   avarshaman_bone_desc = "Dies ist ein m‰chtiger Schamane der  mystischen Knochengruppe. Der Legende nach blenden die Avar-Schamanen sich selbst, um ihr drittes, 'magisches' Auge zum Wachstum zu zwingen. Nur ein Narr w‰re willens, diese furchterregenden Krieger herauszufordern."
+
+
+
+
+
+   avarshaman_nomagic_name = "Der Avar-Schamane des Stammes der Ki-Ki-Krii"
+   avarshaman_nomagic_desc = "Dies ist ein leibeigener Schamane des Stammes der Ki-Ki-Krii. Der Legende nach blenden die Avar-Schamanen sich selbst, um ihr drittes, 'magisches' Auge zum Wachstum zu zwingen. Nur ein Narr w‰re willens, diese furchterregenden Krieger herauszufordern."
+
+
+
+
 
    avarshaman_dead_icon_rsc = avshamX.bgf
-   avarshaman_dead_name_rsc = "dead avar shaman"
+   avarshaman_dead_name_rsc = "Der tote Avar-Schamane"
 
    avarshaman_sound_hit = as_atkh.wav
    avarshaman_sound_miss = as_atkm.wav
@@ -65,7 +65,7 @@ resources:
    avarshaman_sound_aware = as_awr.wav
 
    avarshaman_lightning = avarspel.bgf
-   shaman_cast_spell = "The shaman calls upon the great spirits to aid him!"
+   shaman_cast_spell = "Der Schamane ruft die groﬂen Geister an, ihm zu helfen!"
 
 classvars:
 
@@ -473,3 +473,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

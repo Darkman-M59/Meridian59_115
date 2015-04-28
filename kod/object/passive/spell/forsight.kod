@@ -24,30 +24,30 @@ constants:
 
 resources:
 
-   Foresight_name_rsc = "foresight"
+   Foresight_name_rsc = "Einblick"
    Foresight_icon_rsc = iforesig.bgf
-   Foresight_desc_rsc = \
-      "Reveals knowledge of the victim, informing you of their abilities.  "
-      "Requires uncut seraphym to cast."
+   Foresight_desc_rsc = "Enttarnt das Wissen des Betroffenen und informiert Dich über dessen Fähigkeiten. Man braucht ungeschliffene Seraphyme."
 
-   Foresight_caster = "You glare at %s%s read their thoughts."
+
+
+   Foresight_caster = "Du starrst %s%s an und liest die Gedanken."
    Foresight_info = "%s%s %s"
    Foresight_abil_name = "%s %s, %s"
-   Foresight_last_abil_name = "and %s %s."
-   Foresight_nothing = \
-      "%s%s's head seems to be so empty you could probably hear the sea if "
-      "you held it to your ear."
-   Foresight_one = "%s %s."
-   Foresight_notplayer = \
-      "Hmmm...you aren't sure WHAT to make of what %s%s is thinking."
+   Foresight_last_abil_name = "und %s %s."
+   Foresight_nothing = "%s%ss Kopf scheint so hohl zu sein, dass Du bestimmt das Meer rauschen hören würdest, wenn Du Dein Ohr daran hieltest."
 
-   Foresight_KnowsOf = "knows of"
-   Foresight_AdequateAt  = "is adequate at"
-   Foresight_MediocreAt  = "is mediocre at"
-   Foresight_GoodAt  = "is good at"
-   Foresight_PractitionerOf = "is a practitioner of"
-   Foresight_GreatAt = "is great at" 
-   Foresight_MasterOf = "is a master of" 
+
+   Foresight_one = "%s %s."
+   Foresight_notplayer = "Hmmm... Du bist Dir nicht sicher, WAS die Gedanken von %s%s zu bedeuten haben."
+
+
+   Foresight_KnowsOf = "weiß etwas über:"
+   Foresight_AdequateAt = "beherrscht leidlich: "
+   Foresight_MediocreAt = "beherrscht mittelmäßig: "
+   Foresight_GoodAt = "beherrscht gut: "
+   Foresight_PractitionerOf = "praktiziert regelmäßig: "
+   Foresight_GreatAt = "beherrscht großartig: "
+   Foresight_MasterOf = "beherrscht meisterhaft: "
 
 classvars:
 
@@ -277,3 +277,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

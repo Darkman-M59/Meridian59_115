@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   NumberItem_desc_rsc = "\n\nYou are looking at "
-   NumberItem_got_one = "Hungrily, you yank %s%s from %s%s."
+   NumberItem_desc_rsc = "\nDu blickst auf "
+   NumberItem_got_one = "%s%s werden von Dir gierig in Deinem Rucksack verstaut. %s%s hält aber noch genug für alle bereit."
 
-   NumberItem_dispenser_name = "magic item creator"
-   NumberItem_dispenser_desc = \
-      "This is a magic item creator.  It creates thingies."
+   NumberItem_dispenser_name = "Das magische Gerät"
+   NumberItem_dispenser_desc = "Dies ist ein magisches Gerät. Es erschafft kleine Gegenstände."
+
    NumberItem_dispenser_icon = lever.bgf
 
 classvars:
@@ -338,4 +338,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

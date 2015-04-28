@@ -18,14 +18,14 @@ resources:
 
    KocatanBowMaker_name_rsc = "Hanla zax'Ta"
    KocatanBowMaker_icon_rsc = kcbowmak.bgf
-   KocatanBowMaker_desc_rsc = "This becoming, young woman appears as cold and curt to new faces.  "
-      "Despite that, it is obvious to all that her true passion lies in the crafting of fine bows."
+   KocatanBowMaker_desc_rsc = "Diese schickliche, junge Frau erscheint neuen Gesichtern kalt und schroff. Nichtsdestotrotz ist es offensichtlich, dass ihre wahre Leidenschaft der Herstellung schöner Bogen gilt."
 
-   KocatanBowMaker_KriipaClaw_sale = \
-         "I have claws from several Kriipa I've killed in the jungle.  The Kriipa is a truly"
-         "fearsome beast, as I'm sure you know, and a hunter who wishes to obtain their claws must pay for them"
-         "in blood spilt in battle.  You will understand, then, that my price for them is high."
-   KocatanBowMaker_unwanted_give = "~k%s%s tells you, \"I have enough of those type of supplies to hold us through the summer.~n~k\""
+
+   KocatanBowMaker_KriipaClaw_sale = "Ich habe die Klauen mehrerer Kriipa, die ich im Wald tötete. Der Kriipa ist wirklichein scheues Tier, wie Du sicherlich weißt, und ein Jäger, der ihre Klauen ergattern will, muss dafür mit seinem Blut, das während des Kampfes vergossen wird, bezahlen. Deshalb wirst Du verstehen, dass ich einen hohen Preis verlange."
+
+
+
+   KocatanBowMaker_unwanted_give = "~k%s%s sagt zu Dir, \"Ich habe genug von diesen Vorräten, um uns über den Sommer zu bringen.~n~k\""
 
    
 classvars:
@@ -116,5 +116,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

@@ -22,17 +22,17 @@ constants:
 
 resources:
 
-   ModelNode_name_rsc = "miniature mana node"
+   ModelNode_name_rsc = "Miniatur einer magischen Quelle"
    ModelNode_icon_rsc = modnode.bgf
-   ModelNode_desc_rsc = \
-      "A plaque below the model reads:\n"
-      "Found at various places around Meridian, these gatherings of mystic energy provide "
-      "strength to spellcasters who can meld with them.  The origin of these nodes is a "
-      "mystery even to the most devoted scholars, such as Councillor Esseldi.  "
-      "Some mages believe that they have something to do with the Nexus which inexplicably shattered "
-      "hundreds of years ago, severing contact from Meridian59 to the other worlds of the Nexus.  "
-      "The mana nodes of Meridian may, therefore, be remnants of that cataclysmic magical upheaval, "
-      "though none can say for certain."
+   ModelNode_desc_rsc = "Auf einem Schild unter dem Modell steht:\nDiese Quellen magischer Energie können an den unterschiedlichsten Plätzen Meridians gefunden werden und stärken jenen, der sich mit ihnen verschmilzt. Die Herkunft dieser Quellen ist selbst den gelehrtesten Führern der Zauberschulen, wie zum Beispiel Esseldi, ein Rätsel. Manche Magier glauben, sie haben etwas mit dem Nexus zu tun, der unerklärlicherweise vor Hunderten von Jahren zusammenbrach. Er diente dazu, Meridian 59 mit den anderen Welten des Nexus zu verbinden. Die magischen Quellen sind möglicherweise die Überreste dieser magischen Umwälzung apokalyptischen Ausmaßes. Sicher kann sich jedoch in diesem Fall keiner sein."
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -72,4 +72,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -19,52 +19,52 @@ constants:
 
 resources:
 
-   DukeShield_name_rsc = "shield of the Duke's army"
+   DukeShield_name_rsc = "Ein Schild der Armee des Herzogs"
 
-   DukeShield_desc_rsc = \
-      "This shield identifies you as an elite soldier of Duke Akardius' army."
+   DukeShield_desc_rsc = "Dieser Schild weist dich als Elitesoldat der Armee des Herzogs aus."
 
-   DukeShield_ArmyName = "the ducal army"
+
+   DukeShield_ArmyName = "der herzöglichen Armee"
 
    DukeShield_emblem_over = gshdaov.bgf
    DukeShield_emblem_drop = gshda.bgf
    DukeShield_emblem_back = gshdabk.bgf
 
-   DukeShield_welcome_mail = "Subject: You are now an elite soldier.\n"
-      "Welcome to the army of the true leader of these lands.  Your ambition suits you "
-      "very well.\n\n"
-      "There are some rules imposed by those that think themselves above us.  It suits "
-      "our purpose to follow these rules for now.\n\n"
-      "SOLDIER SHIELD: Your shield shows you as part of my army.  If you lose this "
-      "shield, it signifies that you are no longer part of our army.\n\n"
-      "ENEMY SOLDIERS: Enemies from the other pathetic faction have full right to try "
-      "to attack you when they find you.  For this, they will suffer no penalty.  Of "
-      "course, you will also be unpenalized for destroying them in combat.  I am sure "
-      "our cowardly foes will take shelter in safe spots like inns or halls, but it is "
-      "your job to be waiting for them to leave.  As with the regular members of my "
-      "faction, I will not allow traitorous attacks against those loyal to me; to do so "
-      "is to reduce your own power as you are removed from my service in all aspects.  "
-      "In order to better defeat our enemies, I will teach you how to do additional "
-      "damage to our enemies.  Deaths inflicted upon enemies will give them the penalties "
-      "they deserve for standing up to us!\n\n"
-      "RANKS: Kill our enemies, and I will see you raised to be worshipped by those that "
-      "follow me.  Die or act dishonorably, and you will once again be at the lowest "
-      "end of the army.  Those that try to leave this land unsafely and leave behind a "
-      "ghost to escape combat will also meet with my displeasure.\n\n"
-      "ABILITIES: In return for your loyal service, I will give you power!  I will teach "
-      "you how to increase your natural stamina and agility in combat.  I will also show "
-      "you ways to tap into the darker aspects of magic to boost all your spells.  These "
-      "powers grow as you gain my attention and ranks within the army.\n\n"
-      "THE COUNCILORS: The councilors whom we must convince do not wish you soldiers to "
-      "interfere with the tokens.  For now, do as they say, for we must gain their trust "
-      "if they are to declare me the true ruler I am.  Let one of my followers that is "
-      "not a soldier take the token and convince the councilor of our might and our "
-      "right.  Your job for now is to claim territory in my name.  Only soldiers can "
-      "claim territory for our faction.\n\n"
-      "LOYALTY: Do not bother yourself with tax errands while you are a soldier.  Murder "
-      "our enemies in combat and you will demonstrate all the loyalty I need.\n\n"
-      "We will take the throne of this kingdom.  You have given your support wisely.\n\n"
-      "Akardius, Duke of Blackstone Keep"
+   DukeShield_welcome_mail = "Betreff: Du bist nun ein Elitesoldat.\n\nWillkommen in der Armee des wahren Führers dieser Lande. Dein Ehrgeiz steht der sehr gut.\n\n\nDies sind einige Regeln von denjenigen, die sich über uns wähnen. Es passt zu unseren Zielen, diesen Regeln zu folgen.\n\n\nFRAKTIONSSCHILD: Dein Schild weist dich als Mitglied meiner Armee aus. Solltest du diesen Schild verlieren zeigt das an, dass du nicht länger ein Teil unserer Armee bist.\n\nFEINDLICHE SOLDATEN: Feinde von anderen erbarmungswürdigen Fraktionen haben das volle Recht, dich anzugreifen, sollten sie dich aufgreifen. Sie werden dafür keine Bestrafung erhalten. Natürlich wirst du ebenfalls nicht bestraft werden, wenn du sie im Kampf vernichtest. Ich bin sicher, dass unsere feigen Feinde an sicheren Orten wie Kneipen oder Gemeinschaftshallen Schutz suchen werden, aber es ist deine Aufgabe, darauf zu warten dass sie aus ihren Verstecken hervorkommen. Wie bei den regulären Mitgliedern meiner Fraktion erlaube ich keine verräterischen Angriffe gegen die, die mir loyal sind; solltest du dies dennoch tun, wirst du damit deine eigene Stärke reduzieren, wirst du doch in allen Belangen aus meinem Dienst entfernt werden. Um unsere Feinde besser bekämpfen zu können lehre ich dich, unseren Feinden zusätzlichen Schaden beizubringen. Tode, unseren Feinden zugefügt, werden ihnen die Strafe bescheren, die sie verdienen, indem sie sich gegen uns stellen!\n\nRÄNGE: Töte unsere Feinde, und ich werde dich erhoben sehen, um von denen, die mir folgen angebetet zu werden. Sterbe, oder verhalte dich unehrenhaft, und du wirst dich am untersten Ende der Armee wiederfinden. Diejeningen, die versuchen das Land unsicher zu verlassen und einen Geist zurückzulassen um dem Kampf zu entgehen, wird mein Verdruss ebenfalls treffen.\n\nFÄHIGKEITEN: Als Gegenleistung für deinen loyalen Dienst gebe ich dir Kräfte! Ich lehre dich, wie du deine natürliche Konstitution und Gewandtheit im Kampf erhöhen kannst. Ich werde dir ebenfalls einen Einblick in die dunkleren Aspekte der Magie geben, um all deine magischen Sprüche zu verstärken. Diese Kräfte steigen, wenn du meine Aufmerksamkeit erhältst und in den Rängen der Armee aufsteigst.\n\nDIE RATSMITGLIEDER: Die Ratsmitglieder, die wir zu überzeugen suchen wünschen keine Soldaten, die in die Angelegenheiten der Artefakte eingreifen. Für den Zeitpunkt: Tu was sie sagen, denn wir müssen ihr Vertrauen gewinnen, wenn sie mich als den wahren Herrscher deklarieren sollen, der ich bin. Lasse einen meiner Anhänger, der kein Soldat ist das Artefakt nehmen und die Ratsmitglieder von unserer Macht und unserem Recht überzeugen. Deine Aufgabe ist es jetzt, Territorien in meinem Namen zu besetzen. Nur Soldaten können Gebiete für unsere Fraktion erobern.\n\nLOYALITÄT: Befasse dich nicht mit steuerlichen Botengängen, solange du ein Soldat bist. Ermorde unsere Feinde, um mir all die Loyalität zu zeigen, die ich brauche.\n\n\nWir werden den Thron dieses Königreiches besteigen. Du hast deine Unterstützung weise gewählt.\n\n\nAkardius, Herzog auf Burg Schwarzstein"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -162,3 +162,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

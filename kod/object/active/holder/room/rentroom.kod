@@ -56,62 +56,62 @@ constants:
 
 resources:
 
-   RentableRoom_name = "A tastefully appointed room"
+   RentableRoom_name = "Ein geschmackvoll eingerichteter Raum"
    RentableRoom_roo = barrent.roo
 
-   RentableRoom_landlord = "The Landlord"
+   RentableRoom_landlord = "Der Landlord"
 
-   RentableRoom_music = bar.mid
+   RentableRoom_music = bar.mp3
 
-   RentableRoom_carpet_options = \
-      "We have two shades of carpet, a light grey and a darker grey, or "
-      "if you prefer wood floors I can put in one with a light or a dark finish."
-   RentableRoom_bedspread_options = \
-      "We have basic red and blue bedspreads, as well as a nice "
-      "black floral pattern and my personal favorite, white linen."
-   RentableRoom_wallpaper_options = \
-      "I can offer you a number of different kinds of wallpaper.  I have "
-      "a nice vine pattern in a cream color, a traditional Barloquan medallion "
-      "pattern in brown, a floral pattern on black, or a white paper with a "
-      "delicately embossed pattern.  Also, if you want a more spare look we "
-      "can go with brick or wood panelling, but if you choose one of those, "
-      "I can't hang a painting for you; they're too hard to put a hole in."
-   RentableRoom_picture_options = \
-      "Right now, the only framed art I have ready to hang is a still life "
-      "of a flower vase, a reproduction of an ancient tapestry depicting a "
-      "battle scene, or a portrait done in charcoal.  Alternately, you "
-      "could opt to have nothing on the wall."
+   RentableRoom_carpet_options = "Wir haben zwei Farbtöne beim Teppich, hellgrau und ein dunkles grau, oder wenn Du Holzfußboden bevorzugst, kann ich einen in Hell oder Dunkel einfügen. "
 
-   RentableRoom_expiry_warning = \
-      "Subject: Room check-out reminder notice\n"
-      "This is a courtesy notice to remind you that your room rental will expire "
-      "in %q days.  Please be sure to clear your room of any personal effects "
-      "before then.  I hope you are enjoying your stay."
-   RentableRoom_expiry = \
-      "Subject: Room check-out\n"
-      "Your room rental has expired, and the room has been cleared of any "
-      "personal effects.  Thank you for being our guest, and I hope that "
-      "you enjoyed your stay."
 
-   RentableRoom_teleport = \
-      "As you touch the doorknob, a strange white glow envelops you, and you "
-      "find yourself somewhere else."
+   RentableRoom_bedspread_options = "Wir haben rote und blaue Tagesdecken, genauso wie ein schönes geblümtes Muster sowie mein persönlicher Favorit, weißes Leinen."
 
-   RentableRoom_heartstone_red = \
-      "Ah, with this red heartstone, I can offer you items that require fire."
-   RentableRoom_heartstone_blue = \
-      "Excellent!  I can make water containers with this blue heartstone."
-   RentableRoom_heartstone_sky = \
-      "With this sky heartstone, I can make some wonderful things!"
-   RentableRoom_heartstone_brown = \
-      "I can now offer you a few items made from stone since I have this "
-      "brown heartstone."
-   RentableRoom_heartstone_all = \
-      "I am also impressed that you have all the heartstones.  I can make "
-      "some rare objects that require them all."
+
+   RentableRoom_wallpaper_options = "Ich kann euch verschiedene Tapeten anbieten. Ich habe ein schönes Rebenmuster in Cremefarben, ein traditionelles barloquanisches Münzenmuster in Braun, ein Blumenmuster auf schwarzem Grund oder eine weisse Tapete mit einem feinen, geprägten Muster. Also, wenn du ein sparsameres Muster willst, können wir Ziegel oder Holzvertäfelung wählen, aber wenn Du eines davon aussuchst, kann ich Dir keine Bilder aufhängen, weil sie zu hart sind, um ein Loch hineinzubohren."
+
+
+
+
+
+
+   RentableRoom_picture_options = "Die einzigen gerahmten Werke, die ich fertig zum Aufhängen habe, sind ein Stilleben einer Blumenvase, die Reproduktion eines antiken Wandteppichs, der eine Kampfszene darstellt, oder ein Portrait in Kohle. Alternativ könntest Du Dich auch dafür entscheiden, gar nichts an die Wand zu hängen. "
+
+
+
+
+
+   RentableRoom_expiry_warning = "Betreff: Erinnerung zum Zimmer verlassen\nDiese höfliche Notiz erinnert Dich daran, dass die Zimmermiete in %q Tagen ausläuft. Bitte versichere Dich, dass alle persönlichen Dinge vorher ausgeräumt werden. Ich hoffe, Du geniesst Deinen Aufenthalt."
+
+
+
+
+   RentableRoom_expiry = "Betreff: Bestätigung zum Zimmer verlassen\nDeine Zimmerbuchung ist abgelaufen und das Zimmer wurde gereinigt. Danke, dass Du unser Gast warst, und ich hoffe, dass Du den Aufenthalt genossen hast."
+
+
+
+
+
+   RentableRoom_teleport = "Als Du den Türgriff berührst, umhüllt Dich ein seltsames weißes Leuchten und Du befindest Dich plötzlich woanders."
+
+
+
+   RentableRoom_heartstone_red = "Ah, ein roter Herzstein. Ich kann dir Dinge anbieten, die Feuer benötigen."
+
+   RentableRoom_heartstone_blue = "Exzellent! Ich kann Wasserbehälter aus diesem blauen Herzstein machen."
+
+   RentableRoom_heartstone_sky = "Mit diesem himmelblauen Herzstein kann ich viele wunderbare Dinge herstellen!"
+
+   RentableRoom_heartstone_brown = "Ich kann dir nun, da du einen braunen Herzstein hast, Dinge aus Stein anbieten."
+
+
+   RentableRoom_heartstone_all = "Ich bin sehr beeindruckt, dass du alle Herzsteine hast. Ich kann einige seltene Dinge aus ihnen machen."
+
+
    
    RentableRoom_comma = ", "
-   RentableRoom_and = "and "
+   RentableRoom_and = "und "
 
    % Rentable Room commands:
    RentableRoom_command_here = "here"
@@ -1443,3 +1443,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

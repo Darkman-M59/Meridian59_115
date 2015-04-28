@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   LoveLetter_name_rsc = "love letter"
+   LoveLetter_name_rsc = "Liebesbrief"
    LoveLetter_icon_rsc = scr01.bgf
-   LoveLetter_desc_rsc = \
-      "This is a lengthy love letter consisting of disgustingly gushy prose intercut with "
-      "pieces of excruciatingly bad poetry.  The whole thing is probably intended to be "
-      "romantic, but by the fifth reference to strewing rose petals in someone-or-other's "
-      "hair you find yourself unable to read any further for fear of losing your lunch."
+   LoveLetter_desc_rsc = "Dies ist ein langer Liebesbrief, der von widerlich schwärmerischer Prosa überquillt, die nur von Passagen von unerträglich schlechter Poesie abgewechselt wird. Das ganze Ding soll romantisch wirken, doch wenn zum fünften Mal die im Haar von irgend jemandem haftenden Rosenblätter erwähnt werden, siehst Du Dich außerstande, weiterzulesen, weil Du Angst hast, sonst Dein Mittagessen von Dir zu geben."
+
+
+
+
 
 classvars:
 
@@ -56,3 +56,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -18,18 +18,18 @@ constants:
 
 resources:
 
-   deathlink_name_rsc = "death link"
+   deathlink_name_rsc = "Todesbündnis"
    deathlink_icon_rsc = ideathli.bgf
-   deathlink_desc_rsc = \
-      "This dark spell feeds off the souls of any poor creature that should "
-      "happen to fall in your vicinity.  "
-      "Requires shaman blood and polished seraphym to cast."
-   
-   deathlink_already_enchanted = "Someone has already linked themselves to this room."
+   deathlink_desc_rsc = "Dieser geheimnisvolle Spruch sorgt dafür, dass Du Dich von den Seelen der armen Kreaturen ernähren kannst, die sich in Deiner Nähe befinden. Dafür benötigt man Schamanenblut und polierte Seraphyme."
 
-   deathlink_on = "%s%s looks as if preparing to feed on darkness itself."
-   deathlink_off = "The link to death here dissipates."
-   deathlink_on_new_entrant = "You feel a cool presence of a cohort of death in the area."
+
+
+   
+   deathlink_already_enchanted = "Irgend jemand hat sich bereits mit diesem Raum verbunden."
+
+   deathlink_on = "%s%s scheint sich darauf vorzubereiten, sich von der Dunkelheit selbst zu ernähren."
+   deathlink_off = "Dein Bündnis mit dem Tod löst sich jetzt auf."
+   deathlink_on_new_entrant = "Du spürst die eiskalte Gegenwart eines Todesgeschwaders in der Umgebung."
 
    deathlink_sound = qdeathlk.wav
 
@@ -197,3 +197,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

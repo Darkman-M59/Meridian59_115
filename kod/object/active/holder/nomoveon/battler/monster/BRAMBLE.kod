@@ -23,27 +23,27 @@ constants:
 
 resources:
 
-   brambles_name_rsc = "patch of bramble"
+   brambles_name_rsc = "Die Brombeerranken"
    brambles_icon_rsc = wothorns.bgf
-   brambles_desc_rsc = "The patch of bramble looms dangerously, "
-                       "hoping to tear into your skin if you walk by."
+   brambles_desc_rsc = "Diese Brombeerranken ragen drohend auf, hoffend, Dir die Haut zu zerkratzen, wenn Du vorbeiläufst."
 
-   Brambles_damage0 = "You walk through the patch of bramble without incident."
-   Brambles_damage2 = \
-      "As you walk through the patch of bramble, they scratch at that hard to "
-      "reach itch for you."
-   Brambles_damage3 = "Thats okay, you didn't need that piece of skin anyway."
-   Brambles_damage4 = \
-      "You just about lose your pants as the patch of bramble grabs at them."
+
+   Brambles_damage0 = "Du läufst ohne Zwischenfall durch die Brombeerranken."
+   Brambles_damage2 = "Als Du durch die Brombeerranken läufst, kratzen sie Dich an einer Stelle, wo Du Dich schlecht kratzen kannst."
+
+
+   Brambles_damage3 = "Das ist okay, Du hast dieses Stück Haut eh nicht gebraucht."
+   Brambles_damage4 = "Du bist knapp davor, Deine Hosen zu verlieren, als die Brombeerranken danach greifen."
+
    Brambles_damage5 = "Ow ow ow ow ow ow ow..."
 
    Brambles_scratch_snd = frying.wav
    brambles_icon_dead = wolightn.bgf
 
-   brambles_dead_name_rsc = "the ruins of some bramble"
+   brambles_dead_name_rsc = "Die Überreste einiger Brombeeren"
 
-   brambles_monster_healing = "The patch of brambles rustles as it grows back a little."
-   bramble_dissipates = "A patch of the bramble chokes and dies."
+   brambles_monster_healing = "Die Brombeerranken rascheln, als sie ein wenig zurückwachsen."
+   bramble_dissipates = "Die Brombeerranken wanken und sterben."
 
 classvars:
 
@@ -499,3 +499,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

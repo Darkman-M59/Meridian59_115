@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   Longbow_name_rsc = "longbow"
-   Longbow_desc_rsc = \
-      "Expertly carved for flexibility and range, this bow gives you the "
-      "envious advantage of a long ranged attack." 
+   Longbow_name_rsc = "Der Langbogen"
+   Longbow_desc_rsc = "Hervorragend gefertigt für Flexibilität und Entfernung, gibt Dir dieser Bogen den Vorteil des Angriffs aus der Ferne."
+
+
 
 classvars:
 
@@ -46,3 +46,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

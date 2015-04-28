@@ -29,15 +29,15 @@ constants:
 
 resources:
 
-   room_name_guildh12 = "West Tower Guild Hall in Ko'catan"
+   room_name_guildh12 = "Westturm-Gildenhalle von Ko'catan"
    room_guildh12 = guildh12.roo
 
-   guildh12_sealed1 = "This door is sealed by the order of the captain of the guard."
-   guildh12_sealed2 = "The door to the inner city wall is locked to non-military personnel."
-   guildh12_sealed3 = "The door to the upper barracks is locked."
-   guildh12_sealed4 = "Access to the upper wall is denied to non-military personnel."
-   guildh12_sealed5 = "All access to the upper levels of the west tower is blocked by an iron "
-      "gate.  It would not be wise to violate a lease with the Ko'catan army."
+   guildh12_sealed1 = "Diese Tür wurde auf Befehl des Hauptmanns der Wache verschlossen."
+   guildh12_sealed2 = "Diese Tür zum Innenteil der Stadtmauer ist für nicht-militärisches Personal verschlossen zu halten."
+   guildh12_sealed3 = "Die Tür zu den oberen Schlafräumen ist verschlossen."
+   guildh12_sealed4 = "Zutritt zum oberen Teil der Mauer  für nicht-militärisches Personal verbotenl."
+   guildh12_sealed5 = "Der Zugang zu den oberen Stockwerken des Westturms wird von einem Eisentor blockiert. Es wäre nicht sehr klug, unerlaubt in das Gebiet der Armee von Ko'catan einzudringen."
+
 
    guildh12_gong = gong.wav
 
@@ -340,3 +340,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

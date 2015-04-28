@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OutdoorsKA4 ="Into the Jungle"
+   room_name_OutdoorsKA4 = "In den Dschungel"
    room_OutdoorsKA4 = KA4.roo
-   OutdoorsKA4_music = avarwar.mid
+   OutdoorsKA4_music = avarwar.mp3
 
 classvars:
 
@@ -80,3 +80,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

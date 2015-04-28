@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   TotemTwo_name_rsc = "Gold Urn"
+   TotemTwo_name_rsc = "Die Goldene Urne"
    TotemTwo_icon_rsc = qo02.bgf
-   TotemTwo_desc_rsc = "Excavated during the construction of the palace of the dark Princess Venya'cyr, the Urn "
-         "came quickly into her possession as a valued treasure.  Ancient rumors suggest the Urn is cursed.  "
-         "The craftsmanship of this priceless relic comes from unknown origins, certainly predating the Meridian "
-         "settlers.  An unusual presence prevents this object from being stored in a chest or held for very long."
+   TotemTwo_desc_rsc = "Die Urne, die während des Baus des Palastes der dunklen Prinzessin Venya'cyr ausgegraben wurde, ging schnell als wertvoller Schatz in ihren Besitz über. Alte Gerüchte behaupten, die Urne sei verflucht. Diejenigen, die dieses unbezahlbare Relikt schufen, sind unbekannt, doch sicherlich lebten sie noch vor den Meridianischen Siedlern. Eine ungewöhnliche Präsenz bewahrte dieses Objekt davor, in einer Kiste verwahrt oder lange behalten zu werden."
+
+
+
 
 classvars:
 
@@ -46,3 +46,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

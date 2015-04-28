@@ -19,12 +19,12 @@ constants:
 
 resources:
 
-   ManaCrystal_name_rsc = "mana crystal"
+   ManaCrystal_name_rsc = "Manakristall"
    ManaCrystal_icon_rsc = manacrys.bgf
-   ManaCrystal_desc_rsc = \
-      "A crystalized form of raw mana, the energy for spells.  Use this to "
-      "regain the mana stored in this crystal.  Since it is attuned to you, "
-      "you cannot drop it or give it to anyone else."
+   ManaCrystal_desc_rsc = "Eine kristallisierte Form von reinem Mana, die Energie für Zaubersprüche. Benutze ihn um das Mana das in dem Kristall gespeichert ist, zu erhalten. Da der Kristall auf dich abgestimmt ist kannst du ihn weder wegwerfen noch mit jemanden tauschen."
+
+
+
 
 classvars:
 
@@ -159,3 +159,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

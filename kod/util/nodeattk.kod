@@ -18,45 +18,45 @@ constants:
 
 resources:
 
-   NodeAttack_initial_attack_rsc = \
-      "~IYou have an uneasy feeling that one of your nodes is being "
-      "threatened."
-   NodeAttack_location_attack_rsc = "~BThe node at %s is under attack!"
-   NodeAttack_attack_sound_rsc = ndanger.wav
-   NodeAttack_killed_rsc = "a Xeochicatl attack"
-   NodeAttack_room_message_rsc = \
-      "~IThe area shakes violently as several Xeochicatl pull themselves "
-      "from the ground and attack the node!"
+   NodeAttack_initial_attack_rsc = "~IDu hast das ungute Gefühl, dass eine der magischen Quellen attackiert wird."
 
-   NodeAttack_success_rsc = \
-      "~BThe Xeochicatl retreat from %s.  The node has been saved!"
-   NodeAttack_failure_rsc = \
-      "~BThe node at %s has been drained by the attacking Xeochicatl!"
+
+   NodeAttack_location_attack_rsc = "~BDie magische Quelle in %s wird attackiert!"
+   NodeAttack_attack_sound_rsc = ndanger.wav
+   NodeAttack_killed_rsc = "Ein Xeochicatl Angriff"
+   NodeAttack_room_message_rsc = "~IDas Gebiet erbebt brutal, als sich mehrere Xeochicatl aus dem Boden erheben und die magische Quelle attackieren!"
+
+
+
+   NodeAttack_success_rsc = "~BDer Xeochicatl zieht sich aus %s zurück. Die magische Quelle wurde gerettet!"
+
+   NodeAttack_failure_rsc = "~BDie magische Quelle in %s wurde von einem Xeochicatl aufgezehrt!"
+
    NodeAttack_failure_sound_rsc = ndrained.wav
 
-   NodeAttack_loss_rsc = \
-      "~IYour head aches as you feel the loss of one of your nodes."
-   NodeAttack_severed_rsc = \
-      "~IYour head roars with pain as the link to one of your nodes is "
-      "severed!"
+   NodeAttack_loss_rsc = "~IDein Kopf schmerzt, als Du fühlst, wie eine Verbindung zu eine Deiner magischen Quellen unterbrochen ist."
 
-   NodeAttack_loss_mail_rsc = "Subject: The loss of the node\n"
-      "It is with a heavy heart I report that the Xeochicatl have attacked "
-      "and drained the node at %s.  Our forces were not able to repel the "
-      "attacks and the node was lost to us.  As a result, you will not be "
-      "able to draw mana from this node for a while."
-      "\n\n"
-      "I hope in the future we will know how to better repel these attacks.  "
-      "We must be ever vigilant against these attacks."
-   NodeAttack_severed_mail_rsc = "Subject: The severing of your node\n"
-      "It is with a heavy heart I report that the Xeochicatl have attacked "
-      "and drained the node at %s.  Unfortunately, the violent draining of "
-      "the node severed your connection with it.  Our forces were not able to "
-      "repel the attacks and the node was lost to us.  As a result, you must "
-      "meld with the node again when it becomes available in the future."
-      "\n\n"
-      "I hope in the future we will know how to better repel these attacks.  "
-      "We must be ever vigilant against these attacks."
+   NodeAttack_severed_rsc = "~IDein Kopf scheint vor Schmerz zu zerspringen, als eine Verbindung zu einer Deiner angezapften, magischen Quellen verloren geht!"
+
+
+
+   NodeAttack_loss_mail_rsc = "Betreff: Verbindungsverlust zu einer magischen Quelle\nIch berichte schweren Herzens, dass die Xeochicatl die magische Quelle in %s angegriffen und ausgesaugt haben. Unsere Armee war nicht in der Lage, die Attacke abzuwehren, und die magische Quelle ist nun für uns verloren. Aus diesem Grund wirst Du - ebenso wie viele andere - für einige Zeit nicht fähig sein, magische Energie aus dieser Quelle zu beziehen.\n\nIch hoffe, dass wir in Zukunft aus den Fehlern der Vergangenheit lernen, um diese Angriffe erfolgreich zurückzuschlagen. Wir müssen von nun an stets in Alarmbereitschaft bleiben."
+
+
+
+
+
+
+
+   NodeAttack_severed_mail_rsc = "Betreff: Verlust einer Verbindung zu einer Deiner magischen Quellen\nSchweren Herzens muss ich berichten, dass die Xeochicatl die magische Quelle in %s angegriffen und ausgesaugt haben. Unglücklicherweise hat das brutale Aussaugen der magischen Quellen unsere Verbindung mit ihr unterbrochen. Unsere Armee war nicht in der Lage, die Attacke abzuwehren, und die magische Quelle ist für uns verloren. Aus Diesem Grund wirst Du Dich - ebenso wie viele andere - erneut mit der magischen Quelle verbinden müssen, sobald sie sich wieder vom Angriff erholt hat.\n\nIch hoffe, dass wir in Zukunft aus den Fehlern der Vergangenheit lernen und solcherlei Angriffe erfolgreich abwehren können. Wir müssen von nun an stets in Alarmbereitschaft bleiben."
+
+
+
+
+
+
+
+
 
    NodeAttack_keeper = "Alzahakar"
 
@@ -660,3 +660,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

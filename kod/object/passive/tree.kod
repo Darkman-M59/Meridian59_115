@@ -18,8 +18,8 @@ constants:
 
 resources:
 
-   tree_name_rsc = "tree"
-   tree_desc_rsc = "These trees offer cool shade and beautiful scenery."
+   tree_name_rsc = "Die Kiefer"
+   tree_desc_rsc = "Die Bäume spenden kühlenden Schatten in der wunderschönen Landschaft."
 
    tree_bottom_rsc = treebot.bgf
    tree_top_rsc = treetop.bgf
@@ -59,3 +59,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

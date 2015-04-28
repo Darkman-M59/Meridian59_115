@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   rescue_name_rsc = "rescue"
+   rescue_name_rsc = "Retten"
    rescue_icon_rsc = rescuico.bgf
-   rescue_desc_rsc = \
-      "Calls upon Shal'ille to transport you back to "
-      "safety.  Ability determines how fast you are rescued.  "
-      "Requires emerald to cast."
+   rescue_desc_rsc = "Ruft Sha-Lill an, um Dich zurück in Sicherheit zu bringen. Der Zauber benötigt Smaragde. "
 
-   Rescue_Start = "You start your rescue preparations."
-   Rescue_Success = "You feel a holy force rescue you from your current situation."
-   Rescue_Already_Cast = "You are already being rescued."
-   Rescue_Token_Cancel = "You cannot rescue while holding a token."
+
+
+
+   Rescue_Start = "Du beginnst Deine Vorbereitungen zum Retten."
+   Rescue_Success = "Du spürst eine heilige Macht, die Dich aus Deiner jetzigen Lage rettet."
+   Rescue_Already_Cast = "Du wirst bereits gerettet."
+   Rescue_Token_Cancel = "Du kannst nicht entkommen solange du einen Token hälst."
    
    rescue_sound = srescue.wav
 
@@ -179,3 +179,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

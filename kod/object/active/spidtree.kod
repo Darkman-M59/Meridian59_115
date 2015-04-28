@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   SpiderTree_name_rsc = "Web Covered Tree"
+   SpiderTree_name_rsc = "Spinnweben überziehen diesen Baum."
    SpiderTree_icon_rsc = spdrtree.bgf
-   SpiderTree_desc_rsc = "Elegant and sinister-looking webbing smothers what was once a proud and ancient oak.  There is a foreboding hole carved into the base of the tree, large enough to enter."
+   SpiderTree_desc_rsc = "Diese einst mächtige und stolze Eiche ist fast vollständig mit Spinnweben überzogen. Ein finsteres Loch im Stamm ist gerade groß genug, um die dunkle Höhle dahinter zu betreten."
 
-   SpiderTree_move_req_no = "For some reason, you can't seem to enter the hole."
+   SpiderTree_move_req_no = "Aus irgendeinem Grund schaffst Du es nicht, die Höhle zu betreten."
 
-   Spidertree_enter = "You stumble down the hole at the base of the tree."
+   Spidertree_enter = "Du stolperst durch das Loch im Baum in die Tiefe."
 
 classvars:
 
@@ -122,3 +122,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

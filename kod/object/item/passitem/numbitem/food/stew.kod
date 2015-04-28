@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   Stew_name_rsc = "bowl of stew"
+   Stew_name_rsc = "Schüssel mit Stew"
    stew_icon_rsc = soupbowl.bgf
-   stew_desc_rsc = \
-      "Widow Qesino's faroni stew has been heralded by some as a vegetarian classic. "
-      "Full of healthy bits of deceased fungus beasts and living tree bark, you can "
-      "only assume that this is an acquired taste."
-   stew_name_plural_rsc = "bowls of stew"
+   stew_desc_rsc = "Von einigen ist das Faroni-Stew der Witwe Qesino als vegetarischer Klassiker gefeiert worden. Voll riesiger Happen toter Pilztiere und lebender Baumrinde kannst Du nur annehmen, dass es sich hierbei um einen Geschmack handelt, den man von Kindheit an gewohnt sein muß."
+
+
+
+   stew_name_plural_rsc = "Schüsseln mit Stew"
 
    stew_eat_wav = drink.wav
-   stew_use = "Yuck - this better be good for you!"
+   stew_use = "Wäh! So, wie es schmeckt, sollte es wenigstens gesund sein!"
 
 classvars:
 
@@ -56,3 +56,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

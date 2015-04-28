@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   skull_name_rsc = "skull"
+   skull_name_rsc = "Der Schädel"
    skull_icon_rsc = skull.bgf
-   skull_desc_rsc = \
-   "You are looking at a skull.  It appears someone ran into a little trouble "
-   "here.  If you are not careful, you may meet the same fate."
+   skull_desc_rsc = "Du blickst auf einen Schädel. Es scheint als wäre jemand hier in geringfügige Schwierigkeiten geraten. Wenn Du nicht aufpaßt, könnte Dich das gleiche Schicksal ereilen."
+
+
 
 classvars:
 
@@ -40,3 +40,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsC3 = C3.roo
-   room_name_OutdoorsC3 ="Quilicia Wood"
-   OutdoorsC3_music = walk7.mid
+   room_name_OutdoorsC3 = "Die Quilicia Wälder"
+   OutdoorsC3_music = walk7.mp3
 
 classvars:
 
@@ -80,3 +80,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

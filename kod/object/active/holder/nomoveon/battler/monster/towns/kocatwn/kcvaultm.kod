@@ -18,13 +18,13 @@ resources:
 
    Kocatanvaultman_name_rsc = "Itzal cha'Nosak"
    kocatanvaultman_icon_rsc = kcvault.bgf
-   kocatanvaultman_desc_rsc =  \
-      "Itzal's often rude attitude and awkward bodily noises make him far less popular "
-      "than his fraternal twin, Huital.  With a labored sigh and a piggish grunt, he "
-      "begrudgingly accommodates the needs of those who wish to store items in the "
-      "vault."
+   kocatanvaultman_desc_rsc = "Itzal's oft derbe Art und die merkwürdigen Geräusche die er von sich gibt, haben ihn weniger beliebt gemacht als seinen Zwillingsbruder Huital. Mit einem schweren Seufzer und einem animalischen Grunzen kümmert er sich unwillig um die Bedürfnisse derer, die Gegenstände im Lager aufbewahren wollen."
 
-   kocatanvaultman_entry_welcome = "Oh, I've had it up to HERE with your patronizing attitude."
+
+
+
+
+   kocatanvaultman_entry_welcome = "Oh, dein gönnerhaftes Verhalten steht mir bis HIER."
 
 classvars:
 
@@ -103,3 +103,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

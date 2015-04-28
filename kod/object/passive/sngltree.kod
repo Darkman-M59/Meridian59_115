@@ -16,8 +16,8 @@ constants:
 
 resources:
 
-   singletree_name_rsc = "tree"
-   singletree_desc_rsc = "A tree, covered by spider webs."
+   singletree_name_rsc = "Die Kiefer"
+   singletree_desc_rsc = "Ein Baum, bedeckt mit Spinnweben. "
    singletree_icon_rsc = spdrtree.bgf
 
 
@@ -34,3 +34,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,30 +17,30 @@ constants:
 
 resources:
 
-   Bond_name_rsc = "bond"
+   Bond_name_rsc = "Bund"
    Bond_icon_rsc = ibond.bgf
-   Bond_desc_rsc = \
-      "Infuses an item with a soft white light.  However, the "
-      "bond requires terrific amounts of energy to form.  A heartstone and "
-      "dozens of polished serphym and diamonds must be crushed to amplify "
-      "the caster's mystical energy, which must then be focused through a "
-      "prism.  The item to be bonded must be targetted.  Once the casting "
-      "is complete the item will follow its owner to hell itself."
+   Bond_desc_rsc = "Erfüllt einen Gegenstand mit einem weichen weißen Licht. Der Zauber braucht aber so viel Mana, dass einem schlecht werden könnte. Ein Herzstein, Dutzende geschliffene Seraphs und Diamanten müssen zerstoßen werden, um die magische Kraft des Zauberers zu verstärken. Diese muss durch ein Prisma gebündelt und auf den Gegenstand gerichtet werden. Wenn der Spruch erfolgreich war, bleibt der Gegenstand sogar bis in die Unterwelt an Deiner Seite."
+
+
+
+
+
+
    
    Bond_sound = sbond.wav
 
-   bond_bad_target = "You may only bond items to a player."
-   bond_no_prism = "The magic energies of the prism do not allow it to be bonded."
-   bond_failed = \
-      "You feel the magical bond begin to reach out in vain for one of its targets, "
-      "but finding nothing it dissipates."
-   bond_already_bonded = "This item is already bonded."
+   bond_bad_target = "Du kannst nur Gegenstände mit einem Spieler verknüpfen."
+   bond_no_prism = "Die magischen Energien des Prismas verhindern den Bund."
+   bond_failed = "Du spürst, wie das magische Band vergebens nach seinem Ziel sucht und als es nichts findet, löst es sich wieder auf."
 
-   bond_successful_casters = "You feel a magical bond form between %s%s and %s."
-   bond_successful_bondee = "You feel a magical bond form between you and your %s."
 
-   bond_report_room = "Somehow, you sense that your %s is in %s."
-   bond_report_user = "Somehow, you sense that your %s is in %q's possession."
+   bond_already_bonded = "Dieser Gegenstand ist bereits verknüpft."
+
+   bond_successful_casters = "Du spürst: %s%s stellt eine magische Verbindung zu %s her."
+   bond_successful_bondee = "Du spürst: %s stellt eine magische Verbindung zu Dir her."
+
+   bond_report_room = "Du spürst: %s befindet sich in %s."
+   bond_report_user = "Du spürst: %s befindet sich in %qs Besitz."
 
 classvars:
 
@@ -243,3 +243,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

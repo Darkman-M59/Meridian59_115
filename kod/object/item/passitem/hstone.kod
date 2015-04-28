@@ -20,10 +20,10 @@ constants:
 resources:
 
    HeartStone_icon_rsc = xeogem.bgf
-   HeartStone_name_rsc = "heartstone"
-   HeartStone_desc_rsc = \
-	   "This is called a 'heartstone'.  It is a huge gem taken from the body of a "
-	   "fallen Xeochicotl."
+   HeartStone_name_rsc = "Der Herzstein"
+   HeartStone_desc_rsc = "Das ist ein Herzstein. Es ist ein großer Edelstein und er stammt von einem getöteten Xeochicotl."
+
+
 	
 classvars:
    
@@ -141,4 +141,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

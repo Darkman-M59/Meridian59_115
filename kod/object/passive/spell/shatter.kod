@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   shatter_name_rsc = "shatter"
+   shatter_name_rsc = "Zerbrechen"
    shatter_icon_rsc = ishatter.bgf
-   shatter_desc_rsc = \
-      "The icy magic of Faren shatters one or more items in "
-      "the inventory of the target.  "
-      "Requires red and purple mushrooms to cast."
+   shatter_desc_rsc = "Die Erdmagie von Faren zerbricht einen oder mehrere Gegenstände im Inventar der Zielperson. Der Zauber benötigt Lila Pilze und Rote Pilze."
+
+
+
 
    shatter_sound = fshatter.wav
 
-   shatter_cast_rsc = "Your %s frosts, trembles, and shatters!"
-   shatter_cast_plural_rsc = "Your %s frost, tremble, and shatter!"
-   shatter_succeed = "You shatter %s%s's %s!"
+   shatter_cast_rsc = "%s ist morsch, erzittert und bricht!"
+   shatter_cast_plural_rsc = "%s sind morsch, erzittern und zerbrechen!"
+   shatter_succeed = "%s%s schaut ärgerlich. %s zerbricht."
 
-   shatter_failed_caster = "You point at %s%s, but nothing seems to happen."
-   shatter_failed_target = "%s%s points at you, but nothing seems to happen."
+   shatter_failed_caster = "Du deutest auf %s%s, aber scheinbar geschieht nichts."
+   shatter_failed_target = "%s%s deutet auf Dich, aber scheinbar geschieht nichts."
 
    shatter_not_enough_hp = "You are not yet powerful enough to sunder objects."
 
@@ -199,3 +199,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

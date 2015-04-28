@@ -17,9 +17,9 @@ constants:
 resources:
 
    room_orccave1 = oc01.roo
-   room_name_orccave1 = "Ugol's Warren Entrance"
+   room_name_orccave1 = "Ugols Labyrinth-Eingang"
 
-   orccave1_music = orc1.mid
+   orccave1_music = orc1.mp3
 
 classvars:
 
@@ -133,3 +133,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

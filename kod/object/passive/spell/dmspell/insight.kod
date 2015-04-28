@@ -15,23 +15,23 @@ constants:
 
 resources:
 
-   Insight_name_rsc = "insight"
+   Insight_name_rsc = "Durchschauen"
    Insight_icon_rsc = lightnin.bgf
 
-   allinroom_Insight_msg1 = "~b%s%s deeply Insights the soul of %s%s."
-   allinroom_Insight_msg2 = "~bYou tingle as %s%s deeply Insights %s%s."
+   allinroom_Insight_msg1 = "~b%s%s schaut tief in die Seele von %s%s."
+   allinroom_Insight_msg2 = "~bDu erschauderst, als %s%s tief in %s%s hineinblickt."
 
-   caster_Insight_msg = "~bYou stare deeply at %s%s."
-   Insightd_Insight_msg = "~b%s%s looks deeply into your eyes."
-   Insight_desc_rsc = \
-   "This gazes deep into a person's eyes, and judges their odds of advancing in each spell/skill."
-   "The true percentage appears after the name of the spell or skill.  The first number after that "
-   "is the intellect check, and the second is the requisite stat check.  Note that the req stat "
-   "check assumes that the target will be around the same level as a fungus beast or mutant ant - "
-   "when casting an offensive spell or using a combat skill, your odds go up if you fight tougher monsters."
+   caster_Insight_msg = "~bDu schaust %s%s eindringlich an."
+   Insightd_Insight_msg = "~b%s%s schaut Dir tief in die Augen."
+   Insight_desc_rsc = "Du blickst jemandem tief in die Augen und bewertest dessen Chancen, beim Zaubern oder bei einer Fähigkeit voranzukommen. Der entsprechende Prozentsatz erscheint neben dem Namen des Zaubers oder der Fähigkeit. Die erste Zahl danach ist das Ergebnis der intellektuellen Prüfung - die zweite bewertet die Ausrüstung. Beachte bitte, dass die Bewertung der Ausrüstung für Angriffszauber oder eine Kampfbegabung voraussetzt, dass das Ziel etwa demselben Zirkel angehört wie ein Pilzwesen oder eine Ameise. Die Chancen steigen, wenn widerstandsfähigere Monster bekämpft werden."
 
 
-   Insight_Message = "%s (%i):  %i total, %i initial/%i secondary chance."
+
+
+
+
+
+   Insight_Message = "%s (%i): %i gesamte, %i anfängliche/%i zweite Chance."
 
 classvars:
    vrName = Insight_name_rsc
@@ -147,3 +147,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

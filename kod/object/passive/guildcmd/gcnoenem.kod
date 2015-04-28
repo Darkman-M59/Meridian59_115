@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   guildpeace_name_rsc = "end alliance"
+   guildpeace_name_rsc = "Frieden schließen"
    guildpeace_icon_rsc = light.bgf
-   guildpeace_desc_Rsc = "Use this to declare that an enemy guild is no longer an enemy.  Note that you will still not be allied with that guild."
+   guildpeace_desc_Rsc = "Benutze dies, um eine feindliche Gilde nicht mehr länger zum Feind zu erklären. Nimm zur Kenntnis, dass Du immer noch nicht mit dieser Gilde verbündet bist."
 
-   peace_non_user = "%s%s is not impressed by your peaceful overtures."
-   peace_not_member = "%s%s is not a member of an enemy guild!"
-   peace_your_guild = "%s is a member of your guild!"
+   peace_non_user = "%s%s ist von Deinem friedlichen Angebot nicht beeindruckt."
+   peace_not_member = "%s%s ist kein Mitglied einer feindlichen Gilde!"
+   peace_your_guild = "%s ist ein Mitglied Deiner Gilde!"
 
-   peace_cant_self = "You become at total peace with yourself.  Whee."
+   peace_cant_self = "Du schließt also Frieden mit Dir selbst. Sehr gut!"
 
 classvars:
 
@@ -90,3 +90,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

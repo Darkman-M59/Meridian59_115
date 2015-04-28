@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   curepoison_name_rsc = "cure poison"
+   curepoison_name_rsc = "Gift neutralisieren"
    curepoison_icon_rsc = icurpoi.bgf
-   curepoison_desc_rsc = \
-      "Pure, healing energy fights the effects of poison in the target.  "
-	   "Requires herbs and elderberries to cast."
+   curepoison_desc_rsc = "Reine, heilende Kraft saugt das Gift aus dem Blut des Ziels. Der Zauber benötigt Kräuter und Holunderbeeren."
+
+
    
-   curepoison_on = "The power of Shal'ille fights the effects of poison in your blood."
+   curepoison_on = "Die Kraft von Sha-Lill saugt das Gift aus Deinem Blut."
 
-   curepoison_unnecessary = "%s%s is not suffering from poison."
-   curepoison_abates = "You feel the poison grow weaker."
+   curepoison_unnecessary = "%s%s leidet nicht an einer Vergiftung."
+   curepoison_abates = "Die Wirkung des Gifts läßt nach."
 
-   curepoison_spell_intro = "Shal'ille Lv. 2: Fights the effects of any poisons which may flow through the target's body."
+   curepoison_spell_intro = "Sha-Lill Zirkel 2: Saugt das Gift aus dem Körper Deines Ziels."
 classvars:
 
    vrName = curepoison_name_rsc
@@ -148,3 +148,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

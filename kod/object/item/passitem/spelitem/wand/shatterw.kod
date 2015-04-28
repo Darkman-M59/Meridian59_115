@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   ShatterWand_label_name_rsc = "wand of destruction"
+   ShatterWand_label_name_rsc = "Stab der Zerstörung"
    ShatterWand_icon_rsc = wand6.bgf
-   ShatterWand_desc_rsc = "Magical energy crackles about this slender wand."
+   ShatterWand_desc_rsc = "Magische Energien umströmen diesen dünnen Stab."
 
 classvars:
 
@@ -39,3 +39,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

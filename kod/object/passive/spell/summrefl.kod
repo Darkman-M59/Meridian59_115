@@ -15,16 +15,16 @@ constants:
 
 resources:
 
-   summonreflection_cast_rsc = "A mirror image of yourself appears."
-   summonreflection_name_rsc = "reflection"
+   summonreflection_cast_rsc = "Ein Spiegelbild von Dir erscheint."
+   summonreflection_name_rsc = "Spiegelbild"
    summonreflection_icon_rsc = ireflect.bgf
-   summonreflection_desc_rsc = "Summons a creature which mirrors your own appearance.  Note that you are responsible for "
-      "any of your reflections actions, and that they are notoriously hard to control.  Requires firesand, rainbow ferns, "
-      "and uncut seraphym to cast."
+   summonreflection_desc_rsc = "Ruft eine Kreatur herbei, die ein Ebenbild Deiner selbst ist. Beachte, dass Du für alle Taten Deiner Reflektion verantwortlich bist und dass diese ausgesprochen schwer zu kontrollieren ist. Nimm Feuersand, Regenbogenfarne und ungeschliffene Seraphyme dafür."
 
-   summonreflection_failed_rsc = "There is too much summoning magic focused here to summon a reflection."
+
+
+   summonreflection_failed_rsc = "Es gibt hier zuviel Beschwörungsmagie, um ein Spiegelbild zu erschaffen."
    
-   summonreflection_limit_rsc = "You have too many reflections here."
+   summonreflection_limit_rsc = "Du hast hier zuviele Reflektionen."
 
    summonreflection_sound = rmirrimg.wav
 
@@ -156,3 +156,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

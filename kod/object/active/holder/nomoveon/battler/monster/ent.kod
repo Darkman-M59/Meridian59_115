@@ -19,20 +19,20 @@ constants:
 resources:
 
    ent_koc_name_rsc = "tezmecya"
-   ent_name_rsc = "living tree"
+   ent_name_rsc = "Der Waldschrat"
    ent_icon_rsc = res0003a.bgf
-   ent_desc_rsc = \
-      "A primordial spirit flows through the dark branches of "
-      "this ancient being.  A forest scent of aged wood and "
-      "fertile earth tingles your nostrils.  "
-      "You wonder if the story that it can summon lightning bolts to protect "
-      "the forest is really true."
+   ent_desc_rsc = "Eine geheimnisvolle Aura liegt über den dunklen Ästen dieses alten Wesens. Ein Geruch von altem Holz und fruchtbarer Erde läßt Deine Nasenflügel zittern. Du fragst Dich, ob er wirklich Blitze schleudern kann, um den Wald zu beschützen."
+
+
+
+
+
 
    ent_leaves_full_rsc = res0003b.bgf
 
    ent_dead_icon_rsc = res0003d.bgf
    ent_dead_leaves_full_rsc = res0003e.bgf
-   ent_dead_name_rsc = "dead remains of living tree"
+   ent_dead_name_rsc = "Der tote Waldschrat"
 
    ent_sound_hit = tr_atkh.wav
    ent_sound_miss = tr_atkm.wav
@@ -236,3 +236,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

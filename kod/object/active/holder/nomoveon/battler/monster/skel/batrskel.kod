@@ -20,17 +20,17 @@ constants:
 resources:
 
    BatteredSkeleton_koc_name_rsc = "cha'oleoc"
-   BatteredSkeleton_name_rsc = "battered skeleton"
+   BatteredSkeleton_name_rsc = "Das zerschlagene Skelett"
    BatteredSkeleton_icon_rsc = skelbody.bgf
-   BatteredSkeleton_desc_rsc = \
-      "A few scraps of rotten flesh cling to this collection of human "
-      "bones topped by a battered and distinctly nonhuman skull.  Sizzling "
-      "liquid drips from its teeth, leaving small pits in the ground below."
-      "You shudder to think what dark ritual brought this abomination into being."
+   BatteredSkeleton_desc_rsc = "Einige Streifen verfaulten Fleisches hängen an dieser Sammlung von menschlichen Knochen, die von einem zerschlagenen und sichtbar unmenschlichen Schädel gekrönt werden. Zischende Flüssigkeiten tropfen von den Zähnen und hinterlassen kleine Pfützen auf dem Boden darunter.Du schauderst, als Du daran denkst, was für ein dunkles Ritual diese Abnormalität zum Leben erweckt hat."
+
+
+
+
 
    BatteredSkeleton_head = skelhed3.bgf
    BatteredSkeleton_dead_icon_rsc = skelX.bgf
-   BatteredSkeleton_dead_name_rsc = "pile of bones"
+   BatteredSkeleton_dead_name_rsc = "Der Knochenhaufen"
 
    BatteredSkeleton_sound_miss = skl2_atk.wav
    BatteredSkeleton_sound_death = skl2_die.wav
@@ -90,3 +90,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

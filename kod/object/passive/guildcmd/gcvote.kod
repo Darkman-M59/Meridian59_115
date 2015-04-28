@@ -17,13 +17,13 @@ constants:
 
 resources:
 
-   guildvote_name_rsc = "vote"
+   guildvote_name_rsc = "wähle"
    guildvote_icon_rsc = light.bgf
-   guildvote_desc_text_rsc = "Use this command to swing your support for leadership of the guild for one person in particular."
+   guildvote_desc_text_rsc = "Mit diesem Befehl kannst Du einer bestimmten Person Deine Unterstützung bei der Führung der Gilde zukommen lassen."
 
-   vote_no_gms = "Guildmasters may not vote their ties before abdicating their titles."
-   vote_ties_renouncer = "You renounce your ties to %s%s."
-   vote_ties_others = "%s renounces all ties to %s%s!"
+   vote_no_gms = "Gildenführer haben solange kein Stimmrecht, bis sie ihren Rang aufgegeben haben."
+   vote_ties_renouncer = "Du übergibst Deinen Rang an %s%s."
+   vote_ties_others = "%s übergibt Deinen Rang an %s!"
 
 
 classvars:
@@ -60,3 +60,4 @@ messages:
   
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   proficiency_name_rsc = "Weapon proficiency"
+   proficiency_name_rsc = "Leistungsniveau der Waffen"
    proficiency_icon_rsc = light.bgf
-   proficiency_desc_rsc = "This is a weapon proficiency"
+   proficiency_desc_rsc = "Das ist das Leistungsniveau der Waffe"
 
 classvars:
 
@@ -48,3 +48,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

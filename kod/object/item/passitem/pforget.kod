@@ -18,23 +18,23 @@ constants:
 
 resources:
 
-   forgetpotion_use = "You quaff the potion. Nothing happens at first, then dizziness strikes...."
-   forgetpotion_cant_use_on = "You can't serve a %s%s."
+   forgetpotion_use = "Genüßlich schlürfst Du den Trank, aber nichts passiert. Plötzlich überkommt Dich ein Schwindelanfall..."
+   forgetpotion_cant_use_on = "Du kannst einem %s%s nicht dienen."
 
-   forgetpotion_cant_drop = "You drop the potion on the ground, and the bottle explodes into a thousand shards."
+   forgetpotion_cant_drop = "Du wirfst den Trank auf den Boden und die Flasche zerspringt in tausend Stücke."
 
-   forgetpotion_warning = "As you lift the potion to your lips, your eyes catch sight of a warning label, which says, ~I'This potion may have very serious side effects!  Very serious!  We're not fooling around here!'"
+   forgetpotion_warning = "Als Du Dir den Trank an die Lippen führst, bemerkst Du ein kleines Warnschild: ~I'Zu diesem Mittel sind starke Risiken und Nebenwirkungen bekannt! Das ist kein Witz, sondern eine überaus ernste Angelegenheit!'"
 
-   forgetpotion_nothing_happens = "The disorientation passes.  Nothing seems to have happened."
-   forgetpotion_name_rsc = "potion of forgetfulness"
+   forgetpotion_nothing_happens = "Deine Verwirrung läßt nach. Nichts scheint passiert zu sein."
+   forgetpotion_name_rsc = "Der Trank des Vergessens"
    forgetpotion_icon_rsc = forgetpo.bgf
-   forgetpotion_desc_rsc = "Drinking this potion will cause you to forget all of your spells in a certain spell school.  "
-      "Be absolutely sure you want this to happen before drinking it!"
+   forgetpotion_desc_rsc = "Dieser Trank wird Deine Kenntnisse in einer Schule restlos auslöschen.Bevor Du den Trank zu Dir nimmst, solltest Du Dir absolut sicher sein, dass Du das auch wirklich möchtest!"
 
-   forgetpotion_forget_spell = "The art of casting '%s' slips from your mind!"
-   forgetpotion_forget_wrong = "The accursed potion has stricken all memory of '%s' from you!"
-   forgetpotion_lose_intellect = "You suddenly feel a little... stupider..."
-   forgetpotion_lose_links = "The horrid elixir severs all your links to the mana nodes!"
+
+   forgetpotion_forget_spell = "'%s' wird von Dir vergessen!"
+   forgetpotion_forget_wrong = "'%s' wird von Dir komplett vergessen, weil Du diese verfluchte Flasche getrunken hast."
+   forgetpotion_lose_intellect = "Du fühlst Dich plötzlich ein bisschen...dümmer..."
+   forgetpotion_lose_links = "Das scheußliche Elixier beraubt Dich aller Deiner Verbindungen zu magischen Energiequellen!"
    forgetpotion_gulp_sound = drkptn.wav
 
 classvars:
@@ -184,3 +184,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

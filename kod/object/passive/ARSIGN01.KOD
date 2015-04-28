@@ -7,9 +7,9 @@ constants:
 
 resources:
 
-   arenasign_name_rsc = "Arena Tapestry.. don't use"
+   arenasign_name_rsc = "Bildteppich der Arena - nicht berühren"
    arenasign_icon1_rsc = arsign01.bgf
-   arenasign_desc1_rsc = "This is an informational sign."
+   arenasign_desc1_rsc = "Dies ist eine Informationstafel."
 
 classvars:
 
@@ -53,3 +53,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   WallSpell_outlaw = \
-      "\nNOTE: If your safety is ON, this spell will not affect innocents.  "
-      "If your safety is OFF, you can become an outlaw for harming other players."
-   WallSpell_outlaw_murderer = \
-      "\nNOTE: If your safety is ON, this spell will not affect innocents.  "
-      "If your safety is OFF, you can become an outlaw for harming other players "
-      "or a murderer for killing other players."
+   WallSpell_outlaw = "\nHinweis: Ist deine Sicherheit EIN, wird dieser Zauber keine Unschuldigen treffen.  Ist deine Sicherheit AUS, kannst du für das verletzten anderer Spieler zum Gesetzlosen ernannt werden."
 
-   WallSpell_failed_rsc = \
-      "There is too much summoning magic focused here to cast that spell." 
+
+   WallSpell_outlaw_murderer = "\nHinweis: Ist deine Sicherheit EIN, wird dieser Zauber keine Unschuldigen treffen.  Ist deine Sicherheit AUS, kannst du für das verletzten oder töten anderer Spieler zum Gesetzlosen oder Mörder ernannt werden."
+
+
+
+
+   WallSpell_failed_rsc = "Es gibt hier bereits zuviel konzentrierte Beschwörungsmagie um diesen Zauber auszuführen."
+
 
 classvars:
 
@@ -121,3 +121,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

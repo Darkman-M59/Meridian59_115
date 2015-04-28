@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   Haste_name_rsc = "haste"
+   Haste_name_rsc = "Hast"
    Haste_icon_rsc = ihaste.bgf
-   Haste_desc_rsc = \
-      "Reduces the fatigue of running at full clip.  "
-      "Requires edible mushrooms to cast."
-   
-   Haste_on_rsc = "Your blood begins to tingle, cleansing your leg muscles of fatigue with every heartbeat."
-   Haste_off_rsc = "Your feel the tide of energy in your blood recede, and running seems suddenly more taxing."
-   Haste_already_enchanted_rsc = "You're already resistant to running fatigue."
-   Haste_success_rsc = "%s%s is charged with your magical energy."
+   Haste_desc_rsc = "Sorgt dafür, dass Du nicht so schnell ermüdest, wenn Du mit voller Kraft läufst. Der Zauber benötigt genießbare Pilze."
 
-   Haste_spell_intro = "Kraanan Lv. 2: Allows you to use less stamina as you run."
+
+   
+   Haste_on_rsc = "Dein Blut pulsiert schneller und befreit Deine Beinmuskulatur mit jedem Herzschlag von der Ermüdung."
+   Haste_off_rsc = "Du spürst, dass die Energiephase in Deinem Blut nachlässt, und das Laufen scheint Dich plötzlich wieder mehr zu strapazieren."
+   Haste_already_enchanted_rsc = "Du bist schon gegen Müdigkeit resistent."
+   Haste_success_rsc = "Du befreist %s%s's Beine von ihrer Ermüdung."
+
+   Haste_spell_intro = "Kraanan Zirkel 2: Hilft Dir, weniger Ausdauer beim Laufen zu verlieren."
 
    Haste_sound = khaste.wav
 
@@ -93,3 +93,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

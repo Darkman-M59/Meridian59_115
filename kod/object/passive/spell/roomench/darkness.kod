@@ -16,20 +16,20 @@ constants:
 
 resources:
 
-   darkness_name_rsc = "darkness"
+   darkness_name_rsc = "Dunkelheit"
    darkness_icon_rsc = idarknes.bgf
-   darkness_desc_rsc = \
-      "Draws a curtain of darkness over a room, making it more "
-      "amenable to followers of the Vile One.  "
-      "Requires fairy wings and entroot berries to cast."
+   darkness_desc_rsc = "Legt einen Vorhang aus Dunkelheit über einen Raum, um ihn zugänglicher für das Gefolge des Bösen zu machen. Der Zauber benötigt Feenflügel und Wurzelknollen."
+
+
+
    
-   darkness_unnecessary = "This area already has a darkness enchantment."
+   darkness_unnecessary = "Dieses Gebiet ist bereits mit dem Zauber der Dunkelheit belegt."
 
-   darkness_on = "A curtain of darkness is drawn across the room, stirring the servants of Qor."
-   darkness_off = "The curtain of darkness is lifted."
-   darkness_new_entrant = "This place is under a darkness enchantment."
+   darkness_on = "Ein Vorhang aus Dunkelheit sorgt für Aufruhr unter den Dienern Qors."
+   darkness_off = "Der Vorhang aus Dunkelheit lüftet sich."
+   darkness_new_entrant = "Dieser Platz ist mit dem Zauber der Dunkelheit belegt."
 
-   darkness_spell_intro = "Qor Lv. 1: Draws a curtain of darkness over the room, stirring the servants of Qor."
+   darkness_spell_intro = "Qor Zirkel 1: Legt einen Vorhang aus Dunkelheit über den Raum und sorgt für Aufruhr unter den Qor-Dienern."
 
    darkness_sound = qinvis.wav
 
@@ -129,3 +129,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

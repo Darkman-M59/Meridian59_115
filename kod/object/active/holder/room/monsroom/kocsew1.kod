@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   room_name_kocsew1 = "A foul place to wander"
+   room_name_kocsew1 = "Kein besonders guter Ort"
    room_kocsew1 = kocsew1.roo
 
-   kocsew1_music = cave.mid
+   kocsew1_music = cave.mp3
 
-   kocsewer1_locked = \
-      "You stand up to your knees in raw sewage, rattling at the gate, "
-      "but it's locked fast."
+   kocsewer1_locked = "Du stehst bis zu den Knien im übelsten Abwasser und rüttelst am Tor, doch es ist fest verschlossen."
 
-   kocsewer1_no_cheat = "The door seems unwilling to budge for you."
+
+
+   kocsewer1_no_cheat = "Die Tür scheint sich zu weigern, sich für dich zu bewegen."
 
 classvars:
 
@@ -133,3 +133,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

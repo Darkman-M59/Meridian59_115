@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   Flash_name_rsc = "flash"
+   Flash_name_rsc = "Lichtblitz"
    Flash_icon_rsc = iflash.bgf
-   Flash_desc_rsc = \
-      "Causes a bright flash, likely to interrupt the concentration of any "
-      "spellcasters in the area or confuse monsters temporarily.  "
-      "Requires the eyes of a dragonfly to cast."
+   Flash_desc_rsc = "Verursacht einen hellen Lichtblitz, der wahrscheinlich die Konzentration eines jeden in der Nähe befindlichen Zauberbeschwörers stören wird. Dieser Spruch benötigt die frischen Augen einer Drachenfliege."
+
+
+
 
    flash_sound = rflash.wav
 
@@ -127,3 +127,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

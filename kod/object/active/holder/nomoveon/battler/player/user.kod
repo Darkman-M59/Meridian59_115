@@ -66,232 +66,232 @@ constants:
 
 resources:
 
-   user_name_rsc = "user name"
+   user_name_rsc = "Benutzername"
 
-   user_garbage_collecting = "System is saving; please wait."
-   user_garbage_collecting_done = "System save completed; resume play."
+   user_garbage_collecting = "System-Sicherung läuft - bitte warten."
+   user_garbage_collecting_done = "System-Sicherung beendet; Spiel bitte fortführen."
    user_saving_wav_rsc = system_save.wav
 
-   user_err_get_unk = "You can't pick up %s%s; it is no longer accessible."
-   user_err_get_dist = "You can't pick up %s%s; it's too far away."
-   user_disallow_get = "You're unable to pick up %s%s."
-   user_got_some = "You can't pick up all the %s."
+   user_err_get_unk = "%s%s? Das hat schon jemand aufgehoben."
+   user_err_get_dist = "%s%s? Das geht nicht, Du bist zu weit entfernt."
+   user_disallow_get = "Du kannst das nicht mehr aufheben. Das wird Dir zu schwer."
+   user_got_some = "Du kannst das nicht mehr aufheben. Das wird Dir zu schwer."
    user_cant_pickup_item_wav_rsc = player_cannot_carry.wav
-   user_disallow_drop = "You are unable to drop %s%s."
-   user_err_drop = "You're not holding that."
-   user_err_put = "You can't put %s%s in %s%s; %s%s can't hold things!"
-   user_disallow_put = "You're unable to put %s%s in %s%s."
-   user_err_get_contents = "You can't look inside %s%s!"
+   user_disallow_drop = "%s%s kann nicht weggeworfen werden."
+   user_err_drop = "Der Gegenstand ist nicht in Deinem Besitz."
+   user_err_put = "%s%s kann nicht in die Truhe gelegt werden. %s%s ist schon zu voll! %s%s kann nur eine begrenzte Anzahl an Gegenständen aufnehmen."
+   user_disallow_put = "%s%s kann nicht abgelegt werden. %s%s ist schon zu voll."
+   user_err_get_contents = "%s%s kann von Dir nicht eingesehen werden!"
 
-   user_err_activate_unk = \
-      "You can't activate %s%s; it is no longer accessible."
-   user_activate_failed = "You can't activate %s%s."
+   user_err_activate_unk = "%s%s kann nicht aktiviert werden, da er nicht länger verfügbar ist."
 
-   user_cap_Someone_string = "Someone"
-   user_Someone_string = "someone"
+   user_activate_failed = "%s%s ist nicht aktivierbar."
+
+   user_cap_Someone_string = "Jemand"
+   user_Someone_string = "jemand"
    user_blank_string = ""
    admin_icon_blank = blank.bgf
 
-   user_said_str = "%s says, \"%q~n\""
-   user_said_echo_str = "You say, \"%q~n\""
-   user_yelled_str = "%s yells, \"%q~n\""
-   user_yelled_nearby_str = "You hear %s yelling, \"%q~n\""
-   user_yelled_echo_str = "You yell, \"%q~n\""
-   user_broadcast_str = "%s broadcasts, \"%q~n\""
-   user_broadcast_echo_str = "You broadcast, \"%q~n\""
-   user_send_str = "%s sends, \"%q~n\""
-   user_send_one_str = "%s tells you, \"%q~n\""
-   user_said_resource_str = "%s%s says, \"%s~n\""
+   user_said_str = "%s sagt, \"%q~n\""
+   user_said_echo_str = "Du sagst, \"%q~n\""
+   user_yelled_str = "%s ruft, \"%q~n\""
+   user_yelled_nearby_str = "Du hörst %s rufen, \"%q~n\""
+   user_yelled_echo_str = "Du rufst, \"%q~n\""
+   user_broadcast_str = "%s teilt allen mit, \"%q~n\""
+   user_broadcast_echo_str = "Du teilst allen mit, \"%q~n\""
+   user_send_str = "%s teilt den anderen mit, \"%q~n\""
+   user_send_one_str = "%s teilt Dir mit, \"%q~n\""
+   user_said_resource_str = "%s%s sagt, \"%s~n\""
    user_emote_str = "%s %q"
    user_echo_str = "%q"
 
-   user_send_echo_str = "You send, \"%q~n\""
-   user_send_single_echo_str = "You tell %s, \"%q~n\""
+   user_send_echo_str = "Du teilst den anderen mit, \"%q~n\""
+   user_send_single_echo_str = "Du teilst %s mit, \"%q~n\""
 
-   user_no_respond = \
-      "~IDue to your state, this user may not be able to respond to you."
+   user_no_respond = "~IAufgrund deines Zustands kann dir dieser Nutzer möglicherweise nicht antworten."
 
-   user_said_str_morphed = "~n%s%s says, \"%q~n\""
-   user_yelled_str_morphed = "~n%s%s yells, \"%q~n\""
-   user_emote_str_morphed = "~n%s%s %q" 
 
-   user_no_cast = "You find yourself unable to cast a spell."
-   user_no_fight = "You find yourself unable to lift your weapon."
-   user_cant_mail_to = "Can't mail to nonexistent user %s."
-   user_mail_to = "Sending mail."
-   user_new_mail = "You have new mail from %s."
-   user_new_nested_mail = "You have new mail."
+   user_said_str_morphed = "~n%s%s sagt, \"%q~n\""
+   user_yelled_str_morphed = "~n%s%s ruft, \"%q~n\""
+   user_emote_str_morphed = "~n%s%s %q"
+
+   user_no_cast = "Du bist nicht in der Lage, einen Zauberspruch zu wirken."
+   user_no_fight = "Du bist nicht in der Lage, Deine Waffe zu heben."
+   user_cant_mail_to = "Du kannst an %s keine Nachricht versenden, da er nicht existiert."
+   user_mail_to = "Deine Nachricht wird verschickt."
+   user_new_mail = "Du hast eine neue Nachricht von %s."
+   user_new_nested_mail = "Du hast neue Nachrichten."
    user_show_mail = "%q"
    user_show_nested_mail = "%s"
-   user_logon_one_mail = "You have %i piece of new mail."
-   user_logon_many_mail = "You have %i pieces of new mail."
+   user_logon_one_mail = "Du hast %i neue Nachricht bekommen."
+   user_logon_many_mail = "Du hast %i neue Nachrichten bekommen."
  
-   user_was_killed = \
-      "You are dead, poor soul.  Go now, and take revenge on %s%s!"
-   user_was_killed_bridge_faith = "Ouch, that last step was a doozy."
+   user_was_killed = "%s%s hat Dich getötet. Geh nun, Du arme Seele, und räche Dich!"
 
-   user_is_resting = "You are sitting and resting."
-   user_is_standing = "You are standing."
+   user_was_killed_bridge_faith = "Autsch, die letzte Stufe war kaputt."
 
-   user_stat_might = "Might"
-   user_stat_intellect = "Intellect"
-   user_stat_stamina = "Stamina"
-   user_stat_agility = "Agility"
-   user_stat_mysticism = "Mysticism"
-   user_stat_aim = "Aim"
+   user_is_resting = "Du sitzt da und ruhst Dich aus."
+   user_is_standing = "Du stehst."
+
+   user_stat_might = "Stärke"
+   user_stat_intellect = "Klugheit"
+   user_stat_stamina = "Konstitution"
+   user_stat_agility = "Gewandtheit"
+   user_stat_mysticism = "Magie"
+   user_stat_aim = "Genauigkeit"
    user_stat_karma = "Karma"
 
    user_stat_health = heal.bgf
    user_stat_mana = ankh.bgf
-   user_stat_vigor = bolticon.bgf  %stickman.bgf
+   user_stat_vigor = bolticon.bgf
 
-   user_group_condition = "Condition"
-   user_group_stats = "Stats"
-   user_group_spells = "Spells"
-   user_group_skills = "Skills"
+   user_group_condition = "Zustand"
+   user_group_stats = "Eigenschaften"
+   user_group_spells = "Zauber"
+   user_group_skills = "Fertigkeiten"
 
-   user_got_offer = "You have a trade offer from %s%s."
-   user_cant_offer = "You can't offer to %s%s."
-   user_cant_offer_arena = \
-      "Trading is not permitted in gaming areas such as this."
-   user_offer_busy = "%s%s can't deal with you now."
-   user_cant_cancel_offer = "You can't cancel a nonexistent offer."
-   user_canceled_offer = "%s%s canceled the offer."
-   user_cant_counteroffer = "You can't counter a nonexistent offer."
-   user_cant_acceptoffer = "You can't accept a nonexistent offer."
-   user_dont_have_offer = \
-      "Offer invalid, you don't have everything you offered."
-   user_dont_have_number_offer = \
-      "Offer invalid, you don't have enough of everything you offered."
-   user_offer_too_many = "You can't offer that many %s!"
-   user_cant_drop_offer = \
-      "Realizing %s%s will not be given away, you cancel the offer."
-   user_didnt_have_offer = \
-      "Offer invalid, %s%s didn't have everything offered."
-   user_didnt_drop_offer = \
-      "%s%s tries to give you %s%s, but it doesn't seem to want to be given!"
-   user_cant_offer_get = \
-      "You can't take %s%s from the trade -- it is on the ground."
-   user_offer_not_online = "%s%s is not online to accept your offer."
-   user_offer_not_here = \
-      "You try to offer your goods to %s%s, but %s is no longer here."
-   user_couldnt_carry_offer = \
-      "%s%s can't carry all the items you have offered."
-   user_cant_carry_offer = \
-      "You can't carry all the items that %s%s has offered you."
+   user_got_offer = "Du hast ein Angebot von %s%s."
+   user_cant_offer = "Du kannst %s%s nichts anbieten."
+   user_cant_offer_arena = "In Spielbereichen wie diesem ist es nicht erlaubt, Geschäfte zu machen."
 
-   user_not_have_number = "You don't have that amount of %s to drop."
-   user_cant_deal_number = "You can't do anything with %i items."
-   user_cant_attack_non_battler = "You can't attack %s%s."
-   user_no_say_guild = \
-      "You cannot Send a message to your guild, as you do not belong to a "
-      "guild."
-   user_no_guild_logged_on = "No one else from your guild is logged on."
-   user_someone_logon = "### Please welcome %s."
-   user_someone_logoff = "### Au revoir to %s."
-   user_guildmate_logon = "~IHail your guildmate %s!"
-   user_guildmate_logoff = "~IYour guildmate %s has just departed."
+   user_offer_busy = "%s%s kann momentan nicht mit Dir handeln."
+   user_cant_cancel_offer = "Du kannst ein nicht vorhandenes Angebot nicht zurücknehmen."
+   user_canceled_offer = "%s%s hat das Angebot zurückgezogen."
+   user_cant_counteroffer = "Du kannst ein nicht vorhandenes Angebot nicht annehmen."
+   user_cant_acceptoffer = "Du kannst ein nicht vorhandenes Angebot nicht akzeptieren."
+   user_dont_have_offer = "Dein Angebot ist ungültig, da Du nicht alles besitzt, was Du angeboten hast."
 
-   user_safety_on = \
-      "### Your safety is now ~I~gON~n:  You can no longer strike innocents."
-   user_safety_off = \
-      "### Your safety is now ~B~rOFF~n:  Be careful, you are now able to "
-      "hurt those around you."   
+   user_dont_have_number_offer = "Dein Angebot ist ungültig, da Du nicht genug von dem besitzt, was Du angeboten hast."
 
-   user_cant_go = "You are unable to go anywhere."
+   user_offer_too_many = "Du kannst nicht so viele %s anbieten!"
+   user_cant_drop_offer = "Als Du bemerkst, dass %s%s nicht abgegeben wird, ziehst Du das Angebot zurück."
+
+   user_didnt_have_offer = "Der Handel ist ungültig, %s%s hatte nicht alles angeboten."
+
+   user_didnt_drop_offer = "%s%s versucht, Dir etwas zu geben. %s%s kann nicht übergeben werden!"
+
+   user_cant_offer_get = "%s%s auch noch? Soviel kannst Du nicht tragen! Der Gegenstand liegt auf dem Boden."
+
+   user_offer_not_online = "%s%s ist nicht online, um Dein Angebot anzunehmen."
+   user_offer_not_here = "Du versuchst deine Waren %s%s anzubieten, aber %s ist nicht mehr hier."
+
+   user_couldnt_carry_offer = "%s%s kann nicht alle deine angebotenen Gegenstände tragen."
+
+   user_cant_carry_offer = "Du kannst nicht alle Gegenstände tragen, die dir %s%s angeboten hat."
+
+
+   user_not_have_number = "Du kannst nicht so viele %s ablegen."
+   user_cant_deal_number = "Du kannst mit %i Gegenständen nichts anfangen."
+   user_cant_attack_non_battler = "Du kannst %s%s nicht angreifen."
+   user_no_say_guild = "Du kannst keine Nachricht an Deine Gilde senden, da Du keiner Gilde angehörst."
+
+
+   user_no_guild_logged_on = "Außer Dir ist niemand Deiner Gilde eingewählt."
+   user_someone_logon = "### %s ist gerade in Meridian angekommen."
+   user_someone_logoff = "### %s hat das Spiel verlassen."
+   user_guildmate_logon = "~IBegrüße Dein Gildenmitglied %s!"
+   user_guildmate_logoff = "~IDein Gildenmitglied %s hat sich gerade verabschiedet."
+
+   user_safety_on = "### Deine 'Sicherheit' ist ~B~gaktiviert:~n Du kannst keine Unschuldigen angreifen."
+
+   user_safety_off = "### Deine 'Sicherheit' ist ~B~rdeaktiviert:~n Du kannst jeden Spieler angreifen."
+
+
+
+   user_cant_go = "Du kannst zu keinem Ort gehen."
    user_cant_go_wav_rsc = cant_go_anywhere_louder.wav
-   user_blocked_send = "%s is ignoring messages from you."
+   user_blocked_send = "%s ignoriert Deine Mitteilungen."
 
-   user_cant_suicide = \
-      "You just can't bear to kill yourself because you have too much to live "
-      "for.  You must abdicate the leadership of your guild before you can "
-      "commit suicide."
+   user_cant_suicide = "Du kannst Dich nicht selbst töten - das Leben ist einfach zu schön. Du musst die Führerschaft Deiner Gilde abgeben, bevor Du Dich umbringen kannst."
 
-   user_cant_suicide_justicar = \
-      "It would be unseemly for such a high official to take his own life!"
 
-   user_cant_suicide_yet = \
-      "You can't seem to kill yourself, you feel you've only just begun this "
-      "life. Give it a day."
 
-   user_cant_suicide_token = \
-      "You can't kill yourself now, not when you're the sacred guardian of a "
-      "Meridian token!"
 
-   user_cant_suicide_OOG = \
-      "Somehow, even though you deserve it, you are unable to bear the "
-      "thought of killing yourself now."
+   user_cant_suicide_justicar = "Es ist unwürdig für einen derart hohen Beamten, sich selbst das Leben zu nehmen!"
 
-   user_no_seller = "You can't buy anything here."
 
-   user_no_guild = "You do not belong to a guild."
-   user_no_guild_broke = \
-      "Come back when you have enough money to create a guild."
-   user_no_guildhall_broke = \
-      "Come back when you have enough money to put a payment down on the "
-      "guildhall."
-   user_duplicate_guildname = \
-      "There is already a guild with that name.  Please choose another."
-   user_duplicate_guild_username = \
-      "Your guild name cannot have the name of a player.  Please choose "
-      "another."
+   user_cant_suicide_yet = "Es sieht so aus, als ob Du nicht in der Lage wärst, Dir das Leben zu nehmen. Du fühlst, dass Dein Leben gerade erst begonnen hat."
 
-   user_couldnt_replace = \
-      "You could not be restored to your previous location."
 
-   user_logon = \
-      "Welcome to the world of Meridian 59! (type \"help\" to see the manual)."
-   user_goto_safety = "You have been sent to a safe place."
-   user_goto_object = "You have been sent to %s%s."
-   user_goto_jail = "You have been thrown in the Barloque Jail!"
-   user_last_known = "the last known location of "
 
-   user_school_shallile = "School of Shal'ille"
-   user_school_qor = "School of Qor"
-   user_school_kraanan = "School of Kraanan"
-   user_school_faren = "School of Faren"
-   user_school_riija = "School of Riija"
-   user_school_jala = "School of Jala"
-   user_school_dm = "DM spells"
+   user_cant_suicide_token = "Du kannst Dich nicht umbringen, da Du ein heiliger Wächter eines Artefakts bist!"
+
+
+
+   user_cant_suicide_OOG = "Die Seele schwer von Schuldgefühlen, kannst du den Gedanken nicht ertragen, Dich umzubringen!"
+
+
+
+   user_no_seller = "Du kannst hier nichts kaufen."
+
+   user_no_guild = "Du gehörst keiner Gilde an."
+   user_no_guild_broke = "Kehre zurück, sobald Du genug Geld besitzt, um eine Gilde zu gründen."
+
+   user_no_guildhall_broke = "Kehre zurück, sobald Du genug Geld besitzt, um die Zahlung für die Gildenhalle zu tätigen."
+
+
+   user_duplicate_guildname = "Es existiert bereits eine Gilde mit diesem Namen - bitte wähle einen anderen Namen."
+
+   user_duplicate_guild_username = "Deine Gilde kann nicht den Namen eines Spielers tragen. Wähle einen anderen Namen."
+
+
+
+   user_couldnt_replace = "Du konntest nicht zu Deinem Ausgangsort zurückkehren."
+
+
+   user_logon = "Willkommen in der Welt von Meridian 59! (Tippe \"hilfe\" um eine Anleitung aufzurufen)."
+
+   user_goto_safety = "Du wurdest an einen sicheren Ort geschickt."
+   user_goto_object = "%s%s hat Dich zu sich gerufen."
+   user_goto_jail = "Du wurdest ins Gefängnis von Barloque geworfen!"
+   user_last_known = "Du hast Dich nach %s%s teleportiert."
+
+   user_school_shallile = "Schule von Sha-Lill"
+   user_school_qor = "Schule von Qor"
+   user_school_kraanan = "Schule von Kraanan"
+   user_school_faren = "Schule von Faren"
+   user_school_riija = "Schule von Riija"
+   user_school_jala = "Schule von Jala"
+   user_school_dm = "Götter-Zauber"
 
    user_admin_message = "%q"
 
-   user_doesnt_know_stroke = "You do not know how to %s!"
-   user_doesnt_know_spell = "You have not yet learned the spell '%s'!"
+   user_doesnt_know_stroke = "Du weißt nicht zu %s!"
+   user_doesnt_know_spell = "Du hast den Zauberspruch '%s' noch nicht gelernt!"
 
    user_wave_welcome = welcome.wav
    user_wave_killed = killed.wav
 
-   user_midi_killed = killed.mid
+   user_midi_killed = killed.mp3
 
    user_interface_module = merintr.dll
    user_mailnews_module = mailnews.dll
 
-   user_cant_withdraw = "You can't withdraw anything here!"
-   user_cant_withdraw_items = "You can't withdraw items here!"
-   user_cant_deposit = "You can't deposit anything here!"
-   user_cant_deposit_items = "You can't deposit items here!"
-   user_cant_balance = "You can't check any balance here!"
+   user_cant_withdraw = "Du kannst hier nichts abheben!"
+   user_cant_withdraw_items = "Du kannst hier keine Gegenstände mitnehmen!"
+   user_cant_deposit = "Du kannst hier nichts einzahlen!"
+   user_cant_deposit_items = "Du kannst hier keine Gegenstände lagern!"
+   user_cant_balance = "Du kannst Deinen Kontostand hier nicht überprüfen!"
 
-   user_appeal = "%s appeals, \"%q~n\""
-   user_first_time_appeal = "### %s has just logged on for the first time."
-   user_did_appeal = "You appeal, \"%q~n\""
+   user_appeal = "%s ruft: %q"
+   user_first_time_appeal = "### %s hat sich zum ersten Mal eingewählt."
+   user_did_appeal = "Du bittest, \"%q~n\""
 
-   user_kill_zone = \
-      "Your guardian angel whispers to you, \"I cannot defend you here.\""
-   user_angel_rejoins = "Your guardian angel rejoins you."
+   user_kill_zone = "Dein Schutzengel flüstert Dir zu, \"Ich kann dich hier nicht verteidigen.\""
 
-   user_fumble = "You fumble and drop your %s."     
+   user_angel_rejoins = "Dein Schutzengel kehrt zu Dir zurück."
 
-   user_wait_for_news_posting = \
-      "You must wait a while before you can post to a news globe again."
-   user_news_squelched = \
-      "Your news posting privileges have been revoked."
+   user_fumble = "Du stolperst und verlierst Dein %s."
 
-   user_guild_rsc = "guild"
-   user_guildofficer_rsc = "guildofficer"
+   user_wait_for_news_posting = "Du musst einen Moment warten, bevor Du wieder Nachrichten absenden kannst."
 
-   user_default_url = "http://www.Meridian59.com/"
+   user_news_squelched = "Dir wurden die Neuigkeitsprivilegien entzogen."
+
+
+   user_guild_rsc = "Gilde"
+   user_guildofficer_rsc = "Gildenoffizier"
+
+   user_default_url = "http://www.mystik59.de"
    
    user_safety_on_wav_rsc = safety_on.wav
    user_safety_off_wav_rsc = safety_off.wav
@@ -7824,3 +7824,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

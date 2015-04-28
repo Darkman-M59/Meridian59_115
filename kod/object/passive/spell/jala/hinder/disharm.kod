@@ -20,13 +20,13 @@ constants:
 
 resources:
 
-   Disharmony_name_rsc = "disharmony"
+   Disharmony_name_rsc = "Jala bannen"
    Disharmony_icon_rsc = idisharm.bgf
-   Disharmony_desc_rsc = \
-      "This words of this song hinder the performance of other Jala songs.  "
-      "A single ruby is required to begin performing this song."
+   Disharmony_desc_rsc = "Dieses Lied behindert andere Jala-Sänger. Man benötigt Rubine, um seine Sangesbrüder zum Schweigen zu bringen."
 
-   Disharmony_song = bridge.mid
+
+
+   Disharmony_song = bridge.mp3
  
 classvars:
 
@@ -64,3 +64,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

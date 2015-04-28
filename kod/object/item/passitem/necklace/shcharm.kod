@@ -22,13 +22,13 @@ constants:
 
 resources:
 
-   ShalilleCharm_name_rsc = "diamond pendant"
+   ShalilleCharm_name_rsc = "Das Diamantenhalsband"
    ShalilleCharm_icon_rsc = shcharm.bgf
-   ShalilleCharm_desc_rsc = \
-   "Made of carefully cut diamonds set in finely worked copper, this pendant "
-   "would be anyone's best friend."
+   ShalilleCharm_desc_rsc = "Dieses Halsband, bestehend aus sorgsam geschliffenen Diamanten, eingebettet in kunstvoll gearbeitetes Kupfer, ist sehr kostbar."
 
-   ShalilleCharm_whisper = "A voice whispers, \"~I...calm only prevails if it learns from its travails...\""
+
+
+   ShalilleCharm_whisper = "Eine Stimme flüstert, \"~I...Ruhe gewinnt nur die Oberhand, wenn sie aus ihren Qualen lernt...\""
 
 classvars:
 
@@ -101,6 +101,7 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 

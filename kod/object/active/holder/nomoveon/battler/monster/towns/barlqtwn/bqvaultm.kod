@@ -18,26 +18,26 @@ resources:
 
    barloquevaultman_name_rsc = "Obert Cair'bre"
    barloquevaultman_icon_rsc = bqvaultm.bgf
-   barloquevaultman_desc_rsc =  \
-      "Obert is a relatively handsome gentleman who takes almost as much pride in his "
-      "vaults as he does in his family. His professional manner shows that he realizes his "
-      "customers are often in a hurry to retrieve their goods."
+   barloquevaultman_desc_rsc = "Obert ist ein recht ansehnlicher Gentleman der auf seine Tresorräume fast genauso stolz ist wie auf seine Familie. Seine professionelle Arbeitsweise zeigt sich dadurch, dass er stets erkennt, dass seine Kunden es oft eilig haben und ihre eingelagerten Wertsachen unverzüglich erhalten wollen."
 
-   barloquevaultman_entry_welcome = "Well met!"
 
-   barloquevaultman_nogold = "Thou may not use my services to store %s%s."
-   barloquevaultman_nocursed = "I cannot take %s%s from thee."
-   barloquevaultman_fullvault = "Thy vault cannot hold all that!  Mayhaps thou should try offering items in smaller quantities."
-   barloquevaultman_thanks_amount = "That will cost %i shillings.  I thank thee for trusting me to quartermaster thy gear."
-   barloquevaultman_dont_have = "Hmmm, I can't seem to find %s%s in thy vault."
-   barloquevaultman_no_room = "Thou can not carry all of that!  Mayhaps thou should try withdrawing the items one at a time."
-   barloquevaultman_deposit_thanks = "I thank thee for trusting me to quartermaster thy gear."
-   barloquevaultman_thanks = "Have is thy gear.  I thank thee for thy patronage."
-   barloquevaultman_nowithdraw_cash = "Thou currently cannot pay the exit fee to get thy items out."
-   barloquevaultman_nodeposit_cash = "Storing these items would cost %i shillings - which I see thou doth not possess."
-   barloquevaultman_cant_part = "Zounds... I wish to not feel responsible if thy %s were to disappear - I cannot store it."
-   barloquevaultman_noaccount = "I do not seem to be storing any of thy gear."
-   barloquevaultman_not_enough = "Thou have not that many %s stored in thy name!"
+
+
+   barloquevaultman_entry_welcome = "Wohl getroffen!"
+
+   barloquevaultman_nogold = "Ihr müsst meine Dienste nicht in Anspruch nehmen, um %s%s zu verstauen."
+   barloquevaultman_nocursed = "Ich kann keine %s%s von Euch nehmen."
+   barloquevaultman_fullvault = "Das Lager kann das nicht alles aufnehmen! Vielleicht solltet Ihr versuchen, Gegenstände in kleineren Mengen anzubieten."
+   barloquevaultman_thanks_amount = "Das wird %i Schillinge kosten. Ich danke Euch, dass Ihr mir Eure Ausrüstung anvertraut."
+   barloquevaultman_dont_have = "Hmmm, ich scheine die %s%s in meinem Lager nicht finden zu können."
+   barloquevaultman_no_room = "Ihr könnt das nicht alles mitnehmen! Vielleicht solltet Ihr immer einen Gegenstand nach dem anderen herausnehmen."
+   barloquevaultman_deposit_thanks = "Ich danke Euch, dass Ihr mir Eure Ausrüstung anvertraut."
+   barloquevaultman_thanks = "Hier ist Eure Ausrüstung. Danke für Euer Vertrauen"
+   barloquevaultman_nowithdraw_cash = "Im Moment könnt Ihr die Ablösegebühr nicht zahlen, um Eure Sachen mitzunehmen."
+   barloquevaultman_nodeposit_cash = "Die Verwahrung dieser Gegenstände würde %i Schillinge kosten - ich sehe aber, dass Ihr sie nicht habt."
+   barloquevaultman_cant_part = "Zapperlot... Ich könnte nicht die Verantwortung übernehmen, wenn Eure %s verschwinden würde - ich kann es nicht verwahren."
+   barloquevaultman_noaccount = "Ich scheine nichts von Eurer Ausrüstung zu verwahren."
+   barloquevaultman_not_enough = "Ihr habt nicht so viele %s unter Eurem Namen in Verwahrung gegeben!"
 
 
 
@@ -144,3 +144,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

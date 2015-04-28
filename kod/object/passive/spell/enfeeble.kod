@@ -15,15 +15,15 @@ constants:
 
 resources:
 
-   enfeeble_cast_rsc = "You sense an unsavory presence."
-   enfeeble_already_enchanted = "That poor soul is already enfeebled."
+   enfeeble_cast_rsc = "Du bemerkst, wie eine seltsame Kraft die Muskeln Deines Opfers erschlaffen läßt."
+   enfeeble_already_enchanted = "Diese arme Seele ist bereits geschwächt."
 
-   enfeeble_name_rsc = "enfeeble"
+   enfeeble_name_rsc = "Schwächen"
    enfeeble_icon_rsc = ienfeebl.bgf
-   enfeeble_desc_rsc = \
-      "Drains physical strength from the target.  "   
-      "The effect lasts a few minutes.  "
-      "Requires orc teeth to cast."
+   enfeeble_desc_rsc = "Entzieht dem Ziel physische Stärke. Der Effekt dauert für einige Minuten an. Der Zauber benötigt Zähne eines Orks."
+
+
+
 
    enfeeble_sound = qenfeebl.wav
 
@@ -145,5 +145,6 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

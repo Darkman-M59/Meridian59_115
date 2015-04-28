@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   Eavesdrop_name_rsc = "eavesdrop"
+   Eavesdrop_name_rsc = "Lauschen"
    Eavesdrop_icon_rsc = ieavesdr.bgf
-   Eavesdrop_desc_rsc = \
-      "Riija grants the ability to hear distant conversations, allowing you to spy on others.  "
-      "Requires dragonfly eyes."
+   Eavesdrop_desc_rsc = "Riija gewährt Dir die Möglichkeit ferne Gespräche zu belauschen und auf diese Weise andere auszuspionieren. Dieser Zauber benötigt Drachenfliegenaugen."
+
+
    
-   Eavesdrop_on_rsc = "The sounds of a nearby room fill your mind."
-   Eavesdrop_off_rsc = "The distant sounds become impossible to hear."
-   Eavesdrop_already_enchanted_rsc = "You are already listening to another room."
-   Eavesdrop_no_rooms = "There seem to be no nearby rooms you can listen to."
-   Eavesdrop_Success_rsc = "You grant %s%s the ability to eavesdrop."
+   Eavesdrop_on_rsc = "Plötzlich dringen ferne Geräusche an Dein Ohr."
+   Eavesdrop_off_rsc = "Die weit entfernten Geräusche verstummen in Deinen Ohren."
+   Eavesdrop_already_enchanted_rsc = "Du belauschst bereits einen anderen Raum."
+   Eavesdrop_no_rooms = "Es gibt hier keine angrenzenden Gebiete, die Du belauschen kannst."
+   Eavesdrop_Success_rsc = "Du verschaffst %s%s ein außergewöhnlich gutes Gehör."
 
    Eavesdrop_sound = riija.wav
 
@@ -205,3 +205,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

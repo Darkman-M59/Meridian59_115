@@ -23,25 +23,25 @@ constants:
 
 resources:
 
-   MysticTouch_name_rsc = "mystic touch"
+   MysticTouch_name_rsc = "Mystische Berührung"
    MysticTouch_icon_rsc = imysticc.bgf
-   MysticTouch_desc_rsc = \
-      "Draws upon the magic of Faren to transfer magical energy from caster to "
-      "target.  "
-      "Requires mushrooms to cast."
+   MysticTouch_desc_rsc = "Ruft die Magie Farens herbei, um magische Energie vom Zaubernden zum Ziel zu übertragen. Der Zauber benötigt Pilze."
+
+
+
    
-   MysticTouch_cast_rsc = \
-      "You feel the magical energies of another filling your body."
-   MysticTouch_caster_msg_rsc = "You give part of your magical energy to %s%s."
+   MysticTouch_cast_rsc = "Du fühlst, wie Dich die magische Energie einer anderen Person durchströmt."
 
-   MysticTouch_unnecessary_rsc = \
-      "%s%s cannot handle additional magical energy from this spell."
-   MysticTouch_nomana_rsc = \
-      "You do not have enough magical energy to transfer to another!"
-   MysticTouch_notonself_rsc = "You cannot cast mystic touch on yourself."
+   MysticTouch_caster_msg_rsc = "Du überträgst einen Teil Deiner magischen Energie an %s%s."
 
-   MysticTouch_spell_intro = \
-      "Faren Lv. 1: Gives part of caster's mana to another person."
+   MysticTouch_unnecessary_rsc = "%s%s kann keine weitere magische Energie von Dir aufnehmen."
+
+   MysticTouch_nomana_rsc = "Du bist nicht in der Lage, magische Energie an andere abzugeben."
+
+   MysticTouch_notonself_rsc = "Du kannst Dich nicht selbst mystisch berühren."
+
+   MysticTouch_spell_intro = "Faren Zirkel 1: Ruft die Magie Farens herbei, um magische Energie auf einen anderen Körper zu übertragen."
+
 
    MysticTouch_sound = fmystic.wav
 
@@ -168,3 +168,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

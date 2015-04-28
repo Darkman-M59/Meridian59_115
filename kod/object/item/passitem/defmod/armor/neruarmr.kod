@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   neruditearmor_name_rsc = "nerudite armor"
+   neruditearmor_name_rsc = "Die Nerudit-Rüstung"
    neruditearmor_icon_rsc = nerudamr.bgf
-   neruditearmor_desc_rsc = \
-      "Forged from mighty Nerudite, this plate is lighter and more durable than "
-      "normal plate.  This chest piece exemplifies the remarkable skill of "
-      "Ixla cha'Totlak."
+   neruditearmor_desc_rsc = "Aus Nerudit geschmiedet, ist dieser Panzer leichter und haltbarer als ein normaler Panzer. Dieses Bruststück verdeutlicht die außergewöhnliche Fertigkeit von Ixla cha'Totlak."
+
+
+
 
    neruditearmor_male_icon_rsc = btm.bgf
    neruditearmor_female_icon_rsc = btn.bgf
 
-   neruarmor_shatters = "The nerudite armor shatters into a flurry of splinters!"
+   neruarmor_shatters = "Die Nerudit-Rüstung zerbricht in einem Regen aus Splittern!"
 
 classvars:
 
@@ -118,4 +118,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

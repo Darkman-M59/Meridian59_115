@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   RemoveCurse_name_rsc = "remove curse"
+   RemoveCurse_name_rsc = "Fluch bannen"
    RemoveCurse_icon_rsc = iremcurs.bgf
-   RemoveCurse_desc_rsc = \
-      "Breaks the magical bond binding you to a cursed item.  "
-      "Requires emeralds to cast."
-   
-   RemoveCurse_on = "Shal'ille tears the cursed item from your body."
-   RemoveCurse_bad_target = \
-      "Shal'ille detects no accursed items to strip away."
+   RemoveCurse_desc_rsc = "Zerbricht das magische Band, das Dich an einen verfluchten Gegenstand bindet. Der Zauber benötigt Smaragde."
 
-   RemoveCurse_spell_intro = \
-      "Shal'ille Lv. 2: Breaks the magical bond binding you to a cursed item."
+
+   
+   RemoveCurse_on = "Sha-Lill reißt den verfluchten Gegenstand von Deinem Körper."
+   RemoveCurse_bad_target = "Sha-Lill kann keine verwünschten Dinge entdecken, die entfernt werden könnten."
+
+
+   RemoveCurse_spell_intro = "Sha-Lill Zirkel 2: Zerbricht das magische Band, das Dich an einen verfluchten Gegenstand kettet."
+
 
 classvars:
 
@@ -122,3 +122,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

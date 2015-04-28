@@ -23,32 +23,32 @@ constants:
 
 resources:
 
-   lupoggking_name_rsc = "lupogg king"
+   lupoggking_name_rsc = "Der Lupogg-König"
    lupoggking_icon_rsc = lupking.bgf
-   lupoggking_desc_rsc = \
-      "The ancient King of the Lupoggs lords over these dark caves, knowing "
-      "no creature to be its equal.  The rock walls rumble and shake whenever "
-      "this monstrosity wails.  You feel as though you have already outlived "
-      "most people who encounter the Lupogg King, but that thought does not "
-      "comfort you any."
+   lupoggking_desc_rsc = "Der alte König der Lupoggs herrscht über diese dunklen Höhlen, wohl wissend, dass kein anderes Geschöpf es mit ihm aufnehmen kann. Die Felswände zittern und beben jedesmal, wenn dieses Monstrum in Wehklagen ausbricht. Du hast das Gefühl, als ob Du bereits die meisten Leute, die auf den Lupogg-König getroffen sind, überlebt hast, doch dieser Gedanke beruhigt dich kein bißchen."
+
+
+
+
+
 
 
    lupoggking_dead_icon_rsc = lupkingx.bgf
-   lupoggking_dead_name_rsc = "dead lupogg king"
+   lupoggking_dead_name_rsc = "Ein toter Lupogg-König"
 
    lupoggking_sound_hit = lup_atkm.wav
    lupoggking_sound_miss = lup_atkm.wav
    lupoggking_sound_death = lup_dth.wav
    lupoggking_sound_aware = lup_awr.wav
 
-   lupoggking_cast_spell = "The lupogg king covers you in a foul paralyzing slime!"
+   lupoggking_cast_spell = "Der Luppog-König bedeckt dich mit einem fauligen, lähmendem Schleim!"
    lupoggking_cast_sound = bsp_dth.wav
 
-   lupoggking_death_blow    = "Your last attack ends the lupogg king's reign!"
-   lupoggking_single_killer = "You have personally slain the mighty lupogg king all by your lonesome!"
-   lupoggking_double_killer = "The lupogg king is dead, thanks to you and your comrade!"
-   lupoggking_helper_killer = "The lupogg king is dead, thanks to you and your comrades!"
-   lupoggking_no_truce      = "The evil in this place eliminates the possibility of any truce."
+   lupoggking_death_blow = "Dein letzter Angriff beendet die Herrschaft des Lupogg-Königs!"
+   lupoggking_single_killer = "Du hast den mächtigen Lupogg-König ganz allein getötet!"
+   lupoggking_double_killer = "Der Lupogg-König ist dank Dir und deinem Kameraden tot!"
+   lupoggking_helper_killer = "Der Lupogg-König ist dank Dir und deiner Kameraden tot!"
+   lupoggking_no_truce = "Das Böse an diesem Ort schließt die Möglichkeit einer Waffenruhe aus."
 
    lupoggking_spit = gob.bgf
 
@@ -498,3 +498,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

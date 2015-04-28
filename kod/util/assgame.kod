@@ -37,42 +37,42 @@ constants:
 
 resources:
 
-   assgame_impact = "~IThe black dagger shatters upon impact!"
-   assgame_blade_shivers = "~IThe black dagger shivers ominously in your hand."
+   assgame_impact = "~IDer Dolch zerspringt beim Aufprall!"
+   assgame_blade_shivers = "~IDer Dolch zittert unheilvoll in Deiner Hand."
 
-   assgame_Mail_reset = \
-      "It turns out that the man you knew as Roq was an imposter.  Naturally, "
-      "the pretender was assassinated.  A match will start anew soon enough."
-      "\n\n"
-      "-- Roq, the Dark Blade"
+   assgame_Mail_reset = "Es scheint, als sei der Mann, den Du als Roq kanntest, ein Hochstapler. Natürlich wurde der falsche Roq gemeuchelt. Ein neues Spiel wird aber schon in Bälde starten.\n\n-- Roq, die dunkle Klinge"
 
-   assgame_winner = "### %s has won the challenge of the black blades."
-   assgame_prize = \
-      "~BFor your assassin's game victory you have been awarded %s%s."
-   assgame_go = "~IYour dagger gains an unearthly glow about it."
-   assgame_urge = "~IYou have this urge to go and visit Roq."
 
-   assgame_mail_not_enough = "Subject: You have been expelled.\n"
-      "You have been expelled from the Assassin's Circle as "
-      "you seem too craven to spend time in this world to take part "
-      "in the proceedings.\n\n-- Roq, the Dark Blade"
 
-   assgame_mail_no_kills = "Subject: I expect more action soon.\n"
-      "Two days have passed without a kill in the Assassin's Game.  "
-      "Should a third pass, I will show my contempt by ending the "
-      "game without declaring a winner.\n\n-- Roq, the Dark Blade"
 
-   AssGame_mail_disgrace = "Subject: The game is ended in disgrace.\n"
-      "Know the face of your own disgrace.  For lack of action, "
-      "I have ended the Assassin's Game.  No one wears the mantle of "
-      "Assassin Supreme.\n\n-- Roq, the Dark Blade"
 
-   AssGame_mail_winner = "Subject: One has risen above the others.\n"
-      "%q has won the challenge of the dark blades.\n\n"
-      "-- Roq, the Dark Blade"
+   assgame_winner = "### %s hat das Spiel der Meuchelmörder gewonnen."
+   assgame_prize = "~BFür den Gewinn des Meuchelmörderspiels wirst du mit %s%s belohnt."
+
+   assgame_go = "~IDein Dolch leuchtet in einem unirdischen Licht auf."
+   assgame_urge = "~IEtwas in Dir drängt Dich, Roq aufzusuchen."
+
+   assgame_mail_not_enough = "Betreff: Du wurdest verstossen.\n\nDu wurdest aus dem Kreis der Meuchelmörder verstossen, da Du scheinbar nicht genügend Zeit in dieser Welt für solcherlei Dinge übrig hast. \n\n--Roq, die dunkle Klinge"
+
+
+
+
+   assgame_mail_no_kills = "Betreff: Ich erwarte mehr Einsatz.\n\nSchon zwei Tage läuft das Spiel der Meuchelmörder, ohne dass ein Teilnehmer sein Leben lassen mußte. Sollte ein dritter Tag ohne Opfer verstreichen, werde ich das Spiel für unentschieden erklären.\n\n--Roq, die dunkle Klinge"
+
+
+
+
+   AssGame_mail_disgrace = "Betreff: Schande auf euer Haupt.\n\nIhr habt kläglich versagt. Weil niemand das Spiel fortführte, habe ich es beendet. Diesmal darf niemand den Titel des Meistermeuchlers tragen.\n\n-- Roq, die dunkle Klinge"
+
+
+
+
+   AssGame_mail_winner = "Betreff: Einer hat sich über die anderen erhoben.\n\n%q hat die Herausforderung der dunklen Klingen gewonnen.\n\n-- Roq, die dunkle Klinge"
+
+
    
    Assgame_go_wav = assassin.wav
-   AssGame_roq = "Roq, the Dark Blade"
+   AssGame_roq = "Roq, die dunkle Klinge"
 
 classvars:
 
@@ -1167,4 +1167,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

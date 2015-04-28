@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   TruceScroll_label_name_rsc = "scroll of truce"
+   TruceScroll_label_name_rsc = "Schriftrolle der Waffenruhe"
    TruceScroll_icon_rsc = scr07.bgf
-   TruceScroll_desc_rsc = \
-      "This scroll is covered with indecipherable mystical writing in a spidery hand."
+   TruceScroll_desc_rsc = "Diese Schriftrolle ist mit einer unleserlichen, krakeligen, mystischen Schrift bedeckt"
+
 
 classvars:
 
@@ -36,3 +36,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

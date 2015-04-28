@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   lever_name_rsc = "lever"
+   lever_name_rsc = "Der Hebel"
    lever_icon_rsc = lever.bgf
-   default_lever_desc_rsc = \
-   "The mechanism attached to this lever appears to be almost completely rusted through.  "
-   "Whatever purpose it originally served, it's probably useless now."
+   default_lever_desc_rsc = "Der Mechanismus, mit dem dieser Hebel verbunden ist, scheint völlig durchgerostet zu sein. Welchem Zweck er auch ursprünglich dienen mochte, jetzt ist er auf jeden Fall unbrauchbar."
 
-   lever_not_in_range = "The lever is not close enough to switch."
-   lever_stuck = "The lever appears to be stuck;  try as you might, you can't make it budge."
 
-   lever_changed = "You switch the lever."
+
+   lever_not_in_range = "Der Hebel ist nicht nahe genug, um ihn bedienen zu können."
+   lever_stuck = "Der Hebel scheint zu klemmen; Du kannst versuchen, was du willst, aber du kannst ihn nicht bewegen."
+
+   lever_changed = "Du legst den Hebel um."
 
 classvars:
 
@@ -117,3 +117,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

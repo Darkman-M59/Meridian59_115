@@ -15,24 +15,24 @@ constants:
 
 resources:
 
-   assess_name_rsc = "assess"
+   assess_name_rsc = "Einschätzen"
    assess_icon_rsc = light.bgf
-   assess_desc_rsc = \
-   "This is a crude and often inaccurate technique used to gauge how good an opponent is in the art of hand-to-hand combat."
+   assess_desc_rsc = "Dies ist eine grobe und oft ungenaue Methode, um herauszufinden, wie gut ein Gegner im Nahkampf ist."
 
-   assess_below_20 = "%s%s is a twig, waiting to be broken."    
-   assess_20_30 = "%s%s is an infant of the battlefield."
-   assess_30_40 = "%s%s fights hardly better than a lowly squire."
-   assess_40_50 = "%s%s possesses not talent, but great potential."
-   assess_50_60 = "%s%s has a good sense in the ways of combat."
-   assess_60_70 = "%s%s is firmly competent on the battlefield."
-   assess_70_80 =  "%s%s shows the scars of many battles."
-   assess_80_90 = "%s%s is certainly no one to be trifled with."
-   assess_90_100 = "%s%s wins many conflicts without so much as shrugging."
-   assess_100_150 = "%s%s possesses near super-human abilities on the battlefield."
-   assess_150_up = "%s%s could crush you like a bug!"
 
-   assess_self = "Who?  This person?  A cinch!"
+   assess_below_20 = "%s%s ist ein Zweig, der darauf wartet, zerbrochen zu werden."
+   assess_20_30 = "%s%s ist ein Anfänger auf den Schlachtfeldern."
+   assess_30_40 = "%s%s kämpft bestimmt besser als ein einfacher Knappe."
+   assess_40_50 = "%s%s besitzt kein Talent, aber ein großes Potential."
+   assess_50_60 = "%s%s hat ein gutes Gespür für die Kriegsführung."
+   assess_60_70 = "%s%s ist sehr kompetent auf dem Schlachtfeld."
+   assess_70_80 = "%s%s zeigt die Narben vieler Kämpfe."
+   assess_80_90 = "%s%s ist sicherlich niemand, mit dem man spaßen sollte."
+   assess_90_100 = "%s%s gewinnt viele Auseinandersetzungen, ohne mit der Wimper zu zucken."
+   assess_100_150 = "%s%s hat beinahe übermenschliche Fähigkeiten auf dem Schlachtfeld."
+   assess_150_up = "%s%s kann Dich zerquetschen wie Ungeziefer."
+
+   assess_self = "Wer? Diese Person? Eine Wanze!"
 
 classvars:
 
@@ -124,3 +124,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

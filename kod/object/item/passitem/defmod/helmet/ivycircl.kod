@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   IvyCirclet_name_rsc = "ivy circlet"
+   IvyCirclet_name_rsc = "Das Efeu-Diadem"
    IvyCirclet_icon_rsc = ivycircl.bgf
-   IvyCirclet_desc_rsc = \
-      "Healthy, green leaves of ivy are wrapped around a wooden wreath.  "
-      "This looks like it would be cool and refreshing against your brow."
+   IvyCirclet_desc_rsc = "Frische, grüne Efeublätter sind um einen Holzreifen gewunden. Es sieht aus, als ob es sich kühl und erfrischend an Deiner Stirn anfühlen würde."
 
-   ivycirclet_cant = "The ivy circlet stubbornly resists your attempts to place it on your brow."
+
+
+   ivycirclet_cant = "Das Efeu-Diadem widersetzt sich hartnäckig Deinen Versuchen, es auf Deine Stirn zu setzen."
 
    IvyCirclet_overlay_rsc = IvyCirov.bgf
 
@@ -98,3 +98,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

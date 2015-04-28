@@ -18,11 +18,11 @@ resources:
 
    CornothTailor_name_rsc = "Hester Gilk"
    CornothTailor_icon_rsc = cntailor.bgf
-   CornothTailor_desc_rsc = "Hester is from a very distant land, and her adept sewing reflects a distinct tradition "
-                        "that incorporates functionality with a powerful art.  The clothes she produces are "
-                        "beautiful."
+   CornothTailor_desc_rsc = "Hester ist aus einem sehr fernen Land und ihre geschickte Nadelführung spiegelt eine eigene Tradition wider, die Funktionalität mit einer aussagekräftigen Kunst verbindet. Die Kleider, die sie herstellt, sind wunderschön."
 
-   CnTail_entry_welcome = "Please try not to track mud all over the place."   
+
+
+   CnTail_entry_welcome = "Bitte versucht, den Matsch nicht überall zu verteilen."
 
 classvars:
 
@@ -116,4 +116,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

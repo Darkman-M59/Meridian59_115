@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   illusionaryformpotion_already_enchanted = \
-   "You are already of another form, and the potion has no effect."
+   illusionaryformpotion_already_enchanted = "Du hast bereits eine andere Gestalt angenommen. Der Trank zeigt keine Wirkung."
 
-   illusionaryformpotion_name_rsc = "brown potion"
+
+   illusionaryformpotion_name_rsc = "Der braune Trank"
    illusionaryformpotion_icon_rsc = flask.bgf
-   illusionaryformpotion_desc_rsc = "This is a deep, dark, murky, chunky potion."
+   illusionaryformpotion_desc_rsc = "Dies ist ein zähflüssiger, dunkler, klebriger Trank."
 
-   illusionaryformpotion_cant_use_on = "You can't serve %s%s."
-   illusionaryformpotion_gulp_sound =  drkptn.wav
+   illusionaryformpotion_cant_use_on = "%s%s kann von Dir nicht getrunken werden."
+   illusionaryformpotion_gulp_sound = drkptn.wav
 
 classvars:
    vrName = illusionaryformpotion_name_rsc
@@ -90,3 +90,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

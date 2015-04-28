@@ -18,15 +18,15 @@ constants:
 resources:
 
    scorpion_koc_name_rsc = "kinkauikinich"
-   scorpion_name_rsc = "giant scorpion"
+   scorpion_name_rsc = "Der Skorpion"
    scorpion_icon_rsc = scorp.bgf
-   scorpion_desc_rsc = \
-   "The scorpion's deadly stinger rises high in the air "
-   "and its hard plated body protects it from all but the "
-   "strongest attacks."
+   scorpion_desc_rsc = "Hoch ragt der tödliche Stachel des Skorpions in die Luft, und sein harter Panzer schützt ihn bis auf die stärksten Schläge vor allen Attacken."
+
+
+
 
    scorpion_dead_icon_rsc = scorpX.bgf
-   scorpion_dead_name_rsc = "dead scorpion"
+   scorpion_dead_name_rsc = "Ein toter Skorpion"
 
    scorpion_sound_hit = scp_atkh.wav
    scorpion_sound_miss = scp_atkm.wav
@@ -110,3 +110,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

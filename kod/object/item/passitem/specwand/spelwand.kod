@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   SpellWand_name_rsc = "wand"
-   SpellWand_label_name_rsc = "generic wand"
+   SpellWand_name_rsc = "Zauberstab"
+   SpellWand_label_name_rsc = "Allgemeiner Zauberstab"
    SpellWand_icon_rsc = wand6.bgf
-   SpellWand_desc_rsc = "Magical energy crackles about this slender wand."
-   SpellWand_broken = "%s%s shatters into pieces!"
-   SpellWand_useless = "The wand has spent its magical energy and is now charred and useless."
-   SpellWand_desc_broken_rsc = "The once pristine wand is now a blackened mess."
+   SpellWand_desc_rsc = "Magische Energien umströmen diesen dünnen Stab."
+   SpellWand_broken = "%s%s zerbricht in Stücke!"
+   SpellWand_useless = "Der Stab hat seine magische Energie verbraucht und ist jetzt verkohlt und nutzlos."
+   SpellWand_desc_broken_rsc = "Dieser einst so prächtige Stab ist jetzt nur noch ein wertloses Stück Holz."
 
-   SpellWand_target_gone = "You carefully aim your wand at %s%s, but you suddenly realize your target is gone."
-   SpellWand_fails = "You point your wand at %s%s, but nothing happens."
+   SpellWand_target_gone = "Du zielst mit Deinem Zauberstab sorgfältig auf %s%s, aber plötzlich merkst Du, dass Dein Ziel verschwunden ist."
+   SpellWand_fails = "Du richtest den Zauberstab auf %s%s, aber nichts passiert."
 
 classvars:
 
@@ -121,3 +121,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

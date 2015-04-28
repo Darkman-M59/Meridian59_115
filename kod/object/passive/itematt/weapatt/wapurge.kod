@@ -27,11 +27,11 @@ constants:
 
 resources:
 
-   weapattpurger_desc = "  The sign of Psychochild is engraved on the weapon."      
-   purger_fail_use = "You are not yet ready to use %s%s."
-   purger_worked_user = "Your weapon tears at the magic surrounding %s%s."
-   purger_worked_target = "%s%s's weapon tears at the magic surrounding you!"
-   purger_dm = "purger"
+   weapattpurger_desc = " Psychochilds Zeichen zieren diese Waffe."
+   purger_fail_use = "Du bist nicht bereit %s%s zu benutzen."
+   purger_worked_user = "Deine Waffe beeinflusst die Magie, die %s%s umgibt."
+   purger_worked_target = "%s%S's Waffe beeinflusst die Magie, die Dich umgibt!"
+   purger_dm = "Psychochildwaffe"
 
 classvars:
 
@@ -102,3 +102,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

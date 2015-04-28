@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   soup_name_rsc = "bowl of soup"
+   soup_name_rsc = "Der Suppenteller"
    soup_icon_rsc = soupbowl.bgf
-   soup_desc_rsc = \
-     "A steamy bowl of soup, with good chunky bits of mushroom and a blend of herbs."
-   soup_name_plural_rsc = "bowls of soup"
+   soup_desc_rsc = "Ein dampfender Teller mit Suppe aus großen Pilzstücken und fein abgeschmeckt mit Kräutern."
 
-   soup_disp_name = "cauldron of soup"
+   soup_name_plural_rsc = "Suppenteller"
+
+   soup_disp_name = "Der Suppentopf"
    soup_disp_icon = cauldron.bgf
-   soup_disp_desc = \
-     "Enough hot soup to feed an army of adventurers."
-   soup_got_one = "You ladle a steamy bowlful of soup for yourself."
+   soup_disp_desc = "Genügend heiße Suppe, um eine ganze Armee von Abenteurern satt zu kriegen."
+
+   soup_got_one = "Du schöpfst Dir eine Schüssel dampfender Suppe."
 
 classvars:
 
@@ -61,3 +61,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

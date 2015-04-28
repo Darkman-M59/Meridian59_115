@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   Invigorate_name_rsc = "invigorate"
+   Invigorate_name_rsc = "Stärkung"
    Invigorate_icon_rsc = iinvigor.bgf
-   Invigorate_desc_rsc = \
-      "This song allows all listeners to regain vigor at an accelerated rate.  "
-      "Requires one diamond and an edible mushroom to cast."
+   Invigorate_desc_rsc = "Dieses Lied erlaubt es allen Zuhörern, schneller wieder zu Kräften zu kommen. Der Zauber benötigt Diamanten und essbare Pilze."
 
-   Invigorate_song = song11.mid
+
+
+   Invigorate_song = song11.mp3
  
 classvars:
 
@@ -71,3 +71,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

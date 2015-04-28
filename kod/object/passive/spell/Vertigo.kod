@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   Vertigo_name_rsc = "vertigo"
+   Vertigo_name_rsc = "Verwirren"
    Vertigo_icon_rsc = ivertigo.bgf
-   Vertigo_desc_rsc = \
-      "This spell causes the victim to become so ill that they can hardly stand, much less fight. "
-      "Requires dragonfly eyes and solagh."
-   
-   Vertigo_caster = "%s%s looks strangely dazed... and confused."
-   Vertigo_already_enchanted = "%s%s already appears to be freaking."
+   Vertigo_desc_rsc = "Dieser Zauberspruch verursacht bei einem Betroffenen eine solche Schwäche, das er kaum noch stehen kann, geschweige denn kämpfen. Man benötigt Augen der Drachenfliege und Phiolen mit Solagh."
 
-   Vertigo_on = "Your stomach leaps into your throat and feel as though"
-      " someone hit you on the head with a very large hammer."
-   Vertigo_off = "You recover from that terrible feeling."
+
+   
+   Vertigo_caster = "%s%s blickt merkwürdig benommen... und sieht verwirrt aus."
+   Vertigo_already_enchanted = "%s%s scheint schon gestört zu sein."
+
+   Vertigo_on = "Dein Magen hüpft bis in die Kehle und es fühlt sich an, als ob Dir jemand mit einem Schmiedehammer auf den Kopf geschlagen hätte."
+
+   Vertigo_off = "Du erholst Dich von diesem furchtbaren Gefühl."
 
    Vertigo_sound = rvertigo.wav
 
@@ -189,3 +189,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

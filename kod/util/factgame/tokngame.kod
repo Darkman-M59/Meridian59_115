@@ -18,28 +18,28 @@ constants:
 
 resources:
 
-   parl_councilor_report= "%s%s is suspected to be a %s believer in %s."
-   parl_factioned_nSelf = "the foolishness of factions"
-   parl_factioned_neutral = "Shal'ille's guidance instead of our ideas"
-   parl_factioned_duke = "the trivial causes of the Duke"
-   parl_factioned_Dself = "our causes"
-   parl_factioned_princess = "the misguided hopes of Princess Kateriina"
-   parl_factioned_Pself = "our desires"
-   parl_factioned_rebel = "the harmful rebellion of Jonas"
-   parl_factioned_Rself = "our fight for freedom"
+   parl_councilor_report = "%s%s wird verdächtigt, ein %s Anhänger %s zu sein."
+   parl_factioned_nSelf = "die Dummheit der Fraktionen"
+   parl_factioned_neutral = "der Göttin Sha-Lill"
+   parl_factioned_duke = "der banalen Angelegenheiten des Herzogs"
+   parl_factioned_Dself = "unserer Sache"
+   parl_factioned_princess = "von Prinzessin Kateriina"
+   parl_factioned_Pself = "unserer Sache"
+   parl_factioned_rebel = "der schädlichen Rebellion von Jonas"
+   parl_factioned_Rself = "unseres Kampfes nach Freiheit"
 
-   parl_strength_weak = "weak"
-   parl_strength_strong = "strong"
-   parl_strength_dedicated = "dedicated"
+   parl_strength_weak = "mäßiger"
+   parl_strength_strong = "fanatischer"
+   parl_strength_dedicated = "engagierter"
 
-   scandal_occurrence = "~IUnder suspicion of accepting favors in exchange for votes, Councilman %s%s undertakes a pilgrimage to Shal'ille's temple for purification of his thoughts."
+   scandal_occurrence = "~IUnter dem Verdacht, bestochen worden zu sein, wandert %s%s in den Sha-Lill Tempel, um Buße zu tun."
 
-   parl_liege_token_secret = "I'm sorry, but I'll only tell members of my faction information on the rumored whereabouts of tokens."
-   parl_liege_token_location = "Our spy network reports %s%s was last seen near %s. See if thou canst bring it to me, or return it."
-   parl_liege_token_none = "Our spy network indicates that all the tokens are safely in the presence of their Councilor."
+   parl_liege_token_secret = "Tut mir leid, aber ich kann nur Mitgliedern meiner eigenen Fraktion Auskünfte über den Aufenthaltsort von Artefakten erteilen."
+   parl_liege_token_location = "Unsere Spione haben neue Informationen. %s%s wurde kürzlich gesichtet. %s sollte unbedingt untersucht werden. Versuche, das Artefakt zurückzubringen!"
+   parl_liege_token_none = "Unsere Spione berichten, dass alle Artefakte in den Händen ihrer Ratsmitglieder sind."
 
-   parl_token_location = "I heard a rumor that %s%s had teleported away from its Councilor again, and was seen near %s. Hopefully someone is even now on their way to return it, but maybe some fiendish monster has picked it up!"
-   imposter_token = "Now why are you carrying around imitation council tokens? You should complain about having gotten one of those."
+   parl_token_location = "%s%s hat sich aus der Gewalt seines Ratsmitgliedes befreit. Es wurde zuletzt in folgendem Gebiet gesichtet: %s. Tapfere Recken sollten sich beeilen, bevor das Artefakt in die Hände von Monstern fällt!"
+   imposter_token = "Warum trägst Du Imitate von Artefakten mit Dir herum? Du solltest eine Aussage machen müssen, wo Du es her hast!"
 
 classvars:
 
@@ -1009,3 +1009,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   TotemFour_name_rsc = "Ancient Shield"
+   TotemFour_name_rsc = "Der Antike Schild"
    TotemFour_icon_rsc = qo09.bgf
-   TotemFour_desc_rsc = "Thought to be an artifact from the Empire of the Nexus before this land was even "
-         "discovered, this ancient shield is too old and valuable to be used in combat.\n\n"
-         "Being one of a kind, this shield can not be carried in one's possession for very long or tucked away "
-         "in a chest."
+   TotemFour_desc_rsc = "Dieser antike Schild, von dem man annimmt, er sei ein Artefakt des Reiches von Nexus, bevor dieses Land auch nur entdeckt wurde, ist zu alt und wertvoll, als dass er im Kampf benutzt werden würde.\n\nVon diesen Schilden kann man nur einen für kurze Zeit besitzen. Er kann auch nicht mitgenommen oder in einer Kiste verwahrt werden."
+
+
+
 
 classvars:
 
@@ -46,3 +46,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

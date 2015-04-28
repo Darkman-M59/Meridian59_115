@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   portal_name_rsc = "portal"
+   portal_name_rsc = "Das Portal"
    portal_icon_rsc = portal.bgf
-   portal_desc_rsc = "The portal flickers coldly, eerily inviting you to some unknown locale."
+   portal_desc_rsc = "Das leuchtende Portal lädt Dich zu einer Reise mit unbekanntem Ziel ein."
 
-   portal_dead = "This archway stands cold and inanimate."
+   portal_dead = "Dieses Portal ist kalt und pulsiert nicht voller Energie."
 
 classvars:
 
@@ -196,3 +196,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,29 +16,29 @@ constants:
 
 resources:
 
-   HolyTouch_name_rsc = "holy touch"
+   HolyTouch_name_rsc = "Heilige Hand"
    HolyTouch_icon_rsc = iholyt.bgf
-   HolyTouch_desc_rsc = \
-      "Pure energy from Shal'ille sears your target.  More effective on evil "
-      "and undead targets.   "
-      "Requires emeralds."
+   HolyTouch_desc_rsc = "Pure Energie von Sha-Lill verbrennt böse Ziele und heilt die guten. Man benötigt für diesen Zauber Smaragde."
 
-   HolyTouch_already_enchanted_rsc = \
-      "Your hands are already bathed in Shal'ille's love."
-   HolyTouch_On_rsc = "Your hands are bathed in Shal'ille's love."
-   HolyTouch_Off_rsc = "Your hands are no longer bathed in Shal'ille's love."
 
-   HolyTouch_player_was_hit = "%s%s scalds you with the pure force of Shal'ille!"
-   HolyTouch_player_hit_something = \
-      "%s%s%s shrinks away from the pure energy of Shal'ille."
 
-   HolyTouch_player_killed_something = \
-      "%s%s finally succumbs, finding peace through Shal'ille's purifying energy."
-   HolyTouch_player_was_killed = \
-      "The touch of %s%s separates body from soul and sends you to the underworld."
 
-   holytouch_spell_intro = \
-      "Shal'ille Lv. 2: Delivers the judgment of Shal'ille in your touch."
+   HolyTouch_already_enchanted_rsc = "Du badest grade Deine Hände drin - In Geschirrspülmittel? - Nein, in Sha-Lills Liebe!"
+
+   HolyTouch_On_rsc = "Deine Hände werden von Sha-Lills Liebe umspielt."
+   HolyTouch_Off_rsc = "Deine Hände werden nicht länger von Sha-Lills Liebe umspielt."
+
+   HolyTouch_player_was_hit = "%s%s verbrüht Dich mit der puren Kraft von Sha-Lill!"
+   HolyTouch_player_hit_something = "%s%s%s wird von der puren Kraft Sha-Lills zurückgeworfen."
+
+
+   HolyTouch_player_killed_something = "%s%s siecht dahin und findet durch Sha-Lills reinigende Energie Ruhe und Frieden."
+
+   HolyTouch_player_was_killed = "Die Heilige Hand von %s%s trennt den Körper von der Seele und schickt Dich in die Unterwelt."
+
+
+   holytouch_spell_intro = "Sha-Lill Zirkel 2: Legt Sha-Lills Liebe in Deine Berührungen."
+
 
    holytouch_sound = sholytch.wav
 
@@ -130,3 +130,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

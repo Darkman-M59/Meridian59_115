@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   guildDeclareEnemy_name_rsc = "declare enemy"
+   guildDeclareEnemy_name_rsc = "Zum Feind erklären"
    guildDeclareEnemy_icon_rsc = light.bgf
-   guildDeclareEnemy_desc_Rsc = "Use this declare an opposing guild an enemy."
+   guildDeclareEnemy_desc_Rsc = "So erklärst du eine gegnerische Gilde zum Feind."
 
-   DeclareEnemy_non_user = "%s%s doesn't like you much either."
-   DeclareEnemy_not_member = "%s is not a member of an enemy guild!"
-   DeclareEnemy_your_guild = "%s is a member of your own guild!"
+   DeclareEnemy_non_user = "Die Gilde %s%s mag Dich auch nicht besonders."
+   DeclareEnemy_not_member = "%s ist kein Mitglied einer feindlichen Gilde!"
+   DeclareEnemy_your_guild = "%s ist ein Mitglied Deiner eigenen Gilde!"
 
-   DeclareEnemy_cant_self = "Have a self-esteem problem, do we?"
+   DeclareEnemy_cant_self = "Haben wir da ein kleines Problem mit unserer Selbstachtung?"
 
 classvars:
 
@@ -85,3 +85,4 @@ messages:
   
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

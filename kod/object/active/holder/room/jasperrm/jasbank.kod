@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   room_name_jasbank = "The Royal Bank of Jasper"
+   room_name_jasbank = "Königliche Bank von Jasper"
    room_jasbank = jasbank.roo
-   jasbank_music = bank.mid
+   jasbank_music = bank.mp3
 
-   jasbank_sign = \
-      "Use the deposit, withdraw (amount), and balance commands to access "
-      "your bank account."
+   jasbank_sign = "Benutze die Befehle EINZAHLEN, ABHEBEN und KONTOSTAND, um auf Dein Konto zuzugreifen."
+
+
 
 classvars:
 
@@ -84,3 +84,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OutdoorsKC2 ="Turf of the Warrior Avars"
+   room_name_OutdoorsKC2 = "Revier der Avar-Krieger"
    room_OutdoorsKC2 = KC2.roo
-   OutdoorsKC2_music = avarwar.mid
+   OutdoorsKC2_music = avarwar.mp3
 
 classvars:
 
@@ -120,3 +120,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

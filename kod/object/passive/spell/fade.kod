@@ -18,19 +18,19 @@ constants:
 
 resources:
 
-   fade_name_rsc = "fade"
+   fade_name_rsc = "Verblassen"
    fade_icon_rsc = ifade.bgf
-   fade_desc_rsc = \
-      "Temporarily dissolves your physical form leaving "
-      "you invisible.  The spell lasts as long as your trance "
-      "is maintained.  "
-      "Requires dark angel feather."
-   
-   fade_already_enchanted = "You are already invisible."
+   fade_desc_rsc = "Löst zeitweilig Deinen Körper auf und macht Dich unsichtbar. Der Zauber hält solange an, wie Deine Trance besteht. Der Zauber benötigt die Federn eines schwarzen Engels."
 
-   fade_on = "Your physical form fades from existence leaving only a shimmering apparition."
-   fade_off = "Your physical form is visible once more."
-   fade_broke_trance = "You lose your concentration and become visible once more."
+
+
+
+   
+   fade_already_enchanted = "Du bist bereits unsichtbar."
+
+   fade_on = "Dein Körper verschwindet und hinterläßt nur eine schimmernde Erscheinung."
+   fade_off = "Dein Körper wird wieder sichtbar."
+   fade_broke_trance = "Du verlierst Deine Konzentration und wirst wieder sichtbar."
 
    fade_sound = qfade.wav
 
@@ -146,3 +146,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

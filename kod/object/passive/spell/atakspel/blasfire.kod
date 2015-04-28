@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   BlastOfFire_name_rsc = "blast of fire"
+   BlastOfFire_name_rsc = "Feuersbrunst"
 
    BlastOfFire_icon_rsc = iblfire.bgf
 
-   BlastOfFire_desc_rsc = \
-      "Releases Faren's anger as a blast of flame directed at a target at short range.  "
-      "Requires red mushrooms and elderberries to cast."
+   BlastOfFire_desc_rsc = "Entfesselt Farens Feuerbrunst gegen ein Ziel in kurzer Distanz. Benötigt rote Pilze und Holunderbeeren."
+
+
 
    BlastOfFire_sound = fflame.wav
 
@@ -69,3 +69,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

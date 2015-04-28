@@ -19,18 +19,18 @@ constants:
 
 resources:
 
-   jala_song_ends = "The song sung by a nearby bard of Jala ends."
-   jala_song_starts = "A nearby bard of Jala starts to sing a song."
-   jala_song_failed = \
-      "A nearby bard of Jala begins to sing a song, but quits when they "
-      "realize they can't be heard over the song sung by another."
-   jala_song_playing = "A nearby bard of Jala is singing a song."
-   jala_need_instrument = "You need an instrument!"
-   jala_no_newbie = \
-      "Your guardian angel tells you, \"You are not ready to cast spells "
-      "which may hinder other players.\""
+   jala_song_ends = "Das Lied, das ein Jala-Barde in der Nähe gesungen hat, endet."
+   jala_song_starts = "Ein Jala-Barde in der Nähe fängt an, ein Lied zu singen."
+   jala_song_failed = "Ein Jala-Barde in der Nähe fängt an, ein Lied zu singen, hört jedoch auf, als klar wird, dass das andere nicht übertönt werden kann."
 
-   jala_default = jala1.mid
+
+   jala_song_playing = "Ein Jala-Barde ganz nahebei singt ein Lied."
+   jala_need_instrument = "Du brauchst ein Instrument!"
+   jala_no_newbie = "Dein Schutzengel flüstert Dir zu, \"Du bist noch nicht bereit Jala-Zauber zu wirken, die andere behindern könnten.\""
+
+
+
+   jala_default = jala1.mp3
 
 classvars:
 
@@ -332,3 +332,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

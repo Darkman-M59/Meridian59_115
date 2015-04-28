@@ -15,24 +15,24 @@ constants:
 
 resources:
 
-   RiijaMonk_name_rsc = "Monk of Riija"
+   RiijaMonk_name_rsc = "Der Mönch von Riija"
    RiijaMonk_icon_rsc = kcrjmonk.bgf
-   RiijaMonk_desc_rsc = "Floating several feet above the ground, this enigma of a "
-      "being watches you.  When it speaks, the monk's voice crackles like century "
-      "old parchment. You have a very uneasy feeling that all is not as it seems. "
+   RiijaMonk_desc_rsc = "Ein paar Fuß über dem Boden schwebend, beobachtet Dich dieses rätselhafte Wesen. Wenn es spricht, knistert die Stimme des Mönchs wie jahrhundertealtes Pergament. Du hast das ungute Gefühl, dass alles nicht so ist, wie es scheint. "
 
-   RiijaMonk_name_rsc2 = "spooky little girl"
+
+
+   RiijaMonk_name_rsc2 = "Das gespenstische kleine Mädchen"
    RiijaMonk_icon_rsc2 = kcrjgirl.bgf
-   RiijaMonk_desc_rsc2 = "With a sickly sweet child's voice and an unwholesome look of innocence, the priestess "
-      "of Riija welcomes you to her inner sanctum of unreality."
+   RiijaMonk_desc_rsc2 = "Mit der süßen Stimme eines Kindes und einem ungesunden Aussehen von Unschuld heißt Dich die Priesterin von Riija in ihrem inneren Heiligtum der Unwirklichkeit willkommen."
 
-   riijamonk_teach = "Through ~I~rRiija's madness, ~byou can learn "
-   riijamonk_notworthy = "~II see ~gno evidence that ~byou~g are ready to ~rlearn."
-   riijamonk_worthy = "~IAre you prepared for ~I~B~renlightenment?"
 
-   riijamonk_dispel = "~B~rNever do that again!"
+   riijamonk_teach = "~I~rRiijas Wahnsinn ~blehrt "
+   riijamonk_notworthy = "~IIch sehe ~gkeine Anzeichen, dass ~bdu~g bereit bist zu ~rlernen."
+   riijamonk_worthy = "~IBist du auf die ~I~B~rErleuchtung vorbereitet?"
+
+   riijamonk_dispel = "~B~rTu das nie wieder!"
    riijamonk_respel = "Yrxlfle'man ~I~gGrn'Solagh ~rYippie ~bYup-Yup..."
-   riijamonk_unwanted_give = "~k%s%s tells you, \"~BFool,~I I do not need anything from ~n~r~Byou~n~k\""
+   riijamonk_unwanted_give = "~k%s%s sagt zu Dir, \"~BNarr,~I Ich brauche nichts von ~n~r~BDir~n~k\""
 
 
 classvars:
@@ -222,5 +222,6 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

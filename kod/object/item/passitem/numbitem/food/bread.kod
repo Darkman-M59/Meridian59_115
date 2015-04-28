@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   bread_name_rsc = "loaf of bread"
+   bread_name_rsc = "Der Brotlaib"
    bread_icon_rsc = bread.bgf
-   bread_desc_rsc = \
-   "This sweet smelling bread is a specialty of Tos although "
-   "it can be found throughout the land.  The baker is "
-   "said to infuse the dough with magical elderberry, "
-   "although none know for certain."
+   bread_desc_rsc = "Dieses süßlich riechende Brot ist eine Spezialität von Tos. Es läßt sich aber auch im ganzen Land finden. Man sagt, der Bäcker fülle den Teig mit magischen Holunderbeeren. Ganz sicher ist sich jedoch keiner."
 
-   bread_name_plural_rsc = "loaves of bread"
+
+
+
+
+   bread_name_plural_rsc = "Brotlaibe"
 
 classvars:
 
@@ -49,3 +49,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

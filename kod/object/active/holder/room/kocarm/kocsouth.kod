@@ -16,23 +16,23 @@ constants:
 
 resources:
 
-   room_name_kocatansouth = "Ko'catan, the Island Settlement"
+   room_name_kocatansouth = "Ko'catan, die Insel-Siedlung"
    room_kocatansouth = settle2.roo
-   kocatansouth_music = song08.mid
+   kocatansouth_music = song08.mp3
 
-   kocatansouth_northdoors = "This door to the inner wall is firmly bolted shut."
-   kocatansouth_private = "You are not permitted inside the private residence."
-   kocatansouth_whooping = \
-      "You hear loud whooping noises eminating from inside, and decide it's best "
-      "not to enter."
+   kocatansouth_northdoors = "Diese Tür zum Inneren der Wand ist fest verschlossen."
+   kocatansouth_private = "Du darfst nicht in diese Wohnstatt hinein - sie ist privat."
+   kocatansouth_whooping = "Du hörst laute keuchende Geräusche von drinnen und beschließt, nicht einzutreten."
 
-   kocatansouth_drown = \
-      "You decide that drowning is probably not in your personal best interests."
 
-   kocatansouth_guild_locked = \
-      "As you touch the door, you hear the bolt mechanism slide home, locking itself.  "
-      "Apparently, this door is magically safeguarded against guild non-members such as "
-      "yourself."
+
+   kocatansouth_drown = "Du beschließt, dass es nicht in Deinem Interesse ist, zu ertrinken."
+
+
+   kocatansouth_guild_locked = "In dem Moment, als Du die Tür berührtest, konntest Du hören, dass sie sich selbst verriegelt hat. Offenbar ist diese Tür magisch gesichert, um Nicht-Mitglieder (wie z. B. Dich) fernzuhalten."
+
+
+
    kocatansouth_guild_sound_locked = doorlck.wav
 
 classvars:
@@ -166,3 +166,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

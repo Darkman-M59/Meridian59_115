@@ -16,28 +16,28 @@ constants:
 
 resources:
 
-   FinalRites_name_rsc = "final rites"
+   FinalRites_name_rsc = "Letztes Sakrament"
    FinalRites_icon_rsc = ifinrite.bgf
-   FinalRites_desc_rsc = \
-      "This is the lengthy formal ceremony performed at funerals to help the "
-      "recently departed soul pass smoothly on to the Underworld.  It may "
-      "also be used to force nearby undead back in their graves where they "
-      "belong.  "
-      "Requires emeralds and dried elderberries, which during the ceremony "
-      "are crushed together into a symbolic handful of dust and scattered "
-      "into the air."
-   
-   FinalRites_success = \
-      "You crush the reagents into a fine powder, and with a murmur "
-      "you cast the handful of dust heavenward."
-   FinalRites_success_others = \
-      "With a solemn murmur %s%s casts a handful of dust heavenward."
+   FinalRites_desc_rsc = "Diese langatmige, offizielle Zeremonie wird auf Beerdigungen abgehalten um die Seelen der Verstorbenen möglichst sanft in die Unterwelt zu geleiten. Sie wird auch angewendet, um Untote in der Nähe in die Gräber zurückzutreiben, wo sie hingehören. Der Zauber benötigt Smaragde und Holunderbeeren, welche während der Zeremonie symbolisch zu Staub zermalmt und in der Luft verteilt werden."
 
-   FinalRites_hurt = \
-      "%s%s shrieks in pain as the sand showers down like a holy rain."
-   FinalRites_hurt_necro = \
-      "%s%s casts a handful of dust into the air, and it falls down on you "
-      "like a scalding rain."
+
+
+
+
+
+
+   
+   FinalRites_success = "Du zermahlst die Edelsteine zu feinem Pulver und mit einem Murmeln wirfst Du die Handvoll Staub himmelwärts."
+
+
+   FinalRites_success_others = "Mit einem feierlichen Gemurmel wirft %s%s die Handvoll Staub himmelwärts."
+
+
+   FinalRites_hurt = "%s%s kreischt vor Pein, als der Staub wie heiliger Regen niedergeht."
+
+   FinalRites_hurt_necro = "%s%s wirft eine Handvoll Staub in die Luft und ein kochender Regen geht auf Dich hernieder."
+
+
 
    FinalRites_sound = sfrites.wav
 
@@ -149,3 +149,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

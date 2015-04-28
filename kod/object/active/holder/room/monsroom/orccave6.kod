@@ -20,9 +20,9 @@ constants:
 resources:
 
    room_orccave6 = oc06.roo
-   room_name_orccave6 = "Konima's Ascension"
+   room_name_orccave6 = "Konimas Aufstieg"
 
-   orccave6_music = orc2.mid
+   orccave6_music = orc2.mp3
 
    OrcCave6_door_up = doorrsup.wav
    OrcCave6_door_down = doordown.wav
@@ -129,3 +129,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

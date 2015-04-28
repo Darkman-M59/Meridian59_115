@@ -18,10 +18,10 @@ constants:
 
 resources:
 
-   lamp_name_rsc = "lamp"
+   lamp_name_rsc = "Die Straßenlaterne"
    lamp_icon_rsc = lamp.bgf
-   lamp_desc_off_rsc = "These lamps stand like silent sentinels."
-   lamp_desc_on_rsc = "You have to shield your eyes from the gentle glare of the lamp."
+   lamp_desc_off_rsc = "Diese Lampen erscheinen wie stumme Wächter."
+   lamp_desc_on_rsc = "Du musst Deine Augen vor dem hellen Schein der Lampe schützen."
 
 classvars:
 
@@ -128,3 +128,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

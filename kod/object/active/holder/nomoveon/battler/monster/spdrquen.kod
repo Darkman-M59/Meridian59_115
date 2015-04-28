@@ -23,15 +23,15 @@ constants:
 resources:
 
 
-   spiderqueen_name_rsc = "queen spider"
+   spiderqueen_name_rsc = "Die Spinnenkönigin"
    spiderqueen_koc_name_rsc = "kokinich"
    spiderqueen_icon_rsc = spdrqu.bgf
-   spiderqueen_desc_rsc = \
-      "The huge egg sac of the queen spider makes her slow and heavy, but "
-      "dark intelligence shines in her many red eyes."
+   spiderqueen_desc_rsc = "Der große Eiersack der Spinnenkönigin macht sie langsam und schwerfällig, aber in ihren vielen roten Augen glänzt dunkle Intelligenz. "
+
+
 
    spiderqueen_dead_icon_rsc = spdrquX.bgf
-   spiderqueen_dead_name_rsc = "dead queen spider"
+   spiderqueen_dead_name_rsc = "Die Leiche der Spinnenkönigin"
 
    spiderqueen_sound_hit = qn_atkh.wav
    spiderqueen_sound_miss = qn_atkm.wav
@@ -154,3 +154,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

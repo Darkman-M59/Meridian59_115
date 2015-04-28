@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   kranpriestess_name_rsc = "Priestess Qerti'nya"
+   kranpriestess_name_rsc = "Priesterin Qertina"
    kranpriestess_icon_rsc = kranprst.bgf
-   kranpriestess_desc_rsc = \
-      "Qerti'nya is very judgmental of the strength of those who come before her.  Blood and "
-      "hellfire are the tools of this priestess, for only the strong and good meaning deserve to live.  "
-      "She is quick to make accusations or statements.  Although she delivers a powerful sermon, "
-      "she is likely to go out drinking with the men after it is over."
-   Kran_forget_potion_sale = "~B~bI do sell %s%s which is very potent.  You will remember none of those clumsy physical-based combat skills if you quaff it.~n~k"
-   kraananpriestess_teach = "Through rigorous discipline, I can teach you "
+   kranpriestess_desc_rsc = "Qertina beurteilt die Stärke derjenigen, die zu ihr kommen, sehr streng. Blut und Höllenfeuer sind die Werkzeuge dieser Priesterin, denn nur die Starken und Guten verdienen es zu leben. Sie ist schnell bei der Hand mit Anschuldigungen und Feststellungen. Obwohl sie mächtige Reden hält, ist es ihr doch zuzutrauen, hinterher mit den Männern einen trinken zu gehen."
+
+
+
+
+   Kran_forget_potion_sale = "~B~bIch verkaufe den %s%s, der sehr wirksam ist. Du wirst Dich an keine der schwerfälligen, auf körperlichem Einsatz basierenden Kampffertigkeiten mehr erinnern.~n~k"
+   kraananpriestess_teach = "Ich unterrichte Dich in "
 
 classvars:
    vrTeach_message = Kraananpriestess_teach
@@ -88,3 +88,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

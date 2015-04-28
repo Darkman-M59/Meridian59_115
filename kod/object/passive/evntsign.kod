@@ -17,19 +17,19 @@ constants:
 
 resources:
 
-   EventSign_name_rsc = "Join an event!"
+   EventSign_name_rsc = "Schließe dich einem Event an!"
    EventSign_icon_rsc = newbsign.bgf
 
-   EventSign_no_info = "Check back soon for more info!"
-   EventSign_info = "Check back on %s at about %i:00 %s (Pacific time)."
+   EventSign_no_info = "Komme bald für weitere Infos wieder!"
+   EventSign_info = "Schaue am %s gegen %i:00 %s hier wieder nach neuen Informationen."
 
-   EventSign_Sunday = "Sunday"
-   EventSign_Monday = "Monday"
-   EventSign_Tuesday = "Tuesday"
-   EventSign_Wednesday = "Wednesday"
-   EventSign_Thursday = "Thursday"
-   EventSign_Friday = "Friday"
-   EventSign_Saturday = "Saturday"
+   EventSign_Sunday = "Sonntag"
+   EventSign_Monday = "Montag"
+   EventSign_Tuesday = "Dienstag"
+   EventSign_Wednesday = "Mittwoch"
+   EventSign_Thursday = "Donnerstag"
+   EventSign_Friday = "Freitag"
+   EventSign_Saturday = "Samstag"
 
    EventSign_AM = "AM"
    EventSign_PM = "PM"
@@ -131,3 +131,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

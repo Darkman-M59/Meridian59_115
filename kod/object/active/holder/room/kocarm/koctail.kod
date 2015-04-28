@@ -17,15 +17,15 @@ constants:
 resources:
   
    room_koctail = koctail.roo
-   room_name_koctail = "The Crooked Hem Garment Shop"
+   room_name_koctail = "Der Kleiderladen Zum Schiefen Saum"
 
-   koctail_music = song12.mid
+   koctail_music = song12.mp3
 
-   koctail_locked_1 = "Tailor Tepal ix'Zonak's living quarters are locked."
-   koctail_locked_2 = "This door is locked fast."
-   koctail_locked_3 = "A dank stench wafts from beneath this locked iron door."
+   koctail_locked_1 = "Schneider Tepal ix'Zonaks Wohnstatt ist verschlossen."
+   koctail_locked_2 = "Diese Tür ist fest verschlossen."
+   koctail_locked_3 = "Ein übler Geruch weht von jenseits der verschlossenen Eisentür hervor."
 
-   koctail_key_disappears = "The heavy iron key disappears!"
+   koctail_key_disappears = "Der schwere Eisenschlüssel verschwindet!"
 classvars:
 
    vrName = room_name_koctail
@@ -126,3 +126,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

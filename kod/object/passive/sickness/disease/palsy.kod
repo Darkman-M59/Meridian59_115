@@ -19,12 +19,12 @@ constants:
 
 resources:
 
-   palsy_name_rsc = "palsy"
+   palsy_name_rsc = "Schwächen"
    palsy_icon_rsc = ienfeebl.bgf
-   palsy_desc_rsc = "Where once you were like a titan, now it seems you have the strength of a feeble old lady."
+   palsy_desc_rsc = "Anstatt titanenhafte Kräfte zu besitzen, scheint es nun so, als wärst Du ein gebrechlicher Greis."
 
-   palsy_start = "Your muscles turn to water."
-   palsy_stop  = "You feel your old strength coming back."
+   palsy_start = "Deine Muskeln erschlaffen."
+   palsy_stop = "Du fühlst, wie Deine alten Kräfte zurückkehren."
    
 classvars:
 
@@ -96,3 +96,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

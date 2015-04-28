@@ -17,14 +17,14 @@ constants:
 resources:
 
    blackmummy_koc_name_rsc = "teotnapleoc"
-   blackmummy_name_rsc = "shadow mummy"
-   blackmummy_desc_rsc = \
-   "This evil being has been brought to life by dark magics of unknown origin. "
-   "Its flesh is putrid and soft, and its eyes ask for rest from its cursed unlife.\n\n"
-   "This creature has been inflicted with a permanent shadow curse, "
-   "which gives it great strength but also great misery."
+   blackmummy_name_rsc = "Die Schattenmumie"
+   blackmummy_desc_rsc = "Diese üble Kreatur wurde durch schwarze Magie unbekannter Herkunft ins Leben gerufen. Ihr Fleisch ist faulig und weich, und ihre Augen bitten um die erlösende Ruhe von diesem verfluchten Unleben.\n\nDiese Kreatur leidet unter einem ständigen Schatten-Fluch, der ihr große Stärke, aber auch großes Leid gibt."
 
-   blackmummy_dead_name_rsc = "dead shadow mummy"
+
+
+
+
+   blackmummy_dead_name_rsc = "Eine tote Schattenmumie"
 
 classvars:
 
@@ -45,3 +45,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

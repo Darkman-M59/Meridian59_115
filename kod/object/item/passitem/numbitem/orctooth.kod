@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   orctooth_name_rsc = "orc tooth"
+   orctooth_name_rsc = "Der Orkzahn"
    orctooth_icon_rsc = orctooth.bgf
-   orctooth_desc_rsc = \
-   "This yellowed fang is nearly four inches in length.  Bits of dried flesh cling to its base."
+   orctooth_desc_rsc = "Dieser gelbliche Zahn ist fast drei Zentimeter lang. Kleine Stückchen Fleisch hängen an seiner Wurzel."
 
-   orctooth_name_plural_rsc = "orc teeth"
+
+   orctooth_name_plural_rsc = "Orkzähne"
 
 classvars:
 
@@ -44,4 +44,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

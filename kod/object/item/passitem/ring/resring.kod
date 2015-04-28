@@ -18,10 +18,10 @@ constants:
 
 resources:
 
-   resistring_icon_rsc = ring3.bgf            
+   resistring_icon_rsc = ring3.bgf
   
-   resistring_use_rsc = "You put the ring on."
-   resistring_dead_rsc = "The ring crumbles!"
+   resistring_use_rsc = "Du streifst den Ring über."
+   resistring_dead_rsc = "Der Ring zerfällt."
 
 classvars:
 
@@ -161,4 +161,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

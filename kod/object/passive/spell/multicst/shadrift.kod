@@ -17,29 +17,29 @@ constants:
 resources:
 
 
-   DeathsDoor_name_rsc = "shadow rift"
+   DeathsDoor_name_rsc = "Schattenriss"
    DeathsDoor_icon_rsc = ideadoor.bgf
-   DeathsDoor_desc_rsc = "Summons the darkest of magics to warp the fabic of space.  "
-                         "Forms a magical bond between a prism and the area in which it "
-                         "is cast.  Subsequent castings with the same prism cause a mystical "
-                         "portal to form which will transport all who enter it to the exact spot "
-                         "to which the prism was bound.  "
-                         "Requires the feathers of a dark angel and a prism. "
+   DeathsDoor_desc_rsc = "Beschwört die Mächte des Bösen und beugt das Raumgefüge. Der Zauber knüpft eine Verbindung zwischen dem Prisma und dem Gebiet, in dem er gesprochen wurde. Erneute Beschwörungen des Prismas schaffen ein magisches Tor. Jeder es durchschreitet, gelangt an eben jenen Ort, an den das Prisma gebunden wurde. Der Zauber benötigt Schamanenblut und ein Prisma."
+
+
+
+
+
    
    DeathsDoor_sound = qdthdoor.wav
 
-   DeathsDoor_already = "A cloud of magical force begins to coalesce, but then dissipates, "
-      "repelled by the presence of another nearby portal."
-   DeathsDoor_no_lich = "A cloud of magical force begins to coalesce, but then mysteriously dissipates.  "
-      "Perhaps something crucial is missing."
-   DeathsDoor_room_loop = "The prism hisses feebly. It must be taken out of the area "
-                          "to which it is bound."
-   DeathsDoor_target_has_portal = "The prism briefly goes clear. Through it you see that "
-                          "its target area already contains a portal."
+   DeathsDoor_already = "Eine Wolke magischer Kraft steigt auf, löst sich aber durch die Anwesenheit eines anderen in der Nähe befindlichen Portals wieder auf."
 
-   DeathsDoor_succeeded = "A shimmering portal springs into being!"
-   DeathsDoor_succeeded2 = "The prism hums and shudders."
-   deathsDoor_necros_only = "Without an Amulet to summon the power of the Three, you cannot hope to summon a shadow rift."
+   DeathsDoor_no_lich = "Eine Wolke magischer Kraft beginnt aufzusteigen, löst sich aber seltsamerweise wieder auf.Vielleicht fehlt etwas Entscheidendes."
+
+   DeathsDoor_room_loop = "Das Prisma zischt schwach. Es muss aus dem Bereich um dem es gebunden ist genommen werden."
+
+   DeathsDoor_target_has_portal = "Das Prisma wird für einen kurzen Moment klar. Hindurch siehst du das dass Zielgebiet bereits ein Portal enthält."
+
+
+   DeathsDoor_succeeded = "Ein schimmerndes Portal erscheint!"
+   DeathsDoor_succeeded2 = "Das Prisma erzittert und beginnt zu vibrieren."
+   deathsDoor_necros_only = "Ohne ein Amulett mit der Macht der Drei kannst Du nicht hoffen, einen Schattenriß zu beschwören."
 
 classvars:
 
@@ -195,3 +195,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

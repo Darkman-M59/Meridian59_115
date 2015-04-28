@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   bless_name_rsc = "bless"
+   bless_name_rsc = "Segen"
    bless_icon_rsc = blessico.bgf
-   bless_desc_rsc = \
-      "Invokes Kraanan's blessing, increasing the accuracy "
-      "and damage of attacks.  "
-      "Requires mushrooms and sapphires to cast."
-   
-   bless_already_enchanted_rsc = "You are already blessed."
-   bless_on_rsc = "Kraanan fills you with the spirit of battle."
-   bless_off_rsc = "The spirit of battle has left you."
-   bless_success_rsc = "Kraanan fills %s%s with the spirit of battle."
+   bless_desc_rsc = "Erfleht den Segen von Kraanan, der die Treffsicherheit und die Zerstörungskraft von Attacken verbessert. Der Zauber benötigt Pilze und Saphire."
 
-   bless_spell_intro = \
-      "Kraanan Lv. 2: Bestows the Warrior God's blessing, improving your"
-      "combat abilities."
+
+
+   
+   bless_already_enchanted_rsc = "Du bist bereits gesegnet."
+   bless_on_rsc = "Kraanan haucht Dir den Kampfeswillen ein."
+   bless_off_rsc = "Der Wille zum Kampf verlässt Dich."
+   bless_success_rsc = "Kraanan haucht %s%s den Kampfeswillen ein."
+
+   bless_spell_intro = "Kraanan Zirkel 2: Widmet sich dem Segen des Gottes der Krieger und verbessert Deine kämpferischen Fähigkeiten."
+
+
 
 classvars:
 
@@ -115,3 +115,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

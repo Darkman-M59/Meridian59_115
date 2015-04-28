@@ -17,8 +17,8 @@ constants:
 resources:
 
    RebelFlag_icon_rsc = flagjinv.bgf
-   RebelFlag_name_rsc = "rebel flag"
-   RebelFlag_desc_rsc = "This flag bears the colors of the rebel forces of Jasper."
+   RebelFlag_name_rsc = "Eine Rebellenflagge"
+   RebelFlag_desc_rsc = "Die Flagge zeigt die Farben der Rebellen von Jasper."
 
 classvars:
    
@@ -41,4 +41,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

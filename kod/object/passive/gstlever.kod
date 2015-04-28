@@ -21,16 +21,16 @@ constants:
 
 resources:
 
-   guestlever_name_rsc = "lever"
+   guestlever_name_rsc = "Der Hebel"
    guestlever_icon_rsc = lever.bgf
-   guestlever_desc_rsc = \
-   "This lever looks old and worn, yet must still control something."
+   guestlever_desc_rsc = "Obwohl der Hebel ziemlich alt und abgenutzt aussieht, muss er irgendeine Funktion besitzen."
 
-   guestlever_not_in_range = "The lever is not close enough to switch."
 
-   guestlever_changed = "You switch the lever."
+   guestlever_not_in_range = "Der Hebel ist nicht nahe genug, um ihn bedienen zu können."
 
-   guestlever_stuck = "The lever is stuck in its current position."
+   guestlever_changed = "Du legst den Hebel um."
+
+   guestlever_stuck = "Der Hebel verweilt in seiner jetzigen Stellung."
 
 classvars:
 
@@ -111,3 +111,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

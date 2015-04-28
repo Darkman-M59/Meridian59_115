@@ -20,12 +20,12 @@ constants:
 
 resources:
 
-   shield_condition_exc = " shines with smooth perfection."
-   shield_condition_exc_mended = " is in great condition, but has been patched before."
-   shield_condition_good = " is marred by a deep gouge but otherwise is in fine condition."
-   shield_condition_med = " is deeply scarred from battle but still functional."
-   shield_condition_poor = " is cracked in several places and may not last much longer."
-   shield_condition_broken = " has been shattered by a forceful blow, leaving it useless."
+   shield_condition_exc = " leuchtet vor glatter Vollkommenheit."
+   shield_condition_exc_mended = " ist in hevorragendem Zustand, wurde aber bereits ausgebessert."
+   shield_condition_good = " ist durch ein tiefe, lange Delle beschädigt, doch ansonsten in gutem Zustand."
+   shield_condition_med = " hat vom Kampf tiefe Narben davongetragen, ist ansonsten aber noch funktionstüchtig."
+   shield_condition_poor = " ist an mehreren Stellen angebrochen und wird nicht mehr lange halten."
+   shield_condition_broken = " ist durch einen mächtigen Hieb zerbrochen und dadurch unbrauchbar geworden."
 
 classvars:
 
@@ -230,3 +230,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

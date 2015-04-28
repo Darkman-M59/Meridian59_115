@@ -17,14 +17,14 @@ resources:
 
    KocatanLanguageMaster_name_rsc = "Quetzal"
    KocatanLanguageMaster_icon_rsc = kclangua.bgf
-   KocatanLanguageMaster_desc_rsc = "Brilliant yet begrudged by most of the island for "
-      "his age, this high pitched youth rose from an annoying bookworm to one of the "
-      "most sought after individuals due to his extensive knowledge of languages. He "
-      "regards most of the adults around him as intellectual inferiors who cannot "
-      "appreciate his mind."
+   KocatanLanguageMaster_desc_rsc = "Brillant, doch vom größten Teil der Insel um seines Alters beneidet, entwickelte sich dieser junge Spund von einem lästigen Bücherwurm zu einem der meist gesuchten Leute, da er so gut über Sprachen Bescheid weiß. Er betrachtet die meisten Erwachsenen um sich herum als intellektuell Minderwertige, die nicht in der Lage sind, seinen Verstand zu würdigen."
 
-   KocatanLanguageMaster_entry_welcome = "Greetings, you have come in search of knowledge?"
-   KocatanLanguageMaster_unwanted_give = "~k%s%s tells you, \"Very interesting, but I don't need it.~n~k\""
+
+
+
+
+   KocatanLanguageMaster_entry_welcome = "Sei gegrüßt, Du bist auf der Suche nach Wissen?"
+   KocatanLanguageMaster_unwanted_give = "~k%s%s sagt zu Dir, \"Sehr interessant, aber ich brauche es nicht.~n~k\""
 
 classvars:
 
@@ -75,5 +75,6 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

@@ -18,20 +18,20 @@ resources:
 
    Seance_cast_rsc = SID_SEANCE
 
-   Seance_name_rsc = "seance"
+   Seance_name_rsc = "Aufspüren"
    Seance_icon_rsc = iseance.bgf
-   Seance_desc_rsc = \
-      "Shal'ille's magic allows communication with the spirit world to reveal "
-      "the location of the last person to slay an innocent.  "
-      "Requires herbs to cast."
+   Seance_desc_rsc = "Sha-Lills Magie enthüllt den Aufenthaltsort der letzten Person, die einen Unschuldigen ermordet hat. Der Zauber benötigt Kräuter."
 
-   Seance_No_Murderer_rsc = "There is no murderer to be hunted."
-   Seance_I_See_You_rsc = "You sense that someone is aware of your whereabouts."
-   Seance_Cloaked_Target_rsc = "Qor's dark magic has diverted an enemy's attention."
-   Seance_casting_rsc = "You appeal to Shal'ille for knowledge of %s%s's whereabouts."
-   Seance_Target_Location_rsc = "You sense that %s%s can be found somewhere around %s."
 
-   seance_spell_intro_rsc = "Shal'ille Lv. 1: Gives a chance of knowing the location of the last person to have committed murder."
+
+
+   Seance_No_Murderer_rsc = "Es gibt keinen Mörder der gejagt werden könnte."
+   Seance_I_See_You_rsc = "Du bemerkst, dass jemand über Deinen Aufenthaltsort bescheid weiß."
+   Seance_Cloaked_Target_rsc = "Qors dunkle Magie lenkt deine Aufmerksamkeit von dem Feind ab."
+   Seance_casting_rsc = "Du ersuchst Sha-Lill darum, Dir bei der Suche nach %s%s zu helfen."
+   Seance_Target_Location_rsc = "Du spürst, dass %s%s in der Nähe von %s zu finden ist."
+
+   seance_spell_intro_rsc = "Sha-Lill Zirkel 1: Ermöglicht es, etwas über den Aufenthaltsort der Person, die einen Unschuldigen ermordet hat, herauszufinden."
 
    Seance_sound = sseance.wav
 
@@ -183,3 +183,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   Zap_name_rsc = "zap"
+   Zap_name_rsc = "Schockgriff"
    Zap_icon_rsc = izap.bgf
-   Zap_desc_rsc = \
-      "Channels natural electrical energy into a powerful charge transmitted with a touch.  "
-      "Requires blue mushrooms to cast."
+   Zap_desc_rsc = "Bündelt natürliche elektrische Energie in einer kraftvollen Ladung, die durch Berührung abgegeben wird. Der Zauber benötigt Blaue Pilze. "
 
-   Zap_already_enchanted_rsc = "Your hands already crackle with electric charge."
-   Zap_On_rsc = "Sparks jump and crackle from your fingertips."
-   Zap_Off_rsc = "Your fingers are no longer charged with electrical power."
 
-   zap_player_was_hit = "%s%s's touch jolts you with a surge of electric current!"
-   zap_player_hit_something = "%sThe smell of burning flesh fills your nostrils as your touch singes %s%s!"
-   zap_player_was_killed = "%s%s's electric touch robs the last bit of life from your failing body!"
-   zap_player_killed_something = "%s%s lets out a final scream in protest to your electric touch."
-   zap_spell_intro = "Faren Lv. 1: Channels natural electrical energy into a powerful charge which singes the target."
+
+   Zap_already_enchanted_rsc = "~I<Autsch!> ~IGleich fliegt die Sicherung!"
+   Zap_On_rsc = "Elektrische Funken sprühen von Deinen Fingerspitzen."
+   Zap_Off_rsc = "Die elektrische Energie fließt aus Deinen Händen zurück in den Boden."
+
+   zap_player_was_hit = "%s%ss greift nach Dir und eine Ladung elektrischen Stromes läßt Dich zucken!"
+   zap_player_hit_something = "%s%s%s wird von Deiner Berührung versengt. Dir steigt der Geruch verbrannten Fleisches in die Nase."
+   zap_player_was_killed = "%s%ss elektrische Berührung raubt Dir das letzte Quentchen Leben aus Deinem gefallenen Körper!"
+   zap_player_killed_something = "%s%s bäumt sich in einem letzten Schrei gegen Deine elektrische Berührung auf."
+   zap_spell_intro = "Faren Zirkel 1: Bündelt natürliche elektrische Energie in einer kraftvollen Ladung, die durch Berührung abgegeben wird."
    
    zap_sound = fzap.wav
 
@@ -107,3 +107,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

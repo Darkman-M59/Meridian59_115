@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   resistfire_name_rsc = "withstand fire"
+   resistfire_name_rsc = "Feuer widerstehen"
    resistfire_icon_rsc = iresfire.bgf
-   resistfire_desc_rsc = \
-      "Infuses your body with cool magical energy which "
-      "reduces damage from fire attacks for several minutes.  "
-      "Requires mushrooms and red mushrooms."
-   
-   resistfire_already_enchanted = "You are already resisting fire."
-   resistfire_success = "You bathe %s%s in magical protection from fire."
-   resistfire_on = "Cool magical energy pulses through your body."
-   resistfire_off = "Your body warms noticeably as the withstand fire enchantment wears off."
+   resistfire_desc_rsc = "Dein Körper füllt sich mit kühler magischer Energie, die den Schaden von Feuerangriffen für mehrere Minuten verringert. Der Zauber benötigt gewöhnliche und rote Pilze."
 
-   resistfire_spell_intro = "Faren Lv. 2: Decreases the amount of damage you take from fire based attacks."
+
+
+   
+   resistfire_already_enchanted = "Du bist bereits feuerfest."
+   resistfire_success = "Kühle magische Energie pulsiert durch %s%s's Körper."
+   resistfire_on = "Kühle magische Energie pulsiert durch Deinen Körper."
+   resistfire_off = "Dein Körper erwärmt sich deutlich, als der Feuer-widerstehen-Zauber abklingt."
+
+   resistfire_spell_intro = "Faren Zirkel 2: Verringert den Schaden von Feuerangriffen."
 
 classvars:
 
@@ -89,3 +89,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

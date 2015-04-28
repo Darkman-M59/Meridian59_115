@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   Listener_enters = "In the distance, someone enters the area."
-   Listener_leaves = "In the distance, someone leaves the area."
-   Listener_say_rsc = "In the distance, someone says, \"%q\""
-   Listener_emote_rsc = "In the distance, someone %q"
-   Listener_name_enters = "In the distance, %s%s enters the area."
-   Listener_name_leaves = "In the distance, %s%s leaves the area."
-   Listener_name_say_rsc = "In the distance, %s%s says, \"%q\""
-   Listener_name_emote_rsc = "In the distance, %s%s %q"
+   Listener_enters = "Jemand betritt das Gebiet in einiger Entfernung."
+   Listener_leaves = "Jemand verläßt das Gebiet in einiger Entfernung."
+   Listener_say_rsc = "In einiger Entfernung sagt jemand, \"%q\""
+   Listener_emote_rsc = "Jemand %q in einiger Entfernung."
+   Listener_name_enters = "In der Ferne: %s%s betritt die Gegend."
+   Listener_name_leaves = "In der Ferne: %s%s verläßt die Gegend."
+   Listener_name_say_rsc = "In der Ferne: %s%s sagt, \"%q\""
+   Listener_name_emote_rsc = "In der Ferne: %s%s %q"
    Listener_icon_rsc = blank.bgf
    
 classvars:
@@ -168,3 +168,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

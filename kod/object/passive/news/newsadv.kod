@@ -18,8 +18,8 @@ constants:
 
 resources:
 
-   newsadventure_name = "Tales of Adventure"
-   newsadventure_desc = "Stories from the people of Meridian, collected by Bards"
+   newsadventure_name = "Die Abenteurererzählungen"
+   newsadventure_desc = "Geschichten des Volkes von Meridian, von Barden gesammelt"
    newsadventure_icon = jbook.bgf
 
 classvars:
@@ -44,3 +44,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

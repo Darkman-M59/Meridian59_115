@@ -17,17 +17,17 @@ constants:
 resources:
 
    SpectralMummy_koc_name_rsc = "kosnapleoc"
-   SpectralMummy_name_rsc = "spectral mummy"
+   SpectralMummy_name_rsc = "Gefallene Seele"
    SpectralMummy_icon_rsc = mummy.bgf
-   SpectralMummy_desc_rsc = \
-      "This poor creature was once a person who was mummified in an ancient ritual and put "
-      "to rest in the crypt.  Ages have passed and only the spirit of the orignial person "
-      "remains.  It has been dead and mummified for so long it has forgotten what it originally "
-      "looked like and now wanders this plane as a spectral being, appearing as it did when it "
-      "was originally put to rest."
+   SpectralMummy_desc_rsc = "Diese arme Kreatur war dereinst ein Mensch, welcher in einem alten Ritual mumifiziert und zu den anderen in die Krypta gesteckt wurde. Jahre sind verstrichen, und nur der Geist der ursprünglichen Person blieb übrig. Sie ist nun schon so lange tot und mumifiziert, dass sie lange vergessen hat, wie sie ursprünglich aussah. Nun wandert sie so, wie sie aussah, als sie zur Ruhe gebettet wurde als spektrales Wesen umher."
+
+
+
+
+
       
    SpectralMummy_dead_icon_rsc = mummyX.bgf
-   SpectralMummy_dead_name_rsc = "dead spectral mummy"
+   SpectralMummy_dead_name_rsc = "Eine tote Gefallene Seele"
 
    SpectralMummy_sound_hit = mum_atkh.wav
    SpectralMummy_sound_miss = mum_atkm.wav
@@ -129,3 +129,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

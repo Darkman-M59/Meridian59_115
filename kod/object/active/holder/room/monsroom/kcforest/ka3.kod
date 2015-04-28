@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OutdoorsKA3 ="A notch in the jungle"
+   room_name_OutdoorsKA3 = "Eine Lichtung im Dschungel"
    room_OutdoorsKA3 = KA3.roo
-   OutdoorsKA3_music = avarwar.mid
+   OutdoorsKA3_music = avarwar.mp3
 
 classvars:
 
@@ -94,3 +94,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

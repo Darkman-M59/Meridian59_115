@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   ScamScroll_name_rsc = "obfuscatory document"
+   ScamScroll_name_rsc = "vergilbtes Dokument"
    ScamScroll_icon_rsc = scr09.bgf
-   ScamScroll_desc_rsc = \
-      "The words 'MAKE SHILLINGS FAST' are boldly printed across the top of this scroll "
-      "(and, strangely enough, the same words are printed upside-down at the bottom.)  "
-      "The rest of the parchment is covered with layer upon layer of doublespeak the like "
-      "of which you have never seen in your life.  Try as you might to eke some sliver of "
-      "meaning out of the jumble of words, you simply cannot make head or tail of it."
+   ScamScroll_desc_rsc = "Die Wörter 'MACH SCHNELL SCHILLINGE' stehen in großen Buchstaben oben auf der Rolle (und merkwürdigerweise finden sich die gleichen Wörter umgedreht auf dem unteren Rand.) Das restliche Pergament ist von mehreren Schichten Geheimsprache bedeckt, die Du noch nie in Deinem Leben gesehen hast. Du versuchst aus dem Wirrwarr von Buchstaben eine Bedeutung herauszulesen, doch Du findest weder Anfang noch Ende."
+
+
+
+
+
 
 classvars:
 
@@ -41,3 +41,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

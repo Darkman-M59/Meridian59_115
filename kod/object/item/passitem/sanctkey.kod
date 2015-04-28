@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   SanctuaryKey_name_rsc = "iron key"
+   SanctuaryKey_name_rsc = "Der Eisenschlüssel"
    SanctuaryKey_icon_rsc = fishkey.bgf
-   SanctuaryKey_desc_rsc = "This is an intricately wrought iron key."
+   SanctuaryKey_desc_rsc = "Dies ist ein kompliziert geschmiedeter Eisenschlüssel."
 
 classvars:
 
@@ -58,3 +58,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

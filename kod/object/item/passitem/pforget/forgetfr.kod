@@ -16,7 +16,7 @@ constants:
 
 resources:
 
-   forgetpotionfaren_desc_rsc = "This deceptively refreshing-looking liquid will strike all memory of Faren's magiks from your memory.\n\nMay have very serious side effects."
+   forgetpotionfaren_desc_rsc = "Dieses höchst erfrischend aussehende Gebräu wird Deine Kenntnisse in der Schule von Faren restlos auslöschen.\n\nEs sei jedoch vor eventuellen Nebenwirkungen gewarnt."
 
 classvars:
 
@@ -28,3 +28,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

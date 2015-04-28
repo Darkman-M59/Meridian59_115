@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   FaceMask_name_rsc = "mask"
+   FaceMask_name_rsc = "Eine Maske"
    FaceMask_icon_male_rsc = mmskl.bgf
    FaceMask_icon_female_rsc = mfskl.bgf
-   FaceMask_desc_rsc = \
-      "This mask can be used as a disguise."   
+   FaceMask_desc_rsc = "Diese Maske kann zur Verkleidung genutzt werden."
+
 
 classvars:
 
@@ -61,5 +61,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

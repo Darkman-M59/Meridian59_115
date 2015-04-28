@@ -18,11 +18,11 @@ constants:
 
 resources:
 
-   lute_name_rsc = "lute"
+   lute_name_rsc = "Die Laute"
    lute_icon_rsc = music.bgf
    lute_overlay_rsc = luteov.bgf
-   lute_desc_rsc = "The simple lute is the instrument of choice among the meridian bards.  "
-		  "Its rosewood construction offers a rich tone in the hands of an expert."
+   lute_desc_rsc = "Die einfache Laute ist das Instrument der Wahl bei den Barden von Meridian. Durch die Verwendung von Rosenholz hat es einen tiefen, vollen Ton, der von anderen Instrumenten nicht erreicht wird."
+
    lute_used_wav_rsc = lute_equip.wav
 
 classvars:
@@ -84,4 +84,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

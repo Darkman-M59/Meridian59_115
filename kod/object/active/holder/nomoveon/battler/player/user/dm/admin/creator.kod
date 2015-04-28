@@ -16,22 +16,22 @@ constants:
 
 resources:
 
-   creator_armor = "You are now armor."
+   creator_armor = "Du bist jetzt eine Rüstung."
    creator_icon_armor = aarmor.bgf
 
    creator_blank_string = ""
 
-   creator_spider = "You are now a spider."
-   creator_troll = "You are now a troll."
-   creator_ant = "You are now an ant."
-   creator_red_ant = "You are now a red ant."
-   creator_priestess = "You are now a priestess."
-   creator_ghost = "You are now a ghost."
-   creator_cow = "You are now a cow."
+   creator_spider = "Du bist jetzt eine Spinne."
+   creator_troll = "Du bist jetzt ein Troll."
+   creator_ant = "Du bist jetzt eine Riesenameise."
+   creator_red_ant = "Du bist jetzt eine rote Ameise."
+   creator_priestess = "Du bist jetzt eine Priesterin."
+   creator_ghost = "Du bist jetzt ein Geist."
+   creator_cow = "Du bist jetzt eine Kuh."
 
-   creator_shrub = "You are now a shrub."
-   creator_stool = "You are now a stool."
-   creator_tree = "You are now a tree."
+   creator_shrub = "Du bist jetzt ein Busch."
+   creator_stool = "Du bist jetzt ein Hocker."
+   creator_tree = "Du bist jetzt ein Baum."
 
    creator_icon_spider = spider.bgf
    creator_icon_troll = troll.bgf
@@ -239,3 +239,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

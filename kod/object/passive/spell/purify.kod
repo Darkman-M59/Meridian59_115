@@ -22,16 +22,16 @@ constants:
 
 resources:
 
-   purify_name_rsc = "purify"
+   purify_name_rsc = "Reinigen"
    purify_icon_rsc = ipurify.bgf
-   purify_desc_rsc = \
-      "Removes harmful personal enchantments on the target. "
-      "Requires emeralds and elderberries to cast."
+   purify_desc_rsc = "Beseitigt schädliche persönliche Zauber der Zielperson. Der Zauber benötigt Smaragde und Holunderbeeren."
+
+
    
-   purify_on = "A bright, holy light is trying to cleanse your soul of impure effects."
-   purify_not_enchanted = "%s%s is not affected by any negative magical energies."
-   purify_spell_intro = "Shal'ille Lv. 4: Removes harmful personal enchantments on the target."
-   purify_spell_self_cast_rsc = "You may only cast %s on yourself."
+   purify_on = "Deine Seele wurde von allen unreinen Auswirkungen gesäubert."
+   purify_not_enchanted = "%s%s ist von keinen missgünstigen magischen Energien umgeben."
+   purify_spell_intro = "Sha-Lill Zirkel 5: Beseitigt alle persönlichen Zauber der Zielperson."
+   purify_spell_self_cast_rsc = "Du kannst %s nur auf dich zaubern."
 
 classvars:
 
@@ -255,3 +255,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

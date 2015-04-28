@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   oblak_name_rsc = "oblak"
+   oblak_name_rsc = "Oblak"
    oblak_icon_rsc = bsmith.bgf
-   oblak_desc_rsc = "This is an oblak, who can repair your broken items."
+   oblak_desc_rsc = "Dies ist ein Oblak, der Deine kaputten Gegenstände reparieren kann."
 
-   oblak_busy = "I can only handle only one person and one item at a time!"
-   oblak_cant_fix = "I can't repair that there %s, sorry"
-   oblak_cost = "Repairing this %s will cost ya, oh, about %i shillin's"
-   oblak_cant_return = "You can't carry the %s, so I'll put it on the ground for ya"
-   oblak_too_good = "I can't fix the %s, it's in as good shape as I could put it."
-   oblak_only_money = "Sorry, I only take shillings"
-   oblak_more_money = "That's not enough, it will cost me %i shils to repair the %s"
-   oblak_change = "Here's your change"
-   oblak_success = "Thankee for your business, here's your %s"
+   oblak_busy = "Ich kann mich immer nur um eine Person und einen Gegenstand zur gleichen Zeit kümmern!"
+   oblak_cant_fix = "Ich kann das da nicht reparieren %s, tut mir leid"
+   oblak_cost = "%s zu reparieren wird Dich, äh, ungefähr %i Schillinge kosten"
+   oblak_cant_return = "Du kannst %s nicht nehmen, deshalb werde ich ihn für dich auf den Boden legen"
+   oblak_too_good = "Ich kann %s nicht reparieren, besser könnte ich es auch nicht machen."
+   oblak_only_money = "Tut mir leid, ich nehme nur Schillinge"
+   oblak_more_money = "Das ist nicht genug. Es wird mich %i Schillinge kosten, den %s zu reparieren"
+   oblak_change = "Hier ist Dein Wechselgeld"
+   oblak_success = "Danke für den Auftrag, hier ist Dein %s"
 
 classvars:
    vrName = oblak_name_rsc
@@ -218,3 +218,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

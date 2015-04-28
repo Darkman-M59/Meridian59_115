@@ -20,30 +20,30 @@ constants:
 
 resources:
 
-   room_name_RiijaTemple = "The Temple of Riija"
+   room_name_RiijaTemple = "Der Riija Tempel"
    room_RiijaTemple = ke1.roo
-   riijatemple_music = bridge.mid
+   riijatemple_music = bridge.mp3
 
-   riijatemple_door1 = "~kThe Monk of Riija says, \"~BNo ~rone ~B~bmay ~Ienter ~kmy ~g~Badytum~n~k.\""
-   riijatemple_door2 = "~kThe Monk of Riija says, \"~BCease.  ~I~bYour ~rsanity ~gwould not remain ~B~kintact ~B~bif you were to enter ~I~rthe Library of the ~BGibbering Maelstrom.\""
-   riijatemple_door3 = "~kThe Monk of Riija says, \"The inner cloister ~I~ris not for ~gyour ~bfeet ~Bto ~B~rtread~n~k.\""
-   riijatemple_door4 = "~kThe Monk of Riija says, \"~b~BIt is forbidden ~r~Bfor you to ~gdescend into the ~I~kabyssal catacombs ~n~gbeneath the ~Btemple~n~k.\""
-   riijatemple_door5 = "~kThe Monk of Riija says, \"~rIt would be best if you avoided ~b`Ithat`I~r door~n~k.\""
-   riijatemple_door6 = "~kThe Monk of Riija says, \"~BThat ~rdoor ~gleads ~bnowhere.  ~IThat is ~I~gnot to say ~kan empty ~rroom ~Bor ~B~ga blank wall ~rlies beyond it.  ~b`INowhere`I ~gis an infinate purgatory ~Bthat ~rswallows all that enter~n~k.\""
+   riijatemple_door1 = "~kDer Mönch von Riija sagt, \"~BKeiner ~rsoll ~B~bmein ~IAdyton ~kbetreten ~g~B!~n~k\""
+   riijatemple_door2 = "~kDer Mönch von Riija sagt, \"~BVorsicht! ~I~bDu würdest ~rverrückt werden, ~gwenn Du es ~B~kwagtest, ~B~bdie Bibliothek des ~I~rschrecklichen ~BMalstromes zu betreten.\""
+   riijatemple_door3 = "~kDer Mönch von Riija sagt, \"Der innere Klosterbereich ~I~rdarf nicht ~gvon Dir ~bbetreten ~Bwerden~n~k.\""
+   riijatemple_door4 = "~kDer Mönch von Riija sagt, \"~b~BEs ist Dir verboten ~r~Bin die ~gbodenlosen ~I~kKatakomben ~n~gunter dem ~BTempel hinabzusteigen~n~k.\""
+   riijatemple_door5 = "~kDer Mönch von Riija sagt, \"~rEs ist wohl besser, ~b~Idu meidest~I~r diese Tür...~n~k.\""
+   riijatemple_door6 = "~kDer Mönch von Riija sagt, \"~B~rDiese Tür ~gführt ins ~bNirgendwo. Nicht, dass ~gich damit einen ~kleeren Raum oder eine ~rkahle Wand meine. ~bNirgendwo ~gist ein gewaltiges Fegefeuer, das jeden ~rverschlingt ~kder sich ~IZutritt ~nverschafft~k.~n~k\""
 
    riijatemple_sound = down2.wav
 
    riijaplayer_death_male_wav = malefall822m.wav
    riijaplayer_death_female_wav = femalefall822m.wav
 
-   riijadeadmessage0a = "Ouch, that last step was a doozy.\nYou awaken, dazed, in what appears to be an inn."
-   riijadeadmessage0b = "Ouch, that last step was a doozy."
+   riijadeadmessage0a = "Autsch, die letzte Stufe war kaputt.\nDu erwachst, etwas benommen, an einem Ort, der eine Kneipe zu sein scheint."
+   riijadeadmessage0b = "Autsch, die letzte Stufe war kaputt."
 
-   riijadeadmessage1 = "Are you dead?"
-   riijadeadmessage2 = "No, this isn't what death feels like..."
-   riijadeadmessage3 = "it doesn't hurt so much."
-   riijadeadmessage4 = "No, thats not it, you don't know what happened..."
-   riijadeadmessage5 = "but.... you probably got very lucky."
+   riijadeadmessage1 = "Bist Du tot?"
+   riijadeadmessage2 = "Nein, so fühlt sich der Tod nicht an..."
+   riijadeadmessage3 = "er tut nicht gar so weh."
+   riijadeadmessage4 = "Nein, nicht ganz. Du weißt zwar nicht, was geschehen ist, aber ..."
+   riijadeadmessage5 = "Du hattest wahrscheinlich ganz schön Glück."
 
 classvars:
 
@@ -542,3 +542,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

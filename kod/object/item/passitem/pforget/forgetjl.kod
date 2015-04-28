@@ -16,7 +16,7 @@ constants:
 
 resources:
 
-   forgetpotionJala_desc_rsc = "Drinking this potion will strip all memory of the goddess of the bards from your mind.  Warning: may have very serious side effects."
+   forgetpotionJala_desc_rsc = "Wenn Du diesen Trank zu Dir nimmst, werden alle Erinnerungen an die Göttin der Barden aus Deinem Geist gelöscht. Warnung: Könnte schwere Nebenwirkungen haben."
 
 classvars:
 
@@ -29,3 +29,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

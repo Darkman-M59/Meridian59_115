@@ -132,7 +132,7 @@ BEGIN
     LTEXT           "(geschätzte Zeit 28.8kbps)",1195,44,85,188,8
     DEFPUSHBUTTON   "&Bestätigen",1192,138,94,93,14
     GROUPBOX        "Vorschau",-1,36,116,205,58
-    LTEXT           "Wenn Du nicht das gesamte Update haben möchtest, findest du auf www.meridian59.com eine kleiner Vorschauversion.",-1,44,128,188,34
+    LTEXT           "Wenn Du das Update so nicht herunterladen kannst, findest du auf www.mystik59.de die Komplettversion .",-1,44,128,188,34
     PUSHBUTTON      "Angebot...",1189,138,167,93,14
 END
 
@@ -261,7 +261,7 @@ BEGIN
     EDITTEXT        1150,93,114,143,13,ES_AUTOHSCROLL
     DEFPUSHBUTTON   "Einloggen",1080,137,131,100,14
     ICON            IDI_ICON,-1,6,6,20,20
-    LTEXT           "Solltest Du noch kein Meridian59-Account haben, so kannst Du Dich auf www.meridian59.com kostenfrei anmelden.",-1,36,6,206,18
+    LTEXT           "Solltest Du noch kein Meridian59-Account haben, so kannst Du Dich auf www.mystik59.de kostenfrei anmelden.",-1,36,6,206,18
     GROUPBOX        "Neu in Meridian",1196,37,33,207,35
     LTEXT           "Wenn Du bisher keinen Account hast, klicke hier.",-1,45,47,87,18
     LTEXT           "Benutzername:",-1,43,88,50,10
@@ -654,7 +654,7 @@ BEGIN
     83                      "Objekt verwenden"
     84                      "Aktivieren"
     85                      "Software\\Classes\\http\\shell\\open\\command"
-    86                      "http://meridian59.com/M59-Help-01.shtml"
+    86                      "http://www.mystik59.de/hilfe"
     87                      "Was bitte?"
     90                      "Entpacken ..."
     91                      "Meridian 59"
@@ -727,11 +727,11 @@ END
 
 STRINGTABLE 
 BEGIN
-    160                     "http://meridian59.com/serverstatus/"
+    160                     "http://www.mystik59.de/"
     161                     "Datenaustausch zwischen Computern braucht immer eine gewisse Zeit. Dieser Zeitraum wird als Lag bezeichnet. Deine Verbindungsqualität hängt von verschiedenen Faktoren ab und kann sich jederzeit ändern."
     162                     "~r< Der Textfilter wurde aktiviert >"
     163                     "Die Nachricht wurde gefiltert.\n\nSie enthät Wörter, die im Textfilter eingegeben wurden. Bitte überprüfe Deine Nachricht."
-    164                     "http://meridian59.com/"
+    164                     "http://www.mystik59.de/"
 END
 
 STRINGTABLE 
@@ -1593,7 +1593,7 @@ BEGIN
     IDS_APPLY               "Apply object"
     IDS_ACTIVATE            "Activate"
     IDS_HTTPKEY             "Software\\Classes\\http\\shell\\open\\command"
-    IDS_HELPFILE            "http://meridian59.com/M59-Help-01.shtml"
+    IDS_HELPFILE            "http://www.mystik59.de/hilfe"
     IDS_BADCOMMAND          "What?  (Press F1 or '?' for help.)"
     IDS_DECOMPRESSING       "Decompressing..."
     IDS_APPNAME             "Meridian 59"

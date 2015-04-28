@@ -22,10 +22,10 @@ constants:
 
 resources:
 
-   crossbow_name_rsc = "crossbow"
-   crossbow_icon_rsc = tcat.bgf             %ADD A PICTURE!!!
+   crossbow_name_rsc = "Die Armbrust"
+   crossbow_icon_rsc = tcat.bgf
 
-   crossbow_desc_rsc = "This Crossbow gives you the envious advantage of ranged attack." 
+   crossbow_desc_rsc = "Mit dieser Armbrust besitzt Du den unschätzbaren Vorteil, aus der Distanz angreifen zu können."
 
 classvars:
 
@@ -45,3 +45,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

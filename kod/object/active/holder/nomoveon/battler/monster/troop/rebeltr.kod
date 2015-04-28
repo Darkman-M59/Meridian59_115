@@ -16,12 +16,12 @@ include blakston.khd
 
 resources:
 
-   RebelTroop_name_rsc = "rebel soldier"
+   RebelTroop_name_rsc = "Ein Rebellensoldat"
 
-   RebelTroop_desc_rsc = \
-   "This soldier proudly bears the colors of the Jasper militia."
+   RebelTroop_desc_rsc = "Dieser Soldat trägt stolz die Farben der Jasper-Miliz."
 
-   RebelTroop_dead_name_rsc = "dead rebel soldier"
+
+   RebelTroop_dead_name_rsc = "Ein toter Rebellensoldat"
 
    RebelTroop_sound_aware = trps1awr.wav
 
@@ -59,3 +59,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

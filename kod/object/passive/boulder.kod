@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   boulder_name_rsc = "Boulder"
+   boulder_name_rsc = "Ein Felsbrocken"
    boulder_icon_rsc = boulder.bgf
-   boulder_desc_rsc = "You are looking at a boulder, a harsh, cold hunk of stone."
+   boulder_desc_rsc = "Du siehst auf einen Felsbrocken, einen groben und kalten Stein."
 
    boulder_icon2_rsc = cavrockl.bgf
    boulder_icon3_rsc = cavrockr.bgf
@@ -41,3 +41,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

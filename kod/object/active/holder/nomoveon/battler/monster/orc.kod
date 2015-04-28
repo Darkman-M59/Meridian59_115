@@ -17,15 +17,15 @@ constants:
 resources:
 
    orc_koc_name_rsc = "utomca"
-   orc_name_rsc = "orc"
+   orc_name_rsc = "Der Ork"
    orc_icon_rsc = orc.bgf
-   orc_desc_rsc = \
-   "This foul servant of Qor, body covered in filth, towers "
-   "above human height.  It fiercely grips a blade in "
-   "one gnarled hand."
+   orc_desc_rsc = "Dieser stinkende Diener Qors ist über und über mit Schmutz bedeckt und überragt jeden Menschen bei weitem. Er fuchtelt wild mit einem Säbel in seiner knorrigen Hand herum."
+
+
+
 
    orc_dead_icon_rsc = orcX.bgf
-   orc_dead_name_rsc = "dead orc"
+   orc_dead_name_rsc = "Ein toter Ork"
 
    orc_sound_hit = orc_atkh.wav
    orc_sound_miss = orc_atkm.wav
@@ -139,3 +139,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

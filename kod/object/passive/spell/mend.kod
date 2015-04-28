@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   mend_name_rsc = "mend"
+   mend_name_rsc = "Reparieren"
    mend_icon_rsc = imend.bgf
-   mend_desc_rsc = \
-      "Erases the wear of battle from a piece of equipment, restoring it to "
-      "near new condition.  "
-      "Requires orc teeth and sapphire to cast."
+   mend_desc_rsc = "Beseitigt die Spuren vieler Kämpfe von einer Waffe oder einem Teil der Rüstung und stellt sie wieder völlig her. Der Zauber benötigt Orkzähne und Saphire."
 
-   mend_not_weaponry = "You try to focus on %s%s, but nothing happens!"
-   mend_beyond_hope = "%s%s is beyond salvage."
-   mend_full_healed = "%s%s is already in perfect condition."
-   mend_working = "Pieces of %s%s bind themselves together to form a new whole."
+
+
+
+   mend_not_weaponry = "%s%s reparieren? Das geht leider nicht."
+   mend_beyond_hope = "%s%s kann nicht mehr repariert werden."
+   mend_full_healed = "%s%s befindet sich im besten Zustand."
+   mend_working = "%s%s wird durch Deine magische Kraft repariert."
 
    mend_sound = kmend.wav
 
@@ -150,3 +150,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

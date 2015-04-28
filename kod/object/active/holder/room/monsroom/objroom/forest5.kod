@@ -17,9 +17,9 @@ constants:
 resources:
 
    room_forest5 = forest5.roo
-   name_forest5 = "The Deep Dark Woods of Marion"
+   name_forest5 = "Die dunklen Wälder von Marion"
 
-   forest5_music = walk2.mid
+   forest5_music = walk2.mp3
 
 classvars:
 
@@ -162,3 +162,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

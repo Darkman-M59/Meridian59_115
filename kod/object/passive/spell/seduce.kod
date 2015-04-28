@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   seduce_name_rsc = "seduce"
+   seduce_name_rsc = "Verleiten"
    seduce_icon_rsc = iseduce.bgf
-   seduce_desc_rsc = \
-      "You worm your way into the mind of a weak-willed creature, "
-      "in the hope that it will follow you and fight for you "
-      "if you are attacked.  "
-      "Requires web moss and firesand."
+   seduce_desc_rsc = "Du bohrst Dir einen Weg in den Geist einer geistig schwachen Kreatur, in der Hoffnung, dass sie Dir folgt und für Dich kämpfen wird, wenn Du angegriffen wirst. Benötigt einige Moosnetze und Feuersand."
+
+
+
+
    
-   seduce_caster = "%s%s has been seduced."
-   seduce_player_first = "You make your move on %s%s."
-   seduce_player_second = "%s%s tries %s best to seduce you."
-   seduce_player_third = "%s%s attempts a seduction on %s%s."
-   seduce_already_enchanted = "%s%s is already at your beck and call."
-   seduce_fail_1 = "Your feeble attempt to charm "
-   seduce_fail_2 = " fails."
+   seduce_caster = "%s%s wurde verleitet."
+   seduce_player_first = "%s%s ist das Ziel Deines Verleitungsversuches."
+   seduce_player_second = "%s%s versucht Dich zu verleiten."
+   seduce_player_third = "%s%s versucht eine Verleitung an: %s%s."
+   seduce_already_enchanted = "%s%s steht bereits voll und ganz zu Deinen Diensten."
+   seduce_fail_1 = "Dein schwacher Versuch "
+   seduce_fail_2 = "zu verleiten schlägt fehl."
 
    seduce_sound = qseduce.wav
 
@@ -242,3 +242,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   light_name_rsc = "light"
+   light_name_rsc = "Licht"
    light_icon_rsc = isunlite.bgf
-   light_desc_rsc = \
-      "Magical illumination fills the area where the spell is "
-      "cast.  "
-      "Requires elderberry to cast."
-   
-   light_unnecessary = "This area is already lit."
+   light_desc_rsc = "Magisches Licht erleuchtet das Gebiet, in dem der Zauber angewendet wird. Für die Beschwörung braucht man Holunderbeeren."
 
-   light_on = "A magical glow suffuses through the area."
-   light_off = "The light spell wears off."
-   light_new_entrant = "This place is illuminated by a magical glow."  %replace by icon
-   light_spell_intro = "Faren Lv. 1:  Fills an area with magical illumination."
+
+
+   
+   light_unnecessary = "Hier hat schon jemand das Licht angemacht."
+
+   light_on = "Ein magisches Glühen durchflutet die Umgebung."
+   light_off = "Der Licht-Zauber erlischt."
+   light_new_entrant = "Dieser Ort wird von einem magischen Glühen erleuchtet."
+   light_spell_intro = "Faren Zirkel 1: Erfüllt ein Gebiet mit magischem Licht."
 
    light_sound = flight.wav
 
@@ -131,3 +131,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

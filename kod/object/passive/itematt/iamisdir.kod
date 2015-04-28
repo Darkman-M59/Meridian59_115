@@ -38,8 +38,8 @@ constants:
 
 resources:
  
-   itematt_misdirection_desc = "  An illusion has been cast on this item, hiding it's true abilities."
-   iaMisdirection_gone = "The illusion around your %s fades, and you can see it for what it truly is."
+   itematt_misdirection_desc = "Auf diesem Gegenstand liegt ein Zauber, der die wahren Fähigkeiten verhüllt."
+   iaMisdirection_gone = "%s gibt das Geheimnis preis, und Du erkennst nun, was es wirklich ist."
    
 classvars:
 
@@ -215,3 +215,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

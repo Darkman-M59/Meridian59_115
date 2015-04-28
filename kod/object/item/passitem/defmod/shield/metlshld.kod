@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   metalshield_name_rsc = "small round shield"
+   metalshield_name_rsc = "Der kleine Rundschild"
    metalshield_icon_rsc = metlshld.bgf
-   metalshield_desc_rsc = \
-      "This small shield is made from a sheet of tin bent and "
-      "fitted to a wooden frame.  Although the workmanship is "
-      "poor, it offers some protection during battle."
+   metalshield_desc_rsc = "Dieser kleine Schild besteht aus dünnem Blech, befestigt auf einem hölzernen Rahmen. Obwohl er nicht besonders hochwertig ist, bietet er im Kampf zumindest einen kleinen Schutz."
+
+
+
 
    metalshield_window_overlay_rsc = povshldA.bgf
 
@@ -60,3 +60,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

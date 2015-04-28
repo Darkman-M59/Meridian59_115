@@ -18,14 +18,14 @@ resources:
 
    Kocatanbanker_name_rsc = "Huital ko'Nosak"
    kocatanbanker_icon_rsc = kcbanker.bgf
-   kocatanbanker_desc_rsc =  \
-      "Well respected as the master of all monetary affairs on the island, Huital pays "
-      "close attention to the economy and how it relates to every business.  Before "
-      "engaging in any new transaction of coins, he quickly washes his hands in the "
-      "pedestal of clear water. "
+   kocatanbanker_desc_rsc = "Als Meister aller Geldgeschäfte auf der Insel hoch angesehen achtet Huital sehr auf die Ökonomie und wie es jedes Geschäft beeinflusst. Vor jeder neuen Transaktion von Münzen wäscht er seine Hände kurz in dem Podest mit klaren Wasser."
 
-   kocatanbanker_entry_welcome = "Greetings.  We hope to serve you well, your valuables will be safe with us."
-   kocatanbanker_unwanted_give = "~k%s%s tells you, \"You mistake me for my brother.  He will store your items.~n~k\""
+
+
+
+
+   kocatanbanker_entry_welcome = "Sei gegrüßt. Wir hoffen, Dir dienen zu können, Deine Wertsachen werden bei uns sicher sein."
+   kocatanbanker_unwanted_give = "~k%s%s sagt zu Dir, \"Du verwechselst mich mit meinem Bruder. Er wird Deine Sachen verwahren.~n~k\""
 
 classvars:
 
@@ -106,3 +106,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

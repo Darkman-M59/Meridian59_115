@@ -20,13 +20,13 @@ constants:
 
 resources:
 
-   manaboon_name_rsc = "mana effect"
+   manaboon_name_rsc = "Zauberkraft"
    manaboon_icon_rsc = iboonman.bgf
-   manaboon_desc_rsc = "Something is affecting your natural mana levels."
-   manaboon_intro_rsc = "The mana level of the victim is boosted temporarily."
+   manaboon_desc_rsc = "Irgend etwas beeinflußt Dein natürliches Potential an Zauberkraft."
+   manaboon_intro_rsc = "Die Zauberkraft des Betroffenen ist vorübergehend deutlich verstärkt."
 
-   manaboon_inc = "You feel a higher capacity for magic!"
-   manaboon_dec = "You feel a lesser magical capacity."
+   manaboon_inc = "Du spürst eine höhere magische Leistungsfähigkeit!"
+   manaboon_dec = "Du spürst, dass Deine magische Leistungsfähigkeit sich verringert hat."
 
 classvars:
    viPersonal_ench = True
@@ -78,3 +78,4 @@ messages:
    }
 
 end
+

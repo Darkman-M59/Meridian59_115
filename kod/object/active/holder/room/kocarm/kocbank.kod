@@ -16,15 +16,15 @@ constants:
 
 resources:
   
-   room_name_kocbank = "The Hungry Vaults"
+   room_name_kocbank = "Der hungrige Geldspeicher"
    room_kocbank = kocbank.roo
-   kocbank_music = song12.mid
+   kocbank_music = song12.mp3
 
-   kocbank_locked1 = \
-      "~kThe sentry barks, \"Just where do you think you are going?\""
-   kocbank_locked2 = \
-      "~kHuital ko'Nosak says, \"Our customers are not permitted into the "
-      "vaults.  Security, you understand.\""
+   kocbank_locked1 = "~kDie Wache kläfft, \"Was glaubst Du, wohin Du gehst?\""
+
+   kocbank_locked2 = "~kHuital ko'Nosak sagt, \"Kunden ist der Zutritt zu unseren Gewölben nicht erlaubt. Aus Sicherheitsgründen, Du verstehst.\""
+
+
 
 classvars:
 
@@ -112,3 +112,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   badland1_name = "The Badlands"
+   badland1_name = "Das Ödland"
    room_badland1 = badland1.roo
-   Badland1_music = walk5.mid
+   Badland1_music = walk5.mp3
 
 classvars:
 
@@ -76,3 +76,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   TrueLute_name_rsc = "true lute"
+   TrueLute_name_rsc = "Wahrheitslaute"
    TrueLute_icon_rsc = music.bgf
    TrueLute_overlay_rsc = luteov.bgf
-   TrueLute_desc_rsc = "This is the most perfect lute you have ever seen.  It is rumored that Jala herself owned "
-      "a lute that was identical to this one.  It is made of a strange, dark, heavy wood and has a most beautiful sound.  "
-      "This lute surely gives more potence to the magical songs of the bard who plays it."
+   TrueLute_desc_rsc = "Dies ist die perfekteste Laute, die Du je gesehen hast. Gerüchten zufolge besaß Jala eine solche Laute. Sie ist aus einem schweren ungewöhnlichen Holz gemacht und hat einen wundervollen Klang. Sie verleiht den Bardenliedern mehr Kraft und Ausdruck."
+
+
 
 classvars:
 
@@ -43,4 +43,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

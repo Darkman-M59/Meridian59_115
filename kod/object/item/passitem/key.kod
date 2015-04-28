@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   key_name_rsc = "key"
+   key_name_rsc = "Der Schlüssel"
    key_icon_rsc = fekey.bgf
-   key_desc_rsc = "This intricately formed key bears the inscription of a wizard."
+   key_desc_rsc = "Dieser verschlungen geformte Schlüssel trägt die Inschrift eines Zauberers."
 
 classvars:
 
@@ -56,3 +56,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

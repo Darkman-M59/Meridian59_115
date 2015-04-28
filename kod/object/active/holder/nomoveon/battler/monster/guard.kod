@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   guard_name_rsc = "guard cow"
+   guard_name_rsc = "Die Wachkuh"
    guard_koc_name_rsc = "tanahyijoa"
    guard_icon_rsc = cow.bgf
-   guard_desc_rsc = "This is the vicious guardcow, which punishes all wrongdoers."
+   guard_desc_rsc = "Dies ist die bösartige Wachkuh, die alle Missetäter bestraft."
 
    
    guard_dead_icon_rsc = cowX.bgf
-   guard_dead_name_rsc = "dead guard cow"
+   guard_dead_name_rsc = "Eine tote Wachkuh"
 
    
 classvars:
@@ -88,3 +88,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

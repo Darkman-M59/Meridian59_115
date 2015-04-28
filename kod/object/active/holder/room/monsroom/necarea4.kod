@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_Necropolis4 = "Within the Walls of Castle Brax"
+   room_name_Necropolis4 = "Innerhalb der Mauern von Brax"
    room_Necropolis4 = necarea4.roo
-   Necropolis4_music = nec02.mid
+   Necropolis4_music = nec02.mp3
 
    Necropolis4_loop = necloop4.wav
 
@@ -98,3 +98,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

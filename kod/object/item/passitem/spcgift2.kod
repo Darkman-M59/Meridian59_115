@@ -17,13 +17,13 @@ constants:
 
 resources:
 
-   SpecialGiftTwo_name_rsc = "special gift"
+   SpecialGiftTwo_name_rsc = "Ein spezielles Geschenk"
    SpecialGiftTwo_icon_rsc = package.bgf
-   SpecialGiftTwo_desc_rsc = \
-      "This is a special gift from the gods, to thank you for your patience and "
-      "your patronage."
+   SpecialGiftTwo_desc_rsc = "Dies ist ein spezielles Geschenk der Götter, die sich für deine Geduld und Unterstützung bedanken."
 
-   SpecialGiftTwo_open = "With unbridled delight, you open the gift to find %s%s inside!"
+
+
+   SpecialGiftTwo_open = "Mit ungezügeltem Vergnügen öffnest du das Geschenk und findest %s%s darin!"
 
 classvars:
 
@@ -150,4 +150,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

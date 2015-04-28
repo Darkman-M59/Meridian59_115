@@ -18,9 +18,9 @@ constants:
 resources:
 
    room_corgroc = corgroc.roo
-   room_name_corgroc = "Solomon's Edibles"
+   room_name_corgroc = "Solomons Fressalien"
 
-   corgroc_music = smithy.mid
+   corgroc_music = smithy.mp3
 
 classvars:
 
@@ -71,3 +71,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

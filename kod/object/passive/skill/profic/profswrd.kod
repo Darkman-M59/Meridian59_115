@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   Swordproficiency_name_rsc = "fencing"
+   Swordproficiency_name_rsc = "Fechten"
    Swordproficiency_icon_rsc = fenceico.bgf
-   Swordproficiency_desc_rsc = "This skill offers added expertise in swords with long blades, magical or not."
+   Swordproficiency_desc_rsc = "Diese Fertigkeit bietet fachmännisches Können bei allen Schwertern mit langen Klingen, sowohl magischer als auch normaler Art.\n"
 
 classvars:
 
@@ -45,3 +45,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -21,13 +21,13 @@ constants:
 
 resources:
 
-   reflection_name_rsc = "reflection"
+   reflection_name_rsc = "Spiegelbild"
 
    reflection_male_icon_rsc = btg.bgf
    reflection_female_icon_rsc = bth.bgf
 
    reflection_dead_icon_rsc = amoebaX.bgf
-   reflection_dead_name_rsc = "dead reflection"
+   reflection_dead_name_rsc = "Ein totes Spiegelbild"
    reflection_weapon_rsc = scimov.bgf
 
    reflection_sound_hit = orc_atkh.wav
@@ -35,10 +35,10 @@ resources:
    reflection_sound_death = orc_dth.wav
    reflection_sound_aware = orc_awr.wav
 
-   reflection_delete =  "%s%s disappears into a puff of smoke."
+   reflection_delete = "%s%s verschwindet in einer Rauchwolke."
 
-   reflection_trouble = \
-      "You sense that your reflection has gotten you into some trouble..."
+   reflection_trouble = "Du spürst, dass Dein Spiegelbild Dich in irgendwelche Schwierigkeiten gebracht hat..."
+
 
 classvars:
 
@@ -653,3 +653,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

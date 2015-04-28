@@ -85,7 +85,7 @@ BEGIN
     LTEXT           "Haarfarbe:",-1,173,85,33,8
     PUSHBUTTON      "<",1019,213,84,17,11
     PUSHBUTTON      ">",1022,230,84,17,11,NOT WS_TABSTOP
-    LTEXT           "Augenfarbe:",-1,166,100,40,8
+    LTEXT           "Augenpartie:",-1,166,100,40,8
     PUSHBUTTON      "<",1018,213,99,17,11,WS_GROUP
     PUSHBUTTON      ">",1024,230,99,17,11,NOT WS_TABSTOP
     LTEXT           "Nase:",-1,187,115,19,8

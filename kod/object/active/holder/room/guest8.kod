@@ -16,67 +16,67 @@ constants:
 
 resources:
 
-   room_name_guest8 = "The Grand Museum of Hazar"
+   room_name_guest8 = "Das Große Museum von Hazar"
    room_guest8 = guest8.roo
-   guest8_music = login.mid
+   guest8_music = login.mp3
 
-   guest8_signname_1 = "Welcome"
-   guest8_sign_1 = \
-      "The Grand Museum is home to a myriad of exhibits on Meridian proper, "
-      "including a number of miniature replicas of items and monsters found in Meridian, "
-      "as well as tapestries depicting various locales in the world."
+   guest8_signname_1 = "Willkommen"
+   guest8_sign_1 = "Im Großen Museum finden sich viele Ausstellungsstücke aus Meridian, einschließlich einer Reihe von Miniatur-Nachbildungen von Gegenständen und Monstern sowie Wandteppiche, die die verschiedenen Orte der Welt zeigen."
 
-   guest8_signname_2 = "The Arena of Tos"
-   guest8_sign_2 = \
-      "A proving-ground where mighty warriors clash beneath the watchful eyes of "
-      "Kraanan.  Combatants can fight here for the pure honor of victory in combat, "
-      "as Kraanan delivers any true warrior from death at the last possible moment."
+
+
+
+   guest8_signname_2 = "Die Arena von Tos"
+   guest8_sign_2 = "Hier können sich mächtige Krieger vor den aufmerksamen Augen von Kraanan im Kampf beweisen.Die Kontrahenten kämpfen hier nur um die reine Siegerehre, denn Kraanan bewahrt jeden echten Krieger im allerletzten Moment vor dem Tod."
+
+
+
 
    guest8_signname_3 = "Tos"
-   guest8_sign_3 = \
-      "Debatably the liveliest city in Meridian (the residents of Barloque would most "
-      "likely beg to differ), Tos is home to the Arena as well as one of the friendliest "
-      "bars in Meridian, Familiars."
+   guest8_sign_3 = "Möglicherweise ist Tos die belebteste Stadt in Meridian (die Bewohner von Barloque sind da anderer Meinung). Hier befindet sich sowohl die Arena als auch die Brunnenkneipe, eine der gemütlichsten Bars von ganz Meridian."
 
-   guest8_signname_4 = "The Vale of Sorrow"
-   guest8_sign_4 = \
-      "Legend has it that this secluded vale tucked away in the forests of Meridian is "
-      "home to the Fey Elhai and the Fey Dirhai, two races of fairies eternally locked "
-      "in a struggle to claim the Vale as their own.  A few brave adventurers even tell "
-      "stories of how they were able, for a time, to sway the balance of the conflict "
-      "to the side they favored."
 
-   guest8_signname_5 = "The Great Pyramid of Ko'catan"
-   guest8_sign_5 = \
-      "The first structure to be built as part of the island settlement of Ko'catan, "
-      "this grand monument is purported to be the burial place of the great hero Konima, "
-      "whose sacrifice saved Meridian from the orc hordes during the Orc Wars.  Now, it "
-      "is home to the Hall of Heroes, a gallery of magical statues which form themselves "
-      "into the likenesses of the greatest current heroes in the land."
 
-   guest8_signname_6 = "The Trading Post on Konima's Island"
-   guest8_sign_6 = \
-      "A bastion of civilization out in the the wilds of Konima's Island, this trading "
-      "post is a central hub of trade between the Island and the mainland.  No one "
-      "knows exactly where its proprietor, Wulfgang zax'Ak, obtains some of his more "
-      "rare goods, nor why he chose to place his trading post so far out from the safe "
-      "enclosing walls of Ko'catan.  Perhaps the latter is due to Ko'catan's strict "
-      "trade laws, which among other things strictly forbid trade with the Avar, a "
-      "strange race of bird-people indiginous to the island.  An artist's representation "
-      "of an avar is pictured in the foreground, though it should be noted that noone "
-      "has actually ever seen an avar approach the trading post."
 
-   guest8_signname_7 = "Some of Ko'catan's Intricate Murals"
-   guest8_sign_7 = \
-      "Though the Ko'catani are sometimes a brutal and warlike race, they also have "
-      "a rich and thriving artistic tradition.  The murals pictured here are typical of "
-      "the stylized and traditional aesthetic of Ko'catani art, which always depicts "
-      "the same subjects of Ko'catani history and myth.  In fact, new generations of "
-      "artists are constantly refining the exact same scenes as their predecessors, "
-      "painting over older murals with the same characters in the same poses, honing "
-      "the gestures and facial expressions with greater and greater detail with every "
-      "iteration, until the pictures breath with the soul of the Ko'catani way of life.  "
-      "Historians estimate that the murals pictured here are more than two feet thick."
+   guest8_signname_4 = "Das Tal der Trauer"
+   guest8_sign_4 = "Eine Legende besagt, dass dieses versteckte Tal in den Wäldern von Meridian die Heimat der Fey Elhai und der Fey Dirhai ist, zweier Feenrassen, die sich einen erbitterten Kampf um die Vorherrschaft im Tal liefern. Ein paar tapfere Abenteurer erzählen sogar Geschichten, dass es ihnen für eine Weile gelungen war, das Kräftegleichgewicht auf die gewünschte Seite hin zu verlagern."
+
+
+
+
+
+
+   guest8_signname_5 = "Die Große Pyramide von Ko'catan"
+   guest8_sign_5 = "Dieses gewaltige Monument, das als erstes Bauwerk der Inselsiedlung von Ko'catan errichtet wurde, ist wahrscheinlich die Grabstätte des großen Helden Konima, dessen Opfer Meridian während der Ork-Kriege vor den orkischen Horden bewahrt hatte. Nun beherbergt sie die Halle der Helden, eine Gallerie magischer Statuen, die den größten Helden des Landes nachempfunden sind."
+
+
+
+
+
+
+   guest8_signname_6 = "Der Handelsposten auf Konimas Insel"
+   guest8_sign_6 = "Dieser Handelsposten ist eine Bastion der Zivilisation in der Wildnis von Konimas Insel und niemand weiss genau woher der Besitzer, Wulfgang zax'Ak, seine seltenen Waren bezieht, noch warum er sich für einen so entlegenen Platz außerhalb der sicheren Mauern von Ko'catan entschied. Vielleicht hat letzteres seinen Grund in den strikten Handelsgesetzen Ko'catans, die unter anderem jegliche Geschäfte mit den Avar untersagen. Die Avar sind seltsame Vogelmenschen, die auf Ko'catan heimisch sind. Das Bild eines Avars ist im Vordergrund abgebildet, aber es sollte angemerkt werden, dass noch nie jemand einen Avar in der Nähe des Handelsposten gesehen hat."
+
+
+
+
+
+
+
+
+
+
+   guest8_signname_7 = "Einige verworrene Wandgemälde von Ko'catan"
+   guest8_sign_7 = "Obwohl die Bewohner von Ko'catan manchmal kriegerisch und brutal sind, stehen sie in einer reichen und blühenden künstlerische Tradition als Künstler. Die Wandgemälde hier sind typisch für die traditionelle ko'catanische Kunst, die immer die gleichen Themen für die Darstellung findet: Geschichte und Mythos. Neue Künstlergenerationen übermalen die alten Bilder mit exakt den gleichen Szenen wie ihre Vorgänger, nur dass sie immer mehr ins Detail gehen, bis die Bilder die ko'catanischen Lebensphilosophie atmen. Historiker schätzen, dass die Wandbilder hier mehr als zwei Fuß dick sind!"
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -234,3 +234,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

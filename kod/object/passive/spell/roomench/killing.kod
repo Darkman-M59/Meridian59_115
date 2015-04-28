@@ -19,17 +19,17 @@ constants:
 
 resources:
 
-   killingfields_name_rsc = "killing fields"
+   killingfields_name_rsc = "Schlachtfeld"
    killingfields_icon_rsc = ikillfel.bgf
-   killingfields_desc_rsc = \
-      "Induces magical blood-lust, increasing the damage of all attacks in the area.  "
-	   "Requires elderberries and orc teeth to cast."
-   
-   killingfields_already_enchanted = "This place is already a killing field."
+   killingfields_desc_rsc = "Weckt den Durst nach Blut und erhöht den Schaden aller Angriffe in der Umgebung. Der Zauber benötigt Holunderbeeren und Orkzähne."
 
-   killingfields_on = "Kraanan smiles and battle fury fills your heart.  The very earth thirsts for freshly shed blood."
-   killingfields_off = "The spirit of Kraanan departs from this place."
-   killingfields_on_new_entrant = "Battle fury fills your heart.  The very earth thirsts for freshly shed blood."
+
+   
+   killingfields_already_enchanted = "Dieser Ort ist bereits ein Schlachtfeld."
+
+   killingfields_on = "Kraanan lächelt und Zorn erfüllt Dein Herz. Die Erde dürstet nach frisch vergossenem Blut."
+   killingfields_off = "Der Geist Kraanans verläßt diesen Ort wieder."
+   killingfields_on_new_entrant = "Zorn erfüllt Dein Herz. Die Erde dürstet nach frisch vergossenem Blut."
 
 classvars:
 
@@ -156,3 +156,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

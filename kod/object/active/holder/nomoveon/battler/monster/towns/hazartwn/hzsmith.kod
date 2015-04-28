@@ -18,10 +18,10 @@ constants:
 
 resources:
 
-   HazarBlacksmith_name_rsc = "Tomas"
+   HazarBlacksmith_name_rsc = "Thomas"
    HazarBlacksmith_icon_rsc = bqsmith.bgf
-   HazarBlacksmith_desc_rsc = "A maker of unremarkable but reliable weapons, Tomas earns his customers with good comradeship and low prices."
-   HzBla_entry_welcome = "Hello %s%s, and welcome."
+   HazarBlacksmith_desc_rsc = "Thomas fertigt zwar keine besonderen, aber zuverlässige Waffen an. Er ist bekannt für faire Preise."
+   HzBla_entry_welcome = "Guten Tag, %s%s."
 
 classvars:
 
@@ -64,4 +64,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

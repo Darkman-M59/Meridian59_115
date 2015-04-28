@@ -20,21 +20,21 @@ constants:
 
 resources:
 
-   winds_name_rsc = "winds"
+   winds_name_rsc = "Sturm"
    winds_icon_rsc = iwinds.bgf
-   winds_desc_rsc = \
-      "Summons powerful winds which render ranged attacks more difficult "
-      "for several minutes.  "
-      "Requires elderberries and purple mushrooms to cast."
+   winds_desc_rsc = "Ruft kraftvolle Winde hervor, die Angriffe aus der Ferne für einige Minuten erschweren. Der Zauber benötigt Holunderbeeren und Lila Pilze."
+
+
+
    
-   winds_already_enchanted = "Magical winds are already present."
+   winds_already_enchanted = "Hier wütet bereits ein magischer Sturm."
 
-   winds_on = "Violent winds suddenly sweep the area and buffet your limbs."
-   winds_off = "The winds slow and then cease."
-   winds_new_entrant = "Violent winds sweep the area and buffet your limbs."
-   winds_miss_rsc = "The powerful winds snatch your shot away."
+   winds_on = "Heftige Winde fegen plötzlich über das Gebiet und peinigen Deine Gliedmaßen."
+   winds_off = "Der Sturm flaut ab und verschwindet wenig später gänzlich."
+   winds_new_entrant = "Heftige Winde fegen über das Gebiet und peinigen Deine Gliedmaßen."
+   winds_miss_rsc = "Der Sturmwind verweht Deinen Schuß."
 
-   winds_spell_intro = "Faren Level 3: Summons violent winds, which make ranged combat less effective."
+   winds_spell_intro = "Faren Zirkel 2: Ruft einen kraftvollen Sturm hervor, der Fernangriffe einschränkt."
 
    winds_sound = fwinds.wav
 
@@ -177,3 +177,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

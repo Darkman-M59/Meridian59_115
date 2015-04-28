@@ -21,28 +21,28 @@ constants:
 
 resources:
 
-   sandstorm_name_rsc = "sandstorm"
+   sandstorm_name_rsc = "Sandsturm"
    sandstorm_icon_rsc = isandsto.bgf
-   sandstorm_desc_rsc = \
-      "All the dust in the room is swept up into a swirling storm, "
-	   "making it harder and more strenuous to move and fight.  "
-	   "Also has a small chance to knock arrows out of the air.  "
-      "Requires orc teeth to cast."
+   sandstorm_desc_rsc = "Aller Staub in diesem Raum wird in einem wirbelnden Sturm emporgerissen, der Bewegung und Kampf schwieriger und wesentlich anstrengender macht. Der Zauber benötigt Orkzähne."
+
+
+
+
    
-   sandstorm_already_enchanted = "A sandstorm already rages here."
+   sandstorm_already_enchanted = "Hier wütet bereits ein Sandsturm."
 
-   sandstorm_on = \
-      "From out of nowhere, swirling dust begins to needle into your skin, "
-	   "making it very difficult to breathe.  "
-	   "You feel yourself tiring."
+   sandstorm_on = "Wie aus dem Nichts bohrt sich der wirbelnde Staub in Deine Haut und macht jeden Atemzug zur Tortur. Du fühlst, wie Du müde wirst."
 
-   sandstorm_off = "The air clears."
-   sandstorm_new_entrant = \
-      "The air is full of dust, making it very difficult to breathe. "
-	   "You feel yourself tiring."
 
-   sandstorm_hurts_you = "You are becoming exhausted from the buffeting winds of sand."
-   sandstorm_miss_rsc = "The powerful sandstorm snatches your shot away."
+
+
+   sandstorm_off = "Die Luft wird wieder klar."
+   sandstorm_new_entrant = "Die Luft ist voller Staub, der jeden Atemzug zur Tortur macht. Du fühlst, wie Du müde wirst."
+
+
+
+   sandstorm_hurts_you = "Der stete Kampf gegen die Sandwinde erschöpft Dich zusehends."
+   sandstorm_miss_rsc = "Der mächtige Sandsturm trägt Deinen Schuss mit sich weg."
 
    sandstorm_sound = fheat.wav
 
@@ -271,4 +271,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

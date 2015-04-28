@@ -22,13 +22,13 @@ constants:
 
 resources:
 
-   FarenCharm_name_rsc = "brass medallion"
+   FarenCharm_name_rsc = "Ein Medaillon aus Bronze"
    FarenCharm_icon_rsc = frcharm.bgf
-   FarenCharm_desc_rsc = \
-   "This necklace is a long string of brass medallions carefully crafted together.  "
-   "In the largest of the medallions, the image of a storm has been delicately engraved."
+   FarenCharm_desc_rsc = "Diese Halskette besteht aus mehreren aneinander geschmiedeten, bronzenen Medallions.In das größte der Medaillons wurde sorgfältig das Bild eines Sturms eingraviert."
 
-   FarenCharm_whisper = "A voice whispers, \"~I...the master of the storm must withstand his strongest enemy... himself...\""
+
+
+   FarenCharm_whisper = "Eine Stimme flüstert, \"~I...der Meister des Windes muss seinen stärksten Feinden ... selbst entgegentreten...\""
 
 classvars:
 
@@ -100,6 +100,7 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 

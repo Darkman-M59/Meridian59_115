@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   Conciliation_name_rsc = "conciliation"
+   Conciliation_name_rsc = "Kraanan bannen"
    Conciliation_icon_rsc = iconcil.bgf
-   Conciliation_desc_rsc = \
-      "This song hinders the casting of the spells the warrior god Kraanan the Fist.  "
-      "A ruby and some elderberries are required to begin performing this song."
+   Conciliation_desc_rsc = "Dieses Lied behindert Kraanans Zauber. Rubine und Holunderbeeren werden dafür benötigt."
 
-   Conciliation_song = neutfor.mid
+
+
+   Conciliation_song = neutfor.mp3
  
 classvars:
 
@@ -61,3 +61,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

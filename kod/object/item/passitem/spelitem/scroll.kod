@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   Scroll_name_rsc = "scroll"
-   Scroll_label_name_rsc = "generic scroll"
+   Scroll_name_rsc = "Die Schriftrolle"
+   Scroll_label_name_rsc = "Die Schriftrolle"
    Scroll_icon_rsc = scr07.bgf
-   Scroll_desc_rsc = \
-      "This scroll is covered with indecipherable mystical writing in a spidery hand."
+   Scroll_desc_rsc = "Diese Schriftrolle ist mit einer unleserlichen, krakeligen, mystischen Schrift bedeckt"
 
-   Scroll_Broken = "The scroll burns and chars in your hands, crumbling to ashes."
-   Scroll_fails = "You finish reading the scroll, but nothing happens."
-   Scroll_Sense_Failure = "You sense that something is amiss and abort the casting in time to keep the scroll from misfiring."
+
+   Scroll_Broken = "Die Schriftrolle entzündet sich in Deinen Händen und zerfällt zu Asche."
+   Scroll_fails = "Du hast den Text der Spruchrolle zu Ende gelesen aber nichts passiert."
+   Scroll_Sense_Failure = "Du spürst, dass Dir irgendetwas fehlt, und brichst den Zauber der Schriftrolle ab, bevor sie nutzlos verpufft."
 
 classvars:
 
@@ -87,3 +87,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

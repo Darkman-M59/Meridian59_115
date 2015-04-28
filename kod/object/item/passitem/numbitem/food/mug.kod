@@ -16,22 +16,22 @@ constants:
 
 resources:
 
-   mug_name_rsc = "mug of stout"
+   mug_name_rsc = "Der Becher mit Stout"
    mug_icon_rsc = mug.bgf
-   mug_desc_rsc = \
-      "A dark hazelnut stout with a thick head of foam."
+   mug_desc_rsc = "Ein dunkles, haselnußfarbenes Stout mit einer dicken Schaumkrone."
 
-   mug_name_plural_rsc = "mugs of stout"
 
-   mug_disp_name = "pitcher of stout"
+   mug_name_plural_rsc = "Becher mit Stout"
+
+   mug_disp_name = "Der Krug mit Stout"
    mug_disp_icon = pitcher.bgf
-   mug_disp_desc = \
-     "A heavy brass pitcher, filled to the rim with dark, delicious stout.  "
-	 "It needs to be poured slowly to preserve the perfect foamy head."
-   mug_got_one = "You slowly pour your mug full of frothy stout from the pitcher."
+   mug_disp_desc = "Ein schwerer Messingkrug, der bis zum Rand mit dunklem, schmackhaftem Stout gefüllt ist. Man muss es langsam einschenken, damit die perfekte Schaumkrone erhalten bleibt."
+
+
+   mug_got_one = "Du schenkst langsam Deinen Becher mit schaumigem Stout aus dem Krug voll."
 
    mug_eat_wav = drink.wav
-   mug_use = "Strong and absolutely delicious!  The smokey taste will linger in your mouth for some time."
+   mug_use = "Stark und absolut köstlich! Der rauchige Geschmack wird noch eine Weile in Deinem Mund bleiben."
 
 classvars:
 
@@ -85,3 +85,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -15,13 +15,13 @@ constants:
 
 resources:
 
-   pardon_name_rsc = "pardon"
+   pardon_name_rsc = "Begnadigen"
    pardon_icon_rsc = light.bgf
-   pardon_desc_rsc = "Removes both murderer flags and outlaw flags."
+   pardon_desc_rsc = "Macht Mörder und Gesetzlose wieder zu ehrbaren Spielern."
 
-   pardon_msg_DM = "You pardon %s%s."
-   pardon_msg_target = "You have been pardoned by %s%s."
-   pardon_failed = "%s%s is not a murderer or an outlaw, and cannot be pardoned."
+   pardon_msg_DM = "Du begnadigst %s%s."
+   pardon_msg_target = "Du wurdest von %s%s begnadigt."
+   pardon_failed = "%s%s ist weder ein Mörder noch ein Gesetzloser und kann nicht begnadigt werden."
 
 classvars:
 
@@ -84,3 +84,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

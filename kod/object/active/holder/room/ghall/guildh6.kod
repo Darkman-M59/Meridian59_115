@@ -21,7 +21,7 @@ constants:
 
 resources:
 
-   room_name_guildh6 = "The Ivory Chapel"
+   room_name_guildh6 = "Die Elfenbeinkapelle"
    room_guildh6 = guildh6.roo
 
 classvars:
@@ -190,3 +190,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

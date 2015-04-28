@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   shortsword_name_rsc = "short sword"
+   shortsword_name_rsc = "Das Kurzschwert"
    shortsword_icon_rsc = shswd.bgf
-   shortsword_desc_rsc = \
-      "Plain in appearance, the blade of this short sword is sharp enough "
-      "to be dangerous.  It can be effective when wielded against small "
-      "beasts."
+   shortsword_desc_rsc = "Obwohl diese Waffe unspektakul‰r aussieht, ist ihre Klinge scharf genug, um gef‰hrlich zu sein. Im Kampf gegen kleine Kreaturen kann sie ‰uﬂerst effektiv sein."
+
+
+
 
    shortsword_window_overlay_rsc = povshswd.bgf
    shortsword_player_overlay = shswdov.bgf
@@ -57,3 +57,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

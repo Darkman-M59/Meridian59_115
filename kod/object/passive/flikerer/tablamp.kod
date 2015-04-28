@@ -16,8 +16,8 @@ constants:
 
 resources:
 
-   tablamp_name = "black stone lamp"
-   tablamp_desc = "This lamp offers a subdued, flickering glow."
+   tablamp_name = "Die Lampe aus schwarzem Gestein"
+   tablamp_desc = "Diese Lampe verbreitet einen gedämpften, flackernden Schein."
    tablamp_icon = tablamp.bgf
 
 classvars:
@@ -42,3 +42,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

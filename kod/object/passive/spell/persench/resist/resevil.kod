@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   resistevil_name_rsc = "holy resolve"
+   resistevil_name_rsc = "Heilige Lösung"
    resistevil_icon_rsc = iholyres.bgf
-   resistevil_desc_rsc = \
-     "Shal'ille is summoned to fortify the soul against unholy damage.  "
-	  "Requires solagh and fairy wings to cast."
+   resistevil_desc_rsc = "Sha-Lill ist angerufen, Deine Seele gegen böse Angriffe zu festigen. Der Zauber benötigt Phiolen mit Solagh und Feenflügel."
 
-   resistevil_spell_intro = "Shal'ille Level 1: Protects you from damage from unholy sources."
+
+
+   resistevil_spell_intro = "Sha-Lill Zirkel 1: Schützt Dich vor Schaden durch böse Kräfte."
 	  
-   resistevil_success = "You fortify %s%s against evil."
-   resistevil_already_enchanted = "You already have holy resolve."
+   resistevil_success = "Du stärkst %s%s Abwehrkräfte gegen das Böse."
+   resistevil_already_enchanted = "Du hast Dich bereits gegen Böses gewappnet."
 
-   resistevil_on = "You feel a warm presence fortifying your defense against evil."
-   resistevil_off = "You feel chilled as the fortifying spirit of Shal'ille departs."
+   resistevil_on = "Du fühlst eine warme Gegenwart, die Deine Abwehrkräfte gegen das Böse stärkt."
+   resistevil_off = "Dich fröstelt, als der stärkende Geist von Sha-Lill entschwindet."
 
 classvars:
 
@@ -90,3 +90,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

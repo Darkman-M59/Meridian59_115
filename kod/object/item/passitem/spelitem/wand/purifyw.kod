@@ -16,8 +16,8 @@ constants:
 
 resources:
 
-   PurifyWand_label_name_rsc = "wand of magical cleansing"
-   PurifyWand_desc_rsc = "Magical energy crackles about this slender wand."
+   PurifyWand_label_name_rsc = "Stab der magischen Reinigung"
+   PurifyWand_desc_rsc = "Magische Energien umströmen diesen dünnen Stab."
 
 classvars:
 
@@ -33,3 +33,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

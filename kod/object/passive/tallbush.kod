@@ -17,8 +17,8 @@ constants:
 resources:
 
    tallbush_icon_rsc = tallbush.bgf
-   tallbush_name_rsc = "bush"
-   tallbush_desc_rsc = "A fresh scent hangs in the air around this tall bush."
+   tallbush_name_rsc = "Der Strauch"
+   tallbush_desc_rsc = "Ein frischer Duft umgibt diesen groﬂen Strauch."
 
 classvars:
 
@@ -38,4 +38,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

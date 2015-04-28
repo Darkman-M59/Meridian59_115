@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   forcesoflight_name_rsc = "forces of light"
+   forcesoflight_name_rsc = "Kraft des Lichts"
    forcesoflight_icon_rsc = ifrclite.bgf
-   forcesoflight_desc_rsc = \
-      "Summons Shal'ille to infuse her power into all good players in the room, "
-      "making their attacks more accurate and her spells more potent.  "
-      "Requires elderberries and emeralds to cast."
-   
-   forcesoflight_already_enchanted = "This place is already infused with the spirit of Shal'ille."
+   forcesoflight_desc_rsc = "Ruft Sha-Lill herbei, um ihre Kraft allen guten Spielern im Raum zu verleihen, auf dass ihre Attacken besser treffen und ihre Zauber kraftvoller werden. Dieser Zauber benötigt Holunderbeeren und Smaragde."
 
-   forcesoflight_on = "This place is infused with the spirit of Shal'ille."
-   forcesoflight_off = "The spirit of Shal'ille departs from this place."
-   forcesoflight_player_on = "You are filled with the spirit of Shal'ille."
-   forcesoflight_player_off = "The spirit of Shal'ille has left you."
+
+
+   
+   forcesoflight_already_enchanted = "Dieser Ort ist bereits vom Geist Sha-Lills durchdrungen."
+
+   forcesoflight_on = "Dieser Ort ist vom Geist Sha-Lills durchdrungen."
+   forcesoflight_off = "Der Geist Sha-Lills verläßt diesen Ort wieder."
+   forcesoflight_player_on = "Du bist vom Geist Sha-Lills erfüllt."
+   forcesoflight_player_off = "Der Geist Sha-Lills hat Dich wieder verlassen."
 
    forcesoflight_sound = sforcelt.wav
 
@@ -167,3 +167,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

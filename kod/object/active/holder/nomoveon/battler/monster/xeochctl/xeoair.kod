@@ -18,16 +18,16 @@ constants:
 
 resources:
 
-   XeoAir_name_rsc = "ve'xeochicatl"
+   XeoAir_name_rsc = "Der Ve'xeochicatl"
    XeoAir_koc_name_rsc = "ve'xeo'chicatl"
    XeoAir_icon_rsc = Xeo.bgf
-   XeoAir_desc_rsc = \
-      "Before you is a ve'xeochicatl, a fearsome monster given life by the chaotic "
-      "magic of the Meridian.  The ve'xeochicatl is the embodiment of destruction, "
-      "a violent monster that seems uncontrollable.  These monsters feed off of "
-      "the magic of the lands which makes them very powerful.  Rumors abound "
-      "about the origin of these monsters, but you have little time to contemplate "
-      "these rumors in the presence of such destructive power!"
+   XeoAir_desc_rsc = "Vor Dir steht ein Ve'Xeochicatl, ein furchterregendes Monster, am Leben erhalten durch die chaotische Magie Meridians. Der Ve'Xeochicatl ist die Verkörperung der Zerstörung, ein grausames Monster, das unbesiegbar scheint. Diese Kreaturen ernähren sich von der Magie des Landes, welche sie sehr mächtig macht. Es gibt reichlich Gerüchte über die Herkunft dieser Monster, aber Du hast wenig Zeit, um darüber nachzudenken, in der Gegenwart einer solch zerstörerischen Kraft!"
+
+
+
+
+
+
 
    XeoAir_sound_aware = xeo4awr.wav
 
@@ -100,3 +100,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,23 +17,23 @@ constants:
    
 resources:
 
-   DeadLich_name_rsc = "ghostly remains of Queen Venya'cyr"
+   DeadLich_name_rsc = "Die geisterhaften Überreste der Königin Venya'cyr"
    DeadLich_icon_rsc = lichax.bgf
-   DeadLich_desc_rsc = \
-      "A ghostly pile of ornate formal clothing seems to be all that remains of this "
-      "once-mighty queen."
-   DeadLich_name2_rsc = "ghostly remains of Queen Venya'cyr"
-   DeadLich_icon2_rsc = lichbx.bgf
-   DeadLich_desc2_rsc = \
-      "A ghostly pile of ornate formal clothing seems to be all that remains of this "
-      "once-mighty queen.  "
-      "When you look away, however, from the corner of your eye you catch a glimpse of "
-      "a thin, shimmering thread of darkness that seems to be bound to her earthly "
-      "remains, stretching away infinitely in a direction which doesn't seem "
-      "describable in normal geometric terms."
+   DeadLich_desc_rsc = "Ein geisterhafter Haufen reichgeschmückter, formeller Kleider scheint alles zu sein, was von der einst so mächtigen Königin übriggeblieben ist."
 
-   deadlich_dispel = "The pile of ornate clothing mysteriously changes color!"
-   deadlich_respel = "The pile of ornate clothing changes back to its original color."
+
+   DeadLich_name2_rsc = "Die geisterhaften Überreste der Königin Venya'cyr"
+   DeadLich_icon2_rsc = lichbx.bgf
+   DeadLich_desc2_rsc = "Ein geisterhafter Haufen reichgeschmückter, formeller Kleider scheint alles zu sein, was von der einst so mächtigen Königin übriggeblieben ist.Wie dem auch sei, immer, wenn Du wegsiehst, bekommst Du aus den Augenwinkeln heraus flüchtig einen dünnen, schimmernden Faden von Dunkelheit zu sehen, der an ihre sterblichen Überreste gebunden scheint. Er erstreckt sich unendlich weit in eine Richtung, die mit normalen geometrischen Regeln nicht beschreibbar ist."
+
+
+
+
+
+
+
+   deadlich_dispel = "Der Haufen reichverzierter Kleider wechselt auf mystische Art die Farbe!"
+   deadlich_respel = "Der Haufen reichverzierter Kleider wechselt zurück zu seiner Originalfarbe."
 
 classvars:
    vrName = DeadLich_name_rsc
@@ -256,3 +256,4 @@ DMCanArmageddon()
  
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

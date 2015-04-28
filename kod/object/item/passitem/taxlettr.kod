@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   TaxLetter_name_rsc = "notice of delinquent taxes"
+   TaxLetter_name_rsc = "Strafsteuer-Bescheid"
    TaxLetter_icon_rsc = scr04.bgf
-   TaxLetter_desc_rsc = \
-      "You are very glad that this curt, crisply penned letter is not addressed to you."
+   TaxLetter_desc_rsc = "Du bist sehr froh, dass dieser knappe, scharfe Brief nicht an Dich adressiert ist."
+
 
 classvars:
 
@@ -37,3 +37,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

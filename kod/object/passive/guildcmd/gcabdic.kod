@@ -17,26 +17,26 @@ constants:
 
 resources:
 
-   GuildAbdicate_name_rsc = "abdicate"
+   GuildAbdicate_name_rsc = "Abdanken"
    GuildAbdicate_icon_rsc = light.bgf
-   GuildAbdicate_desc_Rsc = \
-      "This is the only way that a guildmaster may leave a guild.  He must "
-      "choose a successor when abdicating."
+   GuildAbdicate_desc_Rsc = "Das ist der einzige Weg, wie ein Gildenführer eine Gilde verlassen kann. Er muss einen Nachfolger wählen, wenn er abdankt."
 
-   abdicate_non_user = \
-      "%s%s thanks you, but does not feel ready to lead your guild."
-   abdicate_not_member = "%s%q is not a member of %s%q!"
 
-   abdicate_cant_self = "You may not choose yourself to be your own successor!"
 
-   abdicate_to_chosen = \
-      "~B%s has abdicated the leadership position of %s%q, and passed it on "
-      "to you!"
-   abdicate_to_abdicator = "~BYou anoint %q the new leader of %s%q."
+   abdicate_non_user = "%s%s bedankt sich bei Dir, aber ist noch nicht bereit, Deine Gilde zu führen."
 
-   abdicate_necro_nak = \
-      "~BYou have taken a blood oath as Master of the Order.  "
-      "You may not simply abdicate!"
+   abdicate_not_member = "%s%q ist kein Mitglied von %s%q!"
+
+   abdicate_cant_self = "Du kannst Dich nicht selbst als Deinen eigenen Nachfolger wählen!"
+
+   abdicate_to_chosen = "~B%s hat die Führungsposition der Gilde %s%q aufgegeben und Dir übertragen!"
+
+
+   abdicate_to_abdicator = "~BDu überträgst %q, die Führungsposition in der Gilde: %s%q."
+
+   abdicate_necro_nak = "~BDu hast einen Blutsschwur als Führer des Ordens geleistet. Du kannst nicht einfach abdanken!"
+
+
 
 classvars:
 
@@ -116,3 +116,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

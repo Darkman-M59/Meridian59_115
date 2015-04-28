@@ -17,8 +17,8 @@ constants:
 resources:
 
    quillpen_icon_rsc = quillpen.bgf
-   quillpen_name_rsc = "quill pen"
-   quillpen_desc_rsc = "Many important works were written with this quill pen.  Presently it is out of ink."
+   quillpen_name_rsc = "Der Federkiel"
+   quillpen_desc_rsc = "Viele wichtige Werke wurden mit diesem Federkiel geschrieben. Im Moment hat er keine Tinte."
 
 classvars:
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

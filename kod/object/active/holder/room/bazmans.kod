@@ -17,13 +17,13 @@ constants:
 resources:
 
    room_bazmans = bizmans.roo
-   room_name_bazmans = "The Councilors' Chamber"
+   room_name_bazmans = "Kammer der Ratsmitglieder"
 
 
-   bazmans_music = castle.mid
+   bazmans_music = castle.mp3
 
-   bazmans_lockdoor = "You lock the door, barring others from entry."
-   bazmans_unlockdoor = "You unlock the door."
+   bazmans_lockdoor = "Du verriegelst die Tür."
+   bazmans_unlockdoor = "Du entriegelst die Tür."
 
 classvars:
 
@@ -142,4 +142,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

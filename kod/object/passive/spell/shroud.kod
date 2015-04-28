@@ -15,15 +15,15 @@ constants:
 
 resources:
 
-   shroud_cast_rsc = "A dark cloak settles over your %s."
+   shroud_cast_rsc = "%s wird von einem dunklen Schleier bedeckt."
    
-   shroud_fails = "%s%s is strangely unaffected by the spell."
+   shroud_fails = "%s%s bleibt seltsamerweise von dem Zauber unberührt."
    
-   shroud_name_rsc = "shroud"
+   shroud_name_rsc = "Anti-Magie-Hülle"
    shroud_icon_rsc = ishroud.bgf
-   shroud_desc_rsc = \
-	"Used to protect a warrior's tools against polluting magics.  Requires a large amount of inexpensive reagents."
-   shroud_lable_rsc = "Shrouder."
+   shroud_desc_rsc = "Anzuwenden, um die Gerätschaften eines Kriegers gegen sich einschleichende Magie zu schützen. Pilze, Holunderbeeren und Kräuter werden für dieses Ritual benötigt."
+
+   shroud_lable_rsc = "Anti-Magie-Hülle"
    
 
 classvars:
@@ -125,3 +125,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

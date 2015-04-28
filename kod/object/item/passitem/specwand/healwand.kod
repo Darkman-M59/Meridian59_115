@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   healWand_name_rsc = "wand of healing"
+   healWand_name_rsc = "Der Stab der Heilung"
    healWand_icon_rsc = healwand.bgf
-   healWand_desc_rsc = "This wand is almost comically decorated by obviously fake gems.   "
-       "Still, the wand hums nearly inaudibly, and when you put your hand on it, it is "
-       "warm to the touch."
+   healWand_desc_rsc = "Dieser Zauberstab ist fast lächerlich mit offensichtlich künstlichen Edelsteinen verziert. Der Zauberstab summt fast unhörbar, und als Du Deine Hand auf ihn legst, spürst Du seine Wärme."
+
+
    healWand_success_wav_rsc = healwand.wav
-   healed_rsc = "You feel better."
-   wand_used_rsc = "The wand pulses once in your hand."
+   healed_rsc = "Du fühlst Dich besser."
+   wand_used_rsc = "Der Zauberstab pulsiert einmal in Deiner Hand."
    wand_fail_snd = spelfail.wav
-   wand_fail_rsc = "The magical wand had no effect."
+   wand_fail_rsc = "Der magische Zauberstab zeigt keine Wirkung."
 
 classvars:
 
@@ -107,3 +107,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

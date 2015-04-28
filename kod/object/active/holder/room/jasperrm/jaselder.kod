@@ -17,9 +17,9 @@ constants:
 resources:
 
    room_jasperelder = jaselder.roo
-   room_name_Jasperelder = "The Home of the Wise Man"
+   room_name_Jasperelder = "Heim des weisen Mannes"
 
-   jaselder_music = bar2.mid
+   jaselder_music = bar2.mp3
 
 classvars:
 
@@ -80,3 +80,4 @@ CreateStandardObjects()
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,13 +17,13 @@ constants:
 
 resources:
 
-   guildcommand_name_rsc = "guild command"
+   guildcommand_name_rsc = "Gildenbefehl"
    guildcommand_icon_rsc = light.bgf
-   guildcommand_desc_text_rsc = "This is a guild command, used to administer a guild."
+   guildcommand_desc_text_rsc = "Dies ist ein Gildenbefehl, der zur Verwaltung einer Gilde dient."
 
-   guildcommand_out_of_range = "%s%q is out of range."
+   guildcommand_out_of_range = "%s%q ist außer Reichweite."
 
-   guildcommand_desc_rsc = "Guild Command    Rank needed: %s/%s\n\n%s"
+   guildcommand_desc_rsc = "Nötiger Rang für einen Gildenbefehl: %s/%s\n\n%s"
 
 classvars:
 
@@ -155,3 +155,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

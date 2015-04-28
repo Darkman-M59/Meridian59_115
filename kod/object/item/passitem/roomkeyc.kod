@@ -16,24 +16,24 @@ constants:
 
 resources:
 
-   RoomKeyCopy_name_rsc = "silver room key"
+   RoomKeyCopy_name_rsc = "Ein silberner Zimmerschlüssel"
    RoomKeyCopy_icon_rsc = roomkeyc.bgf
-   RoomKeyCopy_desc_rsc = "This solid silver key bears an inscription which reads:\n"
-   RoomKeyCopy_desc2_rsc = "'s room at "
+   RoomKeyCopy_desc_rsc = "Dieser silberne Schlüssel trägt die Inschrift:\n"
+   RoomKeyCopy_desc2_rsc = "s Zimmer in der "
 
-   RoomKeyCopy_vanishes = \
-      "Your silver room key dissolves into a strange silver liquid, then "
-      "evaporates into a blue mist and is gone."
+   RoomKeyCopy_vanishes = "Dein silberner Zimmerschlüssel schmilzt zu einer seltsam silbrigen Flüssigkeit, und verdampft wenig später in einer blauen Dunstwolke."
 
-   RoomKeyCopy_teleport = \
-      "As you slide the key into the lock, a strange white glow envelops "
-      "you, and you find yourself somewhere else."
 
-   RoomKeyCopy_no_use = "You cannot find a keyhole that would fit this key."
 
-   RoomKeyCopy_no_drop_room = "You cannot drop your key here."
+   RoomKeyCopy_teleport = "Als Du den Schlüssel ins Schlüsselloch steckst, umgibt Dich ein helles weißes Licht und Du befindest Dich plötzlich woanders."
 
-   RoomKeyCopy_no_token = "You can't let go of your token to fit your key into the lock."
+
+
+   RoomKeyCopy_no_use = "Es scheint nichts in der Nähe zu sein, um den Schlüssel zu benutzen."
+
+   RoomKeyCopy_no_drop_room = "Du kannst Deinen Schlüssel hier nicht ablegen. "
+
+   RoomKeyCopy_no_token = "Du kannst von deinem Artefakt nicht ablassen um deinen Schlüssel ins Schlüsselloch zu stecken."
 
 classvars:
 
@@ -231,3 +231,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

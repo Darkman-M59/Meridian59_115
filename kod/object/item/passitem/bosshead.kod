@@ -17,11 +17,11 @@ constants:
 resources:
 
    OrcPitBossHead_icon_rsc = OrcPitbX.bgf
-   OrcPitBossHead_name_rsc = "orc pit boss head"
-   OrcPitBossHead_desc_rsc = \
-	"Nearly three times the weight of a human head, this mass of thick skull "
-	"and oozing brains begins to attract flies.  The stench alone disrupts any "
-	"appetite you may have had."
+   OrcPitBossHead_name_rsc = "Der Orkh‰uptlingskopf"
+   OrcPitBossHead_desc_rsc = "Dieser riesengroﬂe Sch‰del, der fast dreimal soviel wiegt wie ein menschlicher Sch‰del und aus dem die Gehirnmasse heraussickert, f‰ngt an, Fliegen anzulocken. Allein der Gestank l‰ﬂt Dir jeglichen Appetit vergehen, den Du gehabt haben magst."
+
+
+
 
 classvars:
    
@@ -42,4 +42,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

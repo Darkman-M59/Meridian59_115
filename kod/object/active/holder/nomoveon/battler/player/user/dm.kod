@@ -22,29 +22,29 @@ resources:
 
    dm_module = dm.dll
 
-   dm_login = "Welcome to the game, DM %s."
+   dm_login = "Willkommen in Meridian, %s."
 
-   dm_teleportto = "A dimensional gate appears next to you, and %s steps through."
-   dm_teleportfrom = "A dimensional gate appears next to you, and %s is pulled through."
+   dm_teleportto = "%s schreitet durch ein Dimensionstor, das sich neben Dir öffnet."
+   dm_teleportfrom = "Ein Dimensionstor öffnet sich neben Dir, und %s wird hineingezogen."
 
-   dm_rescuesomeone = "You send %s to a safe place."
-   dm_dimensionalgate = "You open a dimensional gate to %s and step through."
+   dm_rescuesomeone = "Du schickst %s an einen sicheren Ort."
+   dm_dimensionalgate = "Du öffnest ein Dimensionstor zu %s und gehst hindurch."
 
-   dm_pk_lock = "Your PK status is now unchanged by natural events."
-   dm_pk_unlock = "Your PK status now acts as if you were a normal player."
+   dm_pk_lock = "Dein PK Status ist jetzt durch natürliche Ereignisse unverändert."
+   dm_pk_unlock = "Dein PK Status ist jetzt der eines normalen Spielers."
 
-   dm_PK_ENABLE = "Currently, your PK status is ON, meaning that you can attack other players at will."
-   dm_PK_DISABLE = "Currently, your PK status is OFF, meaning you can not kill or be killed by other players."
+   dm_PK_ENABLE = "Zur Zeit ist dein PK Status AN, was bedeutet, dass du andere Spieler nach Belieben angreifen kannst."
+   dm_PK_DISABLE = "Zur Zeit ist dein PK Status AUS, was bedeutet, dass du andere Spieler nicht töten bzw. nicht von ihnen getötet werden kannst."
 
-   dm_appeal_on = "You will now hear appeals."
-   dm_appeal_off = "You will no longer hear appeals."
-   dm_guest_appeal_on = "You will now hear guest appeals."
-   dm_guest_appeal_off = "You will no longer hear guest appeals."
-   dm_makesignetwork = "You have created a signet ring (i.e. newbie quest egg)."
-   dm_makesignetfail = "You were unable to create a signet ring at this time."
+   dm_appeal_on = "Du kannst jetzt die Rufe hören."
+   dm_appeal_off = "Du kannst jetzt keine Rufe mehr hören."
+   dm_guest_appeal_on = "Du kannst jetzt die Rufe von Gästen hören."
+   dm_guest_appeal_off = "Du kannst jetzt keine Rufe von Gästen mehr hören."
+   dm_makesignetwork = "Du hast einen Siegelring erstellt."
+   dm_makesignetfail = "Du kannst momentan keinen Siegelring erstellen."
 
    % Commands
-   dm_makemonster = "monster"
+   dm_makemonster = "Monster"
    dm_event_sign_command = "event sign"
    dm_makeitem = "item"
    dm_createsignet = "item signet ring"
@@ -106,76 +106,76 @@ resources:
    dm_roomgive_command = "roomgive"
    dm_gave_to_number = "%s players received reward!"
 
-   dm_stealth_on = "You are now in stealth mode."
-   dm_stealth_off = "You are no longer in stealth mode."
+   dm_stealth_on = "Du gehst jetzt heimlich vor."
+   dm_stealth_off = "Du gehst nicht mehr heimlich vor."
 
-   dm_plain = "You are now plain."
-   dm_blank = "You are now blank."
+   dm_plain = "Du bist nun deutlich sichtbar."
+   dm_blank = "Du bist nun verhüllt."
 
-   dm_no_longer = "This command no longer exists.  Type DM HELP for more info."
+   dm_no_longer = "Dieser Befehl existiert nicht mehr. Gebe DM HILFE ein, um mehr Infos zu erhalten."
    dm_old_makeMonster = "makemonster"
    dm_old_makeitem = "makeitem"
    dm_old_getall = "get all"
 
-   dm_hidden = "You are hidden from mortal eyes."
-   dm_not_hidden = "Your are no longer hidden from mortal eyes."
+   dm_hidden = "Du bist für sterbliche unsichtbar."
+   dm_not_hidden = "Du wirst für die Spieler wieder sichtbar."
 
-   dm_no_item = "No item with that name exists in the Meridian universe."
-   dm_no_monster = "No monster with that name exists in the Meridian universe."
-   dm_no_item_group = "There is no item group with that name."
+   dm_no_item = "Es existiert kein Gegenstand mit diesem Namen in der Welt von Meridian."
+   dm_no_monster = "Es gibt kein Monster mit diesem Namen in der Welt von Meridian."
+   dm_no_item_group = "Es existiert keine Gruppe von Gegenständen mit diesem Namen."
    dm_q = "Q"
    
-   dm_void = "%s reaches into the void and pulls forth %s%s!"
-   dm_call = "%s utters arcane syllables into the shadows, stirring the monsters."
-   dm_goodie = "%s calls upon the sky for holy energies."
-   dm_nuttie = "%s casts off the unbalanced influence of the gods."
-   dm_baddie = "%s calls upon the shadows for dark energies."
+   dm_void = "%s greift in das Dimensionstor. %s%s wird herausgezogen!"
+   dm_call = "%s murmelt magische Zauberformeln, und plötzlich erscheinen überall Monster."
+   dm_goodie = "%s ruft zum Himmel, um heilige Zauberkräfte zu bekommen."
+   dm_nuttie = "%s hebt den ungerechtfertigten Einfluss der Götter auf."
+   dm_baddie = "%s ruft die Schatten, um dunkle Zauberkräfte zu bekommen."
 
-   dm_guide_help = "You have very limited powers. \n"
-            "DM APPEAL ON/OFF turns on and off appeals.\n"
-            "DM GOOD, DM NEUTRAL, DM EVIL to shift your Karma appropriately.\n"
-            "DM TOTEM to get the totem.\n"
-            "DM RELIC <number/name> to get a special totem.\n"
-            "DM RUMBLE to make the room shake.\n"
-   dm_help = "DM APPEAL ON/OFF, DM STEALTH ON/OFF, "
-             "DM CLEAR ABILITIES, DM CLEAR INVENTORY, DM PK ENABLE, DM PK DISABLE, DM PK LOCK, DM PK UNLOCK, "             
-             "DM GET SPELLS, DM GET SKILLS, DM GET MONEY, DM BOOST STATS, DM GOOD, DM NEUTRAL, DM EVIL, "
-             "DM TOTEM, DM RELIC <number/name>, DM MONSTER <monster name>, DM ITEM <item name>, "
-             "DM GET <reagents/ food/ armor/ gems/ rings/ weapons/ necklaces/ potions/ sundries>"
-   dm_dontinterfere = "~B~gYou should not try to interfere with the game."
+   dm_guide_help = "Deine Macht ist sehr beschränkt.\n \nDM APPEAL ON/OFF schaltet die Rufe der Sterblichen ein und aus.\nDM GOOD, DM NEUTRAL, DM EVIL stellt Dein Karma auf gut, neutral oder böse ein.\nDM TOTEM ruft das Totem herbei.\nDM RELIC <Nummer/Name> ruft das zugehörige Relikt herbei.\nDM RUMBLE lässt den Raum kurz erbeben.\n"
 
-   dm_guide = "An official Guide of the land."
-   dm_sr_guide = "An official Senior Guide of the land."
-   dm_bard = "An official Bard of the land."
-   dm_sr_bard = "An official Senior Bard of the land."
-   dm_guardian = "An official Guardian of the land."
-   dm_designer = "One of the Designers of Meridian."
 
-   dm_budget_none_remain = "You have no remaining monster budget with which to create a %s."
-   dm_budget_not_authorized = "You are not authorized to create a %s."
-   dm_budget_no_limits_self = "You have no monster creation limits."
-   dm_budget_no_limits = "%s has no monster creation limits."
-   dm_budget_not_approved_self = "You are not currently approved to create monsters."
-   dm_budget_not_approved = "%s is not currently approved to create monsters."
-   dm_budget_authorized_self = "You are authorized to create the following types of monsters:\n%q\n"
-                               "(Note: Number in parentheses shows how many monsters would use up all your budget.)"
-   dm_budget_authorized = "%s is authorized to create the following types of monsters:\n%q"
-   dm_cant_find = "That Bard cannot be found."
 
-   testitemgenpoints_err = "You can't test the gen points here."
-   activateallgenpoints_err = "You can't test the gen points here."
-   exitpoints_err = "You can't test the exit points here."
+
+
+   dm_help = "DM APPEAL ON/OFF, DM STEALTH ON/OFF, DM CLEAR ABILITIES, DM CLEAR INVENTORY, DM PK ENABLE, DM PK DISABLE, DM PK LOCK, DM PK UNLOCK, DM GET SPELLS, DM GET SKILLS, DM GET MONEY, DM BOOST STATS, DM GOOD, DM NEUTRAL, DM EVIL, DM TOTEM, DM RELIC <Nummer/Name>, DM MONSTER <Monstername>, DM ITEM <Gegenstandsname>, DM GET <reagents/ food/ armor/ gems/ rings/ weapons/ necklaces/ potions/ sundries>, DM PORTAL (lässt das Portal in der Universität auftauchen und verschwinden)"
+
+
+
+
+   dm_dontinterfere = "~B~gDu solltest Dich nicht ins Spiel einmischen."
+
+   dm_guide = "Ein offizieller Guide des Landes."
+   dm_sr_guide = "Ein offizieller Seniorguide des Landes."
+   dm_bard = "Ein offizieller Barde des Landes."
+   dm_sr_bard = "Ein offizieller Seniorbarde des Landes."
+   dm_guardian = "Ein offizieller Wächter des Landes."
+   dm_designer = "Einer der Schöpfer von Meridian."
+
+   dm_budget_none_remain = "Du hast nicht genug Monster-Budget übrig, um %s zu erschaffen."
+   dm_budget_not_authorized = "Du bist nicht autorisiert, %s zu erschaffen."
+   dm_budget_no_limits_self = "Du kannst keine Monster erzeugen."
+   dm_budget_no_limits = "%s hat kein Monster-Erschaffen-Limit."
+   dm_budget_not_approved_self = "Dir ist momentan das Erschaffen von Monstern nicht erlaubt."
+   dm_budget_not_approved = "%s ist momentan nicht autorisiert, ein Monster zu erschaffen."
+   dm_budget_authorized_self = "Du darfst folgende Monster erschaffen: \n\%q\n(Anmerkung: die Nummer in den Klammern zeigt an, wieviele Monster Dein gesamtes Budget aufbrauchen würden.)"
+
+   dm_budget_authorized = "%s ist autorisiert, folgende Monster zu erschaffen: \n%q"
+   dm_cant_find = "Dieser Barde kann nicht gefunden werden."
+
+   testitemgenpoints_err = "Du kannst die Generierungspunkte hier nicht testen."
+   activateallgenpoints_err = "Du kannst die Generierungspunkte hier nicht testen."
+   exitpoints_err = "Du kannst die Exitpunkte hier nicht testen."
 
    invisible_admin_rsc = res0002o.bgf
 
    % Spell messages
-   dm_spell_base = "~B[%s cast %s%s%s.]"
+   dm_spell_base = "~B[%s zaubert %s%s%s.]"
    dm_spell_blank = ""
-   dm_spell_on = " on "
-   dm_spell_a_group = "a group"
-   dm_spell_you = "you"
+   dm_spell_on = " auf "
+   dm_spell_a_group = "eine Gruppe"
+   dm_spell_you = "Du"
 
-   dm_server = "server"
+   dm_server = "Server"
 
 classvars:
 
@@ -619,6 +619,7 @@ messages:
       {
          propagate;
       }
+	  DEBUG("DM-LOG: ",vrName,": ", String);
 
       % These checks seem to do double-duty, but this is so other countries can 
       %  localize the words yet English speaking admins can still use the system.
@@ -2396,3 +2397,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

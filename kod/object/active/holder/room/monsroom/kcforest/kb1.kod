@@ -16,8 +16,8 @@ constants:
 
 resources:
    room_OutdoorsKB1 = KB1.roo
-   room_name_OutdoorsKB1 ="The Cliffs"
-   OutdoorsKB1_music = drgnfly.mid
+   room_name_OutdoorsKB1 = "Die Klippen"
+   OutdoorsKB1_music = drgnfly.mp3
 
 classvars:
 
@@ -92,3 +92,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

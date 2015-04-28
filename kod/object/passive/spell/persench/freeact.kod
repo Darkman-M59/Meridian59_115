@@ -20,25 +20,25 @@ constants:
 
 resources:
 
-   FreeAction_name_rsc = "free action"
+   FreeAction_name_rsc = "Fairer Kampf"
    FreeAction_icon_rsc = ifreeact.bgf
-   FreeAction_desc_rsc = \
-      "Kraanan's love of battle helps repel magic which might hinder "
-      "your movements, and thus the liberal dispensation of lusty blows.  "
-      "Requires red mushrooms and purple mushrooms to cast."
-   
-   FreeAction_on_rsc = \
-      "You feel a rush of energy and fluid motion throughout your body."
-   FreeAction_off_rsc= "Your strange feeling of freedom subsides."
-   FreeAction_already_enchanted_rsc = "You already have free action."
-   FreeAction_succeed_rsc = "You grant free action to %s%s."
+   FreeAction_desc_rsc = "Kraanans Liebe zur Schlacht hilft Dir dabei, lähmende Magie abzuwehren und ermöglicht Dir somit einen gerechteren Kampf. Dieser Zauber benötigt lila und rote Pilze."
 
-   FreeAction_resist = "You can feel Kraanan's magic working to free you."
-   FreeAction_evade = "You evade an attempt to restrict your movement."
-   FreeAction_resist_caster = \
-      "You sense a force struggling to break free of your magic."
-   FreeAction_evade_caster = \
-      "Kraanan's magic prevents you from hindering the free flow of battle."
+
+
+   
+   FreeAction_on_rsc = "Du fühlst, wie Dich eine Energiewelle durchströmt und Deine Bewegungen flüssiger erscheinen läßt."
+
+   FreeAction_off_rsc = "Das seltsame Gefühl der Freiheit verlässt Dich wieder."
+   FreeAction_already_enchanted_rsc = "Du bist bereits auf einen fairen Kampf vorbereitet."
+   FreeAction_succeed_rsc = "Du ermöglichst %s%s einen fairen Kampf."
+
+   FreeAction_resist = "Du kannst die Kräfte Kraanans spüren, die Dich befreien."
+   FreeAction_evade = "Du bemerkst einen Versuch, Deine Bewegungsfreiheit einzuschränken."
+   FreeAction_resist_caster = "Du spürst eine Kraft, die gegen Deine Bewegungsfreiheit ankämpft."
+
+   FreeAction_evade_caster = "Kraanan's Magie schützt Dich davor, von anderen daran gehindert zu werden das Schlachtfeld zu verlassen."
+
 
    FreeAction_sound = kfreeact.wav
 
@@ -141,3 +141,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   room_name_OutdoorsKD4 ="The Clearing of the Trading Post"
+   room_name_OutdoorsKD4 = "Die Lichtung des Handelspostens"
    room_OutdoorsKD4 = KD4.roo
-   OutdoorsKD4_music = boneprst.mid
+   OutdoorsKD4_music = boneprst.mp3
 
-   OutdoorsKD4_outbuilding_locked = "You may not enter the outbuilding."
-   OutdoorsKD4_smokehouse_locked = "The smokehouse is locked."
-   OutdoorsKD4_guardshack_locked = "The guard shack is locked."
+   OutdoorsKD4_outbuilding_locked = "Du darfst nicht eintreten."
+   OutdoorsKD4_smokehouse_locked = "Das Räucherhaus ist verschlossen."
+   OutdoorsKD4_guardshack_locked = "Die Wachhütte ist verschlossen."
 
 classvars:
 
@@ -106,3 +106,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -18,20 +18,20 @@ constants:
 
 resources:
 
-   Relay_cast_rsc = "You feel the vigor of another filling your body."
-   Relay_caster_msg_rsc = "You give part of your vigor to %s%s."
+   Relay_cast_rsc = "Du fühlst, wie Dich die Ausdauer einer anderen Person durchströmt."
+   Relay_caster_msg_rsc = "Du überträgst einen Teil Deiner Ausdauer auf %s%s."
 
-   Relay_name_rsc = "relay"
+   Relay_name_rsc = "Auffrischen"
    Relay_icon_rsc = irelay.bgf
-   Relay_desc_rsc = \
-      "The might of Kraanan allows you to give part of your vigor to another person.  "
-      "Requires an edible mushroom to cast."
+   Relay_desc_rsc = "Die Macht Kraanans erlaubt es Dir, einen Teil Deiner Ausdauer an eine andere Person zu übertragen. Der Zauber benötigt genießbare Pilze."
 
-   Relay_unnecessary_rsc = "%s%s cannot handle additional vigor from this spell."
-   Relay_toolow_rsc = "You do not have enough vigor to transfer to another!"
-   Relay_notonself_rsc = "You cannot cast Relay on yourself."
 
-   Relay_spell_intro = "Kraanan Lv. 1: Gives part of caster's vigor to another person."
+
+   Relay_unnecessary_rsc = "%s%s kann keine weitere Ausdauer von Dir aufnehmen."
+   Relay_toolow_rsc = "Du hast nicht genug Ausdauer um sie an Andere zu übertragen!"
+   Relay_notonself_rsc = "Du kannst Dir nicht selbst Ausdauer übertragen."
+
+   Relay_spell_intro = "Kraanan Zirkel 1: Gibt einen Teil der Ausdauer des Zaubernden einer anderen Person."
 
    Relay_sound = krelay.wav
 
@@ -156,3 +156,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

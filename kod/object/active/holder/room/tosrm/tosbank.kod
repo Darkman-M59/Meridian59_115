@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   room_name_tosbank = "First Royal Bank of Tos"
+   room_name_tosbank = "Königliche Bank von Tos"
    room_tosbank = tosbank.roo
-   tosbank_music = bank.mid
+   tosbank_music = bank.mp3
 
-   tosbank_sign = \
-      "Use the deposit, withdraw (amount), and balance commands to access "
-      "your bank account."
+   tosbank_sign = "Benutze die Befehle EINZAHLEN, ABHEBEN und KONTOSTAND, um auf Dein Konto zuzugreifen."
+
+
 
 classvars:
 
@@ -85,3 +85,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

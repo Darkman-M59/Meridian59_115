@@ -18,18 +18,18 @@ constants:
    DISARM_FACTOR = 10            % Divide raw success total by this number before taking percent chance.
 
 resources:
-   Disarm_name_rsc = "disarm"
+   Disarm_name_rsc = "Entwaffnen"
    Disarm_icon_rsc = idisarm.bgf
-   Disarm_desc_rsc = "A technique that allows a warrior to strike at his or her opponent's weapon.  Often "
-                     "successful use of this skill will put the opponent at a disadvantage, and occasionally "
-                     "throw the weapon from an opponent's grasp."
-                     
-   Disarm_skill_intro = "Weaponcraft Lv. 5: The ability to press on even when exhausted."
+   Disarm_desc_rsc = "Eine Technik, die es einem Krieger erlaubt, die Waffe seines Gegners zu treffen. Oft erfolgreich angewendet, kann es den Gegner in einen Nachteil bringen und gelegentlich dazu führen, dass der Gegner seine Waffe verliert."
 
-   Disarm_unwield = "You have put %s%s at a disadvantage."
-   Disarm_opp_unwield = "%s%s's strike causes you to fumble your weapon."
-   Disarm_dropped = "You have disarmed %s%s!"
-   Disarm_opp_dropped = "%s%s's strike has thrown your weapon from your hands!"
+
+                     
+   Disarm_skill_intro = "Waffenzirkel 5: Die Fähigkeit, selbst bei völliger Erschöpfung weiterzumachen."
+
+   Disarm_unwield = "%s%s wurde von Dir in eine ungünstige Lage gebracht."
+   Disarm_opp_unwield = "%s%s führt einen genauen Schlag aus und Du verlierst für einen Moment die Gewalt über Deine Waffe."
+   Disarm_dropped = "%s%s wurde von Dir entwaffnet!"
+   Disarm_opp_dropped = "%s%s schlägt Dir Deine Waffe aus der Hand!"
 
 classvars:
 
@@ -188,3 +188,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

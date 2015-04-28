@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   SnowRat_name_rsc = "snow rat"
+   SnowRat_name_rsc = "Die Schneeratte"
    SnowRat_icon_rsc = srat.bgf
-   SnowRat_desc_rsc = \
-      "This is the ice-born cousin of the mainland vermin.  It is "
-      "less disgusting by nature, but by far a more challenging foe."
+   SnowRat_desc_rsc = "Dies ist der im Schnee geborene Vetter des Festlandungeziefers. Er ist von Natur aus weniger abstoﬂend, ist jedoch als Gegner viel ernster zu nehmen."
+
+
    SnowRat_koc_name_rsc = "shonapyijoa"
 
    SnowRat_dead_icon_rsc = sratX.bgf
-   SnowRat_dead_name_rsc = "dead snow rat"
+   SnowRat_dead_name_rsc = "Eine tote Schneeratte"
 
    SnowRat_sound_hit = rat_atkh.wav
    SnowRat_sound_miss = rat_atkm.wav
@@ -114,3 +114,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

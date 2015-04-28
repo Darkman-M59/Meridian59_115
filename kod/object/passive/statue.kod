@@ -27,8 +27,8 @@ constants:
 
 resources:
  
-   Statue_name_rsc = "statue"
-   Statue_desc_rsc = "This is a statue of %q, a great adventurer."
+   Statue_name_rsc = "Die Statue"
+   Statue_desc_rsc = "Dies ist die Statue von %q, einem groﬂen Abenteurer."
 
    statue_default_male_icon = bta.bgf
    statue_default_male_larm = bla.bgf
@@ -628,3 +628,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -20,13 +20,13 @@ constants:
 
 resources:
 
-   RoomMaintenance_room_already = "You already have a room here."
-   RoomMaintenance_no_rental_fee = "You have no money to rent a room."
+   RoomMaintenance_room_already = "Du hast hier schon ein Zimmer."
+   RoomMaintenance_no_rental_fee = "Du besitzt nicht genug Geld, um ein Zimmer zu mieten."
 
-   RoomMaintenance_key_copied = "Here is a copy of your room key."
-   RoomMaintenance_no_key = "Where is the key from this inn to copy?"
-   RoomMaintenance_no_copy_copy = "You may not copy a copy of a room key."
-   RoomMaintenance_copy_no_money = "You cannot afford a copy of your room key."
+   RoomMaintenance_key_copied = "Hier ist ein Duplikat Deines Zimmerschlüssels."
+   RoomMaintenance_no_key = "Wo ist der Schlüssel zum Kopieren?"
+   RoomMaintenance_no_copy_copy = "Du kannst kein Duplikat von einem Duplikat herstellen."
+   RoomMaintenance_copy_no_money = "Du kannst Dir kein Duplikat Deines Zimmerschlüssels leisten."
 
 properties:
 
@@ -313,3 +313,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

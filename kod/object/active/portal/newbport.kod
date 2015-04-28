@@ -20,16 +20,16 @@ constants:
 
 resources:
 
-   newbportal_desc_rsc = \
-      "Entering this portal strips you of your training gear and brings you into the "
-      "mainland of Meridian 59, never to return."
+   newbportal_desc_rsc = "Solltest Du dieses Portal durchschreiten, verlierst Du Deine gesamte Trainingsausrüstung und wirst in der eigentlichen Welt von Meridian wiedergeboren. Ein Zurück nach Raza gibt es dann nicht mehr."
 
-   newbportal_dead = "This archway stands cold and inanimate."
-   newbportal_enter = "You enter the portal and begin your adventure in Meridian 59!"
-   newbportal_warning = \
-      "~BWarning~B: If you enter this portal, you will not be able to return to Raza.  "
-      "Only enter this portal if you are confident in your skills.  For more information "
-      "read (right-click) on the sign to the right of this portal."
+
+
+   newbportal_dead = "Dieses Portal ist kalt und pulsiert nicht voller Energie."
+   newbportal_enter = "Du durchschreitest das Portal und beginnst Deine abenteuerliche Reise durch die Welten des 59. Meridians!"
+   newbportal_warning = "~BWarnung~B: Wenn du durch dieses Portal schreitest, wirst du nicht in der Lage sein, nach Raza zurückzukehren. Betrete dieses Portal erst dann, wenn du mit deinen Fähigkeiten vertraut bist. Für weitere Informationen lies (Rechtsklick) das Schild rechts neben diesem Portal."
+
+
+
 
 classvars:
 
@@ -103,3 +103,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

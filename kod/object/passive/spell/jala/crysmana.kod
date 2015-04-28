@@ -16,22 +16,21 @@ constants:
 
 resources:
 
-   CrystalizeMana_name_rsc = "crystalize mana"
+   CrystalizeMana_name_rsc = "Mana kristallisieren"
    CrystalizeMana_icon_rsc = icrysman.bgf
-   CrystalizeMana_desc_rsc = \
-      "This song catches the mana expended in singing, crystalizing it into "
-      "a physical form.  The mana crystal stores the mana for later use, in "
-      "essence allowing the singer to store extra mana.  Only one crystal at "
-      "a time can be created by a singer, but the longer this song is sung, "
-      "the more mana that is stored in the crystal.  Since the mana is "
-      "attuned to the singer, the crystal cannot be shared with others.  "
-      "This song requires 1 sapphire and 1 uncut seraphym to sing."
+   CrystalizeMana_desc_rsc = "Dieses Lied fängt das während des Singens aufgebrauchte Mana in Form eines Kristalls ein. Dieser Manakristall speichert das Mana zum späteren Verbrauch. Es kann nur ein einziger Kristall erzeugt werden, aber je länger das Lied gesungen wird, desto mehr Mana wird in ihm gespeichert. Da der Kristall auf den Sänger abgestimmt ist, kann er nicht mit anderen geteilt werden. Dieses Lied benötigt einen Sapphir und einem ungeschnittenen Seraphym."
 
-   CrystalizeMana_song = song06.mid
 
-   CrystalizeMana_no_room = \
-      "You stop singing once you realize you won't be able to hold the mana "
-      "crystal."
+
+
+
+
+
+
+   CrystalizeMana_song = song06.mp3
+
+   CrystalizeMana_no_room = "Du hörst auf zu singen als du feststellst daß du den Manakristall nicht festhalten kannst."
+
 
 classvars:
 
@@ -117,3 +116,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,12 +17,12 @@ resources:
 
    page_wave_rsc = god2god.wav
 
-   page_name_rsc = "page"
+   page_name_rsc = "Wecken"
    page_icon_rsc = light.bgf
-   page_desc_rsc = "Sends your target a little funny noise, to wake them if they are away from keyboard."
+   page_desc_rsc = "Schickt Deinem Ziel ein kleines, lustiges Geräusch, um sie aufmerksam zu machen."
 
-   page_msg_DM = "You page %s%s."
-   page_msg_target = "You have been paged by %s%s."
+   page_msg_DM = "Du rüttelst %s%s wach."
+   page_msg_target = "~B~r%s%s schüttelt Dich solange, bist Du aufwachst."
 
 
 classvars:
@@ -79,3 +79,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

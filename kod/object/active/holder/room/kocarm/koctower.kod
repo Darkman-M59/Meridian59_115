@@ -17,16 +17,16 @@ constants:
 resources:
 
    room_koctower = koctower.roo
-   room_name_koctower = "The East Tower"
-   koctower_music = song12.mid
+   room_name_koctower = "Der Ostturm"
+   koctower_music = song12.mp3
 
-   koctowereast_guarddoor1 = "~kThe soldier says, \"You there, get away from that door.\""
-   koctowereast_barracks = "The barracks are off limits to non-military personnel."
-   koctowereast_citadelgate = "A locked gate prevents you from entering The Citadel."
-   koctowereast_dungeons = "The door to the central dungeons is locked.  You may not enter."
-   koctowereast_wall = "You are not authorized to go into the wall."
-   koctowereast_guarddoor2 = "~kThe soldier says, \"Hey, stay out of there.\""
-   koctowereast_lockedgate = "The gate is securely locked."
+   koctowereast_guarddoor1 = "~kDer Soldat sagt, \"Du da, geh' von der Tür weg!\""
+   koctowereast_barracks = "Die Kaserne darf nur von Militärpersonal betreten werden."
+   koctowereast_citadelgate = "Ein verriegeltes Tor hindert Dich am Betreten der Zitadelle."
+   koctowereast_dungeons = "Die Tür zum Zentralverlies ist verschlossen. Du kannst nicht eintreten."
+   koctowereast_wall = "Du hast keine Erlaubnis, den großen Wall zu betreten."
+   koctowereast_guarddoor2 = "~kDer Soldat sagt, \"Hey, bleib da weg!.\""
+   koctowereast_lockedgate = "Das Tor ist fest verschlossen."
 
 
 classvars:
@@ -203,3 +203,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

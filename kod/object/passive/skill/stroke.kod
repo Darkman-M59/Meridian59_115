@@ -17,18 +17,18 @@ constants:
    HITVALUE_MAX = 100
 
 resources:
-   stroke_name_rsc = "Weapon stroke"
+   stroke_name_rsc = "Schlag mit der Waffe"
    stroke_icon_rsc = light.bgf
-   stroke_desc_rsc = "This is a weapon stroke."
+   stroke_desc_rsc = "Das ist ein Schlag mit der Waffe."
 
-   stroke_need_weapon_rsc = "You need a weapon to perform this stroke!"
+   stroke_need_weapon_rsc = "Du benötigst eine Waffe, um diesen Schlag auszuführen!"
 
-   stroke_miss_attacker = "%sYour %s misses %s%s."
-   stroke_miss_defender = "%s%s misses you."
+   stroke_miss_attacker = "%sDein %s hat nicht getroffen. %s%s ist geschickt ausgewichen."
+   stroke_miss_defender = "%s%s verfehlt Dich."
    stroke_miss_sound = swordmis.wav
 
-   stroke_hit_attacker = "%sYour %s hits %s%s."
-   stroke_hit_defender = "%s%s hits you."
+   stroke_hit_attacker = "%s Dein %s trifft %s%s."
+   stroke_hit_defender = "%s%s trifft Dich."
 
    stroke_hit_sound = patk.wav
 
@@ -363,3 +363,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

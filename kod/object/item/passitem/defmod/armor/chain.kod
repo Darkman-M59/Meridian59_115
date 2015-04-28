@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   chainarmor_name_rsc = "chain armor"
+   chainarmor_name_rsc = "Das Kettenhemd"
    chainarmor_icon_rsc = chainamr.bgf
-   chainarmor_desc_rsc = \
-      "Thousands of tiny, steel links make up this chain "
-      "armor.  Although light and reasonably comfortable, it "
-      "provides a fair measure of protection."
+   chainarmor_desc_rsc = "Dieses Kettenhemd besteht aus ein paar tausend winzigen Eisenringen. Obwohl es relativ leicht ist, bietet es verblüffend guten Schutz."
+
+
+
 
    chainarmor_male_icon_rsc = btk.bgf
    chainarmor_female_icon_rsc = btl.bgf
@@ -71,3 +71,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -22,65 +22,65 @@ constants:
 resources:
 
    assassin_name_rsc = "Roq"
-   assassin_mailname_rsc = "Roq the Dark Blade"
+   assassin_mailname_rsc = "Roq, die dunkle Klinge"
 
    assassin_icon_rsc = assassin.bgf
-   assassin_desc_rsc = \
-      "There is a malevolent, otherworldly quality to this man.  He clings to "
-      "the shadows of this vile place, a servant to some dark power."
+   assassin_desc_rsc = "Diesen Mann umgibt eine missgünstige, ins Jenseits gerichtete Aura. Er hängt an den Schatten dieses schändlichen Ortes, ein Diener irgendeiner dunklen Macht."
+
+
 
    assassin_eyes_rsc = asseyes.bgf
 
-   assassin_help = "Say 'blade' to get a weapon for the next game.  Say "
-      "'quit' to hand your blade back in.  Say 'advertise' to be told when a "
-      "fight starts.  Say 'no advertise' if you do not wish to be informed of "
-      "current developments."
+   assassin_help = "Sag DOLCH, um eine Waffe für das nächste Spiel zu bekommen. Sag AUFGEBEN, um den Dolch zurückzugeben. Sag BENACHRICHTIGUNG, damit ich Dir mitteilen kann, wann das nächste Spiel beginnt. Sag KEINE BENACHRICHTIGUNG, wenn Du nicht informiert werden möchtest."
 
-   assassin_in_session = \
-      "~IYou may not join in while a game is in session.  %s."
-   assassin_is_advertised = "However, I will let you know when the next starts"
-   assassin_is_not_advertised = \
-      "Say 'advertise' if you want to be told when the next one starts"
-   assassin_already_combatant = "~IYou are already marked."
-   assassin_not_ready = "~IYou are not ready."
 
-   assassin_new_combatant = "~IHere is your blade."
-   assassin_not_combatant = \
-      "~IYou may not quit something that you are not taking part in."
-   assassin_quit_combatant = \
-      "~IAllow me to take your blade, as your cowardice prevents you from "
-      "victory."
-   assassin_not_yet = \
-      "~II am not accepting combatants at this time.  Say 'advertise' if you "
-      "wished to be notified when I do."
 
-   assassin_advert = "~II will let you know when things start to happen."
-   assassin_already_advert = \
-      "~IYou are already in the know. Trouble me no further."
-   assassin_stop_advert = "~II shall trouble you no longer."
-   assassin_not_advert = \
-      "~II have not troubled you of late.  I know not of what you speak."
 
-   assassin_no_game = \
-      "~IThere is currently no game in progress.  DM ACCEPT MODE to begin "
-      "accepting combatants."
-   assassin_already_game = \
-      "~IThere is already a game in progress.  DM RESET GAME will end it."
-   assassin_not_viable = \
-      "~IThere are not enough combatants in the game yet.  DM ACCEPT MODE "
-      "to allow more people to join."
-   assassin_in_accept = \
-      "~IThe game is already in accept mode.  Have players say 'blade' to the "
-      "assassin to enter the match."   
+   assassin_in_session = "~IDu kannst nicht einsteigen, wenn schon ein Spiel läuft. %s."
+
+   assassin_is_advertised = "Ich werde Dich in jedem Fall wissen lassen, wann das nächste Spiel beginnt."
+   assassin_is_not_advertised = "Sag BENACHRICHTIGUNG, wenn ich Dir mitteilen soll, wann das nächste Spiel beginnt."
+
+   assassin_already_combatant = "~IDu bist schon geächtet."
+   assassin_not_ready = "~IDu bist noch nicht so weit."
+
+   assassin_new_combatant = "~IHier ist Dein Dolch."
+   assassin_not_combatant = "~IDu kannst einen Wettbewerb nicht verlassen, an dem Du nicht teilgenommen hast."
+
+   assassin_quit_combatant = "~IErlaube mir, Deine Klinge zurückzunehmen, denn Deine Feigheit verhindert, dass Du gewinnst."
+
+
+   assassin_not_yet = "~IIch nehme momentan keine Mitspieler auf. Sag BENACHRICHTIGUNG, wenn ich Dich informieren soll, wann das nächste Spiel beginnt."
+
+
+
+   assassin_advert = "~IIch werde es Dir mitteilen, wenn das Spiel beginnt."
+   assassin_already_advert = "~IDu bist schon auf der Liste. Geh' mir nicht auf die Nerven."
+
+   assassin_stop_advert = "~IIch gebe Dir nun keine Informationen mehr."
+   assassin_not_advert = "~IIch habe Dir nicht vorgeworfen, zu spät zu erscheinen. Ich weiß nicht, wovon Du redest."
+
+
+   assassin_no_game = "~IMomentan läuft kein Spiel. DM ACCEPT MODE, um ein neues Spiel zu beginnen."
+
+
+   assassin_already_game = "~IMomentan läuft ein Spiel. DM RESET GAME, um es zu beenden."
+
+   assassin_not_viable = "~IEs sind noch nicht genügend Teilnehmer. DM ACCEPT MODE, um Leute teilnehmen zu lassen."
+
+
+   assassin_in_accept = "~IDieses Spiel lässt weitere Teilnehmer zu. Lass Spieler DOLCH sagen, um teilzunehmen."
+
+
 
    % Append "word" on the end of help since assassin_help was already taken.
-   assassin_help_word = "help"
-   assassin_blade = "blade"
-   assassin_quit = "quit"
-   assassin_advertise = "advertise"
-   assassin_no_advertise = "no advertise"
+   assassin_help_word = "hilfe"
+   assassin_blade = "Dolch"
+   assassin_quit = "Aufgeben"
+   assassin_advertise = "Benachrichtigung"
+   assassin_no_advertise = "Keine Benachrichtigung"
 
-   assassin_goodbye_angel = "goodbye angel"
+   assassin_goodbye_angel = "Machs gut, Schutzengel"
 
    assassin_reset_game = "reset game"
    assassin_start_game = "start game"
@@ -370,3 +370,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

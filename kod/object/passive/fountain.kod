@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   fountain_name_rsc = "fountain"
+   fountain_name_rsc = "Der Brunnen"
    fountain_icon_rsc = fountain.bgf
-   fountain_desc_tos_rsc = "This masterpiece is made of carefully shaped marble. Artfully placed jets spray water into the air and cool any who stand near it.  This fountain was reputedly made by the tinkerer Froz himself, and has become a common meeting place in the world of Meridian."
-   fountain_desc_rsc = "While ornate and beautiful, it is clear upon closer inspection that this fountain is merely an imitation of Froz' masterpiece in the city square of Tos."
+   fountain_desc_tos_rsc = "Dieses Bauwerk ist von bezaubernder Schönheit. Düsen sprühen Wasser in die Luft und geben denen Erfrischung, die nahe genug am Brunnen stehen. Der Brunnen soll vom Magier Froz erbaut worden sein und ist seither ein beliebter Treffpunkt in Meridian."
+   fountain_desc_rsc = "Bei näherer Betrachtung ist ersichtlich, dass dieser Brunnen nur eine billige Imitation des Meisterwerkes von Froz ist, welches im Zentrum von Tos steht."
 
    fountain_water_rsc = fountwat.bgf
    fountain_sound_rsc = fountain.wav
@@ -28,10 +28,11 @@ classvars:
 
    vrName = fountain_name_rsc
    vrIcon = fountain_icon_rsc
+   vrDesc = fountain_desc_rsc
    
 properties:
 
-   vrDesc = fountain_desc_rsc
+   
 
    piSoundRadius = 40
    piSoundIntensity = 100
@@ -171,4 +172,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

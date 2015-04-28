@@ -15,21 +15,21 @@ constants:
 
 resources:
 
-   Evaluate_name_rsc = "evaluate"
+   Evaluate_name_rsc = "Auswerten"
    Evaluate_icon_rsc = lightnin.bgf
 
-   allinroom_Evaluate_msg1 = "~b%s%s deeply plunges into the soul of %s%s."
-   allinroom_Evaluate_msg2 = "~bYou tingle as %s%s stares deep into the soul of %s%s."
+   allinroom_Evaluate_msg1 = "~b%s%s taucht tief in die Seele von %s%s ein."
+   allinroom_Evaluate_msg2 = "~bDu erschauderst, als %s%s %s%s tief in Deine Seele blickt."
 
-   caster_Evaluate_msg = "~bYou stare deeply at %s%s."
-   Evaluated_Evaluate_msg = "~b%s%s looks deeply into your eyes."
-   Evaluate_desc_rsc = \
-   "This gazes deep into a person's eyes, and judges their odds of gaining another health point."
+   caster_Evaluate_msg = "~bDu schaust %s%s eindringlich an."
+   Evaluated_Evaluate_msg = "~b%s%s schaut Dir tief in die Augen."
+   Evaluate_desc_rsc = "Man greift nach der Seele, um bewerten zu können, wie die Chancen stehen, einen weiteren Gesundheitspunkt zu erlangen."
 
-   Evaluate_message_nochance = "%s has no chance of gaining a hit point, but will in about %i kills."
-   Evaluate_Message = "%s has a %i out of %i chance (%i percent) of gaining a health point with each kill."
-   evaluate_monster = "%s should concentrate on killing monsters at about %s ability level, such as %ss and %ss."
-   Evaluate_combat = "~BCombat stats: ~B%s has an Offense of %i, Defense of %i, and can do around %i points of type %i (physical) and %i (spell) damage."
+
+   Evaluate_message_nochance = "%s hat keine Chance, einen Lebenspunkt zu erhalten, dazu fehlen noch etwa %i erfolgreiche Kämpfe."
+   Evaluate_Message = "%ss Chancen stehen %i zu %i (%i Prozent), mit jedem erfolgreichen Kampf einen Gesundheitspunkt zu erlangen."
+   evaluate_monster = "%s sollte sich darauf konzentrieren, folgende Monster %s zu töten: %s, %s."
+   Evaluate_combat = "~BKampfwerte: ~B%s hat einen Offensivwert von %i, einen Defensivwert von %i, und macht ca. %i Punkte Schaden mit %i (Waffe) und %i (Zauber)."
 
 classvars:
    vrName = Evaluate_name_rsc
@@ -170,3 +170,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

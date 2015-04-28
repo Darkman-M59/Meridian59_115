@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   hammerproficiency_name_rsc = "hammer wielding"
+   hammerproficiency_name_rsc = "Hammerkampf"
    hammerproficiency_icon_rsc = hammrico.bgf
-   hammerproficiency_desc_rsc = "This allows the user to use all manner of hammers more proficiently."
+   hammerproficiency_desc_rsc = "Dies erlaubt es dem Anwender, jede Art von Hammer mit größerem Erfolg zu benutzen."
       
 
 classvars:
@@ -43,4 +43,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

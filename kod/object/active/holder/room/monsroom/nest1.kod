@@ -21,13 +21,13 @@ constants:
 
 resources:
 
-   room_name_nest1 = "The Spider Nest"
+   room_name_nest1 = "Das Spinnennest"
    room_nest1 = nest1.roo
 
-   nest1_music = song00.mid
+   nest1_music = song00.mp3
 
-   Nest_to_Cave_1 = "~r~B>Ouch<~n  You fall through a hole in the floor, landing squarely on your rump."
-   Nest_to_Cave_2 = "You hop through a hole in the floor to a cave below."
+   Nest_to_Cave_1 = "~r~B>Autsch<~n Du fällst durch ein Loch im Boden und landest unsanft auf Deinem Hinterteil."
+   Nest_to_Cave_2 = "Du springst durch ein Loch im Boden in eine unterirdische Höhle."
 
 classvars:
 
@@ -140,3 +140,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

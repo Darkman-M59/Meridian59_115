@@ -19,46 +19,46 @@ constants:
 
 resources:
 
-   Shrine_name_rsc = "shrine"
+   Shrine_name_rsc = "Der Schrein"
    Shrine_icon_rsc = shrine.bgf
-   Shrine_desc_rsc = \
-      "Gods favor those who strengthen their realm on earth by giving them "
-      "places of worship.  Perhaps if you were to make a proper offering "
-      "here, your god would be pleased.\n\n%s"
+   Shrine_desc_rsc = "Die Götter bevorzugen jene, die ihr Königreich auf Erden stärken, indem sie ihnen Plätze geben, um ihnen zu huldigen. Wenn du hier eine angemessene Spende abgibst, könnte das Deinem Gott gefallen.\n\n%s"
+
+
+
 
    Shrine_noone = ""
-   Shrine_dedicated = "The %s is currently dedicated to %s."
+   Shrine_dedicated = "%s ist zur Zeit %s geweiht."
 
-   Shrine_not_in_range = \
-      "You are not close enough to the shrine to commune with it."
+   Shrine_not_in_range = "Du bist nicht nah genug an dem Schrein, um mit ihm kommunizieren zu können."
 
-   Shrine_meld = "You kneel down before the shrine, offering your gifts."
-   Shrine_satisfied = "The shrine seems satisfied by the %s."
 
-   Shrine_Shalille_text = \
-      "You are seized by a sense of sudden well being, as though you were "
-      "being held and comforted."
+   Shrine_meld = "Du kniest vor dem Schrein nieder und bietest Deine Opfergabe dar."
+   Shrine_satisfied = "%s scheint kurz über dem Schrein zu schweben und löst sich dann auf. Der Schrein ist jetzt geweiht."
+
+   Shrine_Shalille_text = "Du wirst ergriffen von dem Gefühl plötzlicher Zufriedenheit, so als würdest Du behutsam gehalten und getröstet."
+
+
    Shrine_Shalille_sound = shalille.wav
-   Shrine_Qor_text = \
-      "A chill runs up your spine and the shadows seem suddenly darker and "
-      "more foreboding."
+   Shrine_Qor_text = "Ein Schauer läuft Dir über den Rücken und die Schatten sehen plötzlich viel dunkler und unheilsvoller aus."
+
+
    Shrine_Qor_sound = qor.wav
-   Shrine_Kraanan_text = \
-      "A sudden triumphant call of victory splits the heavens."
+   Shrine_Kraanan_text = "Ein triumphaler Siegesschrei durchbricht den Himmel."
+
    Shrine_Kraanan_sound = kraanan.wav
-   Shrine_Faren_text = \
-      "A massive crash of the elements reverberates through the shuddering air."
+   Shrine_Faren_text = "Ein gewaltiger Donnerschlag läßt die Luft erzittern."
+
    Shrine_Faren_sound = faren.wav
-   Shrine_Riija_text = "Mischievous noises cascade down from the heavens."
+   Shrine_Riija_text = "Ein unheilvolles Gelächter schallt vom Himmel herab."
    Shrine_Riija_sound = riija.wav
-   Shrine_Jala_text =  "A sweet song drifts lazily through the air."
+   Shrine_Jala_text = "Eine liebliche Musik hängt in der Luft."
    Shrine_Jala_sound = nodeup.wav
 
-   Shrine_unsatisfied = "The shrine finds nothing to its liking."
-   Shrine_mana_boost = \
-      "Your body thrills to a rush of magical energy from the shrine."
+   Shrine_unsatisfied = "Dem Schrein gefällt nichts davon."
+   Shrine_mana_boost = "Dein Körper zittert durch den Zufluß magischer Ströme, die von dem Schrein ausgehen."
 
-   shrine_trance_break = "Your prayer ends abruptly."
+
+   shrine_trance_break = "Dein Gebet endet unvermittelt."
    shrine_trance_break_sound = spelfail.wav
 
 
@@ -238,4 +238,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

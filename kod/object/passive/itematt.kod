@@ -27,8 +27,8 @@ constants:
 
 resources:
 
-   attribute_desc_default = "  This item appears enchanted in some way."
-   attribute_name_default = "special %s"
+   attribute_desc_default = "Dieser Gegenstand scheint irgendwie verzaubert zu sein."
+   attribute_name_default = "besonderer %s"
 
 classvars:
 
@@ -586,3 +586,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

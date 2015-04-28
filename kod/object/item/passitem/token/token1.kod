@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   OneToken_name_rsc = "runed coffer token"
-   OneToken_desc_rsc = \
-      "Covered in mysterious runes said to explain the workings of spells, the "
-      "token is unreadable by all except the Councilor who studies it."
+   OneToken_name_rsc = "Die runenverzierte Truhe"
+   OneToken_desc_rsc = "Nur das Ratsmitglied, das das mit mysteriösen Runen bedeckte Artefakt studiert, kann aus ihm die Funktionsweise der Zaubersprüche lesen."
+
+
    OneToken_icon_rsc = eyebox.bgf
 
    % Overlays not implemented yet.
@@ -42,3 +42,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

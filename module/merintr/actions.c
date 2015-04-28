@@ -22,20 +22,20 @@ typedef struct {
 } Action;
 
 static Action actions[] = {
-  { IDM_WHO,      IDS_MENU_WHO,      "who",     },
-  { IDM_GROUP,    IDS_MENU_GROUP,    "group",   },
-  { IDM_ALIAS,    IDS_MENU_ALIAS,    "alias",   },
-  { IDM_VERBALIAS,IDS_MENU_CMDALIAS, "cmdalias",},
-  { IDM_GUILD,    IDS_MENU_GUILD,    "guild",   },
+  { IDM_WHO,      IDS_MENU_WHO,      "wer spielt?",     },
+  { IDM_GROUP,    IDS_MENU_GROUP,    "gruppe",   },
+  { IDM_ALIAS,    IDS_MENU_ALIAS,    "ftasten",   },
+  { IDM_VERBALIAS,IDS_MENU_CMDALIAS, "kurzbefehle",},
+  { IDM_GUILD,    IDS_MENU_GUILD,    "gilde",   },
   { 0,            0,              NULL,      },  // Separator
-  { IDM_WAVE,     IDS_MENU_WAVE,     "wave",    },
-  { IDM_POINT,    IDS_MENU_POINT,    "point",   },
-  { IDM_DANCE,    IDS_MENU_DANCE,    "dance",   },
+  { IDM_WAVE,     IDS_MENU_WAVE,     "winken",    },
+  { IDM_POINT,    IDS_MENU_POINT,    "deuten",   },
+  { IDM_DANCE,    IDS_MENU_DANCE,    "tanzen",   },
   { 0,            0,              NULL,      },  // Separator
-  { IDM_HAPPY,    IDS_MENU_HAPPY,    "happy",   },
-  { IDM_SAD,      IDS_MENU_SAD,      "sad",     },
+  { IDM_HAPPY,    IDS_MENU_HAPPY,    "glücklich",   },
+  { IDM_SAD,      IDS_MENU_SAD,      "traurig",     },
   { IDM_NEUTRAL,  IDS_MENU_NEUTRAL,  "neutral", },
-  { IDM_WRY,      IDS_MENU_WRY,      "wry",     },
+  { IDM_WRY,      IDS_MENU_WRY,      "grimmig",     },
 };
 
 static int num_actions = (sizeof(actions) / sizeof(Action));

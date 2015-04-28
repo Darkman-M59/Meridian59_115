@@ -34,7 +34,7 @@ constants:
 
 resources:
  
-   corpsepointer_no_loot = "You reach for %s%s, but you can't get past %s picking over the loot of the kill."
+   corpsepointer_no_loot = "Du greifst nach %s%s, aber Du kommst nicht an %s vorbei, während Du nach der Beute greifst."
    
 classvars:
 
@@ -125,3 +125,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

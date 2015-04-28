@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   WoodenBox_name_rsc = "wooden box"
+   WoodenBox_name_rsc = "Eine Holzkiste"
    WoodenBox_icon_rsc = box1.bgf
 
-   WoodenBox_desc_rsc = \
-      "This sturdy wooden box can store a good number of items."
+   WoodenBox_desc_rsc = "Diese derbe hölzerne Kiste kann eine gute Anzahl von Gegenständen aufnehmen."
+
 
 classvars:
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

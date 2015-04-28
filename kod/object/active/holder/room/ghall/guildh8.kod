@@ -33,7 +33,7 @@ constants:
 
 resources:
 
-   room_name_guildh8 = "The Sewer Hideout"
+   room_name_guildh8 = "Versteck in der Kanalisation"
    room_guildh8 = guildh8.roo
 
    guildh8_entrancedoor_open_sound = woodup1.wav
@@ -343,3 +343,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

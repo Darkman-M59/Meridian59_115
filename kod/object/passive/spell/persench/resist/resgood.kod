@@ -16,18 +16,18 @@ constants:
 
 resources:
 
-   resistgood_name_rsc = "unholy resolve"
+   resistgood_name_rsc = "Unheilige Lösung"
    resistgood_icon_rsc = iresgood.bgf
-   resistgood_desc_rsc = \
-      "Summons the vile force of Qor to protect the user from holy damage.  "
-      "Requires solagh and fairy wings to cast."
+   resistgood_desc_rsc = "Ruft die niederträchtige Kraft von Qor an, um den Zaubernden für mehrere Minuten gegen das Gute zu schützen. Der Zauber benötigt Feenflügel und Phiolen mit Solagh. "
 
-   resistgood_spell_intro = "Qor Level 1: Protects you from damage from holy sources."
 
-   resistgood_already_enchanted = "You already have unholy resolve."
-   resistgood_success = "The spirt of Qor enters %s%s's body, protecting them from the forces of good."
-   resistgood_on = "The spirit of Qor enters your body, protecting you from the forces of good."
-   resistgood_off = "You no longer have resistance to good."
+
+   resistgood_spell_intro = "Qor Zirkel 1: Ruft die niederträchtige Kraft von Qor an, um den Zaubernden für mehrere Minuten gegen das Gute zu beschützen."
+
+   resistgood_already_enchanted = "Du hast Dich bereits gegen das Gute gewappnet."
+   resistgood_success = "Du stärkst %s%s Abwehrkräfte gegen das Gute."
+   resistgood_on = "Der Geist von Qor dringt in Deinen Körper, um Dich vor den Kräften des Guten zu schützen."
+   resistgood_off = "Du verfügst nicht länger über Widerstandskraft gegen das Gute."
  
 classvars:
 
@@ -89,3 +89,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   Rejuvenate_name_rsc = "rejuvenate"
+   Rejuvenate_name_rsc = "Regenerieren"
    Rejuvenate_icon_rsc = irejuven.bgf
-   Rejuvenate_desc_rsc = \
-      "This song allows all listeners to regain mana at an accelerated rate.  "
-      "Requires one diamond and a raw, uncut seraphym to cast."
+   Rejuvenate_desc_rsc = "Dieses Lied ermöglicht es den Zuhörern schneller ihr Mana zurückzugewinnen. Man benötigt einen Diamanten und einen rohen, ungebrochenen Seraphen."
 
-   Rejuvenate_song = song04.mid
+
+
+   Rejuvenate_song = song04.mp3
  
 classvars:
 
@@ -71,3 +71,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

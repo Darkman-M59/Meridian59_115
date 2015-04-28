@@ -16,23 +16,23 @@ constants:
 
 resources:
 
-   Silence_name_rsc = "silence"
+   Silence_name_rsc = "Stille"
    Silence_icon_rsc = isilence.bgf
-   Silence_desc_rsc = \
-      "Muffles all speech preventing spell casting and communication as long as caster concentrates.  "
-      "Requires dark angel feathers and purple mushrooms."
+   Silence_desc_rsc = "Dämpft alle gesprochenen Worte und verhindert so das Anwenden von Zaubersprüchen. Man braucht dazu die Federn eines schwarzen Engels und lila Pilze."
+
+
    
-   Silence_unnecessary = "This area already is already silenced."
+   Silence_unnecessary = "In diesem Gebiet herrscht bereits Stille."
 
-   Silence_on = "A curtain of silence falls across the room."
-   Silence_off = "The curtain of silence is lifted."
-   Silence_new_entrant = "This place is strangely quiet."
+   Silence_on = "Ein Vorhang der Stille legt sich über den Raum."
+   Silence_off = "Der Vorhang der Stille hebt sich wieder."
+   Silence_new_entrant = "Dieser Ort ist auf eine befremdliche Weise still."
 
-   Silence_cant_block_jala_caster = "Your spell fails to silence the singing bard in the area."
-   Silence_cant_block_jala_victim = "Your words ring through the silence spell covering the room."
-   Silence_blocked_jala_victim = "The silence spell muffles your song."
+   Silence_cant_block_jala_caster = "Dein Zauber verfehlt den singenen Barden in diesem Gebiet."
+   Silence_cant_block_jala_victim = "Deine Worte ringen sich durch den Stillezauber in diesem Raum."
+   Silence_blocked_jala_victim = "Die Stille dämpft Dein Lied."
 
-   Silence_spell_intro = "Qor Level 3: Draws a curtain of Silence over the room, stirring the servants of Qor."
+   Silence_spell_intro = "Qor Zirkel 1: Dämpft alle gesprochenen Worte und verhindert so das Anwenden von Zaubersprüchen."
 
 classvars:
 
@@ -211,3 +211,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,17 +16,17 @@ constants:
    
 resources:
 
-   CornothInnkeep_name_rsc = "D'Franco"
+   CornothInnkeep_name_rsc = "D'Franko"
    CornothInnkeep_icon_rsc = cninnk.bgf
-   CornothInnkeep_desc_rsc = "The Cibilo Creek Inn is a common gathering place for students and scholars from "
-                        "the nearby university, and often the site of debate on every manner of issue.  "
-                        "D'Franco is encouraging and tolerant of any good discussion, though his views tend "
-                        "to be somewhat conservative."
+   CornothInnkeep_desc_rsc = "Die Kneipe zum Bach ist ein beliebter Treffpunkt für Schüler und Studenten aus der nahegelegenen Universität und häufig der Schauplatz von Diskussionen über jede Art von Problem. D'Franko ermutigt und respektiert jede gute Diskussion, obwohl seine Ansichten manchmal etwas konservativ sind."
 
-   CnInn_entry_welcome = "Good day, %s%s."
-   CnInn_wedding_ring_sale = "~B<wink>~n Found yourself someone special, eh? I'd be honored to offer you %s%s."
-   CnInn_not_ready = "I don't think your voice is ready for me to teach you my grandfather's working song.  "
-                     "Go talk to Parrin and see what he thinks."
+
+
+
+   CnInn_entry_welcome = "Guten Tag, %s%s."
+   CnInn_wedding_ring_sale = "~B<lächelt>~n Du hast etwas Besonderes gefunden? %s%s darf da nicht vergessen werden..."
+   CnInn_not_ready = "Ich glaube, Deine Stimme ist noch nicht so weit, dass ich Dir meines Großvaters Lied beibringen kann. Geh und sprich mit Parrin darüber."
+
 
 classvars:
 
@@ -144,4 +144,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

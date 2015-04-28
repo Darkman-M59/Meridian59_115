@@ -23,7 +23,7 @@ constants:
 
 resources:
 
-   room_name_guildh1 = "Mercenary Alley"
+   room_name_guildh1 = "Söldner-Treffpunkt"
    room_guildh1 = guildh1.roo
 
 classvars:
@@ -211,3 +211,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

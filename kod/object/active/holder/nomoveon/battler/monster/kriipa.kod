@@ -36,24 +36,24 @@ constants:
 
 resources:
 
-   Kriipa_name_rsc = "kriipa"
+   Kriipa_name_rsc = "Die Kriipa"
    Kriipa_icon_rsc = kriipa.bgf
-   Kriipa_desc_rsc = \
-      "This spindly-legged creature scuttles along the jungle canopy in search "
-	   "of unsuspecting prey, which includes just about everything that moves. "
-   	"Island travelers are warned to keep careful watch above, for the deadly "
-	   "grinning lizards have been known to decapitate a grown man in a single "
-   	"blow with their dagger sharp claws."
+   Kriipa_desc_rsc = "Dieses storchenbeinige Geschöpf huscht durch die Baumkronen des Waldes auf der Suche nach ahnungsloser Beute, zu der fast alles gehört, was sich bewegt. Die Inselbesucher werden gewarnt, das, was über ihnen liegt, vorsichtig im Auge zu behalten, da die tödlich grinsenden Eidechsen dafür bekannt sind, einen erwachsenen Menschen mit einem einzigen Hieb ihrer rasiermesserscharfen Klauen enthaupten zu können."
+
+
+
+
+
 
    Kriipa_dead_icon_rsc = kriipaX.bgf
-   Kriipa_dead_name_rsc = "slain Kriipa"
+   Kriipa_dead_name_rsc = "Ein getöteter Kriipa"
 
    Kriipa_sound_hit = kr_atkm.wav
    Kriipa_sound_miss = kr_atkm.wav
    Kriipa_sound_death = kr_dth.wav
    Kriipa_sound_aware = kr_awr.wav
 
-   kriipa_cant_attack = "The kriipa is out of your reach!"
+   kriipa_cant_attack = "Der Kriipa ist außerhalb Deiner Reichweite!"
 
 classvars:
 
@@ -354,3 +354,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

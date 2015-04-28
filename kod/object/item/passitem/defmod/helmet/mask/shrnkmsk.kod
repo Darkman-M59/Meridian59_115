@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   ShrunkenHeadMask_name_rsc = "shrunken head mask"
+   ShrunkenHeadMask_name_rsc = "Schrumpfmaske"
    ShrunkenHeadMask_icon_male_rsc = res0002a.bgf
    ShrunkenHeadMask_icon_female_rsc = res0002b.bgf
-   ShrunkenHeadMask_desc_rsc = \
-      "Are you sure this will fit?"
+   ShrunkenHeadMask_desc_rsc = "Bist du sicher dass Dir die Maske passt?"
 
-   ShrunkenHeadMask_wear_rsc = "~IThe mask feels very tight on your face."
+
+   ShrunkenHeadMask_wear_rsc = "~IDie Maske fühlt sich auf deinem Kopf sehr eng an."
 
 classvars:
 
@@ -104,5 +104,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

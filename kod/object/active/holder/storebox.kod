@@ -19,10 +19,10 @@ constants:
 
 resources:
 
-   storagebox_name_rsc = "some storage"
+   storagebox_name_rsc = "ein Lager"
    storagebox_icon_rsc = box1.bgf
 
-   storagebox_desc_rsc = "This is a place to store stuff."
+   storagebox_desc_rsc = "Dies ist ein Ort um Sachen zu lagern."
 
 classvars:
 
@@ -197,3 +197,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

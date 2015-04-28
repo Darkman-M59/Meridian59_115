@@ -17,16 +17,16 @@ constants:
 resources:
 
    TuskedSkeleton_koc_name_rsc = "ha'chaleoc"
-   TuskedSkeleton_name_rsc = "tusked skeleton"
+   TuskedSkeleton_name_rsc = "Das Stoßzahn-Skelett"
    TuskedSkeleton_icon_rsc = skelbody.bgf
-   TuskedSkeleton_desc_rsc = \
-      "A few scraps of rotten flesh cling to this collection of human "
-      "bones topped by a skull with large tusks protruding from its mouth.  "
-      "You shudder to think what dark ritual brought this abomination into being."
+   TuskedSkeleton_desc_rsc = "Einige Streifen verfaulten Fleisches hängen an dieser Sammlung von menschlichen Knochen, die von einem Schädel gekrönt sind, dem große Stoßzähnen aus dem Mund ragen.Du schauderst, als Du daran denkst, was für ein dunkles Ritual diese Abnormalität zum Leben erweckt hat."
+
+
+
 
    TuskedSkeleton_head = skelhed1.bgf
    TuskedSkeleton_dead_icon_rsc = skelX.bgf
-   TuskedSkeleton_dead_name_rsc = "pile of bones"
+   TuskedSkeleton_dead_name_rsc = "Der Knochenhaufen"
 
    TuskedSkeleton_sound_miss = skl3_atk.wav
    TuskedSkeleton_sound_death = skl3_die.wav
@@ -65,3 +65,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -26,8 +26,8 @@ constants:
 
 resources:
 
-   WeapAttSpellCaster_desc = "  Mystical energy flits about this weapon."      
-   WeapAttSpellCaster_dm = "spellcaster"
+   WeapAttSpellCaster_desc = " Diese besonders schwere Waffe wurde einst von kräftigen Pranken gehalten, die nur von Gronkh stammen können. Richtig eingesetzt raubt sie ihrem Opfer mehr als blosse Lebenskraft."
+   WeapAttSpellCaster_dm = "Zaubernden"
 
 classvars:
 
@@ -181,3 +181,4 @@ Constructor()
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

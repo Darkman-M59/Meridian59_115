@@ -15,9 +15,9 @@ constants:
    include blakston.khd
 
 resources:
-   msg_not_enough_items_on_deposit = "%s%s does not have that many on deposit."
-   msg_does_not_have_item = "%s%s does not have that item on deposit for you."
-   msg_has_no_deposit = "%s%s does not have any items on deposit for you."
+   msg_not_enough_items_on_deposit = "%s%s hat nicht soviel auf Lager."
+   msg_does_not_have_item = "%s%s hat nicht so viele Gegenstände für Dich eingelagert."
+   msg_has_no_deposit = "%s%s hat keine Sachen für Dich eingelagert."
 
 classvars:
 
@@ -264,3 +264,4 @@ messages:
        
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

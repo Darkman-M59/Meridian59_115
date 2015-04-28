@@ -18,20 +18,20 @@ resources:
 
    MarionBartender_name_rsc = "Tova"
    MarionBartender_icon_rsc = mrbart.bgf
-   MarionBartender_desc_rsc = "There is no overlooking Tova, a bellowing and uproarious man who takes life exactly "
-      "as it comes through the front door of the Limping Toad.  He is the proprietor here, "
-      "serving drinks and entertaining from his self-styled rostrum noted for its powerful stout."
+   MarionBartender_desc_rsc = "Unübersehbar steht Tova vor dir, ein brüllender und lärmender Mann, der das Leben genauso nimmt, wie es durch die Tür der Lahmen Kröte kommt. Er ist der Besitzer hier, er schenkt Getränke aus und unterhält seine Gäste von seinem selbstentworfenen Redepult aus."
 
-   Tova_entrootberry_sale = "Hmmm.  Why, yes, I do believe I have some entroot... since it's from my own private stash, I will have to charge extra...."
 
-   Tova_cheers1 = "Thank you, m'%s. . . bottoms up!"
-   Tova_cheers2 = "Thank you, I will, m'%s. Just one, for my chest. . ."
-   Tova_cheers3 = "To your health, %s!"
-   Tova_cheers4 =  "Aye, cheers!"
 
-   tova_unwanted_keep = "~k%s%s tells you, \"Well, how nice of you.  A gift.~n~k\""
-   tova_unwanted_pay = "~k%s%s tells you, \"What an interesting item!~n~k\""
-   tova_unwanted_give = "~k%s%s tells you, \"Ha, ha, you've got to be kidding me, stranger! This is a tavern, not a gypsy’s tent!~n~k\""
+   Tova_entrootberry_sale = "Hmm. Ja, warum? Ich glaube ich habe noch ein paar Wurzelknollen... Da sie aus meinem Privatvorrat sind, wirst Du dafür zahlen müssen."
+
+   Tova_cheers1 = "Danke, m'%s. . . Auf ex!"
+   Tova_cheers2 = "Danke, ich nehm' einen, m'%s. Nur einen. Für meine Brust ... ."
+   Tova_cheers3 = "Auf Deine Gesundheit, %s!"
+   Tova_cheers4 = "Prosit!"
+
+   tova_unwanted_keep = "~k%s%s sagt zu Dir, \"Nun, wie nett von Dir. Ein Geschenk.~n~k\""
+   tova_unwanted_pay = "~k%s%s sagt zu Dir, \"Was für ein interessantes Ding!~n~k\""
+   tova_unwanted_give = "~k%s%s sagt zu Dir, \"Haha, Du willst mich wohl auf den Arm nehmen, Fremder! Dies ist eine Taverne und nicht das Zelt irgendwelcher fahrender Leute!~n~k\""
 
 
 classvars:
@@ -190,3 +190,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

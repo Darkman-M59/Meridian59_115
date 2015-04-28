@@ -17,9 +17,9 @@ constants:
 
 resources:
   
-   room_name_kocapoth = "Two Lizards Magic Shop"
+   room_name_kocapoth = "Zwei Echsen Magie-Laden"
    room_kocapoth = kocapoth.roo
-   kocapoth_music = song12.mid
+   kocapoth_music = song12.mp3
 
 classvars:
 
@@ -95,3 +95,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

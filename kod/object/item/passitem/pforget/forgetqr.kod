@@ -16,7 +16,7 @@ constants:
 
 resources:
 
-   forgetpotionqor_desc_rsc = "Drinking this potion will wipe all memory of Qor's spells from your mind.\n\nMay have very serious side effects."
+   forgetpotionqor_desc_rsc = "Dieses höchst erfrischend aussehende Gebräu wird Deine Kenntnisse in der Schule von Qor restlos auslöschen.\n\nEs sei jedoch vor eventuellen Nebenwirkungen gewarnt."
 
 classvars:
 
@@ -29,3 +29,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -18,12 +18,12 @@ constants:
 
 resources:
 
-   flytrap_name_rsc = "Man-eating Plant"
+   flytrap_name_rsc = "Menschenfressende Pflanze"
    flytrap_icon_rsc = ent.bgf
-   flytrap_desc_rsc = "A ferocious plant that likes the taste of human flesh."
+   flytrap_desc_rsc = "Eine grausame Pflanze, die den Geschmack von Menschenfleisch mag."
 
    flytrap_dead_icon_rsc = shrub.bgf
-   flytrap_dead_name_rsc = "hedged man-eating plant"
+   flytrap_dead_name_rsc = "eine eingezäunte menschenfressende Pflanze"
 
    % any weapon movement resources?
 
@@ -94,3 +94,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

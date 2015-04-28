@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   mysticsword_name_rsc = "mystic sword"
+   mysticsword_name_rsc = "Das magische Schwert"
    mysticsword_icon_rsc = mystswd.bgf
-   mysticsword_desc_rsc = \
-      "Ancient runes adorn this fine weapon, a lightweight blade of "
-      "unsurpassed excellence.  Kraanan's blessing surrounds this sword."
+   mysticsword_desc_rsc = "Alte Runen zieren diese schöne Waffe, eine leichte Klinge von unübertroffener Güte. Kraanans Segen umgibt dieses Schwert."
+
+
    
    mysticsword_window_overlay_rsc = povmystsw.bgf
    mysticsword_player_overlay = mystwdov.bgf
@@ -58,3 +58,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

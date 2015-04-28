@@ -138,17 +138,17 @@ constants:
 
 resources:
 
-   room_name_mar_crypt3a = "Affirmation of the Forsaken"
+   room_name_mar_crypt3a = "Affirmation der Verlassenen"
    room_mar_crypt3a = RES00001.roo
-   music_mar_crypt3a = song10.mid
+   music_mar_crypt3a = song10.mp3
    marcrypt3a_gate_open = doorrsup.wav
    marcrypt3a_gate_close = arr_metl.wav
 
-   marcrypt3a_cant_pass = "Your efforts prove fruitless, it holds firm."
-   marcrypt3a_no_earthquake = \
-      "This place looks far to unstable to risk an earthquake.  "
-      "You wisely decide to halt your casting."
-   marcrypt3a_illegal_door = "Bad player, no cookie!"
+   marcrypt3a_cant_pass = "Deine Anstrengungen sind vergebens, das Tor hält stand."
+   marcrypt3a_no_earthquake = "Dieser Ort scheint zu unsicher für ein Erdbeben.  Du entscheidest dich dagegen."
+
+
+   marcrypt3a_illegal_door = "Böser Spieler, kein Keks für dich!"
    
 classvars:
 
@@ -1162,3 +1162,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

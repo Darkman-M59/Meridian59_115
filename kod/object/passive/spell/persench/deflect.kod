@@ -16,34 +16,34 @@ constants:
 
 resources:
 
-   Deflect_name_rsc = "deflect"
+   Deflect_name_rsc = "Reflektieren"
    Deflect_icon_rsc = imirror.bgf
-   Deflect_desc_rsc = \
-      "Calls upon Kraanan's will to form a protective barrier around the target "
-      "which protects them from direct damaging attack magics, but not from "
-      "other magics, such as enchantments.  "
-      "Requires solagh and kriipa claws to cast."
+   Deflect_desc_rsc = "Ruft die Kraft Kraanans um einen Schutzwall um das Ziel zu legen, welcher es vor der Magie Farens schützt. Benötigt Phiolen mit Solagh und Kriipa Klauen.\n"
+
+
+
+
    
-   Deflect_already_enchanted_rsc = "You are already enchanted by deflect."
+   Deflect_already_enchanted_rsc = "Du bist bereits von einer magischen Barriere umgeben."
 
-   Deflect_on_rsc = "A magical barrier surrounds you."
-   Deflect_success_rsc = "You sense a magical barrier surround %s%s."
-   Deflect_off_rsc = "The magical barrier protecting you seems to be waning."
+   Deflect_on_rsc = "Eine magische Barriere umgibt Dich."
+   Deflect_success_rsc = "Du spürst, das %s%s von einer magischen Barriere umgeben ist."
+   Deflect_off_rsc = "Deine magische Barriere scheint abzuflauen."
 
-   Deflect_spell_intro = \
-      "Kraanan Level 4: Forms a magical barrier around the target, protecting"
-      "them from harm of magics that damage directly."
+   Deflect_spell_intro = "Kraanan Zirkel 4: Erzeugt eine magische Barriere um das Ziel als Schutz gegen Faren's Magie."
+
+
 
    Deflect_sound = kdeflect.wav
 
-   Deflect_success_to_victim = \
-      "Your deflect enchantment bounces %s's spell back onto its caster!"
-   Deflect_success_to_caster = \
-      "A barrier of mystical energy coalesces in front of %s, bouncing "
-      "your spell back at you!"
-   Deflect_failure_to_victim = \
-      "Your deflect enchantment attempts to bounce %s's spell back, "
-      "but is not strong enough."
+   Deflect_success_to_victim = "Deine magische Barriere wirft %s's Zauber auf ihn selbst zurück!"
+
+   Deflect_success_to_caster = "Eine magische Barriere umgibt %s, Dein Zauber wird auf Dich selbst zurückgeworfen!"
+
+
+   Deflect_failure_to_victim = "Deine magische Barriere versucht %s's Zauber zurückzuwerfen, ist aber nicht stark genug."
+
+
 
 classvars:
 
@@ -155,3 +155,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

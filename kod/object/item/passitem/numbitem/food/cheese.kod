@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   Cheese_name_rsc = "wheel of cheese"
+   Cheese_name_rsc = "Der Laib Käse"
    Cheese_icon_rsc = cheese.bgf
-   Cheese_desc_rsc = \
-   "This delicious cheese is made from the sweet milk of the pygmy cow.  "
-   "As the pygmy cow is rarely seen in Meridian proper, a cheese as fine as "
-   "this is a delicacy indeed."
+   Cheese_desc_rsc = "Dieser delikate Käse wurde aus der süßen Milch der Pygmäenkuh hergestellt.So selten wie die Pygmäenkühe in Meridian sind, so delikat ist auch ein Käse wie dieser."
 
-   Cheese_name_plural_rsc = "wheels of cheese"
+
+
+
+   Cheese_name_plural_rsc = "Die Käselaibe"
 
 classvars:
 
@@ -48,3 +48,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

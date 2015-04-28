@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsF3 = F3.roo
-   room_name_OutdoorsF3 ="Source of the River Ille"
-   OutdoorsF3_music = walk5.mid
+   room_name_OutdoorsF3 = "Die Quelle des Flusses Ille"
+   OutdoorsF3_music = walk5.mp3
 
 classvars:
 
@@ -109,3 +109,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

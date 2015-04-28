@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   snack_name_rsc = "edible mushroom"
+   snack_name_rsc = "Der Genieﬂbare Pilz"
    snack_icon_rsc = mushroom.bgf
-   snack_desc_rsc = \
-      "These large, brownish mushrooms are an edible cousin of "
-      "the more magical variety.  They provide some sustenance "
-      "although their nutritional value is questionable."
+   snack_desc_rsc = "Diese groﬂen, braunen Pilze stellen einen essbaren Verwandten der magischen Varianten dar. Sie bieten einen gewissen N‰hrwert, dieser jedoch bleibt mehr als fragw¸rdig."
 
-   snack_name_plural_rsc = "edible mushrooms"
+
+
+
+   snack_name_plural_rsc = "genieﬂbare Pilze"
 
 classvars:
 
@@ -57,3 +57,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

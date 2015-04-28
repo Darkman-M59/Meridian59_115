@@ -18,21 +18,21 @@ constants:
 
 resources:
 
-   breathoflife_cast_rsc = "You feel the life force of another filling your body."
-   breathoflife_caster_msg_rsc = "You give part of your life force to %s%s."
+   breathoflife_cast_rsc = "Du fühlst, wie Dich fremde Lebensenergie durchströmt."
+   breathoflife_caster_msg_rsc = "Du überträgst einen Teil Deiner Lebenskraft an %s%s."
 
-   breathoflife_name_rsc = "breath of life"
+   breathoflife_name_rsc = "Hauch des Lebens"
    breathoflife_icon_rsc = ibreath.bgf
-   breathoflife_desc_rsc = \
-      "The great power of Shal'ille takes part of the caster's life force "
-      "and gives it to another person.  "
-      "Requires herbs to cast."
+   breathoflife_desc_rsc = "Die mächtige Kraft Sha-Lills überträgt die Lebensenergie des Zauberers in einen anderen Körper. Der Zauber benötigt Kräuter."
 
-   breathoflife_unnecessary_rsc = "%s%s cannot handle additional life force from this spell."
-   breathoflife_toohurt_rsc = "You do not have enough health to transfer to another!"
-   breathoflife_notonself_rsc = "You cannot cast Breath of Life on yourself."
 
-   breathoflife_spell_intro = "Shal'ille Lv. 1: Gives part of caster's health to another person."
+
+
+   breathoflife_unnecessary_rsc = "%s%s kann keine weitere Lebensenergie von Dir aufnehmen."
+   breathoflife_toohurt_rsc = "Du bist nicht in der Lage, Lebenskraft an andere abzugeben."
+   breathoflife_notonself_rsc = "Du kannst Dir nicht selbst Leben einhauchen."
+
+   breathoflife_spell_intro = "Sha-Lill Zirkel 1: Überträgt Lebensenergie des Zauberers auf eine andere Person."
 
    breathoflife_sound = sbrthlf.wav
 
@@ -156,3 +156,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

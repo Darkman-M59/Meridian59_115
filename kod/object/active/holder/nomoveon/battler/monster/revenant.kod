@@ -35,15 +35,15 @@ constants:
 
 resources:
 
-   revenant_name_rsc = "revenant"
+   revenant_name_rsc = "Der Racheengel"
    revenant_icon_rsc = zombie.bgf
-   revenant_desc_rsc = \
-   "The reward for someone's misdeeds: a battle to the death with a lost soul.  Although it is harmless to all but the murderer it haunts, anyone foolish enough to interfere will suffer the same fate."
+   revenant_desc_rsc = "Die Belohnung für einen Missetäter: der Kampf bis zum Tod mit einer verlorenen Seele. Eigentlich sind sie für alle bis auf einen Mörder harmlos, doch nur ein Narr würde sich in den Kampf einmischen - ihm droht das selbe Schicksal."
 
-   Rev_grouping_is_bad = "Your soul twitches as you interfere in another's battle.  You realize that you too will now be haunted when you leave this place."
-   Rev_vanquished = "You feel a great weight lifted from your soul."
-   Rev_coming_to_get_ya = "Your spine tingles as you sense the foreboding presence of a pursuing revenant drawing near."
-   Rev_draining_effect = "The revenant makes a mystical motion... you feel drained."
+
+   Rev_grouping_is_bad = "Deine Seele verkrampft sich, als Du Dich in den Kampf anderer einmischt. Du weißt, dass Du jetzt auch gejagt wirst, sobald Du diesen Ort verläßt."
+   Rev_vanquished = "Du spürst, wie ein großes Gewicht von Deiner Seele genommen wird."
+   Rev_coming_to_get_ya = "Ein Schauer läuft Dir den Rücken hinunter, als Du fühlst, dass Dein Verfolger näherkommt."
+   Rev_draining_effect = "Der Racheengel vollführt eine mystische Bewegung... Du fühlst Dich ausgelaugt."
 
 classvars:
    vrName = revenant_name_rsc
@@ -334,4 +334,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

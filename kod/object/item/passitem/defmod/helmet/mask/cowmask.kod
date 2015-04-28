@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   CowMask_name_rsc = "cow mask"
+   CowMask_name_rsc = "Maske einer Kuh"
    CowMask_icon_male_rsc = res0002c.bgf
    CowMask_icon_female_rsc = res0002d.bgf
-   CowMask_desc_rsc = \
-      "Sculpted like the head of a cow, it is sometimes worn by divinity.  "
-      "Moo."
+   CowMask_desc_rsc = "Geformt wie der Kopf einer Kuh. Muuh."
+
+
  
 classvars:
 
@@ -40,3 +40,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

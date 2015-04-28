@@ -16,8 +16,8 @@ constants:
 
 resources:
 
-   FoodDispenser_no_can_hold = "You can't hold anything more!"
-   FoodDispenser_none_left = "There is nary %s%s left!"
+   FoodDispenser_no_can_hold = "Du kannst nichts mehr halten!"
+   FoodDispenser_none_left = "%s%s ist nicht mehr vorrätig!"
 
 classvars:
 
@@ -100,4 +100,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

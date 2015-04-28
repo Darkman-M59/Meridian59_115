@@ -45,16 +45,16 @@ constants:
 resources:
 
    MolluskMonster_koc_name_rsc = "kolisith"
-   MolluskMonster_name_rsc = "mollusk creature"
+   MolluskMonster_name_rsc = "Der Panzermolch"
    MolluskMonster_icon_rsc = mollusk.bgf
-   MolluskMonster_desc_rsc = \
-      "A recent arrival to the lands, this giant creature is rather "
-      "peaceful.  It roams the area, looking for food.  It rarely attacks "
-      "people unless it is attacked first.  But, be warned, its thick shell "
-      "and powerful claw make it a tough foe to face."
+   MolluskMonster_desc_rsc = "Als ein recht später Ankömmling in diesen Landen ist diese Kreatur eher friedlich. Diese friedliche Kreatur durchstreift die Gegend auf der Suche nach Nahrung. Von Natur aus friedfertig, reagiert sie nur aggressiv, wenn sie selbst angegriffen wird. Aber sei auf der Hut, ihr dicker Panzer und die mächtigen Klauen machen sie zu einem furchterregenden Gegner."
+
+
+
+
 
    MolluskMonster_dead_icon_rsc = molX.bgf
-   MolluskMonster_dead_name_rsc = "slain mollusk creature"
+   MolluskMonster_dead_name_rsc = "Der erschlagene Panzermolch"
 
    MolluskMonster_sound_miss = mol_atk.wav
    MolluskMonster_sound_death = mol_dth.wav
@@ -280,3 +280,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

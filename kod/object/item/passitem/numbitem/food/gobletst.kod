@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   StoutGoblet_name_rsc = "mug of brew"
+   StoutGoblet_name_rsc = "Der Bierkrug"
    StoutGoblet_icon_rsc = mug.bgf
-   StoutGoblet_desc_rsc = \
-      "The pewter and wood mug is roughly formed.  "
-      "A logo stamped onto its silver lip reads \"Pietro's "
-      "Wicked Brew.\""
-   StoutGoblet_name_plural_rsc = "mugs of brew"
+   StoutGoblet_desc_rsc = "Der Krug aus Holz und Zinn ist grob geformt. Auf dem in die silberne Tülle eingravierten Logo steht \"Pietros teuflisches Gebräu.\""
+
+
+
+   StoutGoblet_name_plural_rsc = "Bierkrüge"
 
    StoutGoblet_eat_wav = drink.wav
-   StoutGoblet_use = "Refreshing to sip, and quite a kick!"
+   StoutGoblet_use = "Erfrischend und belebend! <Hicks>"
 
 classvars:
 
@@ -70,3 +70,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

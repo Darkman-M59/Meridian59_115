@@ -19,12 +19,12 @@ resources:
 
    twoCouncilor_name_rsc = "Bei Naq"
    twoCouncilor_icon_rsc = twocon.bgf
-   twoCouncilor_desc_rsc = "A small vulture like man stuffed in extravagant robes of gold and jewels, "
-      "he lives in constant fear of others wanting his treasures.  Through his studies, he located numerous "
-      "jewel mines and remains the richest in the land, although his purse is seldom opened."
+   twoCouncilor_desc_rsc = "Ein kleiner geierähnlicher Mann, der mit einer extravaganten Robe aus Gold und Juwelen herausgeputzt ist. Er lebt in beständiger Furcht, dass andere seine Schätze begehren könnten. Während seiner Studien hat er zahlreiche Edelsteinminen entdeckt und ist somit der reichste Mann im Land, obwohl seine Börse sich nur selten öffnet."
 
-   twocon_true_ideal_rsc = "Your fortune is sizable. I am always doubly impressed by those who carry such capital."
-   twocon_half_ideal_rsc = "For future reference, I do prefer to do business with those who carry more wealth about them."
+
+
+   twocon_true_ideal_rsc = "Dein Glück ist beträchtlich. Ich bin stets doppelt beeindruckt, wenn jemand soviel Kapital besitzt."
+   twocon_half_ideal_rsc = "Künftig ziehe ich es vor, mit Leuten zusammenzuarbeiten, die mehr Reichtümer besitzen."
 
 classvars:
 
@@ -123,4 +123,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

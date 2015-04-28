@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   MummyMask_name_rsc = "mummy mask"
+   MummyMask_name_rsc = "Mumienmaske"
    MummyMask_icon_male_rsc = res0002k.bgf
    MummyMask_icon_female_rsc = res0002l.bgf
-   MummyMask_desc_rsc = \
-      "This is either a mummy mask, or bandages for recovering from "
-      "fireball burns."
+   MummyMask_desc_rsc = "Dies ist entweder eine Mumienmaske oder jemand hat sein verbranntes Gesicht eingewickelt."
+
+
 
 classvars:
 
@@ -73,3 +73,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

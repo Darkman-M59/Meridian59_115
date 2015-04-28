@@ -17,15 +17,15 @@ constants:
 resources:
 
    spiderbaby_koc_name_rsc = "imixkinich"
-   spiderbaby_name_rsc = "baby spider"
+   spiderbaby_name_rsc = "Die Spinne"
    spiderbaby_icon_rsc = spdrby.bgf
-   spiderbaby_desc_rsc = \
-   "Smaller and weaker than his larger kin, this baby spider "
-   "is deadly nonetheless.   Its soft belly is engorged with "
-   "its last meal."
+   spiderbaby_desc_rsc = "Obwohl sie kleiner und schwächer als ihre großen Artgenossen sind, bleiben die Spinnen tödlich. Ihr weicher Bauch ist vom letzten Fressen aufgebläht."
+
+
+
 
    spiderbaby_dead_icon_rsc = spdrbyX.bgf
-   spiderbaby_dead_name_rsc = "dead baby spider"
+   spiderbaby_dead_name_rsc = "Eine tote Spinne"
 
    spiderbaby_sound_hit = bsp_atkh.wav
    spiderbaby_sound_miss = bsp_atkm.wav
@@ -126,3 +126,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

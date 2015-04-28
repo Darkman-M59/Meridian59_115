@@ -18,10 +18,10 @@ constants:
 
 resources:
 
-   forgetpotionskills_desc_rsc = "Drinking this potion causes one to forget all skills that he or she possesses.\n\nMay have very serious side effects."
+   forgetpotionskills_desc_rsc = "Dieses höchst erfrischend aussehende Gebräu wird Deine Waffenfertigkeiten restlos auslöschen.\n\nEs sei jedoch vor eventuellen Nebenwirkungen gewarnt."
 
-   forgetpotionskills_forget_skill = "The art of '%s' slips from your mind!"
-   forgetpotionskills_vulnerable = "You suddenly feel more vulnerable!"
+   forgetpotionskills_forget_skill = "'%s' wird aus Deinen Erinnerungen gelöscht."
+   forgetpotionskills_vulnerable = "Du fühlst Dich plötzlich leichter verwundbar!"
 
 classvars:
 
@@ -89,3 +89,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

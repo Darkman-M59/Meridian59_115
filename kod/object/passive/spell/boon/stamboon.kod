@@ -20,13 +20,13 @@ constants:
 
 resources:
 
-   stamboon_name_rsc = "stamina effect"
+   stamboon_name_rsc = "Kondition"
    stamboon_icon_rsc = iboonsta.bgf
-   stamboon_desc_rsc = "Your stamina seems abnormally affected."
-   stamboon_intro_rsc = "The stamina of the victim is boosted temporarily."
+   stamboon_desc_rsc = "Deine Konstitution scheint widernatürlich beeinträchtigt zu sein."
+   stamboon_intro_rsc = "Die Konstitution des Betroffenen wird vorübergehend intensiviert."
 
-   stamboon_inc = "You feel more resilient!"
-   stamboon_dec = "You suddenly less resilient."
+   stamboon_inc = "Du fühlst Dich besser in Form!"
+   stamboon_dec = "Plötzlich merkst Du, dass Deine Leistungfähigkeit gelitten hat."
 
 classvars:
    viPersonal_ench = True
@@ -65,3 +65,4 @@ messages:
    }
 
 end
+

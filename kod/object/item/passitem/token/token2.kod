@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   TwoToken_name_rsc = "jeweled egg token"
-   TwoToken_desc_rsc = \
-      "Encrusted with every gemstone known, this ancient token is rumored to "
-      "call forth the riches of the land at the wish of the Councilor who tends "
-      "it. Returning it would likely raise your status in the Royal Court."
+   TwoToken_name_rsc = "Das juwelenbesetzte Ei"
+   TwoToken_desc_rsc = "Man sagt, dass das Ratsmitglied als Hüter des mit allen erdenklichen Edelsteinen verzierten, altertümlichen Artefakts auf Wunsch allen Reichtum des Landes wegzaubern kann.Wenn Du es zurückgibst, würde wahrscheinlich Dein Ansehen am königlichen Hof steigen."
+
+
+
    TwoToken_icon_rsc = tegg.bgf
 
    % Overlays not implemented yet.
@@ -42,3 +42,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

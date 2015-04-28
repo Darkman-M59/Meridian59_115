@@ -18,24 +18,24 @@ constants:
 
 resources:
 
-   yeti_name_rsc = "yeti"
+   yeti_name_rsc = "Yeti"
    yeti_koc_name_rsc = "tezatzmoch"
    yeti_icon_rsc = yeti.bgf
-   yeti_desc_rsc = \
-      "This magnificent white beast towers above all in his "
-      "presence.  Yetis are extremely dangerous, particularly "
-      "when attacked in the ice caves where they dwell.  Only "
-      "someone well prepared would dare attack a yeti alone."
+   yeti_desc_rsc = "Diese wundersame weiße Kreatur überragt mit ihrer Gestalt alle anderen Wesen. Yetis sind extrem gefährlich, besonders wenn sie in Eishöhlen, ihren Ruheplätzen, angegriffen werden. Nur ein Verrückter würde einen Yeti alleine angreifen."
+
+
+
+
 
    yeti_dead_icon_rsc = yetiX.bgf
-   yeti_dead_name_rsc = "dead yeti"
+   yeti_dead_name_rsc = "Die Leiche des Yetis"
 
    yeti_sound_hit = yti_atkh.wav
    yeti_sound_miss = yti_atkm.wav
    yeti_sound_death = yti_dth.wav
    yeti_sound_aware = yti_awr.wav
 
-   yeti_cast_spell = "The yeti is offended by the polluting human magic."
+   yeti_cast_spell = "Dieser Yeti fühlt sich durch die menschliche Magie gestört."
    yeti_cast_sound = bsp_dth.wav
 
 classvars:
@@ -236,3 +236,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

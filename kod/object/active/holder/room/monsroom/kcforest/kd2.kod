@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_OutdoorsKD2 ="Territory of the Noble Avars"
+   room_name_OutdoorsKD2 = "Gebiet der edlen Avare"
    room_OutdoorsKD2 = KD2.roo
-   OutdoorsKD2_music = boneprst.mid
+   OutdoorsKD2_music = boneprst.mp3
 
 classvars:
 
@@ -106,3 +106,4 @@ messages:
  
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

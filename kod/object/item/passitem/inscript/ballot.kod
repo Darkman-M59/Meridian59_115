@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   ballot_name_rsc = "Royal Ballot"
+   ballot_name_rsc = "Der Königliche Wahlzettel"
    ballot_icon_rsc = scr02.bgf
-   ballot_desc_rsc = \
-      "This is an official document of the Office of the Justicar.\n"
-      "The Royal Justicar is the arbiter in disputes of Law in the Royal Eyes. "
-      "Ye may cast thine vote for a candidate for the Office, if ye be a lawful "
-      "citizen yourself, and thine candidate is also.  Ye may only cast one "
-      "vote each term of the Office.  Only those votes received by the Caramo, "
-      "the Assistant to the Justicar, are to be tallied.\n"
-      "\n"
-      "    =[C]=   Caramo, Assistant to the Royal Justicar"
+   ballot_desc_rsc = "Dies ist ein offizielles Dokument des Büros des Justiziars.\nDer Königliche Justiziar fungiert als Vermittler im Streit um das Recht. Ihr könnt Eure Stimme für einen Kandidat für das Amt des Justiziars abgeben. Ihr selbst als auch Euer Kandidat müsst jedoch ein rechtschaffener Bürger sein. Ihr könnt nur eine einzige Stimme in jeder Abstimmung abgeben. Nur die Stimmen, die von Caramo, der Assistentin des Justiziars in Empfang genommen werden, können anerkannt werden.\n\n    =[C]=   Caramo, Assistentin des Königlichen Justiziars"
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -48,3 +48,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,27 +16,27 @@ constants:
 
 resources:
 
-   room_name_guest5 = "The Home of Roderic D'Stane"
+   room_name_guest5 = "Das Haus von Roderic D'Stane"
    room_guest5 = guest5.roo
-   guest5_music = login.mid
+   guest5_music = login.mp3
 
-   guest5_signname = "communication"
-   guest5_sign = \
-      "Being able to communicate is an important part of Meridian, "
-      "whether you're solving a quest or you're plotting with your "
-      "allies. The most common way to communicate is with the SAY "
-      "command. For example, if you type SAY HELLO, the elder in this "
-      "hut will respond. The hotkey for SAY is F, which will automatically "
-      "bring you down to the chat window.\n\n"             
-      "Any other player who happens to be in the same map area as you "
-      "can hear what you say.  However, most shopkeepers and elders "
-      "are hard of hearing; you need to get close for them to hear you.\n\n"
-      "There are other communications options.  For example, you may see other "
-      "players broadcasting what's going on in the rest of the world. "
-      "However, for the most part, you will not have these capabilities "
-      "unless you become involved in the full version of the game.\n"
-      "-------------------------\n"
-      "Say QUEST to see what you should do next."
+   guest5_signname = "Kommunikation"
+   guest5_sign = "Kommunikation ist ein wichtiger Bestandteil von Meridian, egal, welches Ziel Du auch verfolgst. Die gebräuchlichste Art der Kommunikation ist der Befehl SAGEN (Kürzel: s). Ein Beispiel: Wenn Du S HALLO eintippst, wird der Alte in dieser Hütte antworten.\n\nJeder andere Spieler, der sich im selben Kartengebiet wie Du aufhält, kann hören, was Du sagst. Allerdings sind die meisten Ladeninhaber und auch viele Alte quasi schwerhörig. Du musst also nahe an sie herantreten, damit sie Dich verstehen.\n\nEs gibt noch weitere Möglichkeiten, sich mitzuteilen. So wirst Du z. B. feststellen, dass andere Spieler Nachrichten von dem verbreiten, was im Rest der Welt vor sich geht. Auch Du besitzt diese Fähigkeit, und sie nennt sich MITTEILUNG (Kürzel: m) - schickst Du also ein \"M Seyd gegrüsst!\", so erfahren alle Spieler dieser Welt, die gerade online sind, Deine Grussbotschaft.\n--------------------------\nTippe S AUFTRAG, um zu sehen, was Du als nächstes tun sollst."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -109,3 +109,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

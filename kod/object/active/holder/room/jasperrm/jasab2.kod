@@ -17,7 +17,7 @@ constants:
 resources:
 
    room_jasperAB2 = jasab2.roo
-   room_name_JasperAB2 = "Icehouse"
+   room_name_JasperAB2 = "Kühlhaus"
 
 classvars:
 
@@ -50,3 +50,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

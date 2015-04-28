@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   goldsword_name_rsc = "gold sword"
+   goldsword_name_rsc = "Das goldene Schwert"
    goldsword_icon_rsc = gsword.bgf
-   goldsword_desc_rsc = \
-      "This sword is delicate and ornamental.  It seems like it might be "
-      "good for a fanciful duel, but it is certainly not suitable for the "
-      "rigors of blood combat."
+   goldsword_desc_rsc = "Dieses Schwert ist reich mit Ornamenten verziert. Für einen Fechtkampf dürfte es ganz gut sein, mit Sicherheit aber nicht für einen Kampf auf Leben und Tod."
+
+
+
 
    goldsword_window_overlay_rsc = povgswrd.bgf
    goldsword_player_overlay = gswordov.bgf
@@ -75,3 +75,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

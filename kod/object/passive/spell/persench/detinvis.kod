@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   DetectInvisible_name_rsc = "detect invisible"
+   DetectInvisible_name_rsc = "Unsichtbares entdecken"
    DetectInvisible_icon_rsc = idetinvi.bgf
-   DetectInvisible_desc_rsc = \
-   "Allows you to see those whom others cannot.  Requires solagh."
-   DetectInvisible_on_rsc = "You can feel your eyes tingle."
-   DetectInvisible_off_rsc = "Your eyesight returns to its former mundanity."
-   DetectInvisible_already_enchanted_rsc = "You can already see the invisible."
-   DetectInvisible_Success_rsc = "%s%s eyes pulse briefly."
+   DetectInvisible_desc_rsc = "Der Zauber lässt Dich Gestalten erkennen, die anderen verborgen bleiben. Benötigt Phiolen mit Solagh."
+
+   DetectInvisible_on_rsc = "Du kannst fühlen, wie Deine Augen ihren Focus verschieben."
+   DetectInvisible_off_rsc = "Deine Sicht kehrt zur vorherigen Perspektive zurück."
+   DetectInvisible_already_enchanted_rsc = "Du kannst bereits das Unsichtbare sehen."
+   DetectInvisible_Success_rsc = "%s%s's Augen leuchten kurz auf."
 
 classvars:
 
@@ -98,3 +98,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

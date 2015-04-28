@@ -15,11 +15,11 @@ constants:
    include blakston.khd
 
 resources:
-   dodge_name_rsc = "dodge"
+   dodge_name_rsc = "Ausweichen"
    dodge_icon_rsc = dodgeico.bgf
-   dodge_desc_rsc = "Dodge is a basic skill, allowing people to avoid blows in combat."
+   dodge_desc_rsc = "Das Ausweichen ist eine grundlegende Fähigkeit, die es Personen erlaubt Treffern im Gefecht auszuweichen."
 
-   dodge_skill_intro = "Weaponcraft Lv. 2: The ability to avoid blows in combat, and thus stay alive longer."
+   dodge_skill_intro = "Waffenfertigkeiten Zirkel 2: Dies ist die Fähigkeit, Schläge im Kampf abzuwehren und somit länger am Leben zu bleiben."
 
 classvars:
 
@@ -59,3 +59,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

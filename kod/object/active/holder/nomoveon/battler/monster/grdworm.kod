@@ -33,16 +33,16 @@ constants:
 
 resources:
 
-   GroundWorm_name_rsc = "groundworm"
+   GroundWorm_name_rsc = "Der Grundwurm"
    GroundWorm_icon_rsc = wormm.bgf
    GroundWorm_koc_name_rsc = "slithic"
-   GroundWorm_desc_rsc = \
-      "A fearsome and stealthy creature, the groundworm is known for its habit "
-      "of lurking underground out of sight, then suddenly springing forth to "
-      "devour its hapless victim."
+   GroundWorm_desc_rsc = "Der Grundwurm, eine furchterregende und starke Kreatur, ist bekannt dafür, unsichtbar versteckt im Untergrund zu warten, hervorzuspringen und plötzlich sein unglückliches Opfer zu verschlingen."
+
+
+
 
    GroundWorm_dead_icon_rsc = wormmX.bgf
-   GroundWorm_dead_name_rsc = "slain groundworm"
+   GroundWorm_dead_name_rsc = "Erschlagener Grundwurm"
 
    GroundWorm_sound_miss = gwrmatk.wav
    GroundWorm_sound_death = gwrmdie.wav
@@ -423,3 +423,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

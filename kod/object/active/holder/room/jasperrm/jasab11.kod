@@ -17,7 +17,7 @@ constants:
 resources:
 
    room_jasperAB11 = jasab11.roo
-   room_name_JasperAB11 = "Abandoned Counting Room"
+   room_name_JasperAB11 = "Verlassendes Lagerhaus"
 
 classvars:
 
@@ -50,3 +50,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   StrengthPotion_name_rsc = "potion of super strength"
+   StrengthPotion_name_rsc = "Trank der Kraft Kraanans"
    %StrengthPotion_icon_rsc = potion01.bgf
-   StrengthPotion_desc_rsc = "This is a glass vial of colored liquid.  "
-                        "It smells crisp, clean and refreshing."
-   StrengthPotion_bad_desc_rsc = "This is a glass vial of slightly cloudy colored liquid.  "
-                        "A slight whiff of it is enough to turn your stomach."
+   StrengthPotion_desc_rsc = "Dies ist eine Glasphiole mit einer farbigen Flüssigkeit. Sie riecht frisch, sauber und erfrischend."
+
+   StrengthPotion_bad_desc_rsc = "Dies ist eine Glasphiole mit einer leicht trüben Flüssigkeit. Nur ein Hauch davon genügt, um Dir den Magen umzudrehen."
+
 
 
 classvars:
@@ -51,3 +51,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

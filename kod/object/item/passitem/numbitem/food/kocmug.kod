@@ -16,20 +16,20 @@ constants:
 
 resources:
 
-   kocatanmug_name_rsc = "copper pekonch mugs"
+   kocatanmug_name_rsc = "Der Kupferne Pekonch-Becher"
    kocatanmug_icon_rsc = mug2.bgf
-   kocatanmug_desc_rsc = \
-      "Wine that is thick enough, you could stand a dagger up in it."
-   kocatanmug_name_plural_rsc = "mugs of Pekonch"
+   kocatanmug_desc_rsc = "Wein, der dick genug ist, um einen Dolch in ihm stecken zu lassen."
 
-   kocatanmug_disp_name = "pitcher of pekonch"
+   kocatanmug_name_plural_rsc = "Pekonch-Becher"
+
+   kocatanmug_disp_name = "Der Pekonch-Krug"
    kocatanmug_disp_icon = pitcher.bgf
-   kocatanmug_disp_desc = \
-      "This is a heavy pitcher full of dark pekonch."
-   kocatanmug_got_one = "You pour a mugful of dark pekonch from the pitcher."
+   kocatanmug_disp_desc = "Dies ist ein schwerer Krug voll mit dunklem Pekonch."
+
+   kocatanmug_got_one = "Du füllst einen Becher mit dunklem Pekonch aus dem Krug."
 
    kocatanmug_eat_wav = drink.wav
-   kocatanmug_use = "Wow, you'll feel this one in the morning!"
+   kocatanmug_use = "Wow, da hast Du auch morgen noch was davon!"
 
 classvars:
 
@@ -84,3 +84,4 @@ messages:
    }
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

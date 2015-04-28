@@ -18,17 +18,17 @@ resources:
 
    KarmaPotion_icon_rsc = potion01.bgf
    
-   KarmaPotion_name_rsc = "Karma Potion"
-   KarmaPotion_desc_rsc = "Drinking this potion during a frenzy will change your karma."
+   KarmaPotion_name_rsc = "Karmatrank"
+   KarmaPotion_desc_rsc = "Trinkst du von diesem Trank während einer Raserei, so wird es dein Karma verändern."
 
-   KarmaPotion_pos_name_rsc = "Positive Karma Potion"
-   KarmaPotion_pos_desc_rsc = "Drinking this potion during a Frenzy will change your karma to +100."
+   KarmaPotion_pos_name_rsc = "Positiver Karmatrank"
+   KarmaPotion_pos_desc_rsc = "Trinkst du von diesem Trank während einer Raserei, so wird es dein Karma auf +100 verändern."
    
-   KarmaPotion_neg_name_rsc = "Negative Karma Potion"
-   KarmaPotion_neg_desc_rsc = "Drinking this potion during a Frenzy will change your karma to -100."
+   KarmaPotion_neg_name_rsc = "Negativer Karmatrank"
+   KarmaPotion_neg_desc_rsc = "Trinkst du von diesem Trank während einer Raserei, so wird es dein Karma auf -100 verändern."
    
-   KarmaPotion_drink = "You quaff the contents of the Karma Potion in a single gulp."
-   KarmaPotion_no_drink = "You can't use this potion when it is not a frenzy."
+   KarmaPotion_drink = "Du trinkst den Inhalt des Karmatranks in einem Schluck herunter."
+   KarmaPotion_no_drink = "Du kannst diesen Trank nur während einer Raserei benutzen."
 
 classvars:
 

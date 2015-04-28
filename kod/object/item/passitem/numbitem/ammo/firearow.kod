@@ -19,10 +19,10 @@ constants:
 
 resources:
 
-   fire_arrow_name_rsc = "fire arrows"
+   fire_arrow_name_rsc = "Feuerpfeile"
    fire_arrow_icon_rsc = arrowfir.bgf
-   fire_arrow_desc_rsc = "These arrows do excellent damage, burning "
-      " brightly, they burn for extra damage."
+   fire_arrow_desc_rsc = "Diese Pfeile richten großen Schaden an und wenn sie  hell brennen, dann sogar noch größeren."
+
 
 classvars:
 
@@ -72,3 +72,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

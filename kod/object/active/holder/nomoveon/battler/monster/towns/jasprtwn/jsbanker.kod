@@ -18,13 +18,13 @@ resources:
 
    JasperBanker_name_rsc = "Yevitan"
    JasperBanker_icon_rsc = jsbanker.bgf
-   JasperBanker_desc_rsc = "Yevitan studies you with thoughtful, intelligent eyes.  "
-      "He is surprisingly spry for his age."
+   JasperBanker_desc_rsc = "Yevitan mustert Dich mit aufmerksamen, intelligenten Augen. Er ist erstaunlich lebhaft für sein Alter."
 
-   JB_need_balance = "Perhaps, If you utilized my bank more... I would offer you a special favor."
-   JB_favored_status = "To devoted disciples of Qor's magic, I teach how to blind your foes."
 
-   JasperBanker_entry_welcome = "Hello %s%s, and welcome."
+   JB_need_balance = "Wenn Du meine Bank häufiger besuchen würdest, könnte ich Dir vielleicht einen kleinen Gefallen erweisen."
+   JB_favored_status = "Ich unterrichte ergebene Diener Qors, wie man seine Gegner blendet."
+
+   JasperBanker_entry_welcome = "Guten Tag, %s%s."
 
 classvars:
 
@@ -113,4 +113,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -22,12 +22,12 @@ constants:
 
 resources:
 
-   ActiveWallElement_name_rsc = "wall element"
+   ActiveWallElement_name_rsc = "Ein Wandelement"
    ActiveWallElement_icon_rsc = poisoncl.bgf
-   ActiveWallElement_desc_rsc = "This is a wall spell element."
+   ActiveWallElement_desc_rsc = "Dies ist ein Element eines Wandzauberspruches."
    
-   ActiveWallElement_dissipate_rsc = "The wall element dissipates."
-   ActiveWallElement_unaffected_rsc = "You are unaffected by the wall element."
+   ActiveWallElement_dissipate_rsc = "Das Wandelement verschwindet."
+   ActiveWallElement_unaffected_rsc = "Du wirst von dem Wandelement nicht behelligt."
 
 classvars:
 
@@ -332,3 +332,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

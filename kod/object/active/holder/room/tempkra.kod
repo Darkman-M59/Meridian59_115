@@ -23,45 +23,45 @@ constants:
 
 resources:
 
-   room_name_templekra = "The Temple of Kraanan"
+   room_name_templekra = "Der Kraanan Tempel"
    room_templekra = tempkra.roo
-   templekra_music = temple.mid
+   templekra_music = temple.mp3
 
    templekra_sound = down2.wav
 
-   tempkra_scimitar_name = "scimitar"
+   tempkra_scimitar_name = "Der Säbel"
    tempkra_scimitar_icon = scimitar.bgf
-   tempkra_scimitar_desc = "Kraanan's mighty scimitar."
-   tempkra_axe_name = "axe"
+   tempkra_scimitar_desc = "Kraanans mächtiger Säbel."
+   tempkra_axe_name = "Die Axt"
    tempkra_axe_icon = axe.bgf
-   tempkra_axe_desc = "Kraanan's axe."
-   tempkra_longsword_name = "long sword"
+   tempkra_axe_desc = "Kraanans Axt."
+   tempkra_longsword_name = "Das Langschwert"
    tempkra_longsword_icon = sword.bgf
-   tempkra_longsword_desc = "Kraanan's long sword."
-   tempkra_hammer_name = "hammer"
+   tempkra_longsword_desc = "Kraanans Langschwert."
+   tempkra_hammer_name = "Der Hammer"
    tempkra_hammer_icon = hammer.bgf
-   tempkra_hammer_desc = "Kraanan's hammer."
-   tempkra_shortsword_name = "short sword"
+   tempkra_hammer_desc = "Kraanans Hammer."
+   tempkra_shortsword_name = "Das Kurzschwert"
    tempkra_shortsword_icon = shswd.bgf
-   tempkra_shortsword_desc = "Kraanan's short sword."
-   tempkra_mace_name = "mace"
+   tempkra_shortsword_desc = "Kraanans Kurzschwert."
+   tempkra_mace_name = "Der Streitkolben"
    tempkra_mace_icon = mace.bgf
-   tempkra_mace_desc = "Kraanan's mace."
-   tempkra_goldshield_name = "gold round shield"
+   tempkra_mace_desc = "Kraanans Streitkolben."
+   tempkra_goldshield_name = "Der Goldschild"
    tempkra_goldshield_icon = rshield.bgf
-   tempkra_goldshield_desc = "Kraanan's gold shield."
-   tempkra_platearmor_name = "plate armor"
+   tempkra_goldshield_desc = "Kraanans Goldschild."
+   tempkra_platearmor_name = "Der Plattenpanzer"
    tempkra_platearmor_icon = plateamr.bgf
-   tempkra_platearmor_desc = "Kraanan's plate armor."
-   tempkra_knightshield_name = "knight's shield"
+   tempkra_platearmor_desc = "Kraanans Plattenpanzer."
+   tempkra_knightshield_name = "Der Ritterschild"
    tempkra_knightshield_icon = mtlshld.bgf
-   tempkra_knightshield_desc = "Kraanan's shield of the knights."
-   tempkra_chainarmor_name = "chain armor"
+   tempkra_knightshield_desc = "Kraanans Ritterschild."
+   tempkra_chainarmor_name = "Das Kettenhemd"
    tempkra_chainarmor_icon = chainamr.bgf
-   tempkra_chainarmor_desc = "Kraanan's chain armor."
-   tempkra_metalshield_name = "small round shield"
+   tempkra_chainarmor_desc = "Kraanans Kettenhemd."
+   tempkra_metalshield_name = "Der kleine Rundschild"
    tempkra_metalshield_icon = metlshld.bgf
-   tempkra_metalshield_desc = "Kraanan's small round shield."
+   tempkra_metalshield_desc = "Kraanans kleiner Rundschild."
 
 classvars:
 
@@ -298,3 +298,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

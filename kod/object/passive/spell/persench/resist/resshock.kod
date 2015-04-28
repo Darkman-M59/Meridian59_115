@@ -20,16 +20,16 @@ constants:
 
 resources:
 
-   resistshock_name_rsc = "resist shock"
+   resistshock_name_rsc = "Schock widerstehen"
    resistshock_icon_rsc = iresshok.bgf
-   resistshock_desc_rsc = \
-      "The grizzled nature god gives the target some relief from shock attacks.  "
-      "Requires mushrooms and blue mushrooms to cast."
+   resistshock_desc_rsc = "Der grauhaarige Gott der Natur gibt dem Ziel etwas Schutz vor Schockattacken. Der Zauber benötigt gewöhnliche und blaue Pilze."
+
+
    
-   resistshock_already_enchanted = "You are already resisting shocks."
-   resistshock_success = "Faren fortifies %s%s against shock attacks."
-   resistshock_on = "Faren fortifies you against shock attacks."
-   resistshock_off = "Faren's magic departs, leaving you vulnerable to shock attacks once more."
+   resistshock_already_enchanted = "Du bist bereits immun gegen Schockangriffe."
+   resistshock_success = "Faren macht %s%s immun gegen Schockangriffe."
+   resistshock_on = "Jetzt kann Dich nichts mehr schocken!"
+   resistshock_off = "Farens Magie entschwindet und Du bist wieder anfällig für Schockangriffe."
 
 classvars:
 
@@ -89,3 +89,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -20,16 +20,16 @@ resources:
 
    tosinnkeeper_name_rsc = "Paddock"
    tosinnkeeper_icon_rsc = tsinnk.bgf
-   tosinnkeeper_desc_rsc = "As owner of perhaps the most popular bar in the world, Paddock goes out of his way to "
-      "smile at every customer who comes through the door.  His down to earth demeanor and "
-      "common man approach to his clientele makes him one of the most likable men in Tos."
+   tosinnkeeper_desc_rsc = "Paddock, der Besitzer der vielleicht beliebtesten Bar in der Welt, hat für alle seine Gäste, die bei ihm einkehren, ein Lächeln übrig. Sein nüchternes Verhalten und seine umgängliche Art gegenüber den Kunden machen ihn zu einem der beliebtesten Männer in Tos."
 
-   TsIK_entry_welcome = "Welcome to Familiars, the most popular bar in the land!"
 
-   TsIK_purplemushroom_sale = "Yeah, I got %s%s here. Let's see what kind of deal I can make with you for these little rarities."
-   TsIK_orcteeth_sale = "Another customer in the market for %s%s?  I should shut down the bar and just sell these things."
 
-   TsIK_watch_head = "Hey, %s%s!  Watch your head!"
+   TsIK_entry_welcome = "Willkommen in der Brunnenkneipe, der beliebtesten Bar im Land!"
+
+   TsIK_purplemushroom_sale = "Ja, ich habe %s%s hier. Lass mal sehen, was wir für ein Geschäft mit diesen Raritäten machen können."
+   TsIK_orcteeth_sale = "Noch einer interessiert an %s%sn? Ich sollte die Kneipe dicht machen und nur noch diese Sachen verkaufen."
+
+   TsIK_watch_head = "Hey, %s%s! Pass auf Deinen Kopf auf."
 
 classvars:
 
@@ -148,3 +148,4 @@ end
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

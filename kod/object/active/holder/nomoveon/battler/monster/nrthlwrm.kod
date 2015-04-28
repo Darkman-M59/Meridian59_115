@@ -21,15 +21,15 @@ constants:
 resources:
 
    NarthylWorm_koc_name_rsc = "tepna'arthyl"
-   NarthylWorm_name_rsc = "narthyl worm"
+   NarthylWorm_name_rsc = "Der Natterwurm"
    NarthylWorm_icon_rsc = darkbeas.bgf
-   NarthylWorm_desc_rsc = \
-   "In spite of its otherworldy hideousness, the narthyl worm's lithe movements are "
-   "intensely hypnotic.  Every nerve in your body is screaming danger, ringing dully "
-   "through the trance-like state that seems to be descending over your mind."
+   NarthylWorm_desc_rsc = "Trotz seiner unirdischen Scheußlichkeit sind die geschmeidigen Bewegungen des Natterwurmes stark hypnotisch. Ein tranceartiger Zustand überkommt Dich, als Du, fast völlig abgedämpft, jeden Nerv in Deinem Körper Gefahr schreien hörst."
+
+
+
 
    NarthylWorm_dead_icon_rsc = dkbx.bgf
-   NarthylWorm_dead_name_rsc = "dead narthyl worm"
+   NarthylWorm_dead_name_rsc = "Ein toter Natterwurm"
 
    NarthylWorm_sound_miss = wrm_atk.wav
    NarthylWorm_sound_death = wrm_die.wav
@@ -159,3 +159,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

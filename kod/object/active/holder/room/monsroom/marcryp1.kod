@@ -44,24 +44,24 @@ constants:
 resources:
 
    room_MarionCrypt1 = MarDun01.roo
-   room_name_MarionCrypt1 = "The crypt in Marion"
+   room_name_MarionCrypt1 = "Die Krypta von Marion"
 
-   MarionCrypt1_music = nec01.mid
+   MarionCrypt1_music = nec01.mp3
 
-   MarionCrypt1_corpse_name = "mummified corpse"
+   MarionCrypt1_corpse_name = "Ein mumifizierter Körper"
    MarionCrypt1_corpse_icon = mummyX.bgf
-   MarionCrypt1_corpse_desc = \
-      "The spectral mummies that haunt this crypt were once simple mummified corpses like this one."
+   MarionCrypt1_corpse_desc = "Die Gefallenen Seelen, die in der Krypta hausen, waren einst nur mumifizierte Körper."
+
 
    MarionCrypt1_door1_rsc = down2.wav
 
-   MarionCrtyp1_martyr_on = \
-      "The good ancestral spirits of this place call upon the gods to protect the innocent."
+   MarionCrtyp1_martyr_on = "Die guten angestammten Geister dieser Hallen rufen die Götter an, die Unschuldigen zu beschützen."
+
 
    % Let players call upon the "gods" to receive protection
-   MarionCrypt1_gods = "gods"
+   MarionCrypt1_gods = "Götter"
 
-   MarionCrypt1_venyacyr = "Venya'cyr the Damned"
+   MarionCrypt1_venyacyr = "Venya'cyr die Verdammte"
 
 classvars:
 
@@ -616,3 +616,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

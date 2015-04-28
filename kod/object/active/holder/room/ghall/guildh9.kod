@@ -21,7 +21,7 @@ constants:
 
 resources:
 
-   room_name_guildh9 = "The Abandoned Warehouse"
+   room_name_guildh9 = "Verlassene Lagerhalle"
    room_guildh9 = guildh9.roo
 
 classvars:
@@ -191,3 +191,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

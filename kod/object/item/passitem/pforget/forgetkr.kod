@@ -16,7 +16,7 @@ constants:
 
 resources:
 
-   forgetpotionkraanan_desc_rsc = "Swallowing this cool liquid will wipe all memory of the spells of Kraanan the Fist from your mind.\n\nMay have very serious side effects."
+   forgetpotionkraanan_desc_rsc = "Dieses höchst erfrischend aussehende Gebräu wird Deine Kenntnisse in der Schule von Kraanan restlos auslöschen.\n\nEs sei jedoch vor eventuellen Nebenwirkungen gewarnt."
 
 classvars:
 
@@ -29,3 +29,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

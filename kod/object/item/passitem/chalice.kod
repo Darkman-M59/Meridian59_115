@@ -17,18 +17,18 @@ constants:
 
 resources:
 
-   chalice_name_rsc = "Chalice of the Rain"
+   chalice_name_rsc = "Der Kelch des Regens"
    chalice_icon_rsc = chalice.bgf
-   chalice_desc_rsc = \
-      "This ornate chalice is adorned with holy markings "
-      "of Shal'ille.  An inscription reads \"to catch her tears.\""
+   chalice_desc_rsc = "Dieser reich verzierte Kelch ist mit Sha-Lills heiligen Zeichen versehen. Eine Inschrift lautet \"Um ihre Tränen aufzufangen.\""
 
-   chalice_cant_get = "You try to pick up the chalice, but it mystically clings to the stone altar."
 
-   chalice_use = "You sip a bit of the water out of the Chalice of Rain."
-   chalice_empty = "You sip the last bit of water from the Chalice of Rain."
-   chalice_combine = "You pour the water from one Chalice into the other."
-   chalice_cant_use_pkill = "Only innocents may partake of the chalice."
+
+   chalice_cant_get = "Du versuchst, den Kelch aufzunehmen, aber eine magische Kraft bindet ihn an den steinernen Altar."
+
+   chalice_use = "Du nippst ein wenig vom Wasser im Kelch des Regens."
+   chalice_empty = "Du nippst das letzte Wasser aus dem Kelch des Regens."
+   chalice_combine = "Du schüttest das Wasser von einem Kelch in den anderen."
+   chalice_cant_use_pkill = "Nur unschuldige können den Kelch an sich nehmen."
 
 classvars:
 
@@ -183,3 +183,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   scalearmor_name_rsc = "scale armor"
+   scalearmor_name_rsc = "Der Schuppenpanzer"
    scalearmor_icon_rsc = scaleamr.bgf
-   scalearmor_desc_rsc = \
-      "Thousands of overlapping steel scales give this armor "
-      "its strength.  This armor is stronger than chain mail "
-      "and lighter than plate.  Markings suggest it was made "
-      "by Quintor, master armor maker."
+   scalearmor_desc_rsc = "Der Schuppenpanzer wird aus Tausenden kleiner Stahlbolzen geschmiedet. Der Schuppenpanzer ist wesentlich stabiler als das Kettenhemd, aber leichter als der Plattenpanzer. Er trägt das Siegel von Quintor, einem landesweit bekannten Schmied."
+
+
+
+
 
    scalearmor_male_icon_rsc = bti.bgf
    scalearmor_female_icon_rsc = btj.bgf
@@ -70,3 +70,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

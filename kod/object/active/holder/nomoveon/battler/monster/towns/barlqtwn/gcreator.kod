@@ -18,49 +18,49 @@ resources:
 
    GuildCreator_name_rsc = "Frular"
    GuildCreator_icon_rsc = gcreator.bgf
-   GuildCreator_desc_rsc = \
-      "Before you stands the stately guild hall executor. Frular has made a "
-      "healthy profit off of selling official guild titles, maintenance of "
-      "their charters and the leasing of guild halls."
+   GuildCreator_desc_rsc = "Vor Dir steht der erhabene Verwalter der Gildenhallen. Frular hat große Gewinne mit dem Verkauf offizieller Gildentitel, der Verwaltung ihrer Freibriefe und dem Verpachten von Gildenhallen gemacht."
 
-   GuildCreator_mailname_rsc = "Frular, the Guild Creator"
 
-   GuildCreator_not_master = "Only the elite members of a guild may purchase a guild hall."
-   GuildCreator_not_mature_yet = \
-      "Thou cannot purchase a guild hall until thy guild hath been active for some time."
-   GuildCreator_have_guild = "Thou already hast both a guild and a guild hall."
-   GuildCreator_no_halls = "All of the guild halls have already been rented."
-   GuildCreator_no_rent = "Why dost thou make offers to me?  Thou owest not any guild rent."
-   GuildCreator_not_enough_money = "Thou hast not %i shillings to give me!"
-   GuildCreator_thanks = "I thank thee for thy payment."
 
-   GuildCreator_player_active = \
-      "My records indicate this citizen has been active sometime in the recent past."
-   GuildCreator_player_inactive = \
-      "Unfortunately, my records show that this citizen is currently inactive."
 
-   gcreator_no_guild = "Thou belongest to no guild, and thus owest no rent."
-   gCreator_no_rent = "Thou owest no rent at this time."
-   gcreator_rent_due = "%s%q owes %i coins in rent at this time."
-   gcreator_hours_til_rent = \
-      "The guild members have %i hours to pay off their balance, or the guild "
-      "will be disbanded."
-   gcreator_lesshour_til_rent = \
-      "The guild members have less than an hour to pay off their balance, or "
-      "the guild will be disbanded."
-   gcreator_hour_til_rent = \
-      "The guild members have an hour to pay off their balance, or the guild "
-      "will be disbanded."
-   gcreator_positive_balance = \
-      "%s%q has a positive balance of %i shillings.  I thank thee for thy "
-      "timely payments."
+   GuildCreator_mailname_rsc = "Frular, der Gildenmeister"
 
-   gcreator_low_level = "Thou art not yet ready to brave the dangers of guild intrigue."
+   GuildCreator_not_master = "Nur die Anführer einer Gilde können eine Gildenhalle kaufen."
+   GuildCreator_not_mature_yet = "Ihr könnt eine Gildenhalle erstehen, wenn Eure Gilde eine Zeitlang aktiv gewesen ist."
 
-   gcreator_unwanted_give = \
-      "~k%s%s tells you, \"Thou canst pay thy rent only with shillings!~n~k\""
+   GuildCreator_have_guild = "Ihr habt bereits eine Gilde und eine Gildenhalle."
+   GuildCreator_no_halls = "Alle Gildenhallen sind bereits vermietet."
+   GuildCreator_no_rent = "Warum macht Ihr mir diese Angebote? Ihr schuldet keine Gildenpacht."
+   GuildCreator_not_enough_money = "Ihr habt keine %i Schillinge, die Ihr mir geben könnt!"
+   GuildCreator_thanks = "Ich danke Euch für die Bezahlung."
 
-   GuildCreator_rent_command = "rent"
+   GuildCreator_player_active = "Meine Aufzeichnungen belegen, dass dieser Bürger in der Vergangenheit aktiv gewesen ist."
+
+   GuildCreator_player_inactive = "Unglücklicherweise zeigen meine Aufzeichnungen, dass dieser Bürger gegenwärtig nicht aktiv ist."
+
+
+   gcreator_no_guild = "Ihr gehört keiner Gilde an und schuldet somit auch keine Miete."
+   gCreator_no_rent = "Ihr schuldet zur Zeit keine Miete."
+   gcreator_rent_due = "%s%q schuldet mir momentan noch %i Schillinge."
+   gcreator_hours_til_rent = "Die Gilde hat noch %i Stunden Zeit, um ihre Schulden zu begleichen. Ansonsten wird die Gilde aufgelöst!"
+
+
+   gcreator_lesshour_til_rent = "Die Gildenmitglieder haben noch weniger als eine Stunde Zeit, um die Miete zu bezahlen. Ansonsten wird die Gilde aufgelöst."
+
+
+   gcreator_hour_til_rent = "Die Gildenmitglieder haben noch genau eine Stunde Zeit, um die Miete zu bezahlen. Ansonsten wird die Gilde aufgelöst."
+
+
+   gcreator_positive_balance = "%s%q hat eine positive Bilanz von %i Schillingen. Ich danke Euch für die zeitige Zahlung."
+
+
+
+   gcreator_low_level = "Ihr seid noch nicht soweit, den Gefahren der Gildenintrigen die Stirn zu bieten."
+
+   gcreator_unwanted_give = "~k%s%s sagt zu Dir, \"Ihr könnt Eure Miete nur mit Schillingen bezahlen!~n~k\""
+
+
+   GuildCreator_rent_command = "miete"
 
 classvars:
 
@@ -379,3 +379,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

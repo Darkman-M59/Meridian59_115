@@ -17,17 +17,17 @@ constants:
 
 resources:
 
-   admin_login = "Welcome to the game, Administrator %s."
+   admin_login = "Willkommen zu Meridian 59, Administrator %s."
    admin_admin_module = admin.dll
 
-   admin_mortal = "You are mortal."
-   admin_immortal = "You are immortal."
-   admin_morphed = "You are not in your plain human form."
+   admin_mortal = "Du bist jetzt sterblich."
+   admin_immortal = "Du bist wieder unsterblich."
+   admin_morphed = "Du befindest Dich nicht in Deinem normalen menschlichen Zustand."
 
-   admin_anonymous = "You are now anonymous."
-   admin_anonymous_hint = "(Repeat the command to restore your name.)"
-   admin_not_anonymous = "You are again known as %s."
-   admin_black = "You are now shadowform."
+   admin_anonymous = "Du kannst nicht mehr durch Deinem Namen identifiziert werden."
+   admin_anonymous_hint = "(Wiederhole den Befehl, um Deinen Namen zu sichern.)"
+   admin_not_anonymous = "Du bist jetzt wieder mit Deinem Namen %s zu erkennen."
+   admin_black = "Du hast die Form eines Schattens angenommen."
 
    admin_currently_in = "The ROO for `b%s`n is `k`B%s`n."
 
@@ -44,23 +44,23 @@ resources:
    admin_logoffghost_off_command = "logoffghost off"
    admin_logoffghost_temp_off_command = "logoffghost temp off"
 
-   admin_no_longer = "This command no longer exists; try the DM command form."
+   admin_no_longer = "Dieser Befehl existiert nicht mehr; versuche die DM Befehlsform."
 
    % not for admin use, but to let creator work
-   admin_icon_priestess = priestes.bgf 
-   admin_cant_create_itematt = \
-      "You cannot create an item attributed weapon with that name."
-   admin_need_weapon = \
-      "You need to equip the weapon you wish to give an attribute to (this "
-      "command only works on weapons, for the time being)."
+   admin_icon_priestess = priestes.bgf
+   admin_cant_create_itematt = "Du kannst einem Gegenstand, der eine Waffe sein soll, keinen solchen Namen geben."
 
-   admin_made_itematt = "%s raises %s%s, glowing briefly with a mystical light!"
-   admin_gone_mortal = "%s appears more vulnerable."
-   admin_gone_immortal = "%s appears less vulnerable."
+   admin_need_weapon = "Du musst die gewünschte Waffe in die Hand nehmen, um ihr eine Funktion zuzuweisen (dieser Befehl funktioniert fürs erste nur bei Waffen)."
 
-   admin_logoffghost_on = "Logoff penalties are now active."
-   admin_logoffghost_off = "Logoff penalties are now inactive."
-   admin_logoffghost_temp_off = "Logoff penalties are now temporarily inactive."
+
+
+   admin_made_itematt = "%s hebt %s%s, kurz in einem mystischen Licht aufleuchtend!"
+   admin_gone_mortal = "%s scheint verwundbarer."
+   admin_gone_immortal = "%s scheint weniger verwundbar."
+
+   admin_logoffghost_on = "Strafpunkte für das Beenden des Spiels werden jetzt vergeben."
+   admin_logoffghost_off = "Strafpunkte für das Beenden des Spiels werden jetzt nicht vergeben."
+   admin_logoffghost_temp_off = "Strafpunkte für das Beenden des Spiels werden jetzt zeitweise nicht vergeben."
 
 classvars:
 
@@ -647,3 +647,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

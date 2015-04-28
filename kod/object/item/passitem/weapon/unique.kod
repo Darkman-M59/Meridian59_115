@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   UniqueWeapon_name_rsc = "Dark Blade of Roq"
+   UniqueWeapon_name_rsc = "Die dunkle Klinge Roqs"
    UniqueWeapon_icon_rsc = bkswd.bgf
-   UniqueWeapon_desc_rsc = \
-      "The personal blade of Roq the assassin.  This blade appears to be "
-      "identical to the black daggers Roq hands out for the Assassin game.  "
-      "But the dried blood of Duke Kalior along the blade reveals this to be "
-      "a much more potent weapon.  It almost crackles with malevolent energy."
+   UniqueWeapon_desc_rsc = "Dies ist der persönliche Dolch von Roq, dem Meuchelmörder. Diese Klinge scheint identisch mit dem Meuchelmörderdolch zu sein, den Roq für das Meuchelmörderspiel aushändigt. Aber das getrocknete Blut von Herzog Kalior an der Schneide zeigt, das dies eine viel gefährlichere Waffe ist. Sie knistert fast vor böser Energie."
+
+
+
+
 
    UniqueWeapon_window_overlay_rsc = povshswd.bgf
    UniqueWeapon_player_overlay = shswdov.bgf
 
-   UniqueWeapon_cant_vault = \
-      "Your weapon sears into your flesh, clinging to your hand as it burns."
-   UniqueWeapon_logoff = \
-      "Your weapon writhes free to seek a more blood thirsty owner."
+   UniqueWeapon_cant_vault = "Deine Waffe schmort sich in Dein Fleisch, während sie an Deiner Hand kleben bleibt als sie brennt."
+
+   UniqueWeapon_logoff = "Deine Waffe windet sich aus Deinen Händen und macht sich auf die Suche nach einem blutdürstigeren Besitzer."
+
    
 classvars:
    vrName = UniqueWeapon_name_rsc
@@ -187,3 +187,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

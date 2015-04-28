@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   Herbs_name_rsc = "herb"
-   Herbs_desc_rsc = \
-   "These magical herbs are dark green in color.  The leaves "
-   "are oily and have a mint-like aroma."
+   Herbs_name_rsc = "Das Kraut"
+   Herbs_desc_rsc = "Diese magischen Kräuter haben eine dunkelgrüne Farbe. Ihre Blätter sind ölig und schmecken nach Minze."
+
+
 
    Herbs_icon_rsc = herb.bgf
 
-   Herbs_name_plural_rsc = "herbs"
+   Herbs_name_plural_rsc = "Kräuter"
 
 classvars:
 
@@ -45,3 +45,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -28,172 +28,172 @@ resources:
    monster_color_blue_rsc = "~b"
 
    monster_plural = "s"
-   monster_little = "a little "             % for under 15pts to gain
-   monster_nothing = ""                     % for 15-30 pts to gain
-   monster_some = "some "                   % for 30-45 pts to gain
-   monster_much = "much "                   % for 45-60 pts to gain
-   monster_significantly = "significantly " % for 60-75 pts to gain
-   monster_drastically = "drastically "     % for 75+ pts to gain
+   monster_little = "ein kleines bisschen mehr "
+   monster_nothing = ""
+   monster_some = "mehr "
+   monster_much = "viel mehr "
+   monster_significantly = "sehr viel mehr "
+   monster_drastically = "extrem viel mehr "
 
-   monster_teach_karma = \
-      "Your karma is not far enough along the true path for you to learn %s." 
-   monster_teach_quest_needed = \
-      "I can teach you %s, but first you must prove your worth as a pupil."
-   monster_teach_base = \
-      "Your mind is focused properly, and with %sfurther progress in the "
-      "previous %s levels you can learn %s." 
-   monster_teach_success = \
-      "You are currently qualified to learn %s.  Congratulations."  
-   monster_teach_already = "You have already been taught %s."
-   monster_teach_nobase = \
-      "You first need to have some knowledge of the previous level before you "
-      "can learn %s."
-   monster_teach_impossible = \
-      "Indeed, you have learned so much already! A fine accomplishment.  You "
-      "have no... need... to learn further in this school."
-   monster_teach_and = " and "
+   monster_teach_karma = "Dein Karma ist nicht stark genug, um diesen Zirkel zu erlernen."
 
-   monster_level = "level"
-   monster_one = "one"
-   monster_two = "two"
-   monster_three = "three"
-   monster_four = "four"
-   monster_five = "five"
-   monster_six = "six"
+   monster_teach_quest_needed = "Ich kann Dir das beibringen, doch zuerst musst Du Deinen Wert als Schüler unter Beweis stellen."
 
-   monster_sch_weaponcraft = "Weaponcraft"
-   monster_sch_kraanan = "Kraanan magic"
-   monster_sch_shalille = "Shal'ille magic"
-   monster_sch_qor = "Qor magic"
-   monster_sch_faren = "Faren magic"
-   monster_schools_faren_shalille = "Shal'ille and Faren magic"
-   monster_schools_qor_shalille = "Shal'ille and Qor magic"
-   monster_school_qor_faren = "Qor and Faren magic"
-   monster_division_combat = "Weaponcraft and Kraanan magic"
-   monster_division_magic = "Shal'ille, Faren, and Qor magic"
+   monster_teach_base = "Du bist auf dem richtigen Weg und mit %s Fortschritt im vorherigen %s-Zirkel kannst Du das lernen."
 
-   monster_anonymous_response = \
-      "%s looks at you with a peculiar expression, and does not respond." 
 
-   LS_Cant_part = \
-      "I cannot see how you could bear to part with %s%s!  I certainly "
-      "couldn't be the one to take it off your hands."
-   LS_Signet_returned = \
-      "Oh! I was sure this was lost forever.  Thank you very, very much for "
-      "bringing it back to me.  Here, let me give you a small reward."
-   LS_Signet_wrong = \
-      "An heirloom for sure.  You should take it to %s%s yourself.  There's "
-      "likely to be a reward for its return."
-   LS_already_done_permquest = \
-      "You have already earned my favor; you need not keep trying."
-   LS_unwanted_oldquest = \
-      "Sorry you went to such trouble, but someone else already gave me that."
-   LS_wanted_keep = "Thank you.  I will someday return the favor."
-   LS_unwanted_keep = \
-      "~k%s%s tells you, \"Thank you.  It is very nice of you to just give "
-      "this to me.~n~k\""
-   LS_unwanted_pay = \
-      "~k%s%s tells you, \"Here.  I'll give you a few shillings for "
-      "this.~n~k\""
-   LS_unwanted_give = \
-      "~k%s%s tells you, \"I simply have no need for that.~n~k\""
-   LS_unwanted_token = \
-      "~k%s%s tells you, \"I am honored to hold it briefly, but this token "
-      "must be returned to the member of the Meridian Council who studies "
-      "it.  I'm afraid I must give it back to you.~n~k\""
-   LS_nofight_attacked = \
-      "You have a funny feeling that attacking is pointless."
+   monster_teach_success = "Gratuliere! Du hast alle Voraussetzungen erfüllt, um diesen Zirkel zu erlernen."
 
-   Lm_nothing_for_sale = "I'm afraid I have nothing to sell right now."
+   monster_teach_already = "Das habe ich Dir schon beigebracht."
+   monster_teach_nobase = "Du musst erst einige Erkenntnisse im vorherigen Zirkel sammeln, bevor ich Dich das lehren kann."
 
-   Lm_first_damage_level = "~B~r%s%s is slightly wounded."
-   Lm_second_damage_level = "~B~r%s%s is clearly injured."
-   Lm_third_damage_level = "~B~r%s%s is seriously wounded."
-   Lm_fourth_damage_level = "~B~r%s%s is weak, and near death."
-   Lm_party_killed_monster = "~B%s%s has valiantly slain %s%s!"
 
-   Lm_monster_healing = \
-      "%s%s falls back to recover for a moment, then returns to the fight."
+   monster_teach_impossible = "Fürwahr, Du hast bereits so viel gelernt! Eine gute Fähigkeit. Du hast es nicht ... ähhhmmm... nötig ... mehr in dieser Schule zu lernen."
 
-   Lm_condition_good = "%s\n\n%s%s is injured, but is still relatively strong."
-   Lm_condition_fair = "%s\n\n%s%s is wounded, but is still relatively strong."
-   Lm_condition_poor = "%s\n\n%s%s is suffering from deep wounds."
-   Lm_condition_bad = \
-      "%s\n\n%s%s is weak and seems unlikely to survive much longer."
 
-   Lm_cant_remove_item = "You can't give %s%s away right now."
-   Lm_mrcnt_not_selling = "You tried to buy something that is not being sold."
-   Lm_mrcnt_too_costly = "Come back when you have enough money for %s%s."
-   Lm_mrcnt_cant_give = \
-      "I'm unable to give you %s%s.  Perhaps you carry too much?"
+   monster_teach_and = " und "
 
-   Lm_only_receiver = "%s%s says, \"I don't buy things, but I do take gifts.\""
-   Lm_buyer_offer_busy = "%s is busy right now with another customer." 
-   Lm_buyer_no_value = "I can't even give you a shilling for that."
-   Lm_buyer_timeout = \
-      "Can't make up your mind?  Think on it and come back when you are ready."
-   Lm_buyer_unwanted = "I'm not interested."
-   Lm_bnkr_balance = "You have %i shillings in your account."
-   Lm_bnkr_did_deposit = \
-      "Thank you for your deposit.  You now have %i shillings in your account."
-   Lm_bnkr_no_account = "You have no money to withdraw!"
-   Lm_bnkr_not_enough_withdraw = \
-      "But you only have %i shillings in your account!"
-   Lm_bnkr_not_enough_deposit = \
-      "But you only have %i shillings in your possession!"
-   Lm_bnkr_did_withdraw = \
-      "Here are your %i shillings. Thank you for your business."
-   Lm_bnkr_player_full = \
-      "I swear, if I gave you a shilling more than %i you'd topple right over!"
-   Lm_bnkr_player_all_full = "You can't hold even a single shilling more!"
+   monster_level = "Zirkel"
+   monster_one = "Eins"
+   monster_two = "Zwei"
+   monster_three = "Drei"
+   monster_four = "Vier"
+   monster_five = "Fünf"
+   monster_six = "Sechs"
 
-   vaultman_nogold = "You may not use my services to store %s%s."
-   vaultman_nocursed = "I cannot take %s%s from you."
-   vaultman_fullvault = \
-      "Your vault cannot hold that much stuff!  Perhaps you should try "
-      "offering items in smaller quantities."
-   vaultman_thanks_amount = \
-      "That will cost %i shillings.  Thank you for trusting me to "
-      "quartermaster your gear."
-   vaultman_dont_have = "Hmmm, I can't seem to find %s%s in your vault."
-   vaultman_no_room = \
-      "You can't carry all of that!  Perhaps you should try withdrawing the "
-      "items one at a time."
-   vaultman_deposit_thanks = \
-      "Thank you for trusting me to quartermaster your gear."
-   vaultman_thanks = "Here is your gear.  Thank you for your patronage."
-   vaultman_nowithdraw_cash = \
-      "You currently cannot pay the exit fee to get your stuff out."
-   vaultman_nodeposit_cash = \
-      "Storing these items would cost %i shillings - which I see you do not "
-      "have."
-   vaultman_cant_part = "\
-      Wow... I couldn't feel responsible if your %s were to disappear - I "
-      "cannot store it."
-   vaultman_noaccount = "I do not seem to be storing any of your gear."
-   vaultman_not_enough = "You don't have that many %s stored in your name!"
+   monster_sch_weaponcraft = "Waffenfertigkeiten"
+   monster_sch_kraanan = "Kraanan-Magie"
+   monster_sch_shalille = "Sha-Lill-Magie"
+   monster_sch_qor = "Qor-Magie"
+   monster_sch_faren = "Faren-Magie"
+   monster_schools_faren_shalille = "Sha-Lill- und Faren-Magie"
+   monster_schools_qor_shalille = "Sha-Lill- und Qor-Magie"
+   monster_school_qor_faren = "Qor- und Faren-Magie"
+   monster_division_combat = "Waffenfertigkeiten und Kraanan-Magie"
+   monster_division_magic = "Sha-Lill-, Faren- und Qor-Magie"
 
-   monster_say_to_one = "~k%s%s tells you, \"%s~n~k\""
+   monster_anonymous_response = "%s schaut Dich eigenartig an und antwortet nicht."
 
-   monster_refuse_service = \
-      "I'm a law abiding tradesman.  I refuse to serve bandits and thugs!"
-   monster_secret_service = \
-      "~IIt just doesn't look good for someone of my reputation.  Come back "
-      "later, alone, and maybe I'll help you out."
-   monster_illicit_service = \
-      "~IOkay, but be quiet about it, I have a reputation to keep."
-   monster_iteach = "I teach "
-   monster_atthatlevel = " at that level."
-   monster_teachnothing = "I teach no abilities at that level."
 
-   monster_koc_name = "moch"
+   LS_Cant_part = "%s%s kann ich Dir nicht abnehmen. Da musst Du Dir etwas anderes einfallen lassen."
 
-   monster_report_balance = \
-      "~B~g[~n~k%s%s tells you, \"%q has %i shillings in this bank.\"~B~g]"
-   Monster_Sweep_Reward = \
-      "Hmm... that looks a bit cleaner.  Here, take this as payment, %s%s."
 
-   monster_default_attack = "attack"
+   LS_Signet_returned = "Oh! Ich war sicher, es für immer verloren zu haben. Vielen Dank, dass Du es mir zurückgebracht hast. Hier, laß mich Dir eine kleine Belohnung geben."
+
+
+   LS_Signet_wrong = "Bestimmt ein Erbstück. Du solltest es selbst zu %s%s bringen. Es ist sehr wahrscheinlich, dass es für seine Rückgabe eine Belohnung gibt."
+
+
+   LS_already_done_permquest = "Du hast mir bereits einen Gefallen getan und musst nicht weiter dein Glück versuchen."
+
+   LS_unwanted_oldquest = "Das hat mir schon jemand anderes gegeben. Tut mir leid, dass Du Dich so bemüht hast."
+
+   LS_wanted_keep = "Vielen Dank, ich werde mich dafür irgendwann erkenntlich zeigen."
+   LS_unwanted_keep = "~k%s%s sagt zu dir, \"Danke. Es ist sehr nett von Dir, mir dies einfach so zu geben.~n~k\""
+
+
+   LS_unwanted_pay = "~k%s%s sagt zu dir, \"Hier. Ich werde Dir ein paar Schillinge dafür geben.~n~k\""
+
+
+   LS_unwanted_give = "~k%s%s sagt zu dir, \"Ich habe einfach keinen Nutzen davon.~n~k\""
+
+   LS_unwanted_token = "~k%s%s sagt zu dir, \"Ich bin geehrt, es auch nur kurz in Händen zu halten, doch dieses Artefakt muss dem Mitglied des Rates von Meridian zurückgegeben werden, das es studiert. Ich fürchte, ich muss es Dir zurückgeben~n~k\""
+
+
+
+   LS_nofight_attacked = "Ein merkwürdiges Gefühl sagt Dir, dass ein Angriff zwecklos wäre."
+
+
+   Lm_nothing_for_sale = "Ich fürchte, ich habe zur Zeit nichts zu verkaufen."
+
+   Lm_first_damage_level = "~r~B%s%s ist leicht verwundet."
+   Lm_second_damage_level = "~r~B%s%s ist verletzt."
+   Lm_third_damage_level = "~r~B%s%s ist schwer verletzt."
+   Lm_fourth_damage_level = "~r~B%s%s ist schwach und dem Tode nahe."
+   Lm_party_killed_monster = "~r~B%s%s hat das Monster erschlagen. %s%s ist tot!"
+
+   Lm_monster_healing = "~g%s%s weicht zurück, um für einen Moment neue Kraft zu schöpfen."
+
+
+   Lm_condition_good = "%s\n\n%s%s ist verletzt, aber immer noch ziemlich stark."
+   Lm_condition_fair = "%s\n\n%s%s ist verwundet, doch immer noch relativ stark."
+   Lm_condition_poor = "%s\n\n%s%s leidet an schweren Verletzungen."
+   Lm_condition_bad = "%s\n\n%s%s ist schon sehr schwach und wird vermutlich nicht mehr lange leben."
+
+
+   Lm_cant_remove_item = "%s%s kannst Du nicht abgeben."
+   Lm_mrcnt_not_selling = "Du versuchst etwas zu erwerben, das nicht verkauft wird."
+   Lm_mrcnt_too_costly = "%s%s? Komm wieder, wenn Du genügend Geld dafür hast!"
+   Lm_mrcnt_cant_give = "%s%s?! Du solltest vielleicht erst etwas ablegen, denn Du kannst nichts mehr tragen."
+
+
+   Lm_only_receiver = "%s%s sagt, \"Ich kaufe keine Sachen, aber ich nehme Geschenke entgegen.\""
+   Lm_buyer_offer_busy = "%s kümmert sich gerade um einen anderen Kunden."
+   Lm_buyer_no_value = "Ich kann Dir nicht mal einen einzigen Schilling dafür geben."
+   Lm_buyer_timeout = "Du kannst Dich wohl nicht entscheiden?! Überlege es Dir noch einmal und komme dann wieder..."
+
+   Lm_buyer_unwanted = "Kein Interesse."
+   Lm_bnkr_balance = "Dein Kontostand beträgt ~b~B%i~k~B Schillinge."
+   Lm_bnkr_did_deposit = "Danke für Deine Einzahlung. Dein Kontostand beträgt nun ~b~B%i~k~B Schillinge."
+
+   Lm_bnkr_no_account = "Tja, du hast Deine Ersparnisse leider verschleudert - Kredit bekommst Du von mir nicht!"
+   Lm_bnkr_not_enough_withdraw = "Aber Du hast doch nur ~b~B%i~k~B Schillinge auf Deinem Konto!"
+
+   Lm_bnkr_not_enough_deposit = "Aber es befinden sich nur ~b~B%i~k~B Schillinge in Deinem Besitz!"
+
+   Lm_bnkr_did_withdraw = "Hier sind Deine ~b~B%i~k~B Schillinge. Vielen Dank."
+
+   Lm_bnkr_player_full = "Wenn ich Dir mehr als ~b~B%i~k~B Schillinge geben würde, wäre mein Ruf in Gefahr!"
+
+   Lm_bnkr_player_all_full = "Du kannst nicht einmal mehr einen einzigen Schilling halten!"
+
+   vaultman_nogold = "Du brauchst meine Dienste nicht in Anspruch zu nehmen, um %s%s zu verwahren."
+   vaultman_nocursed = "Ich kann keine %s%s von Dir nehmen."
+   vaultman_fullvault = "Dein Lager kann nicht soviel Kram aufnehmen! Vielleicht solltest Du Sachen in kleineren Mengen anbieten."
+
+
+   vaultman_thanks_amount = "Das kostet %i Schillinge. Danke, dass Du mir Deine Ausrüstung anvertraust."
+
+
+   vaultman_dont_have = "Hmmm, ich scheine Deine %s%s nicht in Deinem Lager finden zu können."
+   vaultman_no_room = "Du kannst das nicht alles tragen! Vielleicht solltest Du versuchen, nur einen Gegenstand zur Zeit mitzunehmen."
+
+
+   vaultman_deposit_thanks = "Danke, dass Du mir Deine Ausrüstung anvertraust."
+
+   vaultman_thanks = "Hier ist Deine Ausrüstung. Danke für Dein Vertrauen."
+   vaultman_nowithdraw_cash = "Im Moment kannst Du die Ablösegebühr nicht zahlen, um Deine Sachen mitzunehmen."
+
+   vaultman_nodeposit_cash = "Die Verwahrung dieser Gegenstände würde %i Schillinge kosten - ich sehe, dass Du sie nicht hast."
+
+
+   vaultman_cant_part = "Wow... Ich könnte nicht die Verantwortung übernehmen, wenn Dein %s verschwinden würde - Ich kann es nicht verwahren."
+
+
+   vaultman_noaccount = "Ich scheine nichts von Deiner Ausrüstung zu verwahren."
+   vaultman_not_enough = "Du hast nicht so viele %s unter Deinem Namen in Verwahrung gegeben!"
+
+   monster_say_to_one = "~k%s%s sagt zu Dir, \"%s~n~k\""
+
+   monster_refuse_service = "Ich bin ein gesetzestreuer Händler. Ich weigere mich, Banditen und Räuber zu bedienen!"
+
+   monster_secret_service = "~IEs gefährdet einfach meinen Ruf. Komm später alleine wieder, und ich werde sehen, was ich für Dich tun kann."
+
+
+   monster_illicit_service = "~IGut, aber erzähle es keinem anderen - schließlich habe ich einen Ruf zu verlieren!"
+
+   monster_iteach = "Ich unterrichte "
+   monster_atthatlevel = " ab diesem Zirkel."
+   monster_teachnothing = "Ich lehre keine Fertigkeiten ab diesem Zirkel."
+
+   monster_koc_name = "Der Moch"
+
+   monster_report_balance = "~B~g[~n~k%s%s sagt zu dir, \"%q hat ~b~B%i~k~B Schillinge auf dieser Bank.\"~B~g]"
+
+   Monster_Sweep_Reward = "Hmm . . . das sieht ein wenig sauberer aus, hier, nimm dies als Belohnung."
+
+
+   monster_default_attack = "Attacke"
 
 classvars:
 
@@ -5832,3 +5832,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

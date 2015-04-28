@@ -21,13 +21,13 @@ constants:
 resources:
    
 
-   strboon_name_rsc = "strength effect"
+   strboon_name_rsc = "Kraft"
    strboon_icon_rsc = iboonmig.bgf
-   strboon_desc_rsc = "Your strength is under an abnormal effect."
-   strboon_intro_rsc = "The strength of the victim is boosted temporarily."
+   strboon_desc_rsc = "Deine Körperkraft wird irgendwie merkwürdig verändert."
+   strboon_intro_rsc = "Die Körperkraft des Betroffenen ist vorübergehend stark gesteigert."
 
-   strboon_inc = "You feel stronger!"
-   strboon_dec = "You suddenly feel weaker."
+   strboon_inc = "Du fühlst Dich stärker!"
+   strboon_dec = "Du fühlst Dich plötzlich schwächer."
 
 classvars:
    viPersonal_ench = True
@@ -66,3 +66,4 @@ messages:
    }
 
 end
+

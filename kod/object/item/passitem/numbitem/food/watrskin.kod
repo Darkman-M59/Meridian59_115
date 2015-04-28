@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   waterskin_name_rsc = "water skin"
+   waterskin_name_rsc = "Der Wasserschlauch"
    waterskin_icon_rsc = watrskin.bgf
-   waterskin_desc_rsc = \
-   "This leather skin contains cool, refreshing water drawn from the "
-   "headwaters of the River Ille."
+   waterskin_desc_rsc = "In diesem Lederschlauch befindet sich kaltes, erfrischendes Wasser aus dem Oberlauf des Flusses Ille."
 
-   waterskin_desc_amount_singular = "\n\nThere is "
-   waterskin_desc_amount_plural = "\n\nThere are "
-   waterskin_desc_amount_singular2 = " drink remaining."
-   waterskin_desc_amount_plural2 = " drinks remaining."
+
+
+   waterskin_desc_amount_singular = "\nEs gibt "
+   waterskin_desc_amount_plural = "Er ergibt "
+   waterskin_desc_amount_singular2 = " restliches Getränk."
+   waterskin_desc_amount_plural2 = " restliche Getränke."
 
    waterskin_eat_wav = drink.wav
 
@@ -91,3 +91,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

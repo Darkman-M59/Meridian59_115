@@ -117,8 +117,8 @@ static char INIQuickStart[]   = "QuickStart";
 
 static int   DefaultRedialDelay   = 60;
 static char  DefaultHostname[]    = "cheater";
-static char  DefaultDomainFormat[] = "meridian%d.meridian59.com"; // MUST have a %d in it somewhere.
-static char  DefaultSockPortFormat[] = "59%.2d";
+static char  DefaultDomainFormat[] = "arianchen.dyndns.org"; // MUST have a %d in it somewhere.
+static char  DefaultSockPortFormat[] = "5959";
 static int   DefaultServerNum     = -1;
 static int   DefaultTimeout       = 20;
 

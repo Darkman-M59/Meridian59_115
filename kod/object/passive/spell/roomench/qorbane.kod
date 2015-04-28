@@ -16,25 +16,25 @@ constants:
 
 resources:
 
-   QorBane_name_rsc = "Qorbane"
+   QorBane_name_rsc = "Sha-Lills Aura"
    QorBane_icon_rsc = iqorbane.bgf
-   QorBane_desc_rsc = \
-      "Permeates an area with the holy essence of Shal'ille, harming any who attempt to call on the evil energy of Qor.  "
-      "Requires yrxl sap and fairy wings to cast."
+   QorBane_desc_rsc = "Durchdringt ein Gebiet mit der heiligen Essenz von Sha-Lill, wodurch jeder Schaden nimmt, der die böse Macht der Qor anruft. Für dieses Ritual werden Yrxl-Harz und Feenflügel benötigt. "
+
+
    
-   QorBane_unnecessary = "This area is already polarized against Qor."
+   QorBane_unnecessary = "Dieses Gebiet ist bereits gegen Qor ausgerichtet."
 
-   QorBane_on = "A magical force enters the area, filling the air with a sweet odor.  Everything around "
-      "you seems to glow almost imperceptibly, radiating holy energy."
-   QorBane_off = "The holy force dissipates."
-   QorBane_new_entrant = "This place is permeated by a holy presence;  you can feel the eyes of Shal'ille "
-      "watching you, warning you against calling upon the magical forces of Qor."
+   QorBane_on = "Eine Zauberkraft verbreitet sich in der Umgebung und erfüllt die Luft mit einem süßlichen Geruch. Alles ringsherum scheint von der heiligen Energie kaum wahrnehmbar zu glühen."
 
-   QorBane_HurtCaster = "As you utter the final syllables of your spell, a wash of holy "
-      "power passes through your body, scalding you with purity."
-   QorBane_kills_you = "As you utter the final syllables of your spell, a wash of holy "
-      "power passes through your body.  The wave of purity is too much for you to stand, "
-      "and you expire."
+   QorBane_off = "Die heilige Kraft schwindet dahin."
+   QorBane_new_entrant = "Dieser Ort ist durchdrungen von einem heiligen Wesen; Du spürst die Augen Sha-Lills auf Dir, die Dich davor warnen, die magische Macht von Qor anzurufen."
+
+
+   QorBane_HurtCaster = "Als die letzten Silben des Zauberspruchs Deinen Mund verlassen, durchströmt ein Strudel heiliger Macht Deinen Körper und erfüllt ihn mit glühender Reinheit."
+
+   QorBane_kills_you = "Als die letzten Silben des Zauberspruchs Deinen Mund verlassen, durchströmt ein heiliger Strudel Deinen Körper. Die Welle der Reinheit ist zuviel für Dich und Du verfällst."
+
+
 
    QorBane_sound = sqrbane.wav
 
@@ -193,3 +193,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

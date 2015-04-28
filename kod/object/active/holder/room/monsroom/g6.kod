@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   room_name_OutdoorsG6 ="The King's Way"
+   room_name_OutdoorsG6 = "Weg des Königs"
    room_OutdoorsG6 = G6.roo
-   OutdoorsG6_music = forest.mid
+   OutdoorsG6_music = forest.mp3
 
-   G6_lakewalk = \
-      "The bottom of the lake drops sharply here.  You doubt you should go "
-      "any further."
+   G6_lakewalk = "Der Grund des Sees fällt hier steil ab und Du beschließt, nicht weiter zu gehen."
+
+
 
 classvars:
 
@@ -100,3 +100,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

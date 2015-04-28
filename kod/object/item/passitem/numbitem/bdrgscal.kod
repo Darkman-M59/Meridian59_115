@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   bluedragonscale_name_rsc = "blue dragon scale"
+   bluedragonscale_name_rsc = "Die Drachenschuppe"
    bluedragonscale_icon_rsc = bdrgscal.bgf
-   bluedragonscale_desc_rsc = \
-	"This scale is hard as Jasper rock and as thick as a man's finger.  They "
-	"seem to be the only remnants of the ancient Dragons that were thought to "
-	"have gone extinct centuries ago."
+   bluedragonscale_desc_rsc = "Diese Drachenschuppe ist so hart wie Jasper-Fels und so dick wie der Finger eines Mannes. Sie scheint das einzige Überbleibsel der alten Drachen zu sein, von denen man glaubt, dass sie schon vor Jahrhunderten ausgestorben seien."
 
-   bluedragonscale_name_plural_rsc = "blue dragon scales"
+
+
+
+   bluedragonscale_name_plural_rsc = "Drachenschuppen"
 
 classvars:
 
@@ -46,3 +46,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

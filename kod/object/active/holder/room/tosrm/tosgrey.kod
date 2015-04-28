@@ -17,11 +17,11 @@ constants:
 resources:
 
    room_tosgrey = tosgrey.roo
-   room_name_tosgrey = "Abandoned Building"
-   tosgrey_music = tos.mid
+   room_name_tosgrey = "Verlassenes Gebäude"
+   tosgrey_music = tos.mp3
 
-   news_game_name = "Game Discussion"
-   news_game_desc = "A free-for-all about Meridian 59."
+   news_game_name = "Spielbesprechung"
+   news_game_desc = "Ein Gratispaket über Meridian 59."
 
 classvars:
 
@@ -82,3 +82,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   ResistAcid_name_rsc = "resist acid"
+   ResistAcid_name_rsc = "Säure widerstehen"
    ResistAcid_icon_rsc = iresacid.bgf
-   ResistAcid_desc_rsc = \
-      "Coats your body in a magical goo which "
-      "absorbs damage from acid attacks for several minutes.  "
-      "Requires herbs and entroot berries."
+   ResistAcid_desc_rsc = "Umgibt Deinen Körper mit einer klebrigen Masse, wodurch der Schaden von Säureattacken für einige Minuten vermindert wird. Der Zauber benötigt Kräuter und Wurzelknollen."
 
-   ResistAcid_intro = "Shal'ille Lv. 2: Coats your body in a magical goo which "
-      "absorbs damage from acid attacks."
 
-   ResistAcid_already_enchanted = "You are already resistant to acid spells."
 
-   ResistAcid_on = "A chalky goo oozes out your pores and coats your entire body."
-   ResistAcid_off = "The blessed goo bubbles away as the resist acid enchantment wears off."
-   ResistAcid_Success = "A chalky goo oozes out of %s%s's pores and coats their entire body."
+
+   ResistAcid_intro = "Sha-Lill Zirkel 2: Umgibt Deinen Körper mit einer klebrigen Masse, wodurch der Schaden von Säureattacken für einige Minuten vermindert wird."
+
+
+   ResistAcid_already_enchanted = "Du bist bereits gegen Säure-Zauberprüche resistent."
+
+   ResistAcid_on = "Eine kreidehaltige, schmierige Masse quillt aus Deinen Poren und bedeckt Deinen ganzen Körper."
+   ResistAcid_off = "Die schützende Masse, die Dich umgibt, blubbert ein letztes Mal und verschwindet, als Dich der Säure widerstehen-Zauber verläßt."
+   ResistAcid_Success = "Eine kreidehaltige, schmierige Masse quillt aus %s%s's Poren und bedeckt den ganzen Körper."
 
    ResistAcid_sound = shalille.wav
 
@@ -93,3 +93,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

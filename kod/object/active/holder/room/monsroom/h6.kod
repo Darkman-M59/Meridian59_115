@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsH6 = H6.roo
-   room_name_OutdoorsH6 ="Main gate to the city of Tos"
-   OutdoorsH6_music = walk1.mid
+   room_name_OutdoorsH6 = "Das Haupttor zur Stadt Tos"
+   OutdoorsH6_music = walk1.mp3
 
 classvars:
 
@@ -87,3 +87,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

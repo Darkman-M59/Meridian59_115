@@ -16,11 +16,11 @@ constants:
    
 resources:
 
-   jasper_innkeep_name_rsc = "Widow Qesino"
+   jasper_innkeep_name_rsc = "Die Witwe Qesino"
    jasper_innkeep_icon_rsc = jsinnk.bgf
-   jasper_innkeep_desc_rsc = \
-      "The Widow Qesino has run the Yonder Inn since her late husbands' disappearance.  "
-      "She seems to be a very straightforward if rather plain woman."
+   jasper_innkeep_desc_rsc = "Die Witwe Qesino führt die Kneipe zum Zwergenhammer, seitdem ihr Mann jüngst verstorben ist. Sie scheint eine sehr aufrichtige Frau zu sein."
+
+
 
 classvars:
 
@@ -80,3 +80,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   flask_name_rsc = "flask"
+   flask_name_rsc = "Die Flasche"
    flask_icon_rsc = flask.bgf
-   flask_desc_rsc = \
-      "This flask, formed from clear glass and topped by a cork, contains a "
-      "thick blue fluid.  It looks cool and refreshing."
+   flask_desc_rsc = "Diese kleine Phiole ist aus Kristallglas gefertigt und mit einem Korken verschlossen. Sie enthält ein dickflüssiges, blaues Gebräu. Es sieht erfrischend aus."
+
+
 
    Flask_gulp_sound = drkptn.wav
 
@@ -75,3 +75,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

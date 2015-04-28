@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   KriipaClaw_name_rsc = "kriipa claw"
+   KriipaClaw_name_rsc = "Kriipa-Klaue"
    KriipaClaw_icon_rsc = kriclaw.bgf
-   KriipaClaw_desc_rsc = \
-   "The weapons of the dangerous Kriipa, Perfect Kriipa claws are "
-   "hard to come by, but handy to have about."
+   KriipaClaw_desc_rsc = "Perfekte Kriipa-Klauen, die Waffen der gefährlichen Kriipa, sind schwer zu bekommen, doch nützlich, wenn man sie hat."
 
-   KriipaClaw_name_plural_rsc = "kriipa claws"
+
+
+   KriipaClaw_name_plural_rsc = "Kriipa-Klauen"
 
 classvars:
 
@@ -45,3 +45,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

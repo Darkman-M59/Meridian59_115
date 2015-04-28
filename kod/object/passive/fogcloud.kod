@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   fogcloud_name_rsc = "thick fog"
+   fogcloud_name_rsc = "Dichter Nebel"
    fogcloud_icon_rsc = poisoncl.bgf
-   fogcloud_desc_rsc = "You choke just looking at the thick putrid fog."
+   fogcloud_desc_rsc = "Du würgst, als Du nur auf den dichten fauligen Nebel blickst."
 
 classvars:
 
@@ -110,3 +110,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

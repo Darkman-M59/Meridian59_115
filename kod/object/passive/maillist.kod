@@ -21,9 +21,9 @@ constants:
 
 resources:
 
-   MailingList_name_rsc = "mailing list"
+   MailingList_name_rsc = "Mailingliste"
    MailingList_icon_rsc = light.bgf
-   MailingList_desc_rsc = "A mailing list."
+   MailingList_desc_rsc = "Eine Mailingliste."
 
 classvars:
 
@@ -90,3 +90,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

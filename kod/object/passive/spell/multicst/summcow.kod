@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   SummonCow_name_rsc = "summon bovine"
+   SummonCow_name_rsc = "Erschaffe Kuh"
    SummonCow_icon_rsc = cow.bgf
-   SummonCow_desc_rsc = "Summons a pygmy cow for the amusement of all nearby.  "
-      "Requires 5 perfectly polished seraphym, and the casters' mystical energies must be focused "
-      "through a prism."
+   SummonCow_desc_rsc = "Beschwört eine Zwerg-Kuh, um alle Anwesenden zu erfreuen.Erfordert perfekt polierte Seraphyme und die magischen Energien des Zauberers müssen durch ein Prisma gebündelt werden. "
+
+
    
    SummonCow_sound = lichres.wav
 
-   summoncow_failed_rsc = "There is too much summoning magic focused here to bring a cow into existence."
+   summoncow_failed_rsc = "Es gibt hier zuviel Beschwörungsmagie, um die Kuh zu erschaffen."
 
 classvars:
 
@@ -99,3 +99,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

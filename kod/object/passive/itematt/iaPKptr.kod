@@ -33,9 +33,9 @@ constants:
 
 resources:
  
-   PKpointer_no_loot = "You reach for %s%s, but you are mystically barred from grasping it."   
-   PKPointer_no_offer_accept = "%s tries to offer you %s%s, but you are mystically barred from grasping it."   
-   PKpointer_no_offer = "%s is unable to take %s%s off your hands."
+   PKpointer_no_loot = "Du greifst nach %s%s, aber eine geheimnisvolle Macht hält Dich zurück."
+   PKPointer_no_offer_accept = "%s versucht, Dir %s%s zu geben, doch ein Zauber hindert Dich daran, danach zu greifen."
+   PKpointer_no_offer = "%s ist nicht in der Lage, %s%s aus Deinen Händen zu nehmen."
    
 classvars:
 
@@ -156,3 +156,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

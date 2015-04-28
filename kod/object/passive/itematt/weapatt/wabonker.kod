@@ -26,8 +26,8 @@ constants:
 
 resources:
 
-   weapattbonker_desc = "  Mocker's signature flamboyantly emblazons the pommel."      
-   bonker_dm = "bonker"
+   weapattbonker_desc = " Das Diebeszeichen schmückt auffällig den Knauf."
+   bonker_dm = "Schläger"
 
 classvars:
 
@@ -67,3 +67,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

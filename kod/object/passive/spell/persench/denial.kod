@@ -15,19 +15,19 @@ constants:
 
 resources:
 
-   denial_name_rsc = "denial"
+   denial_name_rsc = "Wunden ignorieren"
    denial_icon_rsc = idenial.bgf
-   denial_desc_rsc = \
-      "Causes the caster to unrealize their wounds, but beware when "
-      "you realize its a hoax, because the wounds are still just as deep!  "
-      "Requires a firesand and solagh to cast."
+   denial_desc_rsc = "Lässt die Wunden bei jenem, der den Zauberspruch sagt, oberflächlich verschwinden, doch du merkst, das dies nur vordergründig ist, weil die Wunden noch genauso tief sind! Benötigt Phiolen mit Solagh und Feuersand."
 
-   denial_on_rsc = "Your wounds suspiciously disappear."
-   denial_failed_rsc = "Hmmm, you can't seem to convince yourself of perfect health."
-   denial_already_enchanted_rsc = "You can't fool yourself twice about something like this, at "
-      "least not at the same time."
 
-   denial_off_rsc = "Ouch - you are reminded of your previous weariness."
+
+
+   denial_on_rsc = "Deine Wunden verschwinden merkwürdigerweise."
+   denial_failed_rsc = "Hmmm, Du scheinst Dich selbst nicht von Deiner guten Gesundheit überzeugen zu können."
+   denial_already_enchanted_rsc = "Mit sowas kannst Du Dich nicht gleich zweimal reinlegen, zumindest nicht zur selben Zeit."
+
+
+   denial_off_rsc = "Autsch - das erinnert Dich an die Mattigkeit von vorhin."
    denial_sound = rdenial.wav
 
 classvars:
@@ -139,3 +139,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

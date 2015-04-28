@@ -17,13 +17,13 @@ constants:
 resources:
 
    room_barlbar1 = barlbar1.roo
-   room_name_barlbar1 = "The Bhrama & Falcon"
+   room_name_barlbar1 = "Zum fröhlichen Mönch"
 
-   barlbar1_music = bar2.mid
+   barlbar1_music = bar2.mp3
 
-   bar_leave_w1 = "~kMeidei yells at you, \"Thou dost not have my permission to use those stairs!\""
-   bar_leave_w2 = "~kMeidei tells you, \"Pray thee, good fellow, do not ascend those stairs.\""
-   bar_leave_w3 = "~kMeidei lectures you on how it is impolite to enter his private rooms without first getting permission."
+   bar_leave_w1 = "~kMeidei fährt Dich an, \"Hab ich Dir etwa erlaubt, dort hinauf zu gehen?\""
+   bar_leave_w2 = "~kMeidei teilt Dir mit, \"Ich bitte Dich mein Freund, geh nicht dort hinauf.\""
+   bar_leave_w3 = "~kMeidei hält die einen langen Vortrag, wie unhöflich es doch ist, seine Privatgemächer unerlaubt zu betreten."
    
 
 classvars:
@@ -166,3 +166,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

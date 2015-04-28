@@ -19,17 +19,17 @@ resources:
 
    oneCouncilor_name_rsc = "Alzahakar"
    oneCouncilor_icon_rsc = onecon.bgf
-   oneCouncilor_desc_rsc = "Renowned as the most powerful wizard in the Kingdom, Alzahakar stands proudly "
-      "before you.  You can feel the conflicting will of four separate gods within him.  As one of the "
-      "oldest friends of King Zarcos V, he has been counseling the princess since birth."
+   oneCouncilor_desc_rsc = "Bekannt als der mächtigste Zauberer des Königreiches, steht Alzahakar stolz vor Dir. Du kannst den Widerstreit der vier verschiedenen Gottheiten in ihm spüren. Als einer der ältesten Freunde von König Zarkos V. berät er die Prinzessin seit ihrer Geburt."
 
-   onecon_true_ideal_rsc = "I have great respect for your knowledge of magic, and having you return my token has affected me greatly."
-   onecon_half_ideal_rsc = "I would be more impressed if you knew more spells, yet you have potential."
 
-   onecon_not_ready = "You are not yet ready to learn the lost arts."
-   onecon_already_has = "You already know of the lost secrets of Riija."
 
-   onecon_unwanted_give = "~k%s%s tells you, \"What possible use could a wizard of my stature have for that?~n~k\""
+   onecon_true_ideal_rsc = "Ich habe großen Respekt vor Deinen magischen Kenntnissen. Ich bin sehr erfreut, dass Du mir das Artefakt zurückgebracht hast."
+   onecon_half_ideal_rsc = "Ich wäre eher beeindruckt, wenn Du mehr Zaubersprüche wüßtest, denn Du besitzt Potential."
+
+   onecon_not_ready = "Du bist noch nicht bereit, die vergessenen Künste zu lernen."
+   onecon_already_has = "Du weißt bereits um die verlorenen Geheimnisse von Riija."
+
+   onecon_unwanted_give = "~k%s%s sagt zu Dir, \"Was für einen Nutzen könnte schon ein Zauberer meines Kalibers davon haben?~n~k\""
 
 
 classvars:
@@ -149,4 +149,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

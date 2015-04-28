@@ -15,12 +15,12 @@ constants:
 
 resources:
 
-   Slitherbolt_name_rsc = "slitherbolt"
+   Slitherbolt_name_rsc = "Bolzen"
    Slitherbolt_icon_rsc = orcspel.bgf
-   Slitherbolt_hit_rsc = "The slitherbolt strikes %s%s!"
-   Slitherbolt_desc_rsc = \
-   "Hurls a bolt of Slitherbolt at the target.  "
-   "Requires blue mushroom and orc teeth to cast."
+   Slitherbolt_hit_rsc = "Der Bolzen trifft %s%s!"
+   Slitherbolt_desc_rsc = "Schleudert einen Bolzen auf das Ziel. Der Zauber benötigt blaue Pilze und Orkzähne."
+
+
 
    Slitherbolt_sound = slitherboltwand.wav
 
@@ -89,3 +89,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

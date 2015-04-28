@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   scepter_name_rsc = "relic of Qor"
+   scepter_name_rsc = "Das Relikt Qors"
    scepter_icon_rsc = scepter.bgf
-   scepter_desc_rsc = \
-   "This object bears the markings of Qor.  An inscription "
-   "reads \"The true servant shall bring this to the "
-   "barren place and speak my name.\""
+   scepter_desc_rsc = "Das Objekt trägt die Zeichen von Qor. Eine Inschrift besagt \"Der wahre Diener wird dies zum kargen Ort bringen und meinen Namen aussprechen.\""
+
+
+
 
 classvars:
 
@@ -47,3 +47,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

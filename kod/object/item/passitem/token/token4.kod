@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   FourToken_name_rsc = "demon skull token"
-   FourToken_desc_rsc = \
-      "The fabled demon beast was known for its endurance and fortitude.  This "
-      "ancient token is rumored to speak its secrets to the Councilor who cares "
-      "for it.  Returning it would likely raise your status in the Royal Court."
+   FourToken_name_rsc = "Der Dämonenschädel"
+   FourToken_desc_rsc = "Der Dämon war bekannt für seine Ausdauer und Stärke. Dieses Artefakt soll seine Geheimnisse dem Ratsmitglied erzählen. Wenn Du es zurückgibst, würde wahrscheinlich Dein Ansehen beim königlichen Gericht steigen."
+
+
+
    FourToken_icon_rsc = tskull.bgf
 
    % Overlays not implemented yet.
@@ -42,3 +42,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

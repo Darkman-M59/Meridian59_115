@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   princess_guard_name_rsc = "Keep Guard"
+   princess_guard_name_rsc = "Die Palastwache"
    princess_guard_icon_rsc = pringard.bgf
-   princess_guard_desc_rsc = \
-      "Doing his best to look as stately as the royalty that he is charged "
-	  "to protect, this guard wears his uniform with pride.  "
-	  "A sense of security fills the air in the area around the "
-	  "courtly guard."
+   princess_guard_desc_rsc = "Ihr Bestes gebend, um so würdevoll auszusehen wie die königliche Hoheit, die er zu beschützen hat trägt diese Wache seine Uniform mit Stolz. Das Gefühl von Sicherheit erfüllt den Bereich um die Hofwache."
+
+
+
+
 
 
 classvars:
@@ -44,3 +44,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

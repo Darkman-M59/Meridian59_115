@@ -21,24 +21,24 @@ constants:
 
 resources:
 
-   TerritoryGame_duke = "Duke Akardius"
-   TerritoryGame_princess = "Princess Kateriina"
-   TerritoryGame_rebel = "the rebel Jonas"
-   TerritoryGame_unfactioned = "the unfactioned"
+   TerritoryGame_duke = "Herzog Akardius"
+   TerritoryGame_princess = "Prinzessin Kateriina"
+   TerritoryGame_rebel = "der Rebell Jonas"
+   TerritoryGame_unfactioned = "die Fraktionslosen"
 
-   TerritoryGame_bonus_territory = "~IHaving claimed %q, %s now also %s the city of %s!"
-   TerritoryGame_control = "control"
-   TerritoryGame_controls = "controls"
+   TerritoryGame_bonus_territory = "~IDurch die Eroberung von %q hat %s nun ebenfalls %s über die Stadt %s!"
+   TerritoryGame_control = "Kontrolle"
+   TerritoryGame_controls = "Kontrolle"
    TerritoryGame_Tos = "Tos"
    TerritoryGame_Barloque = "Barloque"
    TerritoryGame_Jasper = "Jasper"
    TerritoryGame_Marion = "Marion"
    TerritoryGame_CorNoth = "Cor Noth"
 
-   TerritoryGame_lost_hometown = "~IHaving lost %s home city, %s reluinquishes all claimed territories."
-   TerritoryGame_her = "her"
-   TerritoryGame_his = "his"
-   TerritoryGame_their = "their"
+   TerritoryGame_lost_hometown = "~IDurch den Verlust der Heimatstadt von %s gehen alle Gebiete von %s verloren!"
+   TerritoryGame_her = "ihr"
+   TerritoryGame_his = "ihm"
+   TerritoryGame_their = "ihnen"
 
 properties:
 
@@ -900,3 +900,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

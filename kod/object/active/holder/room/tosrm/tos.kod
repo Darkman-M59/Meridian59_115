@@ -16,14 +16,14 @@ constants:
 
 resources:
 
-   room_name_tos = "The Streets of Tos"
+   room_name_tos = "Die Straßen von Tos"
    room_tos = tos.roo
-   tos_music = tos.mid
+   tos_music = tos.mp3
 
-   tos_locked_residence_doors = "The doors to this residence are locked."
-   tos_locked_residence_door = "The door to this residence is locked."
+   tos_locked_residence_doors = "Die Türen dieser Residenz sind verschlossen."
+   tos_locked_residence_door = "Die Tür dieser Residenz ist verschlossen."
    
-   tos_locked_tavern_door = "The door to this tavern is locked."
+   tos_locked_tavern_door = "Die Tür zu dieser Kneipe ist verschlossen."
 
 classvars:
 
@@ -262,5 +262,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

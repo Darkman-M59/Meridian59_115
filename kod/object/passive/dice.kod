@@ -19,25 +19,25 @@ constants:
 
 resources:
 
-   dice_name = "pair of dice"
-   dice_desc = "Two six sided dice which can be used in numerous games of chance.  Eyeing the dice, you begin to wonder if you are feeling lucky tonight."
+   dice_name = "Das Würfelpaar"
+   dice_desc = "Zwei sechsseitige Würfel, die in vielen verschiedenen Glücksspielen benutzt werden können. Die Würfel betrachtend, fängst Du Dich an zu fragen, ob Du heute nacht Glück hast."
    dice_icon = dice.bgf
    
-   die_name = "die"
-   die_desc = "A single six sided die sits here, waiting for you to take your chances."
+   die_name = "Der Würfel"
+   die_desc = "Ein einzelner Würfel liegt hier und wartet darauf, dass Du Dein Glück versuchst."
    die_icon = die.bgf
 
-   dice_not_in_range = "You are not close enough to the dice to roll them!"
+   dice_not_in_range = "Du bist nicht dicht genug an den Würfeln dran, um sie zu werfen!"
 
-   dice_one = "a one"
-   dice_two = "a two"
-   dice_three = "a three"
-   dice_four = "a four"
-   dice_five = "a five"
-   dice_six = "a six"
+   dice_one = "eine Eins"
+   dice_two = "eine Zwei"
+   dice_three = "eine Drei"
+   dice_four = "eine Vier"
+   dice_five = "eine Fünf"
+   dice_six = "eine Sechs"
 
-   dieroll_rsc = "%s%s rolls %s%s and gets %s!"
-   diceroll_rsc = "%s%s rolls %s%s and gets %s and %s! "
+   dieroll_rsc = "%s%s würfelt. %s%s zeigt %s!"
+   diceroll_rsc = "%s%s würfelt. %s%s zeigt %s und %s! "
 
    dice_wav = dice.wav
 
@@ -206,4 +206,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -20,15 +20,15 @@ constants:
 
 resources:
 
-   Hazar_Bartender_name_rsc = "Eric d'Jorn"
+   Hazar_Bartender_name_rsc = "Erik Jorn"
    Hazar_Bartender_icon_rsc = tsinnk.bgf
-   Hazar_Bartender_desc_rsc = "A grinning and mischievous man stands quietly grinning behind the bar."
+   Hazar_Bartender_desc_rsc = "Ein grinsender, bedächtiger Mann steht hinter dem Tresen."
 
-   HzBar_entry_welcome = "Care for a nice stiff drink?  The house special will knock you on your arse!"
+   HzBar_entry_welcome = "Na, wie wäre es mit einem Trunk? Mein Gebräu wird Dich von den Socken hauen."
   
 
-   HazarBart_enough = "Entroot berries?  FanTAStic!  Here, let me reward you..."
-   HazarBart_not_enough = "I need those berries, but they're useless to me unless you can get me at LEAST ten.  If you get more, come back and I'll reward you!"
+   HazarBart_enough = "Wurzelknollen? Wahnsinn! Hier ist eine kleine Belohnung..."
+   HazarBart_not_enough = "Ich brauche diese Beeren... aber nicht in kleinen Stückzahlen. Wenn Du zehn Stück gesammelt hast, kannst Du zurückkommen und ich werde Dich belohnen."
 
 classvars:
 
@@ -98,3 +98,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

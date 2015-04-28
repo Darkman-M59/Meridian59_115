@@ -19,14 +19,14 @@ constants:
 
 resources:
   
-   room_name_kocsew2 = "Up Chuk Creek without a paddle"
+   room_name_kocsew2 = "Oben am Chuk-Bach ohne Paddel"
    room_kocsew2 = kocsew2.roo
 
-   kocsew2_music = cave.mid
+   kocsew2_music = cave.mp3
 
-   kocsew2_locked_1 = \
-      "Alternately wading and swimming in digusting filth, you rattle "
-      "the locked gate without any effect."
+   kocsew2_locked_1 = "Abwechselnd im stinkenden Abwasser watend oder schwimmend, rüttelst Du am Tor, ohne etwas zu erreichen."
+
+
 
 classvars:
 
@@ -88,3 +88,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

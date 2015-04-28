@@ -17,20 +17,20 @@ constants:
 
 resources:
 
-   room_name_Necropolis3 = "Decaying City of Brax"
+   room_name_Necropolis3 = "Die verfallende Stadt von Brax"
    room_Necropolis3 = necarea3.roo
-   Necropolis3_music = nec02.mid
+   Necropolis3_music = nec02.mp3
 
-   Necropolis3_locked_gate = \
-      "The gate has no visible means of opening, and the spikes atop it serve as a "
-      "sufficient deterrent to climbing over it."
+   Necropolis3_locked_gate = "Es ist keine Möglichkeit ersichtlich, durch die sich das Tor öffnen ließe, und die Spitzen oben verhindern, dass jemand darüber klettert."
 
-   Necropolis3_locked_door = \
-      "The massive stone door won't budge, no matter how hard you push it."
+
+
+   Necropolis3_locked_door = "Die massiven Tore aus Stein lassen sich nicht bewegen, egal wie sehr Du Dich bemühst."
+
 
    Necropolis3_loop = necloop4.wav
 
-   Necropolis3_no_rift = "Casting shadow rift here would be pointless."
+   Necropolis3_no_rift = "Hier Schattenriss zu zaubern würde nutzlos sein."
 
 classvars:
 
@@ -174,3 +174,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

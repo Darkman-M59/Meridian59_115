@@ -18,19 +18,19 @@ constants:
 
 resources:
 
-   hellportal_name_rsc = "rip in space"
+   hellportal_name_rsc = "Ein Dimensionstor"
    hellportal_icon_rsc = teleport.bgf
-   hellportal_desc_rsc = "Gazing through the anomaly, you can see %s."
+   hellportal_desc_rsc = "Als Du durch das Portal schaust, kannst Du auf der anderen Seite %s."
 
-   hellportal_move_req_no = "Some force prevents you from entering the anomaly."
+   hellportal_move_req_no = "Aus irgendeinem Grund kannst Du das Dimensionstor nicht betreten."
 
-   hellportal_tos = "the bustling bar of Familiars"
-   hellportal_marion = "the laid-back atmosphere of the Limping Toad"
-   hellportal_jasper = "the quiet Yonder Inn of Jasper"
-   hellportal_cornoth = "the lazy happenings in the Cibilo Creek Inn"
-   hellportal_barloque = "the fine Brownstone Inn in a bustling Barloque"
+   hellportal_tos = "die belebte Brunnenkneipe ausmachen."
+   hellportal_marion = "die abgelegene Kneipe zur lahmen Kröte ausmachen."
+   hellportal_jasper = "die urige Kneipe zum Zwergenhammer ausmachen."
+   hellportal_cornoth = "eine gemütliche Kneipe neben einem stillen Bach ausmachen."
+   hellportal_barloque = "eine luxuriöse Kneipe in einer belebten Stadt ausmachen."
 
-   hellportal_kocatan = "the sturdy, island fortress of Ko'catan"
+   hellportal_kocatan = "eine standhafte Inselfestung"
 
 classvars:
 
@@ -174,3 +174,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

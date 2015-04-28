@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   Shortswordproficiency_name_rsc = "short sword fighting"
+   Shortswordproficiency_name_rsc = "Kurzschwertkampf"
    Shortswordproficiency_icon_rsc = shswdico.bgf
-   Shortswordproficiency_desc_rsc = "Allows added proficiency with short swords."
+   Shortswordproficiency_desc_rsc = "Ermöglicht zusätzliche Fähigkeiten im Kampf mit dem Kurzschwert."
 
-   Shortswordproficiency_skill_intro = "Weaponcraft Lv. 2: Skill with the common short sword."
+   Shortswordproficiency_skill_intro = "Waffen Zirkel 2: Kampf mit dem weit verbreiteten Kurzschwert."
 
 classvars:
 
@@ -48,3 +48,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

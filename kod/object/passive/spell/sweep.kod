@@ -16,24 +16,24 @@ constants:
 
 resources:
 
-   Sweep_name_rsc = "sweep"
+   Sweep_name_rsc = "Fegen"
    Sweep_icon_rsc = isweep.bgf
-   Sweep_desc_rsc = \
-      "The wild winds of Faren sweep through the area gathering loose items for you.  "
-      "Requires mushrooms to cast."
+   Sweep_desc_rsc = "Die ungebändigten Winde von Faren fegen durch das Gebiet und tragen weggeworfene Gegenstände davon. Der Zauber benötigt Pilze."
 
-   Sweep_room_cast = "%s%s magically sweeps some of the items in the area into %s hands."
 
-   Sweep_Something = "You straighten things up a bit."
-   Sweep_Nothing = "The ground doesn't seem any cleaner."
+
+   Sweep_room_cast = "%s%s fegt einige Gegenstände in %s's Gepäck."
+
+   Sweep_Something = "Du hast etwas Ordnung in die Dinge gebracht."
+   Sweep_Nothing = "Der Boden sieht nicht viel sauberer aus."
   
-   Sweep_Pissed_rant = "~kRan er\'Hoth screams, \"~r%s%s, you groveling gutter slug, I was USING that.~k\""
-   Sweep_Grateful_rant = "~kRan er\'Hoth grovels and moans, \"Oh, thank you o' mighty %s%s, thank you, thank you.  I was so afraid, so scared until you swept it away.\""
-   Sweep_Freaked_rant = "~kRan er\'Hoth screams, \"ACK! ERK! URK! ORK! Where did it go?  What did you do to it, %s%s? Please don't do it to ME!\""
+   Sweep_Pissed_rant = "~kRan 'er Zen schreit, \"~r%s%s Du am Boden kriechende Schleimschnecke! Das wollte ich noch BENUTZEN.\""
+   Sweep_Grateful_rant = "~kRan 'er Zen krächzt zitternd, \"Oh danke, mächtiger %s%s, Danke, danke, danke. Ich war voller Angst und Furcht, bis Du es verscheucht hast.\""
+   Sweep_Freaked_rant = "~kRan 'er Zen schreit, \"ACK! ERK! URK! ORK! Wo ist es hin? Was hast Du damit getan, %s%s? Das hast Du hoffentlich nicht mit ~Imir~I vor.\""
 
-   Sweep_no_reward = "Hey, that was nice of you . . . cleaning up my shop for free."
+   Sweep_no_reward = "Hey, das war nett von Dir . . . meinen Laden einfach für umsonst aufzuräumen."
 
-   Sweep_spell_intro_rsc = "Faren Lv. 1: Summons the winds of Faren to remove all loose items from the area."
+   Sweep_spell_intro_rsc = "Faren Zirkel 1: Beschwört den Wind Farens, um alle losen Gegenstände des Gebietes hinwegzufegen."
    Sweep_sound = faren.wav
    
 classvars:
@@ -257,3 +257,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

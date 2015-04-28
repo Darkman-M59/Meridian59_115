@@ -18,16 +18,16 @@ constants:
 resources:
 
    zombie_koc_name_rsc = "ixleoc"
-   zombie_name_rsc = "zombie"
+   zombie_name_rsc = "Der Zombie"
    zombie_icon_rsc = zombie.bgf
-   zombie_desc_rsc = \
-   "Unfettered evil has brought the dead back to life in the "
-   "form of this zombie.  Rotten flesh, white and pulpy, "
-   "clings to soft bone.  Its watery eyes stare out, "
-   "unseeing."
+   zombie_desc_rsc = "Das Böse hat die Toten in Form von Zombies zurück ins Leben gebracht. Verfaultes Fleisch, weiß und schwammig, hängt an weichen Knochen. Seine wäßrigen Augen starren blind ins Leere."
+
+
+
+
 
    zombie_dead_icon_rsc = zombieX.bgf
-   zombie_dead_name_rsc = "dead zombie"
+   zombie_dead_name_rsc = "Ein erledigter Zombie"
 
    zombie_sound_hit = zmb_atkh.wav
    zombie_sound_miss = zmb_atkm.wav
@@ -176,3 +176,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   SummonWeb_name_rsc = "spider web"
+   SummonWeb_name_rsc = "Spinnennetz"
    SummonWeb_icon_rsc = iweb.bgf
    SummonWeb_overlay = webov.bgf
-   SummonWeb_desc_rsc = \
-      "The spider webs created by this spell may hamper the ability of those "
-      "who stumble upon them to move.  "
-      "Requires web moss to cast."
+   SummonWeb_desc_rsc = "Die Spinnennetze, die durch den Spruch geschaffen wurden könnten die Bewegungen derer behindern, die über sie laufen. Zum Zaubern werden Moosnetze benötigt."
+
+
+
                         
-   SummonWeb_cast_rsc = "A sticky field of spider webs appears before you."
-   SummonWeb_failed_rsc = \
-      "There is too much summoning magic focused here to create a web." 
+   SummonWeb_cast_rsc = "Ein klebriges Feld aus Spinnenweben erscheint vor Dir."
+   SummonWeb_failed_rsc = "Es gibt hier zuviel Beschwörungsmagie, um Spinnennetze zu erschaffen."
+
    SummonWeb_sound = farenwala822m.wav
 
 classvars:
@@ -315,3 +315,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

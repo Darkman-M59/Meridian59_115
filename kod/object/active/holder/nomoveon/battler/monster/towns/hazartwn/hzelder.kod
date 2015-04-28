@@ -18,10 +18,10 @@ constants:
 
 resources:
 
-   HazarElder_name_rsc = "Rodric d'Stane"
+   HazarElder_name_rsc = "Rodrik"
    HazarElder_icon_rsc = mrelder.bgf
-   HazarElder_desc_rsc = "The old man looks back at you with eyes that have seen beyond forever."
-   HzEl_entry_welcome = "Welcome, my son.  May the road of your life be the high one."
+   HazarElder_desc_rsc = "Der alte Mann schaut durch Dich hindurch. Seine Augen haben schon unglaubliche Dinge gesehen."
+   HzEl_entry_welcome = "Willkommen, mein Sohn. Möge die Straße Deines Lebens niemals enden."
 
 classvars:
 
@@ -46,3 +46,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

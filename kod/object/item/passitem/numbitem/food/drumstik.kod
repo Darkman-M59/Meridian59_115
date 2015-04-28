@@ -16,22 +16,22 @@ constants:
 
 resources:
 
-   drumstick_name_rsc = "drumstick"
+   drumstick_name_rsc = "Hühnerbeinchen"
    drumstick_icon_rsc = drumstik.bgf
-   drumstick_desc_rsc = \
-      "The luscious leg of a large southern bird, "
-      "covered lightly with some crunchy breadcrumbs and "
-      "baked to a warm golden color."
+   drumstick_desc_rsc = "Das köstliche Bein eines großen, südlichen Vogels, dünn mit knusprigen Brotkrumen bestreut und goldbraun gebraten."
 
-   drumstick_disp_name = "platter of drumsticks"
+
+
+
+   drumstick_disp_name = "Eine Platte Hühnerbeinchen"
    drumstick_disp_icon = drumspla.bgf
-   drumstick_disp_desc = \
-      "Some folks have speculated that Frisconar's favorite "
-      "dish is the soft white meats of the avian species of Meridian.  "
-      "Fortunate for us, as that makes the plump drumstick all the more plentiful "
-      "for the rest of us!"
+   drumstick_disp_desc = "Einige Leute munkeln, Frisconars Leibspeise sei das weiche, helle Fleisch des Geflügels von Meridian. Gut für uns alle, denn dann bleibt mehr von den einfachen Hühnerbeinchen für uns übrig!"
 
-   drumstick_name_plural_rsc = "drumsticks"
+
+
+
+
+   drumstick_name_plural_rsc = "Hühnerbeinchen"
 
 classvars:
 
@@ -60,3 +60,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

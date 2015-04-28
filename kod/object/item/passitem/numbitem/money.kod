@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   money_name_one_rsc = "shilling"
-   money_name_many_rsc = "shillings"
+   money_name_one_rsc = "Der Schilling"
+   money_name_many_rsc = "Schillinge"
    
    money_icon_rsc = coin.bgf
-   money_desc_rsc = \
-      "The currency of Meridian.  A profile of an ancient princess "
-      "adorns the front and an apothecary's stone the back."
+   money_desc_rsc = "Die Währung von Meridian. Das Bild einer antiken Prinzessin schmückt die Vorderseite, die Rückseite ziert das Wappen eines Apothekers."
+
+
 
 classvars:
 
@@ -65,3 +65,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

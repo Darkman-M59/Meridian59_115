@@ -19,9 +19,9 @@ constants:
 
 resources:
 
-   room_name_tosforgot = "Hall of the Forgotten Heroes"
+   room_name_tosforgot = "Halle der vergessenen Helden"
    room_tosforgot = kochoh.roo
-   tosforgot_music = extra01.mid
+   tosforgot_music = extra01.mp3
 
    name_zj = "Zjiria"
    name_zp = "Zaphod"
@@ -68,167 +68,167 @@ resources:
    name_dm = "Da Man"
    name_ax = "Alix"
 
-   desc_zj = "\"...there are rumors of another realm\n"
-          "where the virtues are all pain\n"
-          "like a phoenix she is reborn\n"
-          "to wreak her havoc again...\""
-   desc_zp = "\"...with him, did we get the window with which a planeswalker can see other realms.  "
-          "Without him, naught was possible...\""
-   desc_zn =  "\"...without his madness, any window created would have stared only into the black...\""
-   desc_q = "\"...he said, \"This world is insufficient.  With my fingers, I shall carve the rivers, "
-          " and design it so that the eye will marvel, and the blood will flow freely and strong...\""
-   desc_lj = "\"...her divine hands gave the people that which they longed for the most - purpose...\""
-   desc_rg = "\"...was he a scholar or a prophet?  For he chronicled all of "
-          "the great events before they ever saw the light of the Meridian sky...\""
-   desc_rh = "\"...why do you suppose it is the Duke can't go and get his stinking taxes himself?\""
-   desc_to = "\"Let them speak!\" he roared, throwing his mug at the innkeeper.  \"Have they no tongues?\""
-   desc_zd = "\"...he tries, with unspeakable malice, to crush their bodies and their spirits, "
-          "with skies of red, and undead armies that extend as the eye can see.  How he "
-          "underestimates the resolve of the people...\""
-   desc_ms = "\"...and what god, what beast, what madman could hold the leash on a guardian?\""
-   desc_mc = "\"The problem with this place\", he said, in a voice that was deep and solemn, "
-          "\" is that it is not nearly silly enough.\""
-   desc_st = "\"...it's ludicrous to think that a shopkeeper could hold on to a signet ring "
-       "for any length of time, much less a councilmember hold onto his most prized possession...\""
-   desc_gw = "\"Stop looking at me.\""
-   desc_xn = "\"A world without magic?\" he huffed.  \"That would be a very dull world indeed.\""
-   desc_gt = "\"...grabbing at colors from the sky, he gave shape to the trees, form to the beasts, "
-       " and rise to the smiles of the faces of the populace...\""
-   desc_ap = "\"...where others see a world, corrupt, twisted and tired, "
-         " she sees naught but a shiny new toy...\""
-   desc_td = "\"...he said, \"there are trees in no forests, monsters have "
-          "no home, and the lands have no names.  Can you call this a world?\""
-   desc_vt = "\"... would the birds have sung without the grace of his hand?\""
-   desc_kr = "\"...oh, what fun it is to lord over the gods!\""
-   desc_mr = "\"...and he saw promise, and from it he drew hope...\""
-   desc_hn = "\"...if a world is created, and no one knows, does it make a sound?\""
-   desc_br = "\"You call that a monster?\", he snorted.  \"I'll show you a monster\""
-   desc_om = "\"...ever notice that an orc butt looks an awful lot like a fairy butt?\""
-   desc_ct = "\"...let her draw beauty from the grime...\""
+   desc_zj = "\"...es gibt Gerüchte über ein weiteres Reich\nwo Tugenden Schmerz sind\nwie ein Phoenix ist er auferstanden\num wieder Verwüstung anzurichten...\""
+
+
+
+   desc_zp = "\"...mit ihm haben wir das Fenster erhalten, durch das ein [PLANESWALKER] andere Reiche sehen kann. Ohne ihn wäre nichts möglich"
+
+   desc_zn = "\"...ohne seinen Wahnsinn hätte jedes erschaffene Fenster nur in die Dunkelheit geführt ...\""
+   desc_q = "\"...er sagte,\"Diese Welt reicht nicht. Mit meinen Fingern werde ich die Flüsse formen und sie so erschaffen, dass die Augen sich erfreuen und das Blut frei und stark fließt...\""
+
+   desc_lj = "\"...ihre göttlichen Hände gaben den Menschen das, wonach sie am meisten verlangte - Sinn...\""
+   desc_rg = "\"...war er ein Gelehrter oder ein Prophet? Er war es, der alle großen Ereignisse vorhersagte, noch bevor sie jemals das Licht des Himmels von Meridian erblickten...\""
+
+   desc_rh = "\"...was meinst Du, warum der Herzog sich seine stinkenden Steuern nicht selber holt?\""
+   desc_to = "\"Laßt sie sprechen!\" brüllte er und warf seinen Krug nach dem Wirt. \"Haben sie keine Zungen?\""
+   desc_zd = "\"...er versucht mit unbeschreiblicher Bosheit ihre Körper und ihren Geist zu zermalmen, mit blutrotem Himmel und Armeen von Untoten, so weit das Auge reicht. Wie er doch die Entschlossenheit der Menschen unterschätzt...\""
+
+
+   desc_ms = "\"...und welcher Gott, welches Ungeheuer, welcher Irrer könnte einen Wächter im Zaum halten?\""
+   desc_mc = "\"Das Problem dieses Ortes ist, \", sagte er mit einer tiefen und feierlichen Stimme, \"daß er nicht annähernd dumm genug ist.\""
+
+   desc_st = "\"es ist lächerlich zu denken, dass ein Ladenbesitzer einen Siegelring \"für unbestimmte Zeit behalten kann, geschweige denn ein Ratsmitglied seinen wertvollsten Schatz behüten kann...\""
+
+   desc_gw = "\"Hör auf, mich anzustarren.\""
+   desc_xn = "\"Eine Welt ohne Magie?\" schnappte er. \"Das wäre allerdings eine sehr langweilige Welt.\""
+   desc_gt = "\"...nach den Himmelsfarben greifend, gab er Bäumen und Bestien Gestalt und legte ein Lächeln auf die Gesichter des Volkes...\""
+
+   desc_ap = "\"...wo andere eine korrupte, verdrehte und müde Welt sehen, sieht sie nichts außer einem glänzenden neuen Spielzeug...\""
+
+   desc_td = "\"...er sagte, \"es gibt keine Bäume in den Wäldern, Monster haben keine Heimat und die Länder keine Namen. Nennst Du das eine Welt?\""
+
+   desc_vt = "\"...hätten die Vögel ohne die Gnade seiner Hand gesungen?\""
+   desc_kr = "\"...oh, was für ein Spaß es doch ist, über die Götter zu regieren!\""
+   desc_mr = "\"...und er sah Visionen aus, denen er neue Hoffnung schöpfte...\""
+   desc_hn = "\"...wenn eine Welt geboren wird und keiner weiß es, macht sie Geräusche?\""
+   desc_br = "\"Du nennst das ein Monster?\", grunzte er. \"Ich werde Dir ein Monster zeigen\""
+   desc_om = "\"...ist Dir schon aufgefallen, dass ein Orkhintern einem Feenhintern sehr ähnlich ist?\""
+   desc_ct = "\"...laß sie Schönheit aus dem Schmutz schöpfen...\""
    
-   desc_al = "\"...don't trust that smile...\""
-   desc_zr = "\"...interior decorator for orcs and narthyl worms...\""   
-   desc_zw = "\"...sole survivor...\""
-   desc_za = "\"...patience perpetually tested...\""
-   desc_gn = "\"...to the limits of his capabilities, and beyond...\""
-   desc_zs = "\"...temper, temper...\""
-   desc_dt = "\"...guardian of guardians...\""
-   desc_gs = "\"...hey, dude...\""
-   desc_gm = "\"...new blood...\""
-   desc_ky = "\"...master of the guides...\""
-   desc_kn = "\"...fresh meat...\""
-   desc_ze = "\"...quackers bow before him...\""
-   desc_rq = "\"...ascendence...\""
-   desc_iz = "\"...time can oft turn a traitor into a prophet...\""
+   desc_al = "\"...trau dem Lächeln nicht...\""
+   desc_zr = "\"...Innenaustatter für Orks und Natterwürmer...\""
+   desc_zw = "\"...einzig Überlebender...\""
+   desc_za = "\"...Geduld andauernd getestet...\""
+   desc_gn = "\"...bis an die Grenzen seiner Fähigkeiten und darüber hinaus...\""
+   desc_zs = "\"...Zorn, Zorn...\""
+   desc_dt = "\"...Wache der Wächter...\""
+   desc_gs = "\"...hey, Du...\""
+   desc_gm = "\"...frisches Blut...\""
+   desc_ky = "\"...Meister der Guides...\""
+   desc_kn = "\"...frisches Fleisch...\""
+   desc_ze = "\"...Quacksalber liegen ihm zu Füßen...\""
+   desc_rq = "\"...emporsteigen...\""
+   desc_iz = "\"...Zeit kann einen Verräter zu einem Propheten machen...\""
 
-   desc_pg = "\"...oh, that special sauce!\""
-   desc_th = "\"...and so, as these gods marvel in their own perfection, so "
-          "he deftly and capably showed them their errs...\""
-   desc_dm = "\"...how he sees creation as a toy to be broken...\""
-   desc_ax = "\"...the gods fear no one more than the one who sets their deadlines...\""
+   desc_pg = "\"...oh, diese spezielle Soße!\""
+   desc_th = "\"...und, während diese Götter sich in ihrer eigenen Vollkommenheit sonnen, zeigte er ihnen geschickt und gekonnt ihre Fehler...\""
 
-   thanks_title = "let it be told..."
-   thanks_desc = \
-      "Meridian started as a project in the parents' basement, you know.  It was "   
-      "started several years ago, by two brothers, who thought it would be neat to "
-      "do it, and neater to do it first.  The basic client/server architecture that "
-      "makes it all possible was developed way back then.  A year or two later, they "
-      "joined up with another set of brothers, who promised to track down funding "
-      "to wrap a game around this state-of-the-art and yet home-brewed technology. "
-      "Archetype Interactive was formed.  That's about when me and my brother Mocker "
-      "joined in.  Boy, did we ever get a wild ride.\n\n"
-      "¶"
-      "When we set up our alpha, the game consisted of nothing more than about seven "
-      "rooms, one of which was a very early version of Tos.  There was no advancement scheme, no quests, and "
-      "only a couple of monsters.  Player killing was rampant, because there literally "
-      "was nothing else to do and there was no semblance of justice. "
-      "And yet, the game was so full, 24 hours a day, "
-      "that we had to kick people off to make room for us online. That's when I knew "
-      "something big was happening."
-      "¶"
-      "We released later, after being acquired by a company called 3DO.  Contrary "
-      "to popular belief, they didn't destroy us.  They saved us.  Archetype was "
-      "running on fumes, and we certainly didn't have the resources for a CS department, "
-      "a tech team, a billing team, a solid internet connection and a quality assurance team. "
-      "3DO gave us that.  And more."
-      "¶"
-      "And so I designed this room in order to thank the people, from both Archetype and 3DO, "
-      " who made it possible.  "
-      "The statues that you see here change from time to time, to show others who made "
-      "positive contributions to the game.  And still, it can only scratch the surface. "
-      "I doubt anyone who hasn't been on this side of things could begin to "
-      "grok the sheer amount of effort, energy and dedication it takes to make an online "
-      "world and keep it running.  I hope that you will take some time to look at the credits "
-      "page under 'Help'.  Click on the graphic to see more names.  But do it after I "
-      "offer my thanks."
-      "¶"
-      "Guardians\n\n"
-      "Possibly the most maligned members of the Meridian staff.  These people "
-      "rarely get the thanks they deserve for going far and beyond the call of "
-      "duty.  Most have worked hours that a normal person would consider insane.  And "
-      "they carry an incredible burden - part cop, part arbitrator, part psychiatrist, "
-      "part babysitter, and part technical support.  Thank them, they deserve it."
-      "¶"
-      "Artists\n\n"
-      "Artists are unsung heroes, too.  I have included statues of those who have "
-      "developed online personas.  However, most have not, and some are from so long "
-      "ago, that any online names they once had are forgotten.  Their contribution "
-      "to the product is enormous, though.  Without them, you'd all be smiley-faces "
-      "drawn by Zaphod and Zandramas."
-      "¶"
-      "Coders\n\n"
-      "Like the artists, there are numerous coders who contributed, without ever having "
-      "claimed an online name.  Most of the serious engine improvements over the course of "
-      "the last year are due to engine fanatics that we managed to snag "
-      "for a while.  It was great to have these prolific coders when we did. "
-      "The game is endlessly better for their anonymous contributions."
-       "¶"
-      "Quality Assurance\n\n"
-      "Role-playing games are among the most complicated pieces of code to be found, "
-      "and multiplayer games raise that bar.  One bug that slips through can upset "
-      "game balance, or ruin the economy.  The amount of testing and re-testing that "
-      "goes into a product is immense.  Unfortunately, most of the online names of the testers "
-      "who have worked on Meridian have been lost to me, so I have included statues "
-      "of only the team leaders.  I regret this deeply- their contribution has been essential."
-      "¶"
-      "Technical\n\n"
-      "The most important people you've never heard from.  They are the ones that "
-      "keep the networks running, and the server machines functional.  They design "
-      "the web pages and the billing systems, and they wrap their work schedules around "
-      "player events like Blood Frenzies, to be sure that your character information "
-      "gets properly restored.  These are good people."
-      "¶"
-      "Guides and Bards\n\n"
-      "There is a lot of talk about the corrupt guides and bards.  Well, the game "
-      "is a hundred times better now than before we had these programs, because good "
-      "guides and bards outnumber the bad ones by a significant margin.  These people "
-      "give hours of their time to help out and alleviate our guardians. "
-      "Why do they do this?  For the selfless love of the game.  "
-      "As a game designer, I can't think of a higher compliment.  Thanks, guys."        
-      "¶"
-      "Other\n\n"
-      "Almost every division of 3DO has been touched by Meridian, and many people "
-      "worked hard on the project, even though their names appeared on no credits. "
-      "This includes billing people, marketing gurus, legal experts, and the folks "
-      "who come in nightly to vacuum the floors.  It includes people on other products "
-      "we asked for help in a pinch, or got artwork we needed the day before freeze. "
-      "It includes some incredibly talented game designers, who made it clear I could always "
-      "turn to them for advice. Thanks to them, too."
-      "¶"
-      "3DO\n\n"
-      "I have not agreed with 3DO for every decision they have made.  However, they "
-      "did one thing for which I am eternally grateful.  They bought a tiny startup "
-      "company called Archetype, and gave it enough resources that it could be brought "
-      "to market.  Since then, the product has had a steady, stable, and devoted following, and "
-      "has constantly gotten better reviews than the competition.  Thank you, 3DO, for "
-      "bringing my baby to life."
-      "¶"
-      "Having said all that, I'd like to thank you, the users, for calling this place "
-      "your home for a little while.  It's an extraordinary honor to have been able to "
-      "help shape this world in which you frolic.  Until the next time our paths cross..."
-      "\n\n"
-      "Zjiria\n"
-      "1 Feb 1998"
+   desc_dm = "\"...wie er eine Schöpfung als Spielzeug betrachtet, das man zerstört...\""
+   desc_ax = "\"...die Götter fürchten keinen mehr als denjenigen, der ihre Stichtage setzt...\""
+
+   thanks_title = "So sei es verkündet..."
+   thanks_desc = "Meridian begann als ein Projekt im Haus der Eltern. Es wurde vor einigen Jahren von zwei Brüdern begonnen, die dachten es wäre nett es fertigzustellen und das auch noch als erstes. Die Basisclient/Server Architektur die alles ermöglichte war damals entwickelt worden. Ein oder zwei Jahre später trafen sie auf zwei weitere Brüder, die das nötige Geld auftreiben wollten um ein Spiel um die bisher einzigartige aber bisher noch unprofessionelle Technologie zu stricken. Archetype Interactive wurde gegründet. Das war um die Zeit, als mein Bruder Mocker und ich dazu kamen.¶Als wir unsere erste Alphaversion fertig hatten, bestand das Spiel aus nicht mehr als sieben Räumen, von denen einer eine sehr frühe Version von Tos war. Es gab keine Zauberschulen oder Rätsel, nur ein paar Monster. Spielertöten war die Regel, weil es sonst fast nichts zu tun gab und keine Art von Gericht im Spiel integriert war. Nun war das Spiel 24 Stunden am Tag so voll, daß wir teilweise Leute rauswerfen mußten, um für uns selbst Platz zu schaffen. Von da an wußten wir, daß etwas Großes im Gange war...¶Wir releasten, nachdem wir von einer Firma namens 3DO gekauft worden waren. Anders als der öffentliche Glaube zerstörten sie uns nicht. Sie retteten uns. Archetype pfiff auf dem letzten Loch, und wir hatten ganz sicher nicht die Ressourcen für eine Kundenbetreuungs-Abteilung, Technischen Support, ein Team fürs Billing, eine stabile Internetanbindung und für die Qualitätssicherung. 3DO gab uns all das. Und mehr.¶Und so erschuf ich diesen Raum, um den Menschen von Archetype und 3DO zu danken, die dies alles möglich gemacht haben. Die Statuen, die du hier sehen kannst ändern sich von Zeit zu Zeit, um auch andere zu zeigen, die sich positiv ins Spiel eingebracht haben. Trotz allem kann das nur an der Oberfläche kratzen. Ich bezweifle, dass jemand, der nicht auf dieser Seite der Dinge gewesen ist auch nur ansatzweise die schiere Menge an Arbeit, Energie und Widmung erahnen kann, die es braucht, um eine Onlinewelt zu erschaffen und am Laufen zu halten. Ich hoffe dass du dir etwas Zeit nimmst, um dir die „Über“-Seite anzuschauen. Klicke auf die Grafik um mehr der Namen zu sehen. Aber tu das, nachdem ich meinen Dank ausgesprochen habe.¶Guardians\n\nBestimmt die kaputtesten Mitglieder des Meridian-Teams. Diese Leute bekommen nur selten den Dank, der ihnen für ihre Aufopferung weit über ihre Pflichten hinaus gebührt. Die meisten haben für so viele Stunden gearbeitet, andere würden sie dafür für verrückt erklären. Und sie tragen eine ungeheure Last – halb Polizist, halb Schiedsrichter, halb Psychiater, halb Babysitter und halb technischer Support. Dankt ihnen, sie verdienen es.¶Künstler\n\nKünstler sind ebenfalls unbesungene Helden. Ich habe für diejenigen, die auch ein Online-Ich hatten eine Statue ausgestellt. Die meisten hatten leider kein solches Ich, und manche waren vor so langer Zeit, dass alle Onlinenamen, die sie einmal trugen längst vergessen sind. Sie haben sich ebenfalls dem Produkt ungeheuer gewidmet. Ohne sie währed ihr alle Smiley-Gesichter, gemalt von Zaphod und Zandramas.¶Programmierer\n\nSo wie die Künstler gibt es eine große Zahl von Programmierern, die niemals einen Onlinenamen beansprucht haben. Die meisten der größeren Verbesserungen an der Engine über die letzten Jahre gehen auf das Konto einiger Engine-Fanatiker, die wir für einige Zeit beanspruchen durften. Es war großartig, diese professionellen Programmierer zu haben. Das Spiel ist so unendlich besser, durch ihre anonyme Widmung am Spiel.¶Qualitätssicherung\n\nRollenspiele sind mit der komplizierteste Code den man finden kann, und Multiplayer-Spiele erst recht. Jeder Bug, der durchschlüpft kann die Spielbalance durcheinanderbringen oder die Ökonomie ruinieren. Der Aufwand, der für Tests und Tests der Tests geführt wird ist immens. Leider gingen mir die meisten der Onlinenamen der Tester, die an Meridian gearbeitet haben verloren, also habe ich die nur die Statuen der Teamleiter eingebaut. Ich bedaure das zutiefst – sie waren essentiell für das Spiel.¶Technischer Support\n\nDie wichtigsten Leute, von denen ihr niemals etwas gehört habt. Sie sind diejenigen, die die Netzwerke und Server am Laufen halten. Sie entwerfen die Webseiten und das Billing, und sie richten ihr Arbeitspläne nach Events wie Frenzies aus, damit die Spielstände wiederhergestellt werden. Das sind gute Leute.¶Guides und Barden\n\nEs gibt viel Gerede über korrupte Guides und Barden. Nun, diese Welt ist hundertmal besser jetzt, wo wir diese Programme hatten, denn gute Guides und Barden sind viel zahlreicher als die schlechten. Diese Leute widmen viele Stunden ihrer Zeit um die Guardians zu unterstützen und auszuhelfen. Warum tun sie das? Wegen der selbstlosen Liebe an diesem Spiel. Als Spieledesigner kann ich mir kein schöneres Kompliment vorstellen. Danke, Leute.¶Andere\n\nFast jede Abteilung von 3DO würde von Meridian berührt, und viele Menschen arbeiteten an diesem Projekt, obwohl ihre Namen nirgens auftauchen. Das schließt die Billingleute, Marketing Gurus, Rechtsexperten und die Kerle die Nachts kommen und die Flure saugen. Es schließt Leute aus anderen Projekten ein, die wir um Hilfe baten  oder von denen wir Grafiken und Sounds bekamen, wenn wir in der Zwickmühle saßen. Es schließt einige unglaubliche talentierte Spieledesigner ein, die mir klarmachten, dass ich sie immer wieder um Rat fragen könne. Ihnen auch: Danke.¶3DO\n\nIch war nicht mit jeder Entscheidung, die 3DO getroffen hat einverstanden. Wie auch immer, die taten eine Sache, für die ich unsagbar dankbar bin. Sie kauften ein winziges Startup-Unternehmen, genannt Archetype, und gaben uns genug Ressourcen, damit wir das Spiel auf den Markt bringen konnten. Seitdem hatte das Produkt eine stets stabile und hingebungsvolle Anhängerschaft, und hat konstant bessere Berichte erfahren als die Konkurrenz. Danke, 3DO, dass ihr meinem Baby ins Leben geholfen habt.¶Nachdem ich all das gesagt habe, möchte ich euch dafür danken, dass ihr diese Welt für eine kleine Weile euer Zuhause genannt habt. Es ist eine außerordentliche Ehre in der Lage gewesen zu sein, diese Welt mit geformt zu haben, in der ihr umhertollt. Bis zum nächsten Mal, wenn unsere Wege sich kreuzen...\n\nZjiria\n1 Februar 1998"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -611,3 +611,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

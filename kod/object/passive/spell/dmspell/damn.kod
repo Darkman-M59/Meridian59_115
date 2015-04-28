@@ -15,17 +15,17 @@ constants:
 
 resources:
 
-   damn_name_rsc = "damn"
+   damn_name_rsc = "Verdammen"
    damn_icon_rsc = light.bgf
-   damn_desc_rsc = "Sends an unruly player to a small prison."
+   damn_desc_rsc = "Schickt einen Spieler, der sich nicht benehmen kann in ein kleines Gefängnis ohne Entkommen."
 
-   damn_msg_DM = "You damn %s%s to hell."
-   damn_msg_target = "You have been damned by %s%s!"
+   damn_msg_DM = "Du verdammst %s%s in den Schuldturm."
+   damn_msg_target = "Du wurdest von %s%s in den Schuldturm verdammt!"
 
    % This next line is also used by Deliverance (SID_DMRESCUE) to determine when to
    %  reset the honor string.
-   damn_last_annoyed = " was sent to hell by "
-   damn_dot = "."
+   damn_last_annoyed = "Wurde von "
+   damn_dot = " in die Hölle geschickt."
 
 classvars:
 
@@ -114,3 +114,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

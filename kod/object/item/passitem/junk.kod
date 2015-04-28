@@ -92,72 +92,72 @@ constants:
 resources:
 
    junk_icon_rsc1 = mace.bgf
-   junk_name_rsc1 = "broken mace"
-   junk_desc_rsc1 = "This mace looks to be functionally useless."
+   junk_name_rsc1 = "zerbrochener Streitkolben"
+   junk_desc_rsc1 = "Dieser Streitkolben sieht aus, als ob man ihn nicht mehr gebrauchen kann."
 
    junk_icon_rsc2 = book1.bgf
-   junk_name_rsc2 = "undecipherable book"
-   junk_desc_rsc2 = "This book makes no sense, but it has lots of racy pictures."
+   junk_name_rsc2 = "nicht zu entzifferndes Buch"
+   junk_desc_rsc2 = "Dieses Buch ergibt keinen Sinn, aber es sind viele scharfe Bilder darin."
 
    junk_icon_rsc3 = chalice.bgf
-   junk_name_rsc3 = "fake chalice"
-   junk_desc_rsc3 = "This is a poor imitation of the infamous Chalice of the Rain."
+   junk_name_rsc3 = "nachgemachter Kelch"
+   junk_desc_rsc3 = "Dies ist eine armselige Imitation des berühmten Regenkelchs."
 
    junk_icon_rsc4 = shcharm.bgf
-   junk_name_rsc4 = "glass pendant"
-   junk_desc_rsc4 = "Any lady would be insulted if her man gave her this baudy trinket!"
+   junk_name_rsc4 = "Schmuckstück aus Glas"
+   junk_desc_rsc4 = "Jede Lady wäre beleidigt, wenn ihr Mann ihr solch billigen Tand schenken würde!"
 
    junk_icon_rsc5 = ornhelma.bgf
-   junk_name_rsc5 = "surplus legion helmet"
-   junk_desc_rsc5 = "Sold off by the A'ach Kici'ca after many years of hard use, this "
-                    "surplus helmet has seen better days.  You can see why the Ko'catani "
-                    "Legions no longer wanted it around."
+   junk_name_rsc5 = "überzähliger Legionshelm"
+   junk_desc_rsc5 = "Dieser überzählige Helm, der von den A'ach Kici'ca nach vielen Jahren starken Gebrauchs verkauft wurde, hat schon bessere Zeiten gesehen. Du kannst erkennen, warum die Ko'catani-Legionen ihn nicht länger haben wollten."
+
+
 
    junk_icon_rsc6 = leathamr.bgf
-   junk_name_rsc6 = "tanned kriipa leather"
-   junk_desc_rsc6 = "This leather has been skinned from a fierce Kriipa, and is "
-                    "exceptionally well tanned.  You've got quite a handy little "
-                    "pile of leather scraps here, you might just have enough to "
-                    "make a dish towel.  If you could find a tailor willing "
-                    "to sew all the little pieces together."
+   junk_name_rsc6 = "gegerbtes Kriipa-Leder"
+   junk_desc_rsc6 = "Dieses Leder stammt von einem tapferen Kriipa und ist außergewöhnlich schön gegerbt. Damit hast du wirklich ein paar nützliche Lederstreifen; vielleicht reichen sie sogar, um daraus ein Geschirrhandtuch zu machen, wenn Du einen Schneider findest, der bereit ist, all diese kleinen Stücke zusammenzunähen."
+
+
+
+
 
    junk_icon_rsc7 = plateamr.bgf
-   junk_name_rsc7 = "scrap metal"
-   junk_desc_rsc7 = "This is a pile of scrap metal.  It's kind of rusty."
+   junk_name_rsc7 = "Metallspäne"
+   junk_desc_rsc7 = "Dies ist ein Haufen Metallteile. Sie sind ein bisschen rostig."
 
    junk_icon_rsc8 = bonepile.bgf
-   junk_name_rsc8 = "bones of Konima's original war party"
-   junk_desc_rsc8 = "These human bones look pretty old, but you're not "
-                    "sure they're that old.  You get the feeling that somebody got taken here."
+   junk_name_rsc8 = "Knochen von Konimas eigener Kriegsfeier"
+   junk_desc_rsc8 = "Diese menschlichen Knochen sehen ziemlich alt aus, aber Du bist Dir nicht sicher, ob sie es wirklich sind. Du hast das Gefühl, dass schon mal jemand hier gewesen ist."
+
 
    junk_icon_rsc9 = ring4.bgf
-   junk_name_rsc9 = "ketchikan hoop"
-   junk_desc_rsc9 = "You will find this ornate hoop in most Ko'catani kitchens.  Having "
-                    "this common trinket around the house is apparently good luck, or something."
+   junk_name_rsc9 = "Ketchikan-Reifen"
+   junk_desc_rsc9 = "Man findet diesen verzierten Reifen in fast allen Ko'catani-Küchen. Dieser weitverbreitete Krimskrams ist anscheinend ein Glücksbringer oder so was ähnliches."
+
 
    junk_icon_rsc10 = robe.bgf
-   junk_name_rsc10 = "pamyan drapery"
-   junk_desc_rsc10 = "This piece of cloth is a traditional gift for a young bride "
-                    "and groom in Ko'catan.  It is meant to metaphorically "
-	            "represent a shield from poverty and illness."
+   junk_name_rsc10 = "Pamyan-Stoff"
+   junk_desc_rsc10 = "Dieses Stück Stoff ist das traditionelle Geschenk für eine junge Braut in Ko'catan. Es versinnbildlicht einen Schutzschild vor Armut und Krankheit."
+
+
 
    junk_icon_rsc11 = antmask.bgf
-   junk_name_rsc11 = "toy ant mask"
-   junk_desc_rsc11 = "During the Ko'catani holiday days of Tom'tillium, these "
-                    "masks are worn by children as they cavort around throwing "
-                    "water on their aunts and uncles and stomping on umacha beans.  "
-                    "This mask is too small for an adult, however."
+   junk_name_rsc11 = "Ameisenmaske"
+   junk_desc_rsc11 = "Während der Ko'catani-Ferientage von Tom'tillium werden diese Masken von Kindern getragen während sie herumtollen und ihre Onkels und Tanten mit Wasser bespritzen und auf Umacha-Bohnen herumstampfen. Für einen Erwachsenen ist diese Maske jedoch zu klein."
+
+
+
 
    junk_icon_rsc12 = rustyarm.bgf
-   junk_name_rsc12 = "rusty armor"
-   junk_desc_rsc12 = "This armor is rusty and old, certainly no longer up for "
-                    "battle.  Might make a nice souvenir, though."
+   junk_name_rsc12 = "rostige Rüstung"
+   junk_desc_rsc12 = "Diese Rüstung ist rostig und alt und offensichtlich nicht mehr für Kämpfe zu gebrauchen. Sie stellt jedoch ein nettes Souvenir dar."
+
 
    junk_icon_rsc13 = arrowner.bgf
-   junk_name_rsc13 = "water finding arrow"
-   junk_desc_rsc13 = "Ko'catani legend holds that a powerful Wakilamacheopitik "
-                    "Mage, or water finder, could use one of these devices to "
-                    "find fresh water almost anywhere, but that's a lost art now."
+   junk_name_rsc13 = "Wünschelrute"
+   junk_desc_rsc13 = "Der Ko'catani-Legende nach kann ein mächtiger Wakilamacheopitik oder Wassersucher dieses Gerät benutzen, um damit fast überall frisches Wasser zu finden. Doch diese Kunst ist heute in Vergessenheit geraten."
+
+
 
 classvars:
    
@@ -348,4 +348,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

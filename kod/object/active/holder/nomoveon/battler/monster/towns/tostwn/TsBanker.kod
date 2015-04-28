@@ -18,17 +18,17 @@ resources:
 
    TosBanker_name_rsc = "Skivlat"
    TosBanker_icon_rsc = tsbanker.bgf
-   TosBanker_desc_rsc = "Skivlat spends all of his time in the company of money and it shows.  His "
-      "hand lovingly caresses the gold as a large doting smile forms on his face.  Every so often "
-      "he will jingle the bag just to hear the melodious clinking of shillings."
+   TosBanker_desc_rsc = "Skivlat verbringt seine ganze Zeit in der Gesellschaft von Geld und das sieht man. Seine Hand streichelt liebevoll das Gold, während sich ein großes vernarrtes Lächeln auf seinem Gesicht bildet. Hin und wieder schüttelt er den Beutel, um einfach nur das melodische Klingeln der Schillinge zu hören."
 
-   TBank_gems_not_quality = "These stones are bad quality.  Let me dispose of these worthless %s for you."
-   TBank_cant_give_gems = "Were these %s to be of quality, you would be unable to carry their worth in shillings."
-   TBank_gems_traded = "A nicer set of %s I've never seen. Glad to do business with ~IGuh~I you."
-   TBank_not_gem_group ="Pardon me, but I'm a gem wholesaler. If you want to market only a few similar gems, try that ~Icollector~I in Barloque."
 
-   TBank_not_enough_gems = "Hmmm.  You don't seem to possess what you're trying to pawn to me."
-   TBank_unwanted_give = "~k%s%s tells you, \"~IGuh~I I don't have any place to put that.  Now if it were shillings...~n~k\""
+
+   TBank_gems_not_quality = "Diese Steine sind von schlechter Qualität. Laß mich diese wertlosen %s für Dich wegschaffen."
+   TBank_cant_give_gems = "Wenn diese %s wirklich echt sind, könntest Du ihren Wert in Schillingen nicht tragen."
+   TBank_gems_traded = "Ich habe nie eine hübschere Sammlung von %s gesehen. Es macht Spaß mit ~IGuh~I Dir Geschäfte zu machen."
+   TBank_not_gem_group = "\"Entschuldige bitte, aber ich bin ein Großhändler. Wenn Du kleinere Mengen verkaufen möchtest, solltest Du nach Barloque gehen.\""
+
+   TBank_not_enough_gems = "Hmmm. Du scheinst das, was du bei mir versetzen willst, nicht zu haben."
+   TBank_unwanted_give = "~k%s%s sagt zu Dir, \"Ich habe keinen Platz, um das zu verstauen. Wenn es ein paar Schillinge wären...~n~k\""
 
 
 classvars:
@@ -178,4 +178,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

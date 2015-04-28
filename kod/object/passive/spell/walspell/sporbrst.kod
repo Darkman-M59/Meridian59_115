@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   SporeBurst_name_rsc = "spore burst"
+   SporeBurst_name_rsc = "Sporenwolke"
    SporeBurst_icon_rsc = isporecl.bgf
-   SporeBurst_desc_rsc = \
-      "Summons forth noxious clouds that paralyze any within it's bounds.  "
-      "Requires potent reagents specific to both Qor and Faren."
+   SporeBurst_desc_rsc = "Erschafft giftige Wolken, die jeden lähmen der mit ihnen in Kontakt kommt. Man benötigt typische mächtige Reagenzien für Qor und Faren."
+
+
       
-   SporeBurst_cast_rsc = \
-      "Following a loud popping sound, the room is filled with a cloud of "
-      "choking spore mold."
-   SporeBurst_failed_rsc = \
-      "There is too much summoning magic focused here to cause a spore burst."
+   SporeBurst_cast_rsc = "Im Anschluß an ein lautes Ploppgeräusch ist der Raum mit einer Wolke aus erstickenden Pilzsporen gefüllt."
+
+
+   SporeBurst_failed_rsc = "Hier herrscht zu viel Beschwörungsmagie um eine Sporenentladung zu verursachen."
+
    SporeBurst_sound = farenspore822m.wav
 
 
@@ -274,4 +274,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

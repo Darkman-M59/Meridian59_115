@@ -18,23 +18,23 @@ constants:
 
 resources:
 
-   berserkerring_name_rsc = "berserker ring"
-   berserkerring_icon_rsc = ring2.bgf            
-   berserkerring_desc_rsc = \
-      "This ring seems to glow a warm red.  It bears a simple "
-      "inscription, \"Lustful blows are strong but not "
-      "always true.\""
+   berserkerring_name_rsc = "Der Berserker-Ring"
+   berserkerring_icon_rsc = ring2.bgf
+   berserkerring_desc_rsc = "Dieser Ring scheint ein warmes, rotes Licht auszustrahlen. Er trägt eine einfache Inschrift, \"Wollüstige Schläge sind stark, aber nicht immer richtig.\""
+
+
+
   
-   berserkerring_use_rsc = \
-      "Your blood boils with lust for battle.  You yearn to strike down your "
-      "enemies... you want only to ~B~rKILL~n!"
+   berserkerring_use_rsc = "Die Lust nach Kampf steigt in Dir hoch. Du sehnst Dich danach, Deine Feinde niederzustrecken..."
+
+
    berserkerring_use_wav_rsc = bezerker_ring.wav
 
-   berserkerring_unuse_rsc = \
-      "The battle fury from the berserker ring leaves you."
+   berserkerring_unuse_rsc = "Die Kampfeslust des Berserker-Rings verlässt Dich."
 
-   berserkerring_break_rsc = \
-      "The berserker ring, having drunk its fill of battle, simply disappears!"
+
+   berserkerring_break_rsc = "Der Beserker-Ring verschwindet einfach, nachdem sein Kampfesdurst gestillt wurde."
+
       
 classvars:
 
@@ -125,4 +125,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

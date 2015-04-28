@@ -22,10 +22,10 @@ constants:
 resources:
 
    room_castle2c = castle2c.roo
-   room_name_castle2c = "The Assembly Chamber"
+   room_name_castle2c = "Die Versammlungshalle"
 
 
-   castle2c_music = castle.mid
+   castle2c_music = castle.mp3
 
 classvars:
 
@@ -93,4 +93,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

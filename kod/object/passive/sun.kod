@@ -17,9 +17,9 @@ constants:
 resources:
 
    sun_icon_rsc = sun.bgf
-   sun_name_rsc = "sun"
-   sun_desc_rsc = \
-      "Some people have good enough sense not to look into the sun."
+   sun_name_rsc = "Die Sonne"
+   sun_desc_rsc = "Einige Leute sind schlau genug, nicht in die Sonne zu schauen."
+
 
 classvars:
 
@@ -96,3 +96,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

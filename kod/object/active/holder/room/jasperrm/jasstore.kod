@@ -17,9 +17,9 @@ constants:
 resources:
 
    room_jasperStore = jasstore.roo
-   room_name_JasperStore = "General Store of Jasper"
+   room_name_JasperStore = "Warenlager von Jasper"
 
-   jasstore_music = bank.mid
+   jasstore_music = bank.mp3
 
 classvars:
 
@@ -99,3 +99,4 @@ CreateStandardObjects()
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

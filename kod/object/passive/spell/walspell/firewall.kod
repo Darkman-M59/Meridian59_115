@@ -15,16 +15,16 @@ constants:
 
 resources:
 
-   FireWall_name_rsc = "firewall"
+   FireWall_name_rsc = "Feuerwand"
    FireWall_icon_rsc = iwalfire.bgf
-   FireWall_desc_rsc = \
-      "Creates a wall of fire in front of the caster.  "
-      "Requires red mushrooms and firesand to cast."
+   FireWall_desc_rsc = "Erschafft eine Feuerwand. Benötigt rote Pilze und Feuersand."
 
-   FireWall_cast_rsc = "A blazing hot wall of fire appears before you!"
-   FireWall_failed_rsc = \
-      "There is too much summoning magic focused here to create a wall of "
-      "fire." 
+
+
+   FireWall_cast_rsc = "Eine glühend heiße Feuerwand erscheint vor dir!"
+   FireWall_failed_rsc = "Es gibt zu viel konzentrierte Beschwörungsmagie hier um eine Feuerwand zu erschaffen."
+
+
    FireWall_sound = farenwala822m.wav
 
 classvars:
@@ -274,3 +274,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

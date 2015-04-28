@@ -16,24 +16,24 @@ constants:
 
 resources:
 
-   ShalilleBane_name_rsc = "Shal'illebane"
+   ShalilleBane_name_rsc = "Qors Aura"
    ShalilleBane_icon_rsc = ishabane.bgf
-   ShalilleBane_desc_rsc = \
-      "Permeates an area with the unholy essence of Qor, harming any who attempt to call on the holy energy of Shal'ille.  "
-      "Requires yrxl sap and fairy wings to cast."
+   ShalilleBane_desc_rsc = "Durchdringt ein Gebiet mit der unheiligen Essenz von Qor, wodurch jeder Schaden nimmt, der die heilige Macht der Sha-Lill anruft. Für dieses Ritual werden Yrxl-Harz und Feenflügel benötigt."
+
+
    
-   ShalilleBane_unnecessary = "This area is already polarized against Shal'ille."
+   ShalilleBane_unnecessary = "Dieses Gebiet ist bereits gegen Sha-Lill ausgerichtet."
 
-   ShalilleBane_on = "A magical force enters the area, filling the air with an acrid odor.  The shadows seem "
-      "to deepen almost imperceptibly, and a chill creeps up your spine, making the hairs on your arms stand up."
-   ShalilleBane_off = "The evil force dissipates."
-   ShalilleBane_new_entrant = "This place is permeated by an evil presence;  you can feel the eyes of Qor "
-      "watching you, warning you against calling upon the magical forces of Shal'ille."
+   ShalilleBane_on = "Eine magische Macht strömt herein und erfüllt die Luft mit einem beißenden Gestank. Die Schatten scheinen sich fast unmerklich zu verdichten und ein eiskalter Hauch kriecht Deinen Rücken hinauf, so dass Du eine Gänsehaut bekommst."
 
-   ShalilleBane_HurtCaster = "As you utter the final syllables of your spell, a bolt of unholy "
-      "energy slams into your body."
-   ShalilleBane_kills_you = "As you utter the final syllables of your spell a bolt of unholy "
-      "energy slams into your body, killing you instantly."
+   ShalilleBane_off = "Die böse Macht vergeht."
+   ShalilleBane_new_entrant = "Dieser Ort ist durchdrungen von einem bösartigen Wesen; Du spürst die Augen Qors auf Dir, die Dich davor warnen, die magische Macht Sha-Lills anzurufen."
+
+
+   ShalilleBane_HurtCaster = "Als die letzten Silben des Zauberspruchs ausgesprochen sind, schlägt unheilige Energie wie ein Bolzen in Deinen Körper ein."
+
+   ShalilleBane_kills_you = "Als die letzten Silben des Zauberspruchs ausgesprochen sind, schlägt unheilige Energie wie ein Bolzen in Deinen Körper ein und tötet Dich auf der Stelle."
+
 
    ShalilleBane_sound = qshalban.wav
 
@@ -191,3 +191,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

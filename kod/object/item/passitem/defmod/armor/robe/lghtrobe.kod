@@ -19,11 +19,11 @@ constants:
 
 resources:
 
-   lightrobe_name_rsc = "light robes"
+   lightrobe_name_rsc = "Das leichte Kleid"
    lightrobe_icon_rsc = ltrobe.bgf
-   lightrobe_desc_rsc = \
-      "Woven from fine jungle textiles, this light robe offers little in the way of "
-      "protection."
+   lightrobe_desc_rsc = "Dieses leichte Kleidungsstück, das aus feinen Waldfasern gewoben ist, bietet nur wenig Schutz."
+
+
 
    lightrobe_male_icon_rsc = btc.bgf
    lightrobe_female_icon_rsc = btd.bgf
@@ -72,3 +72,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

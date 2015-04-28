@@ -20,13 +20,13 @@ constants:
 
 resources:
 
-   aimboon_name_rsc = "aim effect"
+   aimboon_name_rsc = "Genauigkeit"
    aimboon_icon_rsc = iboonaim.bgf
-   aimboon_desc_rsc = "Your sense of aim seems to be affected unnaturally."
-   aimboon_intro_rsc = "The aim of the victim is boosted temporarily."
+   aimboon_desc_rsc = "Deine Zielsicherheit scheint eigenartig beeinträchtigt zu sein."
+   aimboon_intro_rsc = "Die Fähigkeit, ein Ziel zu treffen, wird beim Betroffenen vorübergehend stark verstärkt."
 
-   aimboon_inc = "You feel more accurate!"
-   aimboon_dec = "You suddenly feel clumsier."
+   aimboon_inc = "Du fühlst, dass Du nun besser triffst!"
+   aimboon_dec = "Du findest, dass Du plötzlich ungeschickter bist."
 
 classvars:
    viPersonal_ench = True
@@ -65,3 +65,4 @@ messages:
    }
 
 end
+

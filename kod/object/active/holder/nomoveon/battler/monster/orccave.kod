@@ -17,14 +17,14 @@ constants:
 resources:
 
    CaveOrc_Koc_name_rsc = "utom"
-   CaveOrc_name_rsc = "cave orc"
+   CaveOrc_name_rsc = "Der Höhlenork"
    CaveOrc_icon_rsc = OrcCave.bgf
-   CaveOrc_desc_rsc = \
-      "This dirty orc grunt wanders through the caves hungrily in search "
-      "of gems and food."
+   CaveOrc_desc_rsc = "Dieser dreckige Ork-Soldat streift hungrig durch die Höhlen auf der Suche nach Edelsteinen und Nahrung."
+
+
 
    CaveOrc_dead_icon_rsc = OrcCaveX.bgf
-   CaveOrc_dead_name_rsc = "dead cave orc"
+   CaveOrc_dead_name_rsc = "Der tote Höhlenork"
 
    CaveOrc_sound_hit = orc_atkh.wav
    CaveOrc_sound_miss = cor_atkm.wav
@@ -135,3 +135,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

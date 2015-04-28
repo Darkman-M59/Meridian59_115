@@ -20,18 +20,18 @@ constants:
 
 resources:
 
-   hpboon_name_rsc = "health effect"
+   hpboon_name_rsc = "Gesundheit"
    hpboon_icon_rsc = iboonhea.bgf
-   hpboon_desc_rsc = "Your carnal health seems unnaturally influenced."
-   hpboon_intro_rsc = "The maximum health of the victim is boosted temporarily."
+   hpboon_desc_rsc = "Deine körperliche Gesundheit scheint eigenartig beeinflußt zu sein."
+   hpboon_intro_rsc = "Die Gesundheit des Betroffenen ist vorübergehend deutlich aufgebessert."
 
-   hpboon_inc = \
-      "A wave of magical energy sweeps through your body, leaving your "
-      "muscles tingling in its wake.  It feels like your skin and flesh "
-      "are hardening, becoming more able to withstand cuts and bruises."
-   hpboon_dec = \
-      "A wave of magical energy sweeps through your body, leaving your "
-      "body feeling somehow naked, more vulnerable."
+   hpboon_inc = "Eine Welle magischer Energie schwappt durch Deinen Körper, so dass er Deinen Muskeln kribbeln. Es fühlt sich an, als hätten sich Haut und Fleisch verhärtet, damit sie besser gegen Schnitte und Stöße geschützt sind."
+
+
+
+   hpboon_dec = "Eine Welle magischer Energie schwappt durch Deinen Körper, so dass er sich irgendwie ungeschützt und verletzlicher anfühlt."
+
+
 
 classvars:
    viPersonal_ench = True
@@ -70,3 +70,4 @@ messages:
    }
 
 end
+

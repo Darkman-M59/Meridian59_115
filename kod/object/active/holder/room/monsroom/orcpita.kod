@@ -20,9 +20,9 @@ constants:
 resources:
 
    room_OrcPitA = ocpa.roo
-   room_name_OrcPitA = "Grog's Antechamber"
+   room_name_OrcPitA = "Grogs Vorkammer"
 
-   OrcPitA_music = orcpit.mid
+   OrcPitA_music = orcpit.mp3
 
 classvars:
 
@@ -171,3 +171,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

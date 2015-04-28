@@ -39,102 +39,102 @@ constants:
 
 resources:
 
-   Decorator_name_rsc = "interior design consultant"
+   Decorator_name_rsc = "Der Dekorateur"
    Decorator_icon_rsc = faerie-g.bgf
-   Decorator_desc_rsc = "A refugee from the bitter war over the Vale of Sorrows, "
-      "this Fey Elhai has abandoned the complicated societal strictures of the "
-      "Fey to dwell amongst humans and employ its connection to the sublime in "
-      "a more creative fashion."
+   Decorator_desc_rsc = "Als Flüchtling vor dem schrecklichen Krieg aus dem Tal der Trauer, hat sich dieser Fey Elhai von den komplizierten sozialen Zwängen der Feen abgewandt. Er lebt nun unter den Menschen und kann so seinen feinen Geschmack in einer weit größeren, kreativen Art ausleben."
 
-   Decorator_welcome = "Greetings.  Is there anything I can ~Ihelp~I you with?"
 
-   Decorator_confused = "I'm sorry, can you state your request more simply?"
-   Decorator_room_changed = "An excellent choice!"
-   Decorator_topic_timeout = \
-      "I see you have not reached a decision yet.  Can I help you with something else?"
 
-   Decorator_bed_instructions = "Please stand where you'd like the bed, and say 'here'."
-   Decorator_painting_instructions = \
-      "Please stand near where you'd like the painting and say 'here'.  I can only "
-      "hang it in four different spots, but I'll do my best to fit your needs."
-   Decorator_object_placement = "Please stand where you'd like the object and say 'here'."
-   Decorator_object_removal = "Please stand nearer the object you'd like removed."
 
-   Decorator_bed_blocked = \
-      "I'm sorry, if you would like the bed there we'll need to clear some room first."
-   Decorator_no_object_stacking = \
-      "I'm sorry, there is no room to place anything there.  If you're set on "
-      "that spot, let's clear some room first."
+   Decorator_welcome = "Seid gegrüßt. Braucht Ihr ~IHilfe~I?"
 
-   Decorator_help = \
-      "I am here to assist you in decorating your room to your taste.  I can ~Ichange~I "
-      "the carpet or wallpaper for you, help you ~Imove~I the bed, ~Ichange~I the "
-      "bedspread, or even ~Iplace~I a painting in the location of your choice.  Also, "
-      "we have a number of objects you can place around the room or remove later.  I "
-      "can ~Ilist objects~I for all the available objects if you're interested.  "
-      "Finally, I can ~Ilighten~I or ~Idarken~I the room to meet your needs.  Of "
-      "course, most customizations to your room expends magical resources, so we'll "
-      "have to bill you at the time the change is made.  I can provide further details "
-      "about our ~Ipricing~I system if you like."
+   Decorator_confused = "Verzeih, kannst Du Deine Frage einfacher stellen?"
+   Decorator_room_changed = "Eine ausgezeichnete Wahl!"
+   Decorator_topic_timeout = "Ich sehe, Du bist noch zu keiner Entscheidung gelangt. Kann ich Dir mit etwas anderem helfen?"
 
-   Decorator_pricing = \
-      "The pricing structure has four levels of cost.  Changing the light level is "
-      "a simple change and therefore costs nothing.  Moving the bed, changing the "
-      "bedspread, moving the painting, or changing the painting are the least "
-      "expensive options.  Changing the wallpaper or carpeting is more expensive due "
-      "to the effort required.  Finally, placing objects in the room is the most "
-      "expensive option, as the demand for decorations is very high and we only "
-      "have a limited number of objects.  However, if you decide to remove objects "
-      "from the room, you earn credits for shillings spent, which can be applied "
-      "to future room modifications.  Feel free to ask me for your credit balance "
-      "at any time."
 
-   Decorator_cant_pay = \
-      "I'm afraid you don't have enough resources to pay for that room modification."
-   Decorator_credit_balance = "Your credit balance is currently %q shillings."
-   Decorator_option_unavailable = \
-      "I'm sorry, That's not possible right now.  Would you like a different option?"
-   Decorator_graceful_exit = \
-      "Ah, I understand.  If you need anything else, please ring the bell."
+   Decorator_bed_instructions = "Bitte stelle Dich dorthin, wo das Bett hin soll und sage 'hier'."
+   Decorator_painting_instructions = "Bitte stelle Dich dorthin, wo das Bild hin soll und sage 'hier'. Ich kann es nur an vier Punkten aufhängen, aber ich tue mein Bestes, um Deine Wünsche zu befriedigen."
 
-   Decorator_list_objects = "You may choose from the following decorative objects: %q."
 
-   Decorator_takes_heartstones = \
-      "You know, heartstones can be made into some interesting items."
+   Decorator_object_placement = "Bitte stelle Dich dorthin, wo das Objekt hin soll und sage 'hier'."
+   Decorator_object_removal = "Bitte stelle Dich näher an das Objekt, das weggeräumt werden soll."
 
-   Decorator_impatient_1 = "Is there anything I can ~Ihelp~I you with?"
-   Decorator_impatient_2 = \
-      "Is there anything I can ~Ihelp~I you with?  If not, I must return to other duties."
-   Decorator_impatient_3 = \
-      "I'm afraid I must attend to the needs of other guests at this time.  "
-      "Please ring the bell again if you have need of further assistance."
+   Decorator_bed_blocked = "Verzeih, wenn Du das Bett dort aufgestellt haben möchtest, müssen wir erst etwas Platz schaffen."
+
+   Decorator_no_object_stacking = "Verzeih, aber da ist kein Platz mehr, um irgend etwas hinzustellen. Wenn Du auf diese Stelle bestehst, müssen wir erst etwas Platz schaffen."
+
+
+
+   Decorator_help = "Ich bin hier, um Dir zu helfen, das Zimmer nach Deinem Geschmack einzurichten. Ich kann den Teppich oder die Tapete ändern, helfen das Bett zu verschieben, die Tagesdecke ändern, oder einfach ein Bild an eine Stelle Deiner Wahl aufhängen. Wir haben auch eine Anzahl Objekte, die Du im Zimmer platzieren oder später entfernen kannst. Ich kann alle wählbaren Objekte auflisten, wenn es Dich interessiert. Natürlich kostet jede Veränderung in Deinem Zimmer magische Energien, die wir Dir sofort berechnen wenn die Änderung gemacht wird. Ich kann Dir genaue Details über unser Preissystem zur Verfügung stellen wenn Du möchtest."
+
+
+
+
+
+
+
+
+
+
+   Decorator_pricing = "Die Kosten werden in drei Stufen berechnet. Verschieben des Bettes, ändern der Tagesdecke, ein Bild umhängen oder austauschen sind die preiswertesten Optionen. Wechseln der Tapete oder des Teppichs ist teurer, aufgrund des größeren Aufwands. Die teuerste Option ist schließlich das Platzieren von Gegenständen, weil die Nachfrage nach Dekorationen sehr hoch ist und wir nur eine begrenzte Anzahl von Gegenständen haben. Wenn Du Dich aber dafür entscheidest, Gegenstände aus dem Zimmer zu entfernen, erhältst Du ein Guthaben, das bei künftigen Veränderungen verwendet werden kann. Du kannst mich jederzeit nach Deinem Guthaben fragen."
+
+
+
+
+
+
+
+
+
+
+
+   Decorator_cant_pay = "Leider hast Du nicht genügend Rücklagen, um diese Veränderung des Zimmers zu bezahlen."
+
+   Decorator_credit_balance = "Dein Guthaben beträgt zur Zeit %q Schillinge."
+   Decorator_option_unavailable = "Es tut mir leid. Das ist im Moment nicht möglich. Möchtest Du eine andere Wahl treffen?"
+
+   Decorator_graceful_exit = "Ah, ich verstehe. Wenn Du irgendetwas benötigst, klingle bitte."
+
+
+   Decorator_list_objects = "Du kannst aus folgenden Dekorationsobjekten wählen: %q."
+
+   Decorator_takes_heartstones = "Weißt Du, aus Herzsteinen können so manch interessante Dinge erschaffen werden."
+
+
+   Decorator_impatient_1 = "Kann ich Dir irgendwie ~Ihelfen~I?"
+   Decorator_impatient_2 = "Kann ich Dir irgendwie helfen? Wenn nicht, muss ich zu meinen anderen Pflichten zurückkehren."
+
+   Decorator_impatient_3 = "Es tut mir leid, aber ich muss mich jetzt um andere Gäste kümmern. Bitte klingel wieder, wenn Du weitere Hilfe benötigst."
+
+
 
    % Command strings
-   Decorator_command_help = "help"
-   Decorator_command_pricing = "pricing"
-   Decorator_command_price = "price"
-   Decorator_command_credit = "credit"
-   Decorator_command_balance = "balance"
-   Decorator_command_list = "list"
-   Decorator_command_object = "object"
-   Decorator_command_item = "item"
-   Decorator_command_decorator = "decorator"
-   Decorator_command_consultant = "consultant"
-   Decorator_command_leave = "leave"
-   Decorator_command_change = "change"
-   Decorator_command_move = "move"
-   Decorator_command_remove = "remove"
-   Decorator_command_location = "location"
-   Decorator_command_place = "place"
-   Decorator_command_put = "put"
-   Decorator_command_floor = "floor"
-   Decorator_command_carpet = "carpet"
-   Decorator_command_bed = "bed"
-   Decorator_command_wall = "wall"
-   Decorator_command_painting = "painting"
-   Decorator_command_picture = "picture"
-   Decorator_command_lighten = "lighten"
-   Decorator_command_darken = "darken"
+   Decorator_command_help = "Hilfe"
+   Decorator_command_pricing = "Preise"
+   Decorator_command_price = "Preis"
+   Decorator_command_credit = "Guthaben"
+   Decorator_command_balance = "Kontostand"
+   Decorator_command_list = "liste"
+   Decorator_command_object = "Objekt"
+   Decorator_command_item = "Gegenstand"
+   Decorator_command_decorator = "Dekorateur"
+   Decorator_command_consultant = "Berater"
+   Decorator_command_leave = "verschwinde"
+   Decorator_command_change = "ändere"
+   Decorator_command_move = "verschiebe"
+   Decorator_command_remove = "entferne"
+   Decorator_command_location = "Ort"
+   Decorator_command_place = "platziere"
+   Decorator_command_put = "stelle"
+   Decorator_command_floor = "Boden"
+   Decorator_command_carpet = "Teppich"
+   Decorator_command_bed = "Bett"
+   Decorator_command_wall = "Wand"
+   Decorator_command_painting = "Gemälde"
+   Decorator_command_picture = "Bild"
+   Decorator_command_lighten = "aufhellen"
+   Decorator_command_darken = "verdunkeln"
 
 classvars:
 
@@ -976,4 +976,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

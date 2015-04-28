@@ -16,8 +16,8 @@ constants:
 
 resources:
 
-   candle_name = "candle"
-   candle_desc = "A beeswax candle burns brightly."
+   candle_name = "Die Kerze"
+   candle_desc = "Die Kerze aus Bienenwachs brennt hell."
    candle_icon = candle.bgf
 
 classvars:
@@ -42,3 +42,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

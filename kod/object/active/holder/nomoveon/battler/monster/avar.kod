@@ -22,31 +22,31 @@ constants:
 
 resources:
 
-   avar_default_name = "avar"
+   avar_default_name = "Avar"
    avar_koc_name_rsc = "avar"
    avar_icon_rsc = avwar.bgf
 
    % Default name and desc!
-   avar_name_rsc = "peet-seeeep avar warrior"      
-   avar_desc_rsc = \
-      "Fierce warriors, these flightless bird men demand caution as you "
-      "approach.  The plumage clearly denotes this Avar as being part of "
-      "the noble Peet-Seeeep tribe."
+   avar_name_rsc = "Der Avar-Krieger vom Stamme der Pi-Piep"
+   avar_desc_rsc = "Als wilde Krieger verlangen diese flügellosen Vogelmenschen Deine Vorsicht, wenn Du dich näherst. Das Gefieder zeigt eindeutig, dass diese Avar zum edlen Pi-Piep-Stamm gehören."
 
-   avar_bone_name = "chyup-tewee faction warrior"
-   avar_bone_desc = \
-      "Fierce warriors, these flightless bird men demand caution as you "
-      "approach.  The plumage clearly denotes this Avar as being part of "
-      "the mighty Chyup-Tewee tribe which has aligned with the Bone faction."
 
-   avar_nomagic_name = "kyip-kyip-kreeet avar warrior"
-   avar_nomagic_desc = \
-      "Fierce warriors, these flightless bird men demand caution as you "
-      "approach.  The plumage clearly denotes this Avar as being part of "
-      "the savage Kyip-Kyip-Kreeet tribe."
+
+
+   avar_bone_name = "Der Krieger des Tschi-Tschilp-Stammes"
+   avar_bone_desc = "Diesen flügellosen, wilden Kriegern sollte man sich besser mit aller Vorsicht nähern. Das Gefieder zeigt eindeutig, dass diese Avare zum gefürchteten Tschi-Tschilp-Stamm gehören, die sich mit der Knochengruppe verbündet haben."
+
+
+
+
+   avar_nomagic_name = "Der Avar-Krieger vom Stamme der Ki-Ki-Krii"
+   avar_nomagic_desc = "Als wilde Krieger verlangen diese flügellosen Vogelmenschen Deine Vorsicht, wenn Du dich näherst. Das Gefieder zeigt eindeutig, dass diese Avar zum wilden Ki-Ki-Krii-Stamm gehören."
+
+
+
 
    avar_dead_icon_rsc = avwarX.bgf
-   avar_dead_name_rsc = "slain avar"
+   avar_dead_name_rsc = "Der tote Avar"
 
    avar_sound_hit = av_atkh.wav
    avar_sound_miss = av_atkm.wav
@@ -296,3 +296,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

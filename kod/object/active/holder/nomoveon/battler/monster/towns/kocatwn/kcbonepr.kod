@@ -15,19 +15,19 @@ constants:
 
 resources:
 
-   KocatanBonePriestess_name_rsc = "The Bone Priestess"
+   KocatanBonePriestess_name_rsc = "Die Knochen-Priesterin"
    KocatanBonePriestess_icon_rsc = kcbonepr.bgf
-   KocatanBonePriestess_desc_rsc = "This female Avar has been exiled from her society for "
-      "her illegal magic practices. At least that's the common belief, although it is "
-      "difficult to determine if any reason can be applied to this strange creature."
+   KocatanBonePriestess_desc_rsc = "Diese Frau vom Stamme der Avar wurde wegen einiger ungesetzlicher Zauberpraktiken aus ihrer Gesellschaft ausgestoßen. Dies ist zumindest eine weit verbreitete Ansicht, denn es ist schwierig zu entscheiden, ob diese Geschöpfe überhaupt vernunftbegabt sind."
+
+
 
    %KocatanBonePriestess_entry_welcome = ""
    KocatanBonePriestess_iteach = "ik QUAWK ak "
-   KocatanBonePriestess_atthatlevel = " nyuk KAW-KAW uk uk!"
-   KocatanBonePriestess_unwanted_keep = "~k%s%s tells you, \"ik CHEEE-UP nak ik nyuk AK-AK!!~n~k\""
-   KocatanBonePriestess_unwanted_pay = "~k%s%s tells you, \"chp ka-ak chp NAK-NAK ik AK!~n~k\""
-   KocatanBonePriestess_unwanted_give = "~k%s%s tells you, \"WAK-WAK! AAK WAK-NAK-NAK!! CHEEE-UP NYUK!!~n~k\""
-   KocatanBonePriestess_unwanted_token = "~k%s%s tells you, \"ik wak?  wak-wak chp aak ak nyuk!~n~k\""
+   KocatanBonePriestess_atthatlevel = "nyuk KAW-KAW uk uk!"
+   KocatanBonePriestess_unwanted_keep = "~k%s%s sagt zu Dir, \"ik CHEEE-UP nak ik nyuk AK-AK!!~n~k\""
+   KocatanBonePriestess_unwanted_pay = "~k%s%s sagt zu Dir, \"chp ka-ak chp NAK-NAK ik AK!~n~k\""
+   KocatanBonePriestess_unwanted_give = "~k%s%s sagt zu Dir, \"WAK-WAK! AAK WAK-NAK-NAK!! CHEEE-UP NYUK!!~n~k\""
+   KocatanBonePriestess_unwanted_token = "~k%s%s sagt zu Dir, \"ik wak? wak-wak chp aak ak nyuk!~n~k\""
    KocatanBonePriestess_nothing_for_sale = "TIC-TIC-TIC WAK NYUK-NYUK AAAK AAAK!!"
    KocatanBonePriestess_mrcnt_too_costly = "AAAK TIC-TIC NYUK IK NYUK-TAK!!"
 
@@ -79,7 +79,7 @@ resources:
    bonepr_spellsquawk1 = "TAK TAK rijj rijj qornak"
    bonepr_spellsquawk2 = "Ka-ak AKK AKK queeep-quip."
    bonepr_spellsquawk3 = "Ticataca nak nak!"
-   bonepr_spellsquawk4 = "Ack!  Ack!  Zjiria no ki ki!"
+   bonepr_spellsquawk4 = "Ack! Ack! Zjiria no ki ki!"
 
 
 classvars:
@@ -223,5 +223,6 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

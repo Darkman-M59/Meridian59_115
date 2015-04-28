@@ -18,13 +18,13 @@ constants:
 
 resources:
 
-   cornoth_urchin_name_rsc = "urchin"
+   cornoth_urchin_name_rsc = "Der Urlan"
    cornoth_urchin_icon_rsc = urchin.bgf
-   cornoth_urchin_desc_rsc = \
-   "This is a young, dirty urchin, living on the street, yet causing no trouble."
+   cornoth_urchin_desc_rsc = "Dies ist ein junger, dreckiger Urlan, der auf der Straße lebt, aber bis jetzt noch keinen Ärger macht."
+
 
    cornoth_urchin_dead_icon_rsc = urchinX.bgf
-   cornoth_urchin_dead_name_rsc = "dead urchin"
+   cornoth_urchin_dead_name_rsc = "Ein toter Urlan"
 
 classvars:
 
@@ -108,3 +108,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

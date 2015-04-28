@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   Web_name_rsc = "web"
+   Web_name_rsc = "Netz"
    Web_icon_rsc = webspell.bgf
-   Web_desc_rsc = "The web looks very sticky indeed."
+   Web_desc_rsc = "Das Netz sieht wirklich sehr klebrig aus."
 
-   web_stick0 = "You navigate the webs without getting stuck to them."
-   web_stick1 = "You momentarily find yourself stuck to the webs."
-   web_stick2 = "Your boots almost come off, stuck to the webs."
-   web_stick3 = "Is there something stuck to your boot or are you stuck to IT?"
-   web_stick5 = "You find yourself helplessly stuck to the spider web!"
+   web_stick0 = "Du umgehst die Netze, ohne an ihnen festzukleben."
+   web_stick1 = "Du stellst fest, dass Du kurzzeitig am Netz klebst."
+   web_stick2 = "Es zieht dir fast die Stiefel aus, als diese am Netz kleben bleiben."
+   web_stick3 = "Hängen Deine Füße irgendwo fest, oder steckst Du in IHNEN fest?"
+   web_stick5 = "Du findest Dich hilflos im Spinnennetz klebend wieder!"
 
-   web_dissipates = "A piece of the web withers and disappears before your eyes."
+   web_dissipates = "Ein Stück des Netzes altert und vergeht vor Deinen Augen."
 
    web_stick_snd = frying.wav
 
-   web_stuck = "%s%s appears to be stuck in a patch of sticky spider webbing."
+   web_stuck = "%s%s scheint in einem klebrigen Teil des Spinnennetzes steckengeblieben."
 
 classvars:
 
@@ -178,3 +178,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

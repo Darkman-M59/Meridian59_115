@@ -18,22 +18,22 @@ constants:
 
 resources:
 
-   unholyweapon_cast_rsc = "Your %s is now dedicated to Qor."
-   unholyweapon_no_can = "You cannot dedicate %s%s to Qor."
-   unholyweapon_fails = "The %s is strangely unaffected by the spell."
-   unholyweapon_already_done = \
-   "This weapon is already dedicated to Qor."
+   unholyweapon_cast_rsc = "%s ist nun Qor geweiht."
+   unholyweapon_no_can = "%s%s kann Qor nicht geweiht werden."
+   unholyweapon_fails = "%s zeigt keine Veränderungen durch den Zauber."
+   unholyweapon_already_done = "Diese Waffe ist bereits Qor geweiht."
 
-   unholyweapon_name_rsc = "unholy weapon"
+
+   unholyweapon_name_rsc = "Unheilige Waffe"
    unholyweapon_icon_rsc = iunholyw.bgf
-   unholyweapon_desc_rsc = \
-      "Dedicates your weapon to Qor, enhancing its "
-      "effectiveness against the holy.  "
-      "Requires fairy wings and orc teeth to cast."
+   unholyweapon_desc_rsc = "Weiht Deine Waffe Qor und steigert ihre Wirksamkeit gegen das Heilige. Der Zauber benötigt eine gewisse Zeitspanne an Konzentration, Feenflügel und Orkzähne."
 
-   unholyweapon_spell_intro = "Qor Lv. 2: Dedicates your weapon to Qor, enhancing its effectiveness against the holy."
 
-   unholyweapon_lable_rsc = "suplicant of Qor."
+
+
+   unholyweapon_spell_intro = "Qor Zirkel 2: Weiht Deine Waffe Qor und steigert ihre Wirksamkeit gegen das Heilige."
+
+   unholyweapon_lable_rsc = "Dunkelklinge."
 
 classvars:
 
@@ -148,3 +148,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

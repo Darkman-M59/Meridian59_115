@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   knightshield_name_rsc = "knight's shield"
+   knightshield_name_rsc = "Der Ritterschild"
    knightshield_icon_rsc = mtlshld.bgf
-   knightshield_desc_rsc = \
-      "Nearly three feet from top to bottom, this glimmering "
-      "shield of polished steel is of the highest quality.  "
-      "You see the mark of Fehr'loi Qan inscribed on the "
-      "wooden handle."
+   knightshield_desc_rsc = "Von oben bis unten fast drei Fuß messend, ist dieser Ritterschild von höchster Qualität und besitzt einen Durchmesser von mehr als einem Meter. Du kannst das Wappen Ferloi Qans sehen, das in den hölzernen Griff geschnitzt wurde."
+
+
+
+
 
    knightshield_window_overlay_rsc = povshldE.bgf
 
@@ -63,3 +63,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

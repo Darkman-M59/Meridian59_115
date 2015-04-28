@@ -27,11 +27,11 @@ constants:
 
 resources:
 
-   weapattParalyzer_desc = \
-      "  A glow that can only be described as Zjiriaesqe surrounds the weapon."      
-   Paralyzer_dm = "Paralyzer"
-   paralyzer_fail_use = "You are not ready to use %s%s."
-   holder_worked = "%s%s seems rooted to the very ground!"
+   weapattParalyzer_desc = " Das unheilige Glühen der Aura Alamirs umgibt diese Waffe und Du vermeinst die verlorenen Seelen in Agonie kreischen zu hören. Auf eine seltsame Art und Weise fällt es Dir schwer, Deine Hand wieder zu öffnen, um die Waffe loszulassen."
+
+   Paralyzer_dm = "Lähmer"
+   paralyzer_fail_use = "%s%s entgleitet Deinen Händen, da Du noch nicht soweit bist diese Waffe zu benutzen."
+   holder_worked = "%s%s scheint im Boden verwurzelt zu sein!"
 
 classvars:
 
@@ -92,3 +92,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,12 +17,12 @@ constants:
 
 resources:
 
-   room_name_toshall = "The Adventurer's Hall of Tos"
+   room_name_toshall = "Gemeinschaftshalle von Tos"
    room_toshall = toshall.roo
-   toshall_music = main.mid
+   toshall_music = main.mp3
 
-   news_tos_hall = "General News"
-   news_tos_hall_desc = "Find out what's happening around Meridian."
+   news_tos_hall = "Allgemeine Nachrichten"
+   news_tos_hall_desc = "Finde heraus, was in und um Tos passiert."
 
 classvars:
 
@@ -85,3 +85,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

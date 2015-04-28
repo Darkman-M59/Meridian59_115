@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   PassiveWallofFire_name_rsc = "wall of fire"
+   PassiveWallofFire_name_rsc = "Feuerwand"
    PassiveWallofFire_icon_rsc = woflame.bgf
-   PassiveWallofFire_desc_rsc = \
-      "The wall of fire flickers dangerously, threatening to make the day "
-      "of anyone passing through a bad one."
+   PassiveWallofFire_desc_rsc = "Die Feuerwand flackert gefährlich und droht jedem, der hindurchgeht, einen schlechten Tag zu bereiten."
 
-   PassiveWallofFire_Cold = \
-      "The wall of fire flickers dangerously, threatening to make the day "
-      "of anyone passing through a bad one.  However, the fire seems "
-      "strangely cool."
+
+
+   PassiveWallofFire_Cold = "Die Feuerwand flackert gefährlich und droht jedem, der hindurchgeht, einen schlechten Tag zu bereiten. Das Feuer scheint seltsam kühl."
+
+
+
 
 classvars:
 
@@ -154,3 +154,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

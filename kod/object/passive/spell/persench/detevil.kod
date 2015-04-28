@@ -16,21 +16,21 @@ constants:
 
 resources:
 
-   DetectEvil_name_rsc = "detect evil"
+   DetectEvil_name_rsc = "Böses erkennen"
    DetectEvil_icon_rsc = iDetEvil.bgf
-   DetectEvil_desc_rsc = \
-      "Allows you to see the vile defilers of her name.  Reveals all evil people and "
-      "monsters that are more foul than you are pure.  "
-      "Requires a fairy wing to cast."
+   DetectEvil_desc_rsc = "Ermöglicht Dir, bis in die tiefsten Abgründe zu blicken. Man braucht dazu Feenflügel.\n"
+
+
+
    
-   DetectEvil_on_rsc = "You feel more attuned to the darkness of the hearts around you."
-   DetectEvil_off_rsc = "Your eyesight returns to its former mundanity."
-   DetectEvil_already_enchanted_rsc = "You can already see the vile."
-   DetectEvil_Success_rsc = "You grant %s%s the ability to sense evil."
+   DetectEvil_on_rsc = "Du fühlst Dich mehr angepasst an die bedrückende Finsternis in den Herzen um Dich herum."
+   DetectEvil_off_rsc = "Deine Sicht kehrt zur vorherigen Perspektive zurück."
+   DetectEvil_already_enchanted_rsc = "Du kannst schon das Verdorbene sehen."
+   DetectEvil_Success_rsc = "Du ermöglichst %s%s, Böses zu erkennen."
 
    DetectEvil_sound = sdevil.wav
 
-   DetectEvil_spell_intro = "Shal'ille Lv. 1: Allows you to detect evil people and monsters."
+   DetectEvil_spell_intro = "Sha-Lill Zirkel 1: Erlaubt es Dir, böse Menschen und Monster zu enrdecken."
 
 classvars:
 
@@ -117,3 +117,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

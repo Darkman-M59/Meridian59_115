@@ -47,16 +47,16 @@ constants:
 
 resources: 
 
-   name_NecArena = "Goad's Grinder"
+   name_NecArena = "Goads Schlachthaus"
    room_NecArena = necarena.roo
-   NecArena_music = nec02.mid
+   NecArena_music = nec02.mp3
 
-   NecArena_no_offer = "Goad hisses, \"No helping the sacrifices.\""
-   NecArena_no_attack = "If you want to die, come onto the arena floor."
-   NecArena_no_spell = "If you want to die, come onto the arena floor."
-   NecArena_no_rescue = "Sorry fool, there's no escape!"
-   NecArena_no_target = "Sorry fool."
-   NecArena_between_bouts = "The time to die has not yet come!"
+   NecArena_no_offer = "Goad zischt, \"Keine Unterstützung für die Opfer.\""
+   NecArena_no_attack = "Komm in die Arena, wenn Du sterben willst."
+   NecArena_no_spell = "Komm in die Arena, wenn Du sterben willst."
+   NecArena_no_rescue = "Du Narr, es gibt kein Entkommen."
+   NecArena_no_target = "Tut mir leid, Narr!"
+   NecArena_between_bouts = "Die Zeit zum Sterben ist noch nicht gekommen!"
 
 classvars:
 
@@ -732,3 +732,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

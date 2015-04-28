@@ -17,19 +17,19 @@ constants:
 resources:
 
 
-   BloodInheritance_name_rsc = "blood inheritance"
+   BloodInheritance_name_rsc = "Bluterbe"
    BloodInheritance_icon_rsc = ibloodin.bgf
-   BloodInheritance_desc_rsc = \
-      "Infuses a weapon with the malevolent power of Qor.  "
-      "It is impossible to predict exactly what form this dark "
-      "benediction will take, but it will always be deadly.  "
-      "Requires shaman blood, entroot berries, and orc teeth."
+   BloodInheritance_desc_rsc = "Erfüllt eine Waffe mit der boshaften Macht von Qor. Es ist unmöglich genau vorherzusagen, welche Form dieses dunkle Gebet annehmen wird, aber es wird immer fürchterlich sein. Benötigt Blut von Schamanen, Wurzelknollen und Orkzähne."
+
+
+
+
    
    BloodInheritance_sound = qunbond.wav
 
-   BloodInheritance_bad_target = "You must target this spell at a melee weapon."
-   BloodInheritance_bad_target2 = "You cannot give Qor's gift to a weapon which is already enchanted."
-   BloodInheritance_succeeded = "The evil force of your spell lashes out at %s%s, infusing it with Qor's power."
+   BloodInheritance_bad_target = "Du musst den Zauber auf eine Waffe richten."
+   BloodInheritance_bad_target2 = "Du hast diese Waffe bereits verzaubert."
+   BloodInheritance_succeeded = "Die böse Kraft Deines Spruchs befällt %s%s."
 
 classvars:
 
@@ -135,3 +135,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

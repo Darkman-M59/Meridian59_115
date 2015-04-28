@@ -18,26 +18,26 @@ constants:
 
 resources:
 
-   Spellitem_name_rsc = "spellitem"
-   Spellitem_label_name_rsc = "generic spellitem"
+   Spellitem_name_rsc = "Zaubergegenstand"
+   Spellitem_label_name_rsc = "Allgemeiner Zaubergegenstand"
    Spellitem_icon_rsc = scr07.bgf
-   Spellitem_desc_rsc = \
-      "This is the generic spellitem and I can think of no good reason for you to have it.  You have been reported to the authorities.  prepare to die!!!!!"
-   Spellitem_broken_desc = "Generic broken description"
-   Spellitem_Broken = "This is the generic broken message."
-   Spellitem_fails = "Generic failure message."
-   Spellitem_bad_item_rsc = "generic bad item message"
-   Spellitem_bad_karma = "Your karma cannot unleash the spell within %s%s."
-   Spellitem_has_karma_requirement = \
-     "To use this, you must have sufficient karma to cast the spell inside."
+   Spellitem_desc_rsc = "Dies ist ein allgemeiner Zaubergegenstand und es gibt keinen vernünftigen Grund, weshalb Du ihn besitzen solltest. Du wurdest bereits gemeldet. Bereite dich darauf vor, zu sterben!!!!!"
 
-   SpellItem_divine_rsc = "  Divinely Crafted."
-   SpellItem_made_rsc = "  Made by "
-   SpellItem_distiller_rsc = " Distiller"
-   SpellItem_novice_rsc = ", Novice"
-   SpellItem_apprentice_rsc = ", Apprentice"
-   SpellItem_journeyman_rsc = ", Journeyman"
-   SpellItem_master_rsc = ", Master"
+   Spellitem_broken_desc = "Eine allgemeine kaputte Beschreibung"
+   Spellitem_Broken = "Dies ist eine allgemeine kaputte Meldung."
+   Spellitem_fails = "Allgemeine Fehlermeldung."
+   Spellitem_bad_item_rsc = "Allgemeiner Gegenstandsfehler."
+   Spellitem_bad_karma = "Dein Karma kann den darin enthaltenen Zauber %s%s nicht entfesseln."
+   Spellitem_has_karma_requirement = "Um dies benutzen zu können, muss dein Karma dem darin enthaltenen Zauber genügen."
+
+
+   SpellItem_divine_rsc = " Göttlich geschaffen."
+   SpellItem_made_rsc = " Geschaffen von "
+   SpellItem_distiller_rsc = " Tränke-Mixer"
+   SpellItem_novice_rsc = ", anfängerlicher"
+   SpellItem_apprentice_rsc = ", angehender"
+   SpellItem_journeyman_rsc = ", gelernter"
+   SpellItem_master_rsc = ", meisterlicher"
 
 classvars:
 
@@ -434,3 +434,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

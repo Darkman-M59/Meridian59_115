@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   NecromancerTome_name_rsc = "ancient tome"
+   NecromancerTome_name_rsc = "Das uralte Buch"
    NecromancerTome_icon_rsc = nectome.bgf
-   NecromancerTome_desc_rsc = "An ancient tome, its pages yellow and crumbling."
+   NecromancerTome_desc_rsc = "Ein uraltes Buch, dessen Seiten gelb und zerfallen sind."
 
-   NecromancerTome_text_rsc = \
-      " "
+   NecromancerTome_text_rsc = " "
+
 
 classvars:
 
@@ -86,3 +86,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

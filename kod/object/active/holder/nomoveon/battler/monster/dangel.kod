@@ -36,17 +36,17 @@ constants:
 resources:
 
    DarkAngel_koc_name_rsc = "ozangelis"
-   DarkAngel_name_rsc = "dark angel"
+   DarkAngel_name_rsc = "Der Dunkle Engel"
    DarkAngel_icon_rsc = angel.bgf
-   DarkAngel_desc_rsc = \
-      "Travelling under cover of darkness, the Dark Angels seek the souls of "
-      "people to consume.  They are pure evil, lashing out at any that wander "
-      "near them.  Surely these beasts are the handservants of Qor!"
+   DarkAngel_desc_rsc = "Unter dem Schutz der Dunkelheit reisen die Dunklen Engel, hungernd nach den Seelen der Menschen. Diese Ausgeburten der Hölle gehen auf jeden los, der ihnen zu nahe kommt. Sie sind wahrlich Handlanger Qors!"
+
+
+
 
    DarkAngel_wings_rsc = anglwing.bgf
 
    DarkAngel_dead_icon_rsc = angelX.bgf
-   DarkAngel_dead_name_rsc = "dead dark angel"
+   DarkAngel_dead_name_rsc = "Der tote Dunkle Engel"
 
    DarkAngel_sound_attack = dangatk.wav
    DarkAngel_sound_death = dangdth.wav
@@ -437,3 +437,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

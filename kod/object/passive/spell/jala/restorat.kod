@@ -16,13 +16,13 @@ constants:
 
 resources:
 
-   Restorate_name_rsc = "restorate"
+   Restorate_name_rsc = "Wiederherstellen"
    Restorate_icon_rsc = irestor.bgf
-   Restorate_desc_rsc = \
-      "This song allows all listeners to regain health at an accelerated rate.  "
-      "Requires one diamond and several herbs to cast."
+   Restorate_desc_rsc = "Dieses Lied ermöglicht es den Zuhörern, ihre Gesundheit schneller zurückzugewinnen. Benötigt Diamanten und Kräuter."
 
-   Restorate_song = song05.mid
+
+
+   Restorate_song = song05.mp3
  
 classvars:
 
@@ -71,3 +71,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

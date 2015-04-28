@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   SwapWand_label_name_rsc = "wand of filching"
+   SwapWand_label_name_rsc = "Stab der Diebe"
    SwapWand_icon_rsc = wand6.bgf
-   SwapWand_desc_rsc = "Magical energy crackles about this slender wand."
+   SwapWand_desc_rsc = "Magische Energien umströmen diesen dünnen Stab."
 
 classvars:
 
@@ -35,3 +35,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

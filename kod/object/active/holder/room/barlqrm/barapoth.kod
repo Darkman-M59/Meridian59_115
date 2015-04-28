@@ -18,9 +18,9 @@ constants:
 resources:
 
    room_barapoth = barapoth.roo
-   room_name_barapoth = "Joguer's Herbs and Roots"
+   room_name_barapoth = "Koldors Kräuter und Wurzeln"
 
-   barapoth_music = smithy.mid
+   barapoth_music = smithy.mp3
 
 classvars:
 
@@ -76,3 +76,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

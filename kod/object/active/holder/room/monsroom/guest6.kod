@@ -47,77 +47,77 @@ resources:
 
    room_name_guest6 = "Mausoleum"
    room_guest6 = guest6.roo
-   guest6_music = nec03.mid
+   guest6_music = nec03.mp3
 
-   guest6_signname = "spells"
-   guest6_sign = \
-      "There are more than 120 spells in the Meridian universe.  We've given you "
-      "one of the higher level ones to practice: the fireball spell.\n\n"
-      "Below you, there is a pit full of mummies just wandering around.  First, you "
-      "need to be able to see them.  Press the PAGEDOWN key until your view lowers "
-      "and you can see them.  You can also look up by pressing the PAGEUP key, and "
-      "center your view with the HOME key.  Keep in mind that this is also useful "
-      "should you ever find yourself fighting foes shorter than you are.\n\n"
-      "Now that you can see your enemies, let's smite them.  In your SPELLS menu, "
-      "select SCHOOL OF FAREN, and then FIREBALL.  Your cursor will change into "
-      "a target.  Place that target on a mummy, and fire away using your left mouse button.  "
-      "It may take more than one fireball to kill a mummy.\n\n"
-      "Note that how many fireballs you can cast are limited by a number of things. "
-      "You need mana to cast the spell, and also you need reagents (in this case, "
-      "red mushrooms and orc teeth).  Fortunately, the mummies that you kill elsewhere "
-      "provide the reagents you need."
+   guest6_signname = "Zaubersprüche"
+   guest6_sign = "Es gibt mehr als 120 Zaubersprüche in Meridian. Wir haben Dir einen der höheren Sprüche gegeben, um ein wenig zu üben: den Feuerball-Spruch.\n\nZu Deinen Füßen befindet sich eine Grube voll streunender Mumien. Als erstes musst Du die BILD-NACH-UNTEN-Taste drücken, um Deine Sicht nach unten zu schwenken. Um wieder nach oben zu sehen, musst Du die BILD-NACH-OBEN-Taste drücken. Du kannst die Ansicht mit der POS-1-Taste zentrieren. Bedenke, dass diese Tasten auch nützlich sind, wenn Du kleinwüchsige Gegner bekämpfst.\n\nJetzt sollst Du aber erstmal die Mumien bekämpfen. Wähle aus dem ZAUBERSPRÜCHE-Menü die FAREN-SCHULE und FEUERBALL aus. Der Cursor wird sich in ein Fadenkreuz verwandeln. Richte dieses Fadenkreuz auf eine Mumie und feuere mit der linken Maustaste. Du wirst mehrere Feuerbälle benötigen, um eine Mumie zu töten.\n\nDie Anzahl der Feuerbälle, die Dir zu Verfügung stehen, ist von verschiedenen Faktoren abhängig. Du benötigst Mana und verschiedene Reagenzien (in diesem Fall Rote Pilze und Orkzähne). Glücklicherweise kannst Du im Gepäck der besiegten Mumien weitere Pilze finden."
 
-   guest6_signname2 = "fighting"
-   guest6_sign2 = \
-      "Combat is essential in Meridian 59, but it's also "
-      "pretty easy.  If you push your 'E' key by default, you will swing at "
-      "the monster closest to you with whatever weapon you have armed.  If "
-      "you don't have a weapon armed, you should do so now, because "
-      "punching is not an effective way to kill much of anything.\n\n"
-      "While fighting, be sure to keep an eye on your Health bar, marked "
-      "by a cross in the top-right corner of the screen.  If it gets too low, "
-      "don't hesitate to run away!  Then "
-      "rest or eat some food to get your strength up faster. "
-      "Keep in mind that you can neither fight nor "
-      "run while resting, so you want to be sure you find a safe place to "
-      "hide while you heal.\n\n"
-      "Monsters you kill will frequently drop treasure behind which "
-      "can be sold.  Be sure to get whatever they drop, by either using the "
-      "GET command, or dragging and dropping the items from the floor to your "
-      "inventory."
 
-   guest6_signname3 = "targetting"
-   guest6_sign3 = \
-      "Now that you are familiar with fighting and spellcasting, you're ready to "
-      "try out the advanced targetting feature.\n"
-      "Press [ or ] while facing a monster or player to activate the targetting "
-      "system.  You should see your target "
-      "outlined in color (you can set the color in your preferences).  As long as "
-      "a target is outlined, the game will assume that all attacks or spells "
-      "are to be directed at that target.  Note that this is true regardless of "
-      "whether you can hit or even see your target, so be careful about leaving "
-      "inaccessible enemies targetted!\n"
-      "Pressing [ or ] will cycle through your available targets, and pressing Esc "
-      "will clear your current target and return you to the default attack/spell mode.\n\n"
-      "With a little practise, you'll see how useful targetting can be, especially "
-      "when casting spells.  Just set up a hotkey to the spell of your choice, "
-      "highlight a target and fire away!"
 
-   guest6_signname4 = "jumping"
-   guest6_sign4 = \
-      "Jumping in Meridian 59 is especially tricky as there is no jump key or command.  "
-      "Consider it more like falling at an angle.  There will be many places in the world "
-      "that will require you to leap from one area to the next.  To cross these areas, "
-      "like the one ahead, get a running start by holding down the SHIFT key while using "
-      "your arrow keys to guide your avatar.  Just aim where you’re trying to land and "
-      "run from one ledge to the next.  If you don’t make the jump on your first try, "
-      "you can go around and try again."
+
+
+
+
+
+
+
+
+
+
+
+
+
+   guest6_signname2 = "kämpfen"
+   guest6_sign2 = "Der Kampf ist in Meridian 59 nicht nur notwendig, sondern auch ziemlich einfach. Sobald Du die STRG-Taste drückst, schwingst Du die Waffe, die Du gerade aktiviert hast, in Richtung des nächsten Monsters. Du solltest dabei auf jeden Fall eine Waffe auswählen, da Du mit der Faust eigentlich kaum einen Kampf gewinnen kannst.\n\nWährend Du kämpfst, solltest Du immer auf Deine Lebensenergie achten, die mit einem Kreuz gekennzeichnet ist (oberes rechtes Eck). Fällt sie zu weit nach unten, zögere nicht, davonzulaufen! Ruhe Dich dann aus und esse etwas, um schneller zu Kräften zu kommen. Merke Dir, dass Du weder kämpfen noch rennen kannst, während Du Dich ausruhst - suche Dir deshalb immer ein Versteck.\n\nEinige der Monster, die Du im Kampf erlegst, haben Schätze bei sich, die Du verkaufen kannst. Um diese Gegenstände aufzuheben, kannst Du entweder den NEHMEN-Befehl verwenden oder sie per 'drag and drop' in Dein Gepäck übernehmen."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   guest6_signname3 = "Zielen"
+   guest6_sign3 = "Jetzt kennst Du Dich schon gut mit dem Schwertkampf und der Zauberei aus. Du bist bereit, das erweiterte Zielen auszuprobieren.\n\nDrücke ß oder ´, während Du einen Spieler oder ein Monster im Blickfeld hast, um das Zielsystem zu aktivieren. Du solltest Dein Ziel farbig umrandet sehen. Solange das Ziel so umrandet ist, werden automatisch alle Angriffe und Zauber auf dieses Ziel ausgeführt. Merke Dir: Selbst wenn das Ziel nicht mehr gesehen und getroffen werden kann, bleibt das so! Also de-markiere schnell, sobald Dein Ziel sich irgendwo versteckt und womöglich gar noch andere Gegner auf Dich eindreschen.\nIndem Du ß und ´ drückst, wechselst Du zwischen den wählbaren Zielen. Mit Escape beendest Du die Zielauswahl und kehrst zum Standard-Angriffsmodus zurück.\n\nNach kurzer Zeit wirst Du feststellen, wie nützlich das Zielsystem sein kann, besonders wenn Du Zaubersprüche verwendest. Belege einfach eine Funktionstaste mit dem Zauber Deiner Wahl, markiere ein Ziel und los geht's!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   guest6_signname4 = "Springen"
+   guest6_sign4 = "Springen ist in Meridian 59 schwierig, denn es gibt keine Sprung-Taste. Das Springen sollte daher eher als eine Art \"im-freien-Fall-laufen\" angesehen werden. Um Hindernisse zu überqueren, drücke und halte die UMSCHALT-Taste wie beim Laufen und stürze Dich wagemutig von einem Abhang, wenn eine Plattform oder Ähnliches in der Nähe zur Verfügung steht.\n\nHier kannst Du den Sprung auch gleich üben. Und wenn Du beim ersten Mal nicht gleich Erfolg hast, gar kein Problem - einfach nochmal probieren."
+
+
+
+
+
+
+
    
-   guest6_bones_name = "pile of bones"
+   guest6_bones_name = "Der Knochenhaufen"
    guest6_bones_icon = bonepile.bgf
-   guest6_bones_desc = \
-      "This pile of bones is no doubt the result of a dead body that has been decomposing "
-      "for dozens of Meridian years."
+   guest6_bones_desc = "Dieser Knochenhaufen ist ohne Zweifel das Überbleibsel eines Körpers, der schon vor vielen Jahren gestorben ist."
+
+
 
    guest6_door1_rsc = down2.wav
    
@@ -629,3 +629,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

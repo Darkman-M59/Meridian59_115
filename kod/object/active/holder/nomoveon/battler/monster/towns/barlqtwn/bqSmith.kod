@@ -20,16 +20,16 @@ constants:
 
 resources:
 
-   BarloqueBlacksmith_name_rsc = "Fehr'loi Qan"
+   BarloqueBlacksmith_name_rsc = "Ferloi Qan"
    BarloqueBlacksmith_icon_rsc = bqsmith.bgf
-   BarloqueBlacksmith_desc_rsc = "Though well known throughout the land for his superb skill as a "
-      "master weapon smith, Fehr'loi Qan himself could not be considered the sharpest sword on the "
-      "rack.  The large man's slow speech seems out of place in the highbrow city of Barloque.  You "
-      "get the impression that he is uncomfortable with strangers, but his great size and clear "
-      "devotion to Kraanan makes him afraid of no one."
+   BarloqueBlacksmith_desc_rsc = "Doch wohlbekannt im ganzen Land für seine hervorragende Fähigkeit als Meister des Waffenschmiedens berühmt ist, kann man Ferloi Qan selbst nicht gerade als etwas Besonderes bezeichnen. Die langsame Sprechweise des großen Mannes scheint in der vornehmen Stadt Barloque fehl am Platze. Du hast den Eindruck, dass er sich in Gesellschaft von Fremden nicht wohl fühlt, aber seine Größe und offensichtliche Hingabe zu Kraanan lässt ihn niemanden fürchten."
 
-   BQsmith_entry_welcome = "Hello %s%s, and welcome."
-   BQSm_mace_sale = "All these beautiful weapons, and you want %s%s.  Son of a ...!  Well, I suppose I got no choice but to sell you one."
+
+
+
+
+   BQsmith_entry_welcome = "Guten Tag, %s%s."
+   BQSm_mace_sale = "All diese wunderschönen Waffen und Du willst %s%s. Sohn einer ...! Nun, ich schätze, ich habe keine Wahl außer an Dich zu verkaufen."
 
 classvars:
 
@@ -88,4 +88,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   Kocatansentry_name_rsc = "sentry"
+   Kocatansentry_name_rsc = "Wachposten"
    kocatansentry_icon_rsc = kcsentry.bgf
-   kocatansentry_desc_rsc =  \
-     "Trained to defend the walls of Ko'catan this soldier is ready to prove his mettle."
+   kocatansentry_desc_rsc = "Ausgebildet um die Mauern der Stadt mit dem Leben zu verteidigen, scheint die Wache mehr als bereit zu sein  sich allen Feinden entgegenzustellen."
+
 
 classvars:
 
@@ -44,3 +44,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

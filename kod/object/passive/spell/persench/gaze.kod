@@ -18,21 +18,21 @@ constants:
 
 resources:
 
-   paralyze_name_rsc = "gaze of the basilisk"
+   paralyze_name_rsc = "Basiliskenblick"
    paralyze_icon_rsc = iparalyz.bgf
-   paralyze_desc_rsc = \
-      "Grants the caster the ability to paralyze any who meet his gaze.  "
-      "Requires yrxl sap and purple mushrooms to cast."
+   paralyze_desc_rsc = "Legt einen schützenden Zauber um Dich, der Deine Feinde befällt, wenn sie Dich Angreifen und sie somit für einen kurzen Moment außer Gefecht setzt. Der Zauber benötigt Harz des Yrxl Baumes und lila Pilze."
 
-   paralyze_on_rsc = "Your eyes seem to swell and pulse with magical energy."
-   paralyze_off_rsc = "Your eyes return to normal."
-   paralyze_already_enchanted_rsc = "Your already have the gaze of the basilisk."
-   paralyze_caster = "%s%s meets your gaze and freezes in place."
-   paralyze_target_on = "As you meet %s%s's terrible gaze you feel your limbs stiffen and freeze."
 
-   paralyze_no_soul = "You can't detect a soul in %s%s to turn to stone!"
 
-   paralyze_sound= qparalyz.wav
+   paralyze_on_rsc = "Deine Augen scheinen hervorzutreten und voll magischer Energie zu pulsieren."
+   paralyze_off_rsc = "Deine Sehkraft normalisiert sich wieder."
+   paralyze_already_enchanted_rsc = "Du hast bereits den Basiliskenblick."
+   paralyze_caster = "%s%s wird von Deinem Blick getroffen und erstarrt zu Stein."
+   paralyze_target_on = "%s%s wird von Deinem Blick getroffen und erstarrt zu Stein."
+
+   paralyze_no_soul = "%s%s hat offenbar keine Seele und kann daher nicht versteinert werden!"
+
+   paralyze_sound = qparalyz.wav
 
 classvars:
 
@@ -144,3 +144,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

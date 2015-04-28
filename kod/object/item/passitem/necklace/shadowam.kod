@@ -33,24 +33,24 @@ constants:
 
 resources:
 
-   shadowAmulet_name_rsc = "Amulet of Shadows"
+   shadowAmulet_name_rsc = "Das Schattenamulett"
    shadowamulet_icon_rsc = amulet.bgf
-   shadowAmulet_desc_rsc = \
-      "You cannot get a good look at the amulet.  "
-      "Shadows seem to cling to it even in direct sunlight."
+   shadowAmulet_desc_rsc = "Du kannst das Amulett nicht näher betrachten, da es selbst im Sonnenlicht von Schatten umgeben ist."
 
-   shadowAmulet_used_rsc = \
-      "As you put the amulet on, shadows seem to gather around you.  "
-      "You feel vulnerable to the world and the amulet begins "
-      "to feel cold... very, very cold..."
 
-   shadowAmulet_try_unuse_rsc = \
-      "Painful sparks fly from the amulet when you try to "
-      "remove it from your neck!"
 
-   shadowAmulet_unused_rsc = \
-      "You feel a wave of vertigo.  Suddenly, you realize the "
-      "Amulet of Shadows is in your hands, not around your neck!"
+   shadowAmulet_used_rsc = "Als Du das Amulett umlegst, scheinen Dich Schatten zu umgeben. Du fühlst dich verwundbar und das Amulett fängt an, sich kalt anzufühlen... sehr, sehr kalt..."
+
+
+
+
+   shadowAmulet_try_unuse_rsc = "Schmerzvolle Funken sprühen vom Amulett, als Du versuchst, es von Deinem Hals abzunehmen!"
+
+
+
+   shadowAmulet_unused_rsc = "Ein Schwindelanfall überkommt Dich. Plötzlich merkst Du, dass sich das Schattenamulett in Deiner Hand, nicht mehr um Deinen Hals befindet!"
+
+
 
 classvars:
 
@@ -217,6 +217,7 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 

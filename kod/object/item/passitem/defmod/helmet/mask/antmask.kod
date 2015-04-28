@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   AntMask_name_rsc = "ant mask"
+   AntMask_name_rsc = "Eine Ameisenmaske"
    AntMask_icon_male_rsc = mmant.bgf
    AntMask_icon_female_rsc = mfant.bgf
-   AntMask_desc_rsc = \
-      "Finally!  An adult-sized ant mask from Ko'catan.  Now you can participate "
-      "in the strange island ritual you've always heard about."
+   AntMask_desc_rsc = "Endlich! Eine Ameisenmaske, groß genug für ausgewachsene Menschen. Nun kannst du endlich an den seltsamen Ritualen der Insel teilnehmen, von denen du immer gehört hast."
+
+
 
 classvars:
 
@@ -40,5 +40,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

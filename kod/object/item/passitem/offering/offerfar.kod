@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   OfferingFaren_name_rsc = "burning water"
+   OfferingFaren_name_rsc = "Das brennende Wasser"
    OfferingFaren_icon_rsc = burnwate.bgf
-   OfferingFaren_desc_rsc = "This bottle of liquid holds some ominous purpose you can only guess at."
+   OfferingFaren_desc_rsc = "Diese Flasche mit Flüssigkeit hat eine ominöse Wirkung, die du nur erraten kannst."
 
 classvars:         
 
@@ -34,4 +34,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

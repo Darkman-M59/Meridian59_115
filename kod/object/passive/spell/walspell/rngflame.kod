@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   RingOfFlames_name_rsc = "ring of flames"
+   RingOfFlames_name_rsc = "Flammenring"
    RingOfFlames_icon_rsc = iringfir.bgf
-   RingOfFlames_desc_rsc = \
-      "Creates a ring of flames around target.  "
-      "Requires red mushrooms and firesand to cast."
+   RingOfFlames_desc_rsc = "Erschafft einen Ring aus Flammen um den Zaubernden. Benötigt Rote Pilze und Feuersand."
 
-   RingOfFlames_caster = "A blazing hot ring of flames appears around %s%q."
-   RingOfFlames_target = "A blazing hot ring of flames appears around you!"
-   RingOfFlames_failed_rsc = \
-      "There is too much summoning magic focused here to create a ring of "
-      "flames." 
+
+
+   RingOfFlames_caster = "Ein loderndernd heißer Ring aus Flammen erscheint rings um %s%q."
+   RingOfFlames_target = "Ein loderndernd heißer Ring aus Flammen erscheint rings um Dich."
+   RingOfFlames_failed_rsc = "Hier ist bereits zuviel Beschwörungsmagie am Werk um auch noch einen Ring aus Flammen zu erschaffen. "
+
+
 
    RingOfFlames_sound = frngfir.wav
 
@@ -172,3 +172,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

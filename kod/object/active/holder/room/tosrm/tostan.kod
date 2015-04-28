@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_tostan = tostan.roo
-   room_name_tostan = "Abandoned Building"
-   tostan_music = tos.mid
+   room_name_tostan = "Verlassenes Gebäude"
+   tostan_music = tos.mp3
 
 classvars:
 
@@ -60,3 +60,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

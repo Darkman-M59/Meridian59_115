@@ -16,12 +16,12 @@ include blakston.khd
 
 resources:
 
-   PrincessTroop_name_rsc = "soldier of the Princess' army"
+   PrincessTroop_name_rsc = "Ein Soldat der Armee der Prinzessin"
 
-   PrincessTroop_desc_rsc = \
-   "This soldier proudly bears the colors of the Princess."
+   PrincessTroop_desc_rsc = "Dieser Soldat trägt mit Stolz die Farben der Prinzessin."
 
-   PrincessTroop_dead_name_rsc = "dead soldier"
+
+   PrincessTroop_dead_name_rsc = "Ein toter Soldat"
    PrincessTroop_sound_aware = trps2awr.wav
    
 classvars:
@@ -58,3 +58,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -17,7 +17,7 @@ constants:
 resources:
 
    room_barloque_jail = barjail.roo
-   room_name_barloque_jail = "Old Jailhouse"
+   room_name_barloque_jail = "Das alte Gefängnis"
 
 classvars:
 
@@ -115,3 +115,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

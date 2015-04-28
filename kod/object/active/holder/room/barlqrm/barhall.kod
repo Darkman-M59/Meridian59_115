@@ -18,12 +18,12 @@ constants:
 resources:
 
    room_barhall = barhall.roo
-   room_name_barhall = "Adventurer's Hall of Barloque"
+   room_name_barhall = "Gemeinschaftshalle von Barloque"
 
-   barhall_music = main.mid
+   barhall_music = main.mp3
 
-   news_bar_hall = "General News"
-   News_bar_hall_desc = "Find out the latest gossip around Meridian."
+   news_bar_hall = "Allgemeine Nachrichten"
+   News_bar_hall_desc = "Die neuesten Gerüchte rund um Meridian"
 
 classvars:
 
@@ -100,3 +100,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

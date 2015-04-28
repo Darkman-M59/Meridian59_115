@@ -16,10 +16,10 @@ constants:
 
 resources:
 
-   skullbrazier_name = "skull brazier"
-   skullbrazier_desc = \
-      "This skull brazier offers an ominous, eerie glow.  Fire glints in the eye "
-      "sockets giving it a life like appearance."
+   skullbrazier_name = "Die Schädellampe"
+   skullbrazier_desc = "Dieses Totenkopfgitter erscheint in einem merkwürdigen, geisterhaften Leuchten. Feuer glimmt in den Augenhöhlen und geben ihm ein lebendiges Aussehen."
+
+
    skullbrazier_icon = head.bgf
 
 classvars:
@@ -44,3 +44,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

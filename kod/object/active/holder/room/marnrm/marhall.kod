@@ -17,106 +17,106 @@ constants:
 resources:
 
    room_marhall = marhall.roo
-   room_name_marhall = "The Adventurer's Hall of Marion"
+   room_name_marhall = "Gemeinschaftshalle von Marion"
 
-   marhall_music = main.mid
+   marhall_music = main.mp3
 
-   news_mar_hall = "General News"
-   News_mar_hall_desc = "See what people are saying around Meridian."
+   news_mar_hall = "Allgemeine Nachrichten"
+   News_mar_hall_desc = "Sieh mal, was die Leute in Meridian so reden."
 
-   MarHall_factionflag_book = "Territory Tactica"
-   MarHall_factionflag_text = \
-        "A treatise on the rules of boundary conflict\n"
-        "-Cylill, Councilor and Veteran to the Duke's army.\n"
-        "\n"
-        "In the old Empire, long before the explorers came to Meridian 59, the ruling "
-        "class of aristocracy used flags to mark the boundaries of their territories.  "
-        "If a lord wished to gain the territory of another without mortal combat, he "
-        "would command a small group of his soldiery to secretly and stealthily replace "
-        "the flag of his opponent with one of his own.  Each feudal lord had soldiers "
-        "that were experts at doing such a task, and the bloodshed in these boundary "
-        "wars was kept to a minimum.  This practice grew outdated and soon was sent "
-        "into disuse as the populace as the society grew towards a more exploratory "
-        "and scholarly nature than a feudal one.\n\n"
-        "¶"
-        "However, the noble factions and the rebels vie for control of the lands once "
-        "again.  The council, in its wisdom, has established rules for the conquest of "
-        "land in the struggles between the factions.\n"
-        "\n"
-        "THE RULES\n"
-        "\n"
-        "These are the rules of the territory conquest, as determined by the council "
-        "of Meridian:\n"
-        "\n"
-        "Only a recognized soldier of the faction may possess the flag and try to "
-        "claim the flagpole, but any faction member may support the claim with their "
-        "presence."
-        "\n"
-        "There will need to be at least a score of the warriors of Meridian in the land, "
-        "and a soldier will need to have at least two of his or her factions' members "
-        "in the area at the time.\n"
-        "¶"
-        "A territory may only be claimed if it is adjacent to a territory that has "
-        "already been claimed.  A territory is considered adjacent if the player can "
-        "walk directly from one territory to the other without passing through other "
-        "territories.  A special exception can be found below.\n"
-        "\n"
-        "Once you stake the claim and place the flag, it will take ten minutes or so "
-        "for the information to reach the faction leaders via scouts and the power "
-        "will shift.  Unclaimed territories may have soldiers defending it, so be "
-        "wary, it is best to eliminate the threat before proceeding with claiming "
-        "the territory.  In some cases, common soldiers may be called to defend the "
-        "flagpole from being taken.\n"
-        "\n"
-        "Should the soldier leave the area or be killed, the claim will be considered "
-        "failed.  If failure occurs, it will be at least eight hours before an "
-        "attempt can be made again."
-        "¶"
-        "CITIES AND FACTIONS\n"
-        "\n"
-        "Because of the civilians living in the cities, they cannot be taken by force.  "
-        "However, claiming the land around a city will claim the city itself.  Please "
-        "note that cities do not hold any special weight, they are simply another "
-        "territory to capture in each faction's quest for the rulership of Meridian.\n"
-        "\n"
-        "Each faction will begin in a city.  If the city is lost to another faction, "
-        "then the faction will relinquish all territory claims.  The starting cities "
-        "are also special in that a faction can always reclaim flags around their "
-        "starting city.  Therefore, a faction can always restart a conquest of the "
-        "territories by starting at their home city."
-        "¶"
-        "The faction of Her Majesty, Princess Kateriina, will start in the town of "
-        "Barloque.  The Royal City may be claimed by any faction claiming the "
-        "territories of The Queen's Way, the Main Gate of Barloque, and the "
-        "Outskirts of Barloque.\n"
-        "\n"
-        "The faction of the Duke Akardius, will start in the City of Tos.  The City "
-        "of Tos may be claimed by any faction claiming the territories of the Main "
-        "Gate of Tos, The Border of the Badlands, and the Outskirts of Tos.\n"
-        "\n"
-        "The faction of Jonas, Rebel leader, will start in the town of Jasper.  The "
-        "town of Jasper may be claimed by any faction claiming the territories of "
-        "the Lake of Jala's Song, the Sweetgrass Prairies, and Deep in the Forest "
-        "of Farol.\n"
-        "¶"
-        "Marion and Cor Noth are strategic positions, and if they are claimed it will "
-        "count as a favor towards the liege that you follow.  I would recommend "
-        "that you do not misinterpret the significance of these places in Meridian.\n"
-        "\n"
-        "The town of Marion is a neutral place, but the taking of these two places "
-        "will allow you to claim this town for your faction: Deep Woods of Ileria, "
-        "and West Merchant's Way through Ilerain Woods.\n"
-        "\n"
-        "The town of Cor Noth is a neutral place as well, but the taking of these "
-        "two places will allow you to claim this town for your faction: The King's "
-        "Way, and the Main Gate of Cor Noth."
-        "¶"
-        "Please choose wisely when participating in this feudal war, for the council "
-        "nor the fair Shal'ille will not shine highly on those that use this age-old "
-        "way of warfare as an excuse to enact wholesale murder.  Do not dishonor your "
-        "ancestors.\n\n"
-        "Courage and Honor,\n"
-        "Cylill, Veteran of the Duke's Army, Councilor."
+   MarHall_factionflag_book = "Die Kunst der Gebietseroberung"
+   MarHall_factionflag_text = "Eine Abhandlung über die Regeln von Grenzkonflikten.\n-Zylill, Ratsmitglied und Veteran der Armee des Herzogs.\n\nIm alten Reich, lange bevor die Entdecker nach Meridian 59 gekommen waren, benutzte der Adel Flaggen, um die Grenzen ihrer Territorien zu markieren. Wenn ein Adeliger ein Territorium eines anderen ohne tödlichen Kampf für sich gewinnen wollte, kommandierte er eine kleine Gruppe seiner Soldaten dazu ab, im Geheimen die Flaggen seines Gegners gegen seine eigenen auszutauschen. Jeder Lehnsherr hatte Soldaten, die Experten für solche Unternehmen waren. Das Blutvergießen bei diesen Grenzkriegen wurde auf ein Minimum reduziert. Diese Praxis wurde überholt und geriet bald in Vergessenheit, als die Gesellschaft sich in eine eher erforschende und wissenschaftliche Richtung entwickelte, und weg vom Adel.¶Jedenfalls wetteifern die noblen Fraktionen und die Rebellen wieder um die Kontrolle über die Ländereien. Der Rat hat in seiner Weisheit Regeln für die Eroberung von Land im Kampf zwischen den Fraktionen ausgerufen.\n\nDIE REGELN\n\nDies sind die Regeln der Gebietseroberung, festgelegt vom Rat von Meridian:\n\nNur ein anerkannter Soldat einer Fraktion darf eine Flagge besitzen und einen Flaggenmast für seine Fraktion beanspruchen, aber jedes Fraktionsmitglied darf dies mit seiner Anwesenheit unterstützen.\nEs müssen mindestens zwanzig der Krieger Meridians im Lande sein, und ein Soldat muss mindestens zwei Kameraden der Fraktion im gleichen Gebiet haben.¶Ein Gebiet darf nur beansprucht werden, wenn es an ein bereits erobertes Gebiet direkt angrenzt. Ein Gebiet gilt dann als direkt angrenzend, wenn ein Spieler von einem Gebiet in das andere gehen kann, ohne durch andere Gebiete hindurch zu müssen. Eine spezielle Ausnahme wird weiter unten beschrieben.\n\nSobald der Anspruch erhoben und eine Flagge platziert wird, dauert es etwa zehn Minuten, bevor die Kunde über die Eroberung per Späher die Fraktionsführer erreicht hat und die Kontrolle umschlägt. In unbeanspruchten Territorien können sich Soldaten befinden, die es zu verteidigen suchen. Sei also vorsichtig, und entledige dich zuerst dieser Bedrohung, bevor du mit der Eroberung beginnst. In manchen Fällen werden normale Soldaten auf den Plan treten, die den Flaggenmast vor einer Eroberung verteidigen wollen.¶Sollte der Soldat das Areal verlassen oder getötet werden, so wird die Eroberung als fehlgeschlagen betrachtet. In diesem Fall wird es acht Stunden dauern, bevor ein erneuter Versuch der Eroberung dieses Gebietes gestartet werden kann.¶STÄDTE UND FRAKTIONEN\n\nWegen der Zivilbevölkerung der Städte können diese nicht durch Gewalt eingenommen werden. Jedoch die Eroberung des umliegenden Landes wird die Stadt selbst für die Fraktion beanspruchen. Beachte, dass Städte kein besonderes Gewicht haben, sie sind einfach ein weiteres Gebiet, die in der Mission der Erlangung der Kontrolle über Meridian erobert werden.\n\nJede Fraktion beginnt in einer Stadt. Wenn diese Stadt an eine andere Fraktion verloren geht, verzichtet die Fraktion auf den Apspruch auf all ihre eroberten Gebiete. Diese Städte sind speziell, denn eine Fraktion kann immer die Gebiete um sie herum für sich beanspruchen. So kann eine Fraktion die Eroberung von Territorien immer neu starten, indem sie in ihrer Anfangsstadt beginnt.¶Die Fraktion Ihrer Majestät Prinzessin Kateriina beginnt in der Stadt zu Barloque. Die Königliche Stadt von Meridian selbst kann von jeder Fraktion, die den Weg der Königin, das Stadttor und den Kreuzweg zu Barloque erobern für sich beansprucht werden.\n\nDie Fraktion des Herzogs Akardius starten in der Stadt zu Tos. Die Stadt kann von jeder Fraktion, die das Stadttor zu Tos, Grenzland und den Außenbezirk erobern für sich beansprucht werden.\n\nDie Fraktion von Jonas, dem Rebellenführer beginnt in der Stadt zu Jasper. Die Stadt kann von anderen Fratkionen, die See Jalas Lied, die Prärie und Tief im dunklen Wald erobern für sich bansprucht werden.¶Marion und Cor Noth sind strategische Positionen, wenn sie erobert werden gilt das als Begünstigung für den Lehnsherren, dem du folgst. Ich rate davon ab, die Signifikanz dieser Orte falsch zu interpretieren.\n\nDie Stadt zu Marion gilt als neutraler Ort, aber die Einnahme zweier Gebiete beansprucht auch diese Stadt für deine Fraktion. Diese Gebiete sind die Ilerischen Wälder und die Westliche Handelsroute durch die Ilerischen Wälder.\n\nDie Stadt zu Cor Noth ist ebenfalls ein neutraler Ort. Durch die Einnahme dieser beiden Gebiete kann auch diese Stadt für deine Fraktion beansprucht werden: Der Weg des Königs und das Stadttor zu Cor Noth.¶Wähle weise, wenn du dich dem feudalen Krieg anschließt, denn weder beim Rat noch bei der gerechten Sha Lill werden diejenigen in einem günstigen Licht stehen, die diesen Jahre alten Weg der Kriegsführung als Entschuldigung für Massenmord benutzen. Entehre deine Vorfahren nicht.\n\n\nMut und Ehre,\nZylill, Veteran der Armee des Herzogs,\nRatsmitglied."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 classvars:
 
@@ -187,3 +187,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

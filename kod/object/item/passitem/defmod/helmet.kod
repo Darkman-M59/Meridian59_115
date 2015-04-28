@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   helmet_condition_exc = " is in flawless condition."
-   helmet_condition_exc_mended = " is in great condition, but has been patched before."
-   helmet_condition_good = " is stained with blood but otherwise in good condition."
-   helmet_condition_med = " is marked with the scars of battle but is still serviceable."
-   helmet_condition_poor = " has been dented and worn nearly to the point of breaking."
-   helmet_condition_broken = " is useless, having been cleft in two by a forceful blow."
+   helmet_condition_exc = " ist in tadellosem Zustand."
+   helmet_condition_exc_mended = " ist in hevorragendem Zustand, wurde aber bereits ausgebessert."
+   helmet_condition_good = " ist mit Blut befleckt, doch ansonsten in gutem Zustand."
+   helmet_condition_med = " hat Kampfnarben davongetragen, versieht aber noch seinen Dienst."
+   helmet_condition_poor = " ist so verbeult und abgetragen, dass er fast auseinanderfällt."
+   helmet_condition_broken = " ist unbrauchbar, nachdem er durch einen mächtigen Hieb in zwei Teile gespalten worden ist."
 
 classvars:
 
@@ -106,5 +106,6 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 

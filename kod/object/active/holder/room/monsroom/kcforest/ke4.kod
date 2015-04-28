@@ -50,27 +50,27 @@ constants:
 
 resources:
 
-   room_name_OutdoorsKE4 = "Avar Village"
+   room_name_OutdoorsKE4 = "Avar-Dorf"
    room_OutdoorsKE4 = KE4.roo
-   OutdoorsKE4_music = avarwar.mid
+   OutdoorsKE4_music = avarwar.mp3
 
-   KE4_good = \
-      "~IThe ground shakes and the air seems a bit sweeter.  You have pleased "
-      "the avar gods."
-   KE4_evil = \
-      "~IThe ground shakes and the air seems a bit fouler.  You have "
-      "displeased the avar gods."
-   KE4_good_final = \
-      "~kA deep voice booms, \"~B~bYour offering is accepted.  Partake of my "
-      "power, kindred spirits.~n~k\""
-   KE4_evil_final = \
-      "~kA deep voice bellows, \"~B~rDestroyers!  You kill my people and "
-      "steal my power.  Yet, I will still get my revenge upon you!~n~k\""
+   KE4_good = "~IDie Erde bebt und die Luft scheint ein wenig süßer. Du hast die Götter der Avar erfreut."
 
-   ke4_drown1 = "You'll drown, you idiot!  Stop it, already!"
-   ke4_drown2 = \
-      "The ocean seems boundless and the currents are strong - you dare not "
-      "swim further."
+
+   KE4_evil = "~IDie Erde bebt und die Luft scheint ein wenig bitterer. Du hast die Götter der Avar erzürnt."
+
+
+   KE4_good_final = "~kEine tiefe Stimme dröhnt, \"~B~bDein Angebot wurde angenommen. Habt an meiner Kraft teil, verwandte Seelen.~n~k"
+
+
+   KE4_evil_final = "~kEine tiefe Stimme brüllt, \"~B~rZerstörer! Ihr tötet meine Leute und stehlt meine Kraft. Aber, ich werde mich noch an euch rächen!~n~k"
+
+
+
+   ke4_drown1 = "Du Idiot wirst noch ertrinken! Hör auf, sofort!"
+   ke4_drown2 = "Das Meer erscheint grenzenlos und die Strömungen sind stark - Du wagst es nicht, noch weiter zu schwimmen."
+
+
 
 classvars:
 
@@ -318,3 +318,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

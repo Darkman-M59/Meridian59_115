@@ -19,10 +19,10 @@ constants:
 
 resources:
 
-   priestess_name_rsc = "priestess"
+   priestess_name_rsc = "Die Priesterin"
    priestess_icon_rsc = priestes.bgf
-   priestess_desc_rsc = \
-   "Non-creature, only here for its look."
+   priestess_desc_rsc = "Kein Lebewesen, nur zur Verzierung hier..."
+
 
 classvars:
 
@@ -61,4 +61,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

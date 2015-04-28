@@ -17,15 +17,15 @@ constants:
 
 resources:
 
-   tombstone_name_rsc = "tombstone"
+   tombstone_name_rsc = "Der Grabstein"
    tombstone_icon_normal_rsc = tombston.bgf
    tombstone_icon_cross_rsc = tombcros.bgf
-   tombstone_desc1_rsc = "The name on this tombstone has been wiped away by time and weather."
-   tombstone_desc2_rsc = "R.I.P. a big goat, died 3 BME. She was loved by many."
+   tombstone_desc1_rsc = "Der Name auf diesem Grabstein ist von Wind und Wetter ausgelöscht worden."
+   tombstone_desc2_rsc = "R.I.P. eine große Ziege, gestorben 3 BME. Sie wurde von vielen geliebt."
 
-   tombstone_desc_player = \
-   "R.I.P. %q, born %i ME, died %i ME.\n\n"
-   "May the gods take their revenge!"
+   tombstone_desc_player = "Ruhe sanft %q, geboren %i ME, verstorben %i ME.\n\nMögen sich die Götter rächen!"
+
+
 
 
 classvars:
@@ -95,3 +95,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

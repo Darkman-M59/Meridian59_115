@@ -16,9 +16,9 @@ constants:
 
 resources:
 
-   room_name_barloquesouth = "South Barloque"
+   room_name_barloquesouth = "Süd-Barloque"
    room_barls = barls.roo
-   barloquesouth_music = corloth.mid
+   barloquesouth_music = corloth.mp3
 
 classvars:
 
@@ -193,3 +193,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

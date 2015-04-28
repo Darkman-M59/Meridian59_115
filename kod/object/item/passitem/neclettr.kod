@@ -16,11 +16,11 @@ constants:
 
 resources:
 
-   NecromancerLetter_name_rsc = "sinister parchment"
+   NecromancerLetter_name_rsc = "ein unheimliches Pergament"
    NecromancerLetter_icon_rsc = necscrol.bgf
-   NecromancerLetter_desc_rsc = \
-      "This scroll is covered with sininster-looking spidery script in some unidentifiable "
-      "language, if it's language at all."
+   NecromancerLetter_desc_rsc = "Diese Rolle ist durch eine unheimliche, spinnengleiche Schrift verschlüsselt, geschrieben in einer unidentifizierbaren Sprache, wenn es denn überhaupt eine Sprache ist."
+
+
 
 classvars:
 
@@ -39,3 +39,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

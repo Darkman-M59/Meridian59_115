@@ -28,12 +28,12 @@ constants:
 
 resources:
 
-   feynode_name_good = "kii'elhai"
-   feynode_name_evil = "kii'dirhai"
+   feynode_name_good = "Die Magie der guten Fey"
+   feynode_name_evil = "Die Magie der bösen Fey"
 
-   feynode_stripped = "~IYou feel some of your magical energies depart you."
-   feynode_scream = \
-      "~IYou scream out in pain as the mana node lashes out at you!"
+   feynode_stripped = "~IDu bemerkst, wie Dich ein Teil Deiner magischen Kräfte verläßt."
+   feynode_scream = "~IDu schreist vor Qual auf, als Dich die magische Energie trifft!"
+
 
 classvars:
 
@@ -174,4 +174,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

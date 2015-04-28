@@ -21,8 +21,8 @@ resources:
 
    NecropolisPortal_icon_rsc = teleport.bgf
 
-   NecropolisPortal_closing = "The portal flickers and begins to draw imperceptibly in on itself."
-   NecropolisPortal_closed = "The portal disappears."
+   NecropolisPortal_closing = "Das Portal flackert und beginnt Fehler in sich selbst zu bekommen."
+   NecropolisPortal_closed = "Das Portal verschwindet."
 
 classvars:
 
@@ -143,3 +143,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,17 +16,17 @@ constants:
 
 resources:
 
-   Dazzle_name_rsc = "dazzle"
+   Dazzle_name_rsc = "Lichtblendung"
    Dazzle_icon_rsc = idazzle.bgf
-   Dazzle_desc_rsc = \
-      "Dazzles the target with the blinding light of Shal'ille's goodness.  "
-      "Requires emeralds and purple mushrooms."
-   
-   Dazzle_caster = "%s%s is now dazzled."
-   Dazzle_already_enchanted = "%s%s is already dazzled."
+   Dazzle_desc_rsc = "Das Ziel wird durch die gütige Kraft Sha-Lills geblendet. Dieser Zauber benötigt Smaragde und Lila Pilze."
 
-   Dazzle_on = "The world is washed away in a flood of pure light."
-   Dazzle_off = "Your vision begins to clear."
+
+   
+   Dazzle_caster = "%s%s wird durch Sha-Lills Kraft geblendet."
+   Dazzle_already_enchanted = "%s%s ist bereits durch Sha-Lills Kraft geblendet."
+
+   Dazzle_on = "Die Welt um Dich herum verschwindet in einer Flut aus grellem Licht."
+   Dazzle_off = "Deine Sicht kehrt langsam zurück."
 
    Dazzle_sound = sDazzle.wav
 
@@ -248,3 +248,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,11 +16,11 @@ constants:
 
 resources:
   
-   room_name_BowmakerHut = "The Bowmaker's Hut"
+   room_name_BowmakerHut = "Die Hütte der Bogenmacherin"
    room_BowmakerHut = bowmaker.roo
-   BowmakerHut_music = avarwar.mid
+   BowmakerHut_music = avarwar.mp3
 
-   BowmakerHut_locked = "~kHanla zax'Ta says, \"You may not go back there.\""
+   BowmakerHut_locked = "~kHanla zax'Ta sagt, \"Du darfst dahin nicht zurückgehen.\""
    fire_sound_bowmakerhut = fireplac.wav
 
 classvars:
@@ -96,3 +96,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

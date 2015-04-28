@@ -27,12 +27,12 @@ constants:
    include blakston.khd   
 
 resources:
-   weapattcerem_desc = "  Beautiful and ornate, this weapon is obviously "
-      "unsuitable for blood combat, though it might provide "
-   weapattcerem_desc2 = " edge in games and tourneys."   
-   weapatt_ceremonial_name = "ceremonial %s"
+   weapattcerem_desc = " Diese wunderschöne und verzierte Waffe mit Yaelans Insignien ist offensichtlich nicht für blutige Auseinandersetzungen geeignet, während sie bei Wettkämpfen und Spielen einen "
 
-   ceremonial_dm = "ceremonial"
+   weapattcerem_desc2 = " Vorteil bietet."
+   weapatt_ceremonial_name = "zeremonieller %s"
+
+   ceremonial_dm = "zeremoniell"
 
 classvars:
 
@@ -104,3 +104,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -20,12 +20,12 @@ constants:
 
 resources:
 
-   inkycap_name_rsc = "Inky-cap mushroom"
-   inkycap_name_plural_rsc = "Inky-cap mushrooms"
+   inkycap_name_rsc = "Der Streifenpilz"
+   inkycap_name_plural_rsc = "Streifenpilze"
    inkycap_icon_rsc = mushroom.bgf
-   inkycap_desc_rsc = \
-      "At first glance, these mushrooms appear common, but look at the green stem!  "
-      "These are actually Darken's Invigorating Inky Caps!"
+   inkycap_desc_rsc = "Auf den ersten Blick sehen diese Pilze ziemlich gewöhnlich aus, aber sieh nur, dieses merkwürdige Grün!"
+
+
 
 classvars:
 
@@ -60,3 +60,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   FireSand_name_rsc = "firesand"
+   FireSand_name_rsc = "Feuersand"
    FireSand_icon_rsc = firesand.bgf
-   FireSand_desc_rsc = \
-      "Strangely warm and of unusual color, this sand "
-      "catches your eye amongst its ordinary counterparts."
+   FireSand_desc_rsc = "Dieser Sand, der merkwürdig warm und von ungewöhnlicher Farbe ist, zieht im Vergleich zu seinem gewöhnlichen Pendant Deinen Blick auf sich."
 
-   FireSand_name_plural_rsc = "firesand"
 
-   FireSand_name_bag = "bag of firesand"
-   FireSand_name_bag_plural = "bags of firesand"
+
+   FireSand_name_plural_rsc = "Feuersand"
+
+   FireSand_name_bag = "Beutel mit Feuersand"
+   FireSand_name_bag_plural = "Beutel mit Feuersand"
 
 classvars:
 
@@ -130,3 +130,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,22 +16,22 @@ constants:
 
 resources:
 
-   StoneTroll_name_rsc = "Guardian of Zjiria"
-   stonetroll_realname_rsc = "stone troll"
+   StoneTroll_name_rsc = "Der Wächter von Zjiria"
+   stonetroll_realname_rsc = "Der Steintroll"
    StoneTroll_icon_rsc = Troll.bgf
-   StoneTroll_desc_rsc = \
-      "Given the ominous task of guarding the Heart of Zjiria, this stone troll "
-      "glares darkly at all passerbyers.  You have a feeling you better start running."
+   StoneTroll_desc_rsc = "Mit der ominösen Aufgabe betraut, das Herz von Zjiria zu bewachen, beäugt dieser Steintroll alle Vorbeigehenden mißtrauisch. Du hast das Gefühl, dass es besser wäre, wegzulaufen."
 
-   StoneTroll_desc2_rsc = "This stone troll is the grey-skinned brother of his "
-      "more common brother.  Stone trolls were driven into the mountains ages "
-      "ago, and were thought extinct.  However, more recently, they have emerged from "
-      "the hills in small raiding parties."
+
+
+   StoneTroll_desc2_rsc = "Dieser Steintroll ist der grauhäutige Bruder seines etwas weiter verbreiteten Verwandten. Steintrolle wurden schon vor Jahren in die Berge getrieben, und man glaubte, sie seien ausgestorben. Doch vor kurzem sind sie wieder in kleinen räuberischen Gruppen aus den Bergen hervorgebrochen."
+
+
+
 
    StoneTroll_koc_name_rsc = "ha'humoch"
 
    StoneTroll_dead_icon_rsc = TrollX.bgf
-   StoneTroll_dead_name_rsc = "dead stonetroll"
+   StoneTroll_dead_name_rsc = "Der tote Steintroll"
 
    StoneTroll_sound_hit = trl_atkh.wav
    StoneTroll_sound_miss = trl_atkm.wav
@@ -143,3 +143,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

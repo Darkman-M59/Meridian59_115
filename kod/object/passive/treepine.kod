@@ -16,8 +16,8 @@ constants:
 
 resources:
 
-   treepine_name_rsc = "tree"
-   treepine_desc_rsc = "You smell the fresh scent of pine as you stand near this tree."
+   treepine_name_rsc = "Die Kiefer"
+   treepine_desc_rsc = "Du riechst den frischen Kiefernduft, als Du dicht neben diesem Baum stehst."
    treepine_icon_rsc = treepine.bgf
 
 
@@ -38,3 +38,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

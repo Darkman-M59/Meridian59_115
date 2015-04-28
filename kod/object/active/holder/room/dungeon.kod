@@ -19,12 +19,12 @@ constants:
 resources:
 
    room_dungeon = greeny.roo
-   room_name_dungeon = "Underbasement of Victoria"
-   dungeon_music = cave.mid
+   room_name_dungeon = "Gewölbe von Schloss Viktoria"
+   dungeon_music = cave.mp3
 
-   climb_crates_rsc = "You climb up on the crate."
-   search_crates_rsc = "You rummage around in an open crate."
-   found_in_crate_rsc = "You find something of interest!"
+   climb_crates_rsc = "Du steigst auf die Kiste."
+   search_crates_rsc = "Du wühlst in einer offenen Kiste."
+   found_in_crate_rsc = "Du hast etwas Interessantes gefunden!"
 
 classvars:
 
@@ -209,3 +209,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

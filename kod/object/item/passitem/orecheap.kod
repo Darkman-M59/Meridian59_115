@@ -17,10 +17,10 @@ constants:
 resources:
 
    CheapOreChunk_icon_rsc = Ore.bgf
-   CheapOreChunk_name_rsc = "chunk of ore"
-   CheapOreChunk_desc_rsc = "This is a huge, unwieldy hunk of rock, with a few thin veins "
-      "of metal barely visible.  You wonder at the massive amount of labor that would be necessary to extract "
-      "enough metal from it in order to fashion something useful."
+   CheapOreChunk_name_rsc = "Der Erzklumpen"
+   CheapOreChunk_desc_rsc = "Dies ist ein riesiger, unhandlicher Stein, von ein paar dünnen Metalladern durchzogen. Du würdest Dich über das riesige Labor wundern, das man bräuchte, um genügend Metall zu extrahieren, das nötig wäre, um etwas Sinnvolles damit herzustellen."
+
+
 
 classvars:
    
@@ -39,4 +39,5 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

@@ -16,12 +16,12 @@ constants:
 
 resources:
 
-   box_name_rsc = "old wooden box"
+   box_name_rsc = "Eine alte Holzkiste"
    box_icon_rsc = box1.bgf
 
-   box_desc_rsc = \
-      "This wooden box is just large enough to store a few things.  "
-      "It is one of the few remaining boxes of its type in Meridian."
+   box_desc_rsc = "Diese Holzkiste bietet gerade genug Raum, um ein paar Gegenstände darin aufzubewahren. Sie ist eines der wenigen Übrigbleibsel ihrer Art."
+
+
 
 classvars:
 
@@ -39,3 +39,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

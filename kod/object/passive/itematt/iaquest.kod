@@ -29,8 +29,8 @@ constants:
 
 resources:
 
-   ItemAttQuestCargo_desc_rsc = \
-      "\n\nThis was given by %sourceNPC to %player, to be delivered to %destNPC."
+   ItemAttQuestCargo_desc_rsc = "\nDies wurde von %sourceNPC an %player überreicht, um es %destNPC zu bringen."
+
    ItemAttQuestCargo_sub_sourceNPC = "%sourceNPC"
    ItemAttQuestCargo_sub_player = "%player"
    ItemAttQuestCargo_sub_destNPC = "%destNPC"
@@ -231,3 +231,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

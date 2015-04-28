@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   farenpriestess_name_rsc = "Priestess Tenuv'vyal"
+   farenpriestess_name_rsc = "Priesterin Tenuval"
    farenpriestess_icon_rsc = farnprst.bgf
-   farenpriestess_desc_rsc = \
-      "Hair unkempt and anger barely checked.  Some say she is on the brink of madness, others "
-      "say she is a terrible menace waiting to be released like a raging storm.  She despises "
-      "civilization and feels humans must return to the ways of the wilds."
+   farenpriestess_desc_rsc = "Die Haare ungekämmt und voll kaum unterdrückter Wut. Manche sagen, sie sei auf der Schwelle zum Wahnsinn, andere meinen, dass sie eine fürchterliche Bedrohung ist, die nur darauf wartet, wie ein wütender Sturm loszubrechen. Sie verabscheut die Zivilisation und hat das Gefühl, dass die Menschen zu ihren wilden Ursprüngen zurückkehren müssen."
 
-   Faren_forget_potion_sale = "~B~gYou chose to abandon Lord Faren? So be it, %s%s is yours if you wish to buy one.  Beware though, the powers of the amnesiac are permanent.~n~k"
-   faren_teach = "From Faren's fire, you can learn "
+
+
+
+   Faren_forget_potion_sale = "~B~gDu willst Lord Faren verlassen? So sei es, %s%s gehört Dir, wenn Du ihn kaufen möchtest. Doch paß auf, die Kraft des Vergessens ist dauerhaft.~n~k"
+   faren_teach = "Farens Feuer lehrt Dich "
 
 classvars:
    
@@ -65,3 +65,4 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -36,12 +36,12 @@ constants:
 resources:
 
    room_OutdoorsE5 = E5.roo
-   room_name_OutdoorsE5 ="The Forest Shrine"
-   OutdoorsE5_music = walk5.mid
+   room_name_OutdoorsE5 = "Der Waldschrein"
+   OutdoorsE5_music = walk5.mp3
 
-   e5_second_runner = "A mysterious force prevents you from entering the gas field."
+   e5_second_runner = "Eine mysteriöse Kraft hindert Dich am betreten des Gasfeldes."
 
-   e5_death = "The acid steam melts the flesh from your bones."
+   e5_death = "Der Säuredampf ätzt Dir das Fleisch von den Knochen."
 
 classvars:
 
@@ -512,3 +512,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

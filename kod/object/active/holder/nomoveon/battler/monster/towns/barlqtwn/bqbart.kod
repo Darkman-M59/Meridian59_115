@@ -20,12 +20,12 @@ resources:
 
    BarloqueBartender_name_rsc = "Meidei"
    BarloqueBartender_icon_rsc = bqbart.bgf
-   BarloqueBartender_desc_rsc = "At one time Meidei only served the rich or those who tipped well, until "
-      "recently when he \"found\" Shal'ille.  Now a hard core believer, he almost drives his own customers "
-      "away from his ale."
+   BarloqueBartender_desc_rsc = "Es gab eine Zeit, da diente Meidei nur den Reichen oder jenen, die gute Trinkgelder gaben, bis vor kurzem, als er Sha-Lill \"fand\". Jetzt gehört er zum harten Kern der Gläubigen und bringt fast seine eigenen Gäste davon ab, Bier zu trinken."
 
-   BaBar_entry_welcome = "Hail %s%s, and welcome to my humble tavern!  Praise Shal'ille!"
-   BaBar_unwanted_keep = "~k%s%s tells you, \"I thank thee for thy offering.  I shall distribute it to the poor and needy.~n~k\""
+
+
+   BaBar_entry_welcome = "Gesegnet sei %s%s und herzlich willkommen in meiner bescheidenen Kneipe. Gepriesen sei Sha-Lill!"
+   BaBar_unwanted_keep = "~k%s%s sagt zu Dir, \"Ich danke Euch für Eure Gabe. Ich werde sie unter den Armen und Bedürftigen verteilen.~n~k\""
 
 
 classvars:
@@ -138,4 +138,5 @@ messages:
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

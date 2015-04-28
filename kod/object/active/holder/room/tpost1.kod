@@ -16,13 +16,13 @@ constants:
 
 resources:
   
-   room_name_TradingPost = "The Remote Trading Post of Wulfgang zax'Ak"
+   room_name_TradingPost = "Der entlegene Handelsposten von Wulfgang zax'Ak"
    room_TradingPost = tpost1.roo
-   TradingPost_music = boneprst.mid
+   TradingPost_music = boneprst.mp3
 
-   TradingPost_locked_1 = "The storeroom is locked."
-   TradingPost_locked_2 = "Wulfgang keeps his quarters locked."
-   TradingPost_locked_3 = "The attic door is locked."
+   TradingPost_locked_1 = "Der Lagerraum ist abgeschlossen."
+   TradingPost_locked_2 = "Wulfgang hält sein Quartier verschlossen."
+   TradingPost_locked_3 = "Die Dachbodentür ist abgeschlossen."
 
    fire_sound_tradingpost = fireplac.wav
    frying_sound_tradingpost = frying.wav
@@ -127,3 +127,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

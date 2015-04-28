@@ -18,22 +18,22 @@ constants:
 
 resources:
 
-   Elusion_name_rsc = "elusion"
+   Elusion_name_rsc = "Fliehen"
    Elusion_icon_rsc = ielusion.bgf
-   Elusion_desc_rsc = \
-      "Allows the caster to elude trouble and escape off to another location.  "
-      "A number of destinations may be available, and the caster must call out "
-      "the name of the location he wishes to travel to.  "
-      "Requires the claws of the fearsome kriipa to cast."
+   Elusion_desc_rsc = "Erlaubt es dem Zaubernden aus seiner momentanen Umgebung zu entfliehen. Stehen mehrere Zielorte zur Verfügung, so muss der gewünschte genannt werden. Dieser Zauber benötigt die Klauen der Kriipa."
 
-   Elusion_No_Location_Given = "With no location specified your elusion attempt fails."
-   Elusion_Success = "The world folds in on itself."
-   Elusion_Location_list = "The world shimmers and secret paths are revealed, leading to %q."
-   Elusion_fail = "That is not a valid destination."
-   Elusion_cant_cast_here = \
-       "You may only elude from a place you can elude to."
 
-   Elusion_and = "and "
+
+
+
+   Elusion_No_Location_Given = "Dein Fluchtversuch schlägt fehl, weil kein Ziel angegeben ist."
+   Elusion_Success = "Die Welt um Dich herum fällt in sich zusammen."
+   Elusion_Location_list = "Die Welt um Dich herum schimmert und geheime Pfade öffnen sich nach %q."
+   Elusion_fail = "Dies ist kein gültiges Ziel."
+   Elusion_cant_cast_here = "Von hier kannst du nicht entfliehen."
+
+
+   Elusion_and = "und "
 
    % Yeah, it's Illusionary wounds sound, but it fits.  Plus, Ill. Wounds wasn't using it anymore.
    Elusion_sound = riluswnd.wav
@@ -275,3 +275,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

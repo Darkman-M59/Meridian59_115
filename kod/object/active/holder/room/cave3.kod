@@ -31,12 +31,12 @@ constants:
 
 resources:
 
-   room_name_cave3 = "The Underground Lake"
+   room_name_cave3 = "Der unterirdische See"
    room_cave3 = cave3.roo
-   cave3_music = ksong.mid
+   cave3_music = ksong.mp3
 
-   cave3_key_disappears = "Your key disappears into thin air!"
-   cave3_locked_door = "The door appears to be firmly locked."
+   cave3_key_disappears = "Dein Schlüssel löst sich in Luft auf!"
+   cave3_locked_door = "Die Tür scheint fest verschlossen zu sein."
 
    cave3_sound_rsc = wtemple1.wav
    waterfall_soundCave3 = wfall2.wav
@@ -282,3 +282,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

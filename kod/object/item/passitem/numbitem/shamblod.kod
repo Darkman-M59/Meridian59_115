@@ -16,16 +16,16 @@ constants:
 
 resources:
 
-   ShamanBlood_name_rsc = "shaman blood"
+   ShamanBlood_name_rsc = "Schamanenblut"
    ShamanBlood_icon_rsc = avblood.bgf
-   ShamanBlood_desc_rsc = \
-   "Spellcasters of the birdlike avars do not learn their "
-   "abilities. Quite the opposite, the magic courses through "
-   "their veins - which means that it is magic that can be borrowed." 
+   ShamanBlood_desc_rsc = "Die Zauberer der vogelgleichen Avar lernen ihre F‰higkeiten nicht. Das Gegenteil ist vielmehr der Fall - die Magie flieﬂt durch ihre Adern. Das bedeutet, dass es sich um Magie handelt, die ausgeliehen werden kann."
 
-   ShamanBlood_name_plural_rsc = "shaman blood"
-   ShamanBlood_vial_name_plural_rsc = "vials of shaman blood"
-   ShamanBlood_vial_name_rsc = "vial of shaman blood"
+
+
+
+   ShamanBlood_name_plural_rsc = "Schamanenblut"
+   ShamanBlood_vial_name_plural_rsc = "Phiolen mit Schamanenblut"
+   ShamanBlood_vial_name_rsc = "Phiole mit Schamanenblut"
 
 classvars:
 
@@ -147,3 +147,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

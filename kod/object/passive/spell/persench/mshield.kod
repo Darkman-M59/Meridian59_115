@@ -16,19 +16,19 @@ constants:
 
 resources:
 
-   magicshield_name_rsc = "magic shield"
+   magicshield_name_rsc = "Magischer Schild"
    magicshield_icon_rsc = armorico.bgf
-   magicshield_desc_rsc = \
-      "Summons a shield of powerful magical energy that will "
-      "deflect some of the blows aimed at you for several minutes.  "
-      "Requires mushrooms and red mushrooms to cast."
+   magicshield_desc_rsc = "Ein Schild aus mächtiger, aber nicht völlig unempfindlicher magischer Energie, der Deine Abwehr für einige Minuten verstärkt. Der Zauber benötigt Normale Pilze und Rote Pilze."
+
+
+
    
-   magicshield_already_enchanted_rsc = "You already have magic shield."
-   magicshield_on_rsc = \
-      "A protective shield of magical energy forms around you."
-   magicshield_off_rsc = "The magical shield dissipates."
-   magicshield_success_rsc = \
-      "A protective shield of magical energy forms around %s%s."
+   magicshield_already_enchanted_rsc = "Es umgibt dich bereits ein magischer Schild."
+   magicshield_on_rsc = "Ein schützendes Schild aus magischer Energie baut sich um Dich auf."
+
+   magicshield_off_rsc = "Der magische Schild verschwindet."
+   magicshield_success_rsc = "Ein schützender Schild aus magischer Energie baut sich um %s%s auf."
+
 
 classvars:
 
@@ -124,3 +124,4 @@ messages:
    
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

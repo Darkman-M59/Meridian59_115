@@ -26,11 +26,11 @@ constants:
 
 resources:
 
-   weapattglowing_desc = "  It glows softly like a torch."
-   weapattglowing_name = "glowing %s"
+   weapattglowing_desc = " Morphs Heiligkeit ist in dieser Waffe eingefangen und so verbreitet sie einen warmen Schimmer der dem einer Fackel ähnelt."
+   weapattglowing_name = "glühend %s"
 
-   waglowing_gone = "Your %s stops glowing."
-   glowing_dm = "glowing"
+   waglowing_gone = "%s hört auf zu glühen."
+   glowing_dm = "glühend"
 
 classvars:
 
@@ -169,3 +169,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

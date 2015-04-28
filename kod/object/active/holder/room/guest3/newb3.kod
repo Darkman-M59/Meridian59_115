@@ -16,7 +16,7 @@ constants:
 
 resources:
 
-   room_name_newb3 = "Raza Blacksmith"
+   room_name_newb3 = "Razas Schmied"
    fire_sound_newb3 = fireplac.wav
 
 classvars:
@@ -55,3 +55,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

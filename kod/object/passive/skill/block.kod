@@ -15,13 +15,13 @@ constants:
    include blakston.khd
 
 resources:
-   Block_name_rsc = "block"
+   Block_name_rsc = "Abwehren"
    Block_icon_rsc = iblock.bgf
-   Block_desc_rsc = "Block is a basic skill, allowing people in combat to block blows with a shield.  "
-         "A successfully blocked blow will be more damaging to the attacking weapon and to the "
-         "defending shield."
+   Block_desc_rsc = "Abwehren ist die grundlegende Fähigkeit, einen Schild gegen die Hiebe Anderer einzusetzen. Ein erfolgreich abgewehrter Schlag wirkt sich schädigend auf die angreifende Waffe und den abwehrenden Schild aus."
 
-   Block_skill_intro = "Weaponcraft Lv. 1: The ability to block blows in combat, and thus stay alive longer."
+
+
+   Block_skill_intro = "Waffenfertigkeiten Zirkel 1: Dies ist die Fähigkeit Schläge im Kampf abzuwehren und somit länger am Leben zu bleiben."
 
 classvars:
 
@@ -50,3 +50,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

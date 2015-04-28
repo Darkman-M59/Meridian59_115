@@ -17,8 +17,8 @@ constants:
 resources:
 
    room_OutdoorsC1 = C1.roo
-   room_name_OutdoorsC1 ="The Fey's Crossing"
-   OutdoorsC1_music = walk7.mid
+   room_name_OutdoorsC1 = "Die Feenkreuzung"
+   OutdoorsC1_music = walk7.mp3
 
 classvars:
 
@@ -79,3 +79,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

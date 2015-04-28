@@ -16,7 +16,7 @@ constants:
 
 resources:
 
-   room_name_newb7 = "Raza Pub"
+   room_name_newb7 = "Razas Kneipe"
 
 classvars:
 
@@ -54,3 +54,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

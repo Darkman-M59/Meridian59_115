@@ -30,30 +30,30 @@ constants:
 
 resources:
 
-   LivingStatue_name_rsc = "statue"
-   LivingStatue_active_name_rsc = "living statue"
+   LivingStatue_name_rsc = "Eine Statue"
+   LivingStatue_active_name_rsc = "Eine lebendige Statue"
 
-   LivingStatue_desc_rsc = \
-      "This statue is the image of some ancient %s."
+   LivingStatue_desc_rsc = "Diese Statue ist das Abbild eines alten %s."
 
-   LivingStatue_dead_name_rsc = "crumbled living statue"
 
-   LivingStatue_mason = "mason"
-   LivingStatue_farmer = "farmer"
-   LivingStatue_merchant = "merchant"
-   LivingStatue_blacksmith = "blacksmith"
-   LivingStatue_elder = "elder"
-   LivingStatue_soldier = "soldier"
+   LivingStatue_dead_name_rsc = "Eine zerbröselte lebendige Statue"
 
-   LivingStatue_damage = "~B~r%s%s is noticeably more damaged."
-   LivingStatue_severe_damage = "~B~r%s%s is severely damaged."
+   LivingStatue_mason = "Baumeisters"
+   LivingStatue_farmer = "Bauern"
+   LivingStatue_merchant = "Händlers"
+   LivingStatue_blacksmith = "Schmiedes"
+   LivingStatue_elder = "Dorfältesten"
+   LivingStatue_soldier = "Soldaten"
 
-   LivingStatue_rose_drop = "My... beloved...!"
+   LivingStatue_damage = "~B~r%s%s ist merklich mehr beschädigt."
+   LivingStatue_severe_damage = "~B~r%s%s ist ernsthaft beschädigt."
+
+   LivingStatue_rose_drop = "Mein... Geliebter...!"
 
    LivingStatue_icon_blank = blank.bgf
 
    LivingStatue_male_icon_rsc = bta.bgf
-   LivingStatue_female_icon_rsc = btb.bgf  
+   LivingStatue_female_icon_rsc = btb.bgf
 
    % a is male, b is female
    LivingStatue_legs_a_rsc = bfa.bgf
@@ -1128,3 +1128,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -16,20 +16,20 @@ constants:
 
 resources:
 
-   pork_name_rsc = "slice of pork"
+   pork_name_rsc = "Das Stück Schweinefleisch"
    pork_icon_rsc = pork.bgf
-   pork_desc_rsc = \
-   "A juicy slab of hamhock, slow roasted with a bit of apple glaze."
+   pork_desc_rsc = "Ein saftiges Stück Fleisch, langsam geröstet und mit etwas Apfelglasur bestrichen."
 
-   pork_name_plural_rsc = "slices of pork"
 
-   pork_disp_name = "roast pig"
+   pork_name_plural_rsc = "Schweinelendchen"
+
+   pork_disp_name = "Das gegrillte Schweinefilet"
    pork_disp_icon = pig.bgf
-   pork_disp_desc = \
-     "Not many wild swine are seen in the vicinity of Tos, "
-     "perhaps since they know that the Duke's favorite meal is a handsome "
-     "portion of golden apple-glazed roast pork."
-   pork_got_one = "You slice yourself a hefty slab of apple-glazed roast pork."
+   pork_disp_desc = "Man sieht nicht mehr viele Wildschweine rund um Tos, wahrscheinlich seit sie wissen, dass die Lieblingsspeise des Herzogs eine gute Portion goldbraun gerösteten Schweinefleischs mit Apfelglasur ist."
+
+
+
+   pork_got_one = "Du schneidest Dir eine gute Portion vom apfelglasierten Schweinefleisch ab."
 
 classvars:
 
@@ -65,3 +65,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

@@ -19,7 +19,7 @@ constants:
 
 resources:
 
-   multicast_no_prism = "You can't find a prism nearby to focus your energies on."
+   multicast_no_prism = "Du kannst kein Prisma in der Nähe finden, in welchem Du Deine Energien fokussieren kannst."
 
 classvars:
 
@@ -235,3 +235,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

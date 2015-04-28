@@ -15,16 +15,16 @@ constants:
 
 resources:
 
-   armageddon_name_rsc = "armageddon"
+   armageddon_name_rsc = "Armageddon"
    armageddon_icon_rsc = ifrclite.bgf
 
-   armageddon_monster_death_msg = "~bYou hear a muffled scream as %s%s is vaporized instantly."
+   armageddon_monster_death_msg = "~bDeine Ohren schmerzen von den Schreien. %s%s verbrennt in einer göttlich heißen Flamme."
 
-   armageddon_casted_msg = "~BWith a flourish and a warlike cry, %s%s throws %s hands to the heavens..."
-   armageddon_unworthy = "You have been deemed unworthy to cast so powerful a spell, and it has been stripped from you."
+   armageddon_casted_msg = "~B%s%s streckt die Hände zum Himmel empor, Deine Haare stellen sich zu Berge und unglaubliche, magische Energien umströmen Deinen sterblichen Körper..."
+   armageddon_unworthy = "Du bist nicht würdig genug, um solch einen mächtigen Zauber zu sprechen."
 
-   armageddon_desc_rsc = \
-      "Kills all monsters in a room with a flourish."
+   armageddon_desc_rsc = "Tötet alle Monster in diesem Raum auf einen Schlag."
+
 
 classvars:
    vrName = armageddon_name_rsc
@@ -139,3 +139,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

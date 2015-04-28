@@ -16,15 +16,15 @@ constants:
 
 resources:
 
-   room_name_JasperWest="West Jasper"
+   room_name_JasperWest = "West-Jasper"
    room_JasperWest = jas-west.roo
 
-   jasper_factory_closed = "Since the mines dried up, this factory has been closed for good."
-   jasper_yevitan_rsc = "Although severely vandalized, Yevitan's house refuses entry."
-   jasper_bank_closed_rsc = "No trespassing!  Property of the Royal Bank of Jasper."
-   jasper_hard_times_rsc = "Hard times have left his home abandoned."
-   jasper_tenement = "The tenement is deserted."
-   jasper_schoolmarm_rsc = "The schoolmarm's house has fallen into disrepair."
+   jasper_factory_closed = "Seit die Minen aufgegeben wurden, wurde auch diese Farbik geschlossen."
+   jasper_yevitan_rsc = "Obwohl es schon sehr mitgenommen aussieht, hält Yevitans Haus jeglichen Betretungsversuchen stand."
+   jasper_bank_closed_rsc = "Kein Zutritt! Eigentum der königlichen Bank von Jasper."
+   jasper_hard_times_rsc = "Das Wohnhaus wurde in schweren Zeiten verlassen."
+   jasper_tenement = "Das Mietshaus ist verlassen."
+   jasper_schoolmarm_rsc = "Das Schulgebäude ist verfallen."
 	
 classvars:
 
@@ -108,3 +108,4 @@ messages:
 
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
