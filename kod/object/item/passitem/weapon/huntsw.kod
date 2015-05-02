@@ -448,7 +448,7 @@ messages:
       
       if not send(poOwner,@IsLoggedOn) { return; }
       
-      %check that owner still satisfies amulet restrictions
+      %check that owner still satisfies sword restrictions
       if not ( (send(poOwner,@GetKarma) > piKarmaWorthyThreshold) and
                (send(poOwner,@GetBaseMaxHealth) > piHpWorthyThreshold) ) and
              (ptHoldingDamage = $)
@@ -656,7 +656,7 @@ messages:
    {
       if poOwner <> $ and isClass(poOwner,&User) 
       {
-         Send(self,@TortureOwner);
+         Post(self,@TortureOwner);
          return False;
       }
       propagate;
@@ -669,12 +669,14 @@ messages:
 	      #report=False) = $
       {
          % we killed someone off... heh heh heh
-         Send(Send(poOwner,@GetOwner),@SomethingKilled,#what=self,#victim=poOwner);
-         Send(poOwner,@Killed,#what=self);
          if send(self,@DropOnDeath)
          {
             post(send(SYS,@GetNecromancerBalance),@PlaceSword,#what=self);
          }   
+
+         Send(Send(poOwner,@GetOwner),@SomethingKilled,
+               #what=self,#victim=poOwner);
+         Send(poOwner,@Killed,#what=self);
       }
       return;
    }

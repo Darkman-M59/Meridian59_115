@@ -1477,7 +1477,7 @@ messages:
 
          if (Send(killer,@FindHoldingActive,#class=&HunterSword) <> $)
          {
-            Send(poNecromancerBalance,@IncremeNthKCounter);
+            Send(poNecromancerBalance,@IncrementHKCounter);
          }
       }
 

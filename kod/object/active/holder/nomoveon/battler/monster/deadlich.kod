@@ -175,10 +175,13 @@ Delete(lichswapout = FALSE)
    oQE = send(SYS,@GetQuestEngine);
    send( oQE, @SetQuestScheduleChance, #index = QST_ID_ESTABLISH_NECROGUILD, #new_pct = 0 );
    if lichswapout {
-      for oQ in nth(send( oQE, @GetQuestTemplate, #index = QST_ID_ESTABLISH_NECROGUILD ),QT_ACTIVE_QUESTS)
-      {
-         send(oQ,@DeadlineExpired);
-      }
+      % Don't need to send this, quest cleans itself up. This may have been
+      % different ~16 years ago.   
+      %for oQ in nth(send( oQE, @GetQuestTemplate, #index = QST_ID_ESTABLISH_NECROGUILD ),QT_ACTIVE_QUESTS)
+      %{
+      %   send(oQ,@DeadlineExpired);
+      %}
+      
       iQNTindex = first(nth(send( oQE, @GetQuestTemplate, #index = QST_ID_ESTABLISH_NECROGUILD ),QT_QUEST_NODES));
       send( oQE, @SetQuestNodeNPCList, #index = iQNTindex, #new_NPC_list = [poLich] );
    }

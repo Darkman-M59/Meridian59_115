@@ -155,36 +155,9 @@ messages:
 
    SetForSale()
    {
-      plFor_sale = $; % [ $, $, [ SID_DEATHS_DOOR ], $ ];
+      plFor_sale = [ $, $, $, $ ];
 
       return;
-   }
-
-   CanDoTeach(who=$,sid=0)
-   {
-      if NOT send(self,@CanAddSpell,#report=TRUE,#who=who,#num=sid)
-      {
-         return FALSE;
-      }
-
-      propagate;
-   }
-
-   CanAddSpell(who=$,num=0, report = FALSE)
-   "We require that a quest be done before one of the spells can be learned"
-   {
-      if num = SID_DEATHS_DOOR
-         AND NOT send(who,@IsUsingA,#class=&NecromancerAmulet)
-      {
-         if report
-         {
-            send(who,@msgsenduser,#message_rsc=lich_not_order);
-         }
-
-         return FALSE;
-      }
-
-      propagate;
    }
 
    GetIcon()
@@ -394,7 +367,7 @@ messages:
          return FALSE; 
       }
 
-      if ((Random(1,piBlindCounterChance) = 1) OR (send(oSpell,@GetSchool)=SS_QOR))
+      if Random(1,piBlindCounterChance) = 1
          AND send(self,@CanSee,#what=who)
       {
          send(self,@MonsterCastAttackSpell,#what=who);
@@ -547,7 +520,7 @@ messages:
             {
                Debug("TargetChange:",each_obj);
                iBestDistance = iDistance;
-               poTarget = each_obj;
+               Send(self,@TargetSwitch,#what=each_obj,#iHatred=60);
 
                if iRandom < 5
                {
@@ -560,7 +533,7 @@ messages:
       return;
    }
 
-   Killed(what=$, resetScenario=FALSE, guildDisbandDeath=FALSE)
+   Killed(what=$, resetScenario=TRUE, guildDisbandDeath=FALSE)
    {
       local oSpell, oRoom, NumAttackers, i, lichActivated;
 
@@ -570,17 +543,17 @@ messages:
       {
          if i = what
          {
-            Send(i,@MsgSendUser,#message_rsc=lich_death_blow );      
+            Send(i,@MsgSendUser,#message_rsc=lich_death_blow);      
          }
 
          if NumAttackers = 2 and i <> what
          {
-            Send(i,@MsgSendUser,#message_rsc=lich_double_killer );
+            Send(i,@MsgSendUser,#message_rsc=lich_double_killer);
          }
 
          if NumAttackers > 2 and i <> what
          {
-            Send(i,@MsgSendUser,#message_rsc=lich_helper_killer );
+            Send(i,@MsgSendUser,#message_rsc=lich_helper_killer);
          }
       }
 
@@ -601,7 +574,7 @@ messages:
       send(send(SYS,@FindRoomByNum,#num=RID_LICH_MAZE),@RandomizeLeverEffects);
       send(send(SYS,@FindRoomByNum,#num=RID_G9),@RandomizeLeverEffects);
 
-      if what <> $ AND IsClass(what,&Battler) AND NOT guildDisbandDeath
+      if what <> $ AND NOT guildDisbandDeath
       {
          post(self,@BroadcastLichDeathMessage,#what=what,#Attackers=plAttackers,#lichActivated=lichActivated,#resetScenario=resetScenario);
       }
@@ -740,7 +713,7 @@ messages:
    {
       if poNecromancerGuild <> $
       {
-         send(poNecromancerGuild,@Delete);
+         send(poNecromancerGuild,@Delete,#timerdelete=TRUE);
          poNecromancerGuild = $;
       }
 
@@ -888,7 +861,7 @@ messages:
 
    LastUserLeft(what = $)
    {
-      send(self,@GoBackToGuildhall);
+      Post(self,@GoBackToGuildhall);
       propagate;
    }
 

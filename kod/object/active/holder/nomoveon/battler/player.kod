@@ -7503,6 +7503,7 @@ messages:
          iFine_Row = piFine_Row;
          iFine_Col = piFine_Col;
          iAngle = Send(self,@GetAngle);
+         iRoom = Send(poOwner,@GetRoomNum);
       }
       else
       {
@@ -7512,7 +7513,8 @@ messages:
                   Send(self,@GetName));
          }
          
-         oRoom = Send(SYS,@FindRoomByNum,#num=Send(self,@GetSaveRoom));
+         iRoom = Send(self,@GetSaveRoom);
+         oRoom = Send(SYS,@FindRoomByNum,#num=iRoom);
          iRow = Send(self,@GetSaveRow);
          iCol = Send(self,@GetSaveCol);
          iFine_Row = Send(self,@GetSaveFineRow);
@@ -7549,8 +7551,6 @@ messages:
 
       Send(self,@RemoveAllEnchantments,#report=FALSE);
       bNo_drop_death = FALSE;
-
-      iRoom = Send(poOwner,@GetRoomNum);
 
         % Reign of Blood Frenzy death?  Newbie death?
       % Don't take any penalties.
