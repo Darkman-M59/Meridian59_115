@@ -205,11 +205,17 @@ Delete(lichswapout = FALSE)
    propagate;
 }
 
-GetNumAmulets()
-{
-   if poLich = $ {DEBUG("dead lich points to no lich!"); return 0;}
-   return send(poLich,@GetNumAmulets);
-}
+   GetNumAmulets()
+   {
+      if poLich = $
+      {
+         Debug("Dead lich points to no lich!");
+
+         return FALSE;
+      }
+
+      return Send(poLich,@GetNumAmulets);
+   }
 
 CanMorphTo()
 {
@@ -236,17 +242,22 @@ DMCanArmageddon()
    GoBackToGuildhall()
    {
       local oGuildh15;
-      oGuildh15 = send(SYS,@FindRoomByNum,#num=RID_GUILDH15);
-      send(oGuildh15,@NewHold,#what=self,
+
+      oGuildh15 = Send(SYS,@FindRoomByNum,#num=RID_GUILDH15);
+
+      Send(oGuildh15,@NewHold,#what=self,
             #new_row=13,#new_col=49,#fine_row=16,#fine_col=00,#new_angle=ANGLE_WEST);
-      if (send(oGuildh15,@CountHoldingHowMany,#class=&DeadLich) > 1)
+      if Send(oGuildh15,@CountHoldingHowMany,#class=&DeadLich) > 1
       {
-         DEBUG("More than one dead lich in the guild hall!!");
+         Debug("More than one dead lich in the guild hall!!");
       }
-      if (send(oGuildh15,@CountHoldingHowMany,#class=&DeadLich) > 0) and (send(oGuildh15,@CountHoldingHowMany,#class=&Lich) > 0)
+
+      if Send(oGuildh15,@CountHoldingHowMany,#class=&DeadLich) > 0
+         AND Send(oGuildh15,@CountHoldingHowMany,#class=&Lich) > 0
       {
-         DEBUG("Both a lich and a dead lich in the guild hall!!");
+         Debug("Both a lich and a dead lich in the guild hall!!");
       }
+
       return;
    }
  
