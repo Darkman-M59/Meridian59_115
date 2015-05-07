@@ -103,7 +103,7 @@ messages:
       
       % This is a box containing the guild door, used
       % for removing players from it when it closes.
-      plEntrance = [ 0, 3200, 3038, 3275 ];
+      % plEntrance = [ 0, 3200, 3038, 3275 ];
 
       % These two are the rectangles bounding the chest room and its
       % entry way. Used if the necromancer guild is active.
@@ -422,11 +422,11 @@ messages:
          return FALSE;
       }
       
-      if Send(self,@IsUserInArea,#who=who,#lArea=plChestArea1)
-         OR Send(self,@IsUserInArea,#who=who,#lArea=plChestArea2)
-      {
-         return TRUE;
-      }
+      %if Send(self,@IsUserInArea,#who=who,#lArea=plChestArea1)
+      %   OR Send(self,@IsUserInArea,#who=who,#lArea=plChestArea2)
+      %{
+      %   return TRUE;
+      %}
 
       % If they fail the above check, they're probably too far away.
       Debug("ALERT!  ",Send(who,@GetTrueName),who,

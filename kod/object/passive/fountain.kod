@@ -11,11 +11,9 @@
 Fountain is PassiveObject
 
 constants:
-
    include blakston.khd
 
 resources:
-
    fountain_name_rsc = "Der Brunnen"
    fountain_icon_rsc = fountain.bgf
    fountain_desc_tos_rsc = "Dieses Bauwerk ist von bezaubernder Schönheit. Düsen sprühen Wasser in die Luft und geben denen Erfrischung, die nahe genug am Brunnen stehen. Der Brunnen soll vom Magier Froz erbaut worden sein und ist seither ein beliebter Treffpunkt in Meridian."
@@ -25,14 +23,11 @@ resources:
    fountain_sound_rsc = fountain.wav
 
 classvars:
-
    vrName = fountain_name_rsc
    vrIcon = fountain_icon_rsc
-   vrDesc = fountain_desc_rsc
-   
-properties:
 
-   
+properties:
+   vrDesc = fountain_desc_rsc
 
    piSoundRadius = 40
    piSoundIntensity = 100
@@ -74,10 +69,10 @@ messages:
 
       if what <> $ AND IsClass(what,&Room)
       {
-   		if send(what,@GetRoomNum) = RID_TOS
-   		{
-   			vrDesc = fountain_desc_tos_rsc;
-   		}
+   		   if send(what,@GetRoomNum) = RID_TOS
+   		   {
+   			    vrDesc = fountain_desc_tos_rsc;
+   		   }
 
          if piSoundRadius
          {
